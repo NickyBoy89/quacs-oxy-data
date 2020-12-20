@@ -53,7 +53,7 @@ jobs:
           python3 quacs-oxy-scraper/sis_scraper/main.py
 
       - name: Upload data
-        uses: actions/upload_artifact@v2
+        uses: actions/upload-artifact@v2
         with:
           name: courses
           path: |

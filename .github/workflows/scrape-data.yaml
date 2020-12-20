@@ -84,11 +84,11 @@ jobs:
 
       - name: Commit new data
         run: |
-          cp sis_scraper/courses.json sis_scraper/mod.rs data
-          cp catalog_scraper/catalog.json data
-          cp rmp_scraper/rmp.json data
-          cp prerequisite_scraper/prerequisites.json data
-          cp faculty_directory_scraper/faculty.json data
+          cp courses/courses.json courses/mod.rs data
+          cp courses/catalog.json data
+          cp courses/rmp.json data
+          cp courses/prerequisites.json data
+          cp courses/faculty.json data
           cd data
           git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
           git add courses.json mod.rs

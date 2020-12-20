@@ -50,7 +50,6 @@ jobs:
 
       - name: Scrape SIS
         run: |
-          cp courses.json quacs-oxy-scraper/sis_scraper
           python3 quacs-oxy-scraper/sis_scraper/main.py
 
       - name: Upload data

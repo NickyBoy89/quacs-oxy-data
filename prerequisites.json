@@ -1,27 +1,18 @@
 {
-  "1001": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1734": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1005": {
     "restrictions": {
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1001": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }
@@ -46,6 +37,15 @@
           "course": "OXAR"
         }
       ]
+    }
+  },
+  "1734": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
     }
   },
   "1916": {
@@ -96,6 +96,15 @@
       }
     }
   },
+  "1026": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "1024": {
     "restrictions": {
       "classification": {
@@ -118,11 +127,11 @@
       ]
     }
   },
-  "1026": {
+  "1027": {
     "restrictions": {
       "classification": {
         "may_not_be": [
-          "Graduate"
+          "Frosh"
         ]
       }
     }
@@ -142,16 +151,7 @@
       ]
     }
   },
-  "1027": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1689": {
+  "1030": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -160,7 +160,7 @@
       }
     }
   },
-  "1030": {
+  "1689": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -255,6 +255,22 @@
       ]
     }
   },
+  "1977": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    },
+    "corequisites": {
+      "cross_list_courses": [
+        "CSP-14",
+        "BIO-103",
+        "BIO-290"
+      ]
+    }
+  },
   "1044": {
     "restrictions": {
       "classification": {
@@ -283,36 +299,6 @@
           "type": "course",
           "course": "OXCE"
         }
-      ]
-    }
-  },
-  "1977": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    },
-    "corequisites": {
-      "cross_list_courses": [
-        "CSP-14",
-        "BIO-103",
-        "BIO-290"
-      ]
-    }
-  },
-  "1090": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    },
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-224"
       ]
     }
   },
@@ -361,6 +347,20 @@
             }
           ]
         }
+      ]
+    }
+  },
+  "1090": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    },
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-224"
       ]
     }
   },
@@ -3189,6 +3189,23 @@
       ]
     }
   },
+  "1401": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    },
+    "corequisites": {
+      "cross_list_courses": [
+        "GEO-105"
+      ]
+    }
+  },
   "1398": {
     "restrictions": {
       "classification": {
@@ -3203,23 +3220,6 @@
     "corequisites": {
       "cross_list_courses": [
         "GEO-105",
-        "GEO-105"
-      ]
-    }
-  },
-  "1401": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ],
-        "must_be": [
-          "Frosh"
-        ]
-      }
-    },
-    "corequisites": {
-      "cross_list_courses": [
         "GEO-105"
       ]
     }
@@ -4800,7 +4800,7 @@
       }
     }
   },
-  "1562": {
+  "1742": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4809,7 +4809,7 @@
       }
     }
   },
-  "1742": {
+  "1562": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -6419,6 +6419,15 @@
       ]
     }
   },
+  "1773": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "1864": {
     "restrictions": {
       "classification": {
@@ -6439,15 +6448,6 @@
           "course": "PSYC  321"
         }
       ]
-    }
-  },
-  "1773": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
     }
   },
   "1870": {
@@ -7955,7 +7955,7 @@
       }
     }
   },
-  "1075": {
+  "1077": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -7964,7 +7964,7 @@
       }
     }
   },
-  "1077": {
+  "1075": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -10126,7 +10126,7 @@
       ]
     }
   },
-  "1836": {
+  "1837": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -10135,7 +10135,7 @@
       }
     }
   },
-  "1837": {
+  "1836": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -10402,6 +10402,19 @@
       ]
     }
   },
+  "1395": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior",
+          "Junior"
+        ]
+      }
+    }
+  },
   "1392": {
     "restrictions": {
       "classification": {
@@ -10516,19 +10529,6 @@
       ]
     }
   },
-  "1395": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ],
-        "must_be": [
-          "Senior",
-          "Junior"
-        ]
-      }
-    }
-  },
   "1397": {
     "restrictions": {
       "classification": {
@@ -10590,23 +10590,6 @@
       ]
     }
   },
-  "1400": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ],
-        "must_be": [
-          "Frosh"
-        ]
-      }
-    },
-    "corequisites": {
-      "cross_list_courses": [
-        "GEO-105"
-      ]
-    }
-  },
   "1399": {
     "restrictions": {
       "classification": {
@@ -10621,6 +10604,23 @@
     "corequisites": {
       "cross_list_courses": [
         "GEO-105",
+        "GEO-105"
+      ]
+    }
+  },
+  "1400": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    },
+    "corequisites": {
+      "cross_list_courses": [
         "GEO-105"
       ]
     }
@@ -12721,7 +12721,7 @@
       }
     }
   },
-  "1214": {
+  "1216": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -12731,7 +12731,7 @@
       }
     }
   },
-  "1216": {
+  "1214": {
     "restrictions": {
       "classification": {
         "may_not_be": [

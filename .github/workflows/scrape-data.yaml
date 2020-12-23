@@ -32,6 +32,10 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
 
+      - name: Get semesters
+        run: |
+          python3 quacs-oxy-scraper/semesters/main.py
+
       - name: Scrape catalog
         run: |
           python3 quacs-oxy-scraper/catalog_scraper/main.py
@@ -89,17 +93,15 @@ jobs:
 
       - name: Commit new data
         run: |
-          cp courses/courses.json courses/mod.rs data
-          cp courses/catalog.json data
-          cp courses/rmp.json data
-          cp courses/prerequisites.json data
-          cp courses/faculty.json data
-          cd data
+          current_semester=$(head -n 1 semesters.json)
+          echo $current_semester
+          cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
+          cp courses/catalog.json data/semester_data/${current_semester}
+          cp courses/rmp.json data/semester_data/${current_semester}
+          cp courses/prerequisites.json data/semester_data/${current_semester}
+          cp courses/faculty.json data/semester_data/${current_semester}
+          cd data/semester_data/${current_semester}
           git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
-          git add courses.json mod.rs
-          git add prerequisites.json
-          git add faculty.json
-          git add catalog.json
-          git add meta.json
+          git add semester_data
           git commit -m "$(date -u)"
           git push --force

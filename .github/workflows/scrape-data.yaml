@@ -111,11 +111,10 @@ jobs:
           git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
           cd data
           git add faculty.json
-          cd semester_data/${current_semester}
-          git add courses.json mod.rs
-          git add prerequisites.json
-          git add schools.json
-          git add catalog.json
-          git add meta.json
+          git add semester_data/${current_semester}/courses.json semester_data/${current_semester}/mod.rs
+          git add semester_data/${current_semester}/prerequisites.json
+          git add semester_data/${current_semester}/schools.json
+          git add semester_data/${current_semester}/catalog.json
+          git add semester_data/${current_semester}/meta.json
           git commit -m "$(date -u)"
           git push --force

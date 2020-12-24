@@ -4,29 +4,35 @@
     "code": "AMST",
     "courses": [
       {
-        "title": "Introduction to American Studies",
+        "title": "Race & Community Exposures: Practicum",
         "subj": "AMST",
-        "crse": "1001",
-        "id": "AMST-101",
+        "crse": "2873",
+        "id": "AMST-111",
         "sections": [
           {
-            "crn": 1001,
+            "crn": 2873,
             "subj": "AMST",
-            "crse": "101",
+            "crse": "111",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to American Studies",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Race & Community Exposures: Practicum",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
+                  "D",
+                  "a",
+                  "y",
+                  "s",
+                  "-",
                   "T",
-                  "R"
+                  "B",
+                  "D"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Julie E Prebel",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Regina Freer",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -42,19 +48,19 @@
     "code": "ARAB",
     "courses": [
       {
-        "title": "Intermediate Arabic I",
+        "title": "Intermediate Arabic II",
         "subj": "ARAB",
-        "crse": "1266",
-        "id": "ARAB-201",
+        "crse": "2945",
+        "id": "ARAB-202",
         "sections": [
           {
-            "crn": 1266,
+            "crn": 2945,
             "subj": "ARAB",
-            "crse": "201",
+            "crse": "202",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Intermediate Arabic I",
+            "title": "Intermediate Arabic II",
             "attribute": "",
             "timeslots": [
               {
@@ -63,8 +69,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1215,
-                "timeEnd": 1310,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "instructor": "Hanan Elsayed",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -81,19 +87,19 @@
     "code": "ARTH",
     "courses": [
       {
-        "title": "Introduction to East Asian Art",
+        "title": "Introduction to Later European and American Art",
         "subj": "ARTH",
-        "crse": "1916",
-        "id": "ARTH-160",
+        "crse": "2009",
+        "id": "ARTH-180",
         "sections": [
           {
-            "crn": 1916,
+            "crn": 2009,
             "subj": "ARTH",
-            "crse": "160",
-            "sec": "02",
+            "crse": "180",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to East Asian Art",
+            "title": "Introduction to Later European and American Art",
             "attribute": "",
             "timeslots": [
               {
@@ -101,9 +107,9 @@
                   "M",
                   "W"
                 ],
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "instructor": "Rika Iezumi Hiro",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Kelema Lee Moses",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -119,29 +125,28 @@
     "code": "ARTS",
     "courses": [
       {
-        "title": "Drawing Fundamentals",
+        "title": "OxyArts Collaborate Workshop",
         "subj": "ARTS",
-        "crse": "1018",
-        "id": "ARTS-101",
+        "crse": "2968",
+        "id": "ARTS-100",
         "sections": [
           {
-            "crn": 1018,
+            "crn": 2968,
             "subj": "ARTS",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Drawing Fundamentals",
+            "crse": "100",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "OxyArts Collaborate Workshop",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
                   "W"
                 ],
-                "timeStart": 1915,
-                "timeEnd": 2140,
-                "instructor": "Susanna Maing",
+                "timeStart": 1600,
+                "timeEnd": 1800,
+                "instructor": "Patricia Yossen",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -159,11 +164,11 @@
       {
         "title": "Obama Scholars Program Seminar",
         "subj": "BOSP",
-        "crse": "1689",
+        "crse": "2565",
         "id": "BOSP-200",
         "sections": [
           {
-            "crn": 1689,
+            "crn": 2565,
             "subj": "BOSP",
             "crse": "200",
             "sec": "00",
@@ -203,11 +208,11 @@
       {
         "title": "Senior Seminar",
         "subj": "BICH",
-        "crse": "1334",
+        "crse": "2285",
         "id": "BICH-490",
         "sections": [
           {
-            "crn": 1334,
+            "crn": 2285,
             "subj": "BICH",
             "crse": "490",
             "sec": "00",
@@ -221,8 +226,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1600,
-                "timeEnd": 1725,
+                "timeStart": -1,
+                "timeEnd": -1,
                 "instructor": "Gary Craig Schindelman",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -239,29 +244,29 @@
     "code": "BIO",
     "courses": [
       {
-        "title": "Topics in Biology: Public Health Biology",
+        "title": "Topics in Biology",
         "subj": "BIO",
-        "crse": "1030",
+        "crse": "2029",
         "id": "BIO-103",
         "sections": [
           {
-            "crn": 1030,
+            "crn": 2029,
             "subj": "BIO",
             "crse": "103",
-            "sec": "00",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Biology: Public Health Biology",
+            "title": "Topics in Biology",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Shana Kaye Goffredi",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Jonathan P. Williams",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -277,19 +282,19 @@
     "code": "BLST",
     "courses": [
       {
-        "title": "Topics in American Music",
+        "title": "Topics in Jazz History",
         "subj": "BLST",
-        "crse": "1841",
-        "id": "BLST-105",
+        "crse": "2822",
+        "id": "BLST-111",
         "sections": [
           {
-            "crn": 1841,
+            "crn": 2822,
             "subj": "BLST",
-            "crse": "105",
+            "crse": "111",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in American Music",
+            "title": "Topics in Jazz History",
             "attribute": "",
             "timeslots": [
               {
@@ -298,8 +303,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1215,
-                "timeEnd": 1310,
+                "timeStart": 1445,
+                "timeEnd": 1540,
                 "instructor": "Simeon Pillich",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -318,14 +323,14 @@
       {
         "title": "Foundations of General Chemistry",
         "subj": "CHEM",
-        "crse": "1336",
+        "crse": "2293",
         "id": "CHEM-120",
         "sections": [
           {
-            "crn": 1336,
+            "crn": 2293,
             "subj": "CHEM",
             "crse": "120",
-            "sec": "01",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
             "title": "Foundations of General Chemistry",
@@ -337,9 +342,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 830,
-                "timeEnd": 925,
-                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "instructor": "Chris Craney",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -355,19 +360,19 @@
     "code": "CHIN",
     "courses": [
       {
-        "title": "Intermediate Chinese I",
+        "title": "Elementary Chinese II",
         "subj": "CHIN",
-        "crse": "1129",
-        "id": "CHIN-201",
+        "crse": "2120",
+        "id": "CHIN-102",
         "sections": [
           {
-            "crn": 1129,
+            "crn": 2120,
             "subj": "CHIN",
-            "crse": "201",
+            "crse": "102",
             "sec": "00",
             "credMin": 5,
             "credMax": 5,
-            "title": "Intermediate Chinese I",
+            "title": "Elementary Chinese II",
             "attribute": "",
             "timeslots": [
               {
@@ -376,9 +381,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "instructor": "Swee Fong Lee",
+                "timeStart": 905,
+                "timeEnd": 1030,
+                "instructor": "Meimei Zhang",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -394,19 +399,19 @@
     "code": "COGS",
     "courses": [
       {
-        "title": "Introduction to Neuroscience",
+        "title": "Art, Creativity, and Cognition",
         "subj": "COGS",
-        "crse": "1111",
-        "id": "COGS-104",
+        "crse": "2108",
+        "id": "COGS-265",
         "sections": [
           {
-            "crn": 1111,
+            "crn": 2108,
             "subj": "COGS",
-            "crse": "104",
-            "sec": "01",
+            "crse": "265",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Neuroscience",
+            "title": "Art, Creativity, and Cognition",
             "attribute": "",
             "timeslots": [
               {
@@ -417,7 +422,7 @@
                 ],
                 "timeStart": 1330,
                 "timeEnd": 1425,
-                "instructor": "Kevin Urstadt",
+                "instructor": "Aleksandra Sherman",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -433,29 +438,29 @@
     "code": "CSLC",
     "courses": [
       {
-        "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+        "title": "Literature, Culture, Self: Being in the Wor(l)d",
         "subj": "CSLC",
-        "crse": "1765",
-        "id": "CSLC-136",
+        "crse": "2124",
+        "id": "CSLC-200",
         "sections": [
           {
-            "crn": 1765,
+            "crn": 2124,
             "subj": "CSLC",
-            "crse": "136",
+            "crse": "200",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+            "title": "Literature, Culture, Self: Being in the Wor(l)d",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Julia Yuliya Sushytska",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "instructor": "Stephen Klemm",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -473,11 +478,11 @@
       {
         "title": "Fundamentals of Computer Science",
         "subj": "COMP",
-        "crse": "1649",
+        "crse": "2354",
         "id": "COMP-131",
         "sections": [
           {
-            "crn": 1649,
+            "crn": 2354,
             "subj": "COMP",
             "crse": "131",
             "sec": "01",
@@ -510,28 +515,35 @@
     "code": "CORE",
     "courses": [
       {
-        "title": "Building your Academic Skills: Strategies for Academic Success and Finding Home at Oxy",
+        "title": "Experiencing Global Cultures",
         "subj": "CORE",
-        "crse": "1972",
-        "id": "CORE-95",
+        "crse": "2993",
+        "id": "CORE-97",
         "sections": [
           {
-            "crn": 1972,
+            "crn": 2993,
             "subj": "CORE",
-            "crse": "95",
+            "crse": "97",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Building your Academic Skills: Strategies for Academic Success and Finding Home at Oxy",
+            "title": "Experiencing Global Cultures",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "D",
+                  "a",
+                  "y",
+                  "s",
+                  "-",
+                  "T",
+                  "B",
+                  "D"
                 ],
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "instructor": "Carolyn J. Brighouse",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Ron Buckmire",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -549,14 +561,14 @@
       {
         "title": "Introduction to Critical Theory",
         "subj": "CTSJ",
-        "crse": "1743",
+        "crse": "2901",
         "id": "CTSJ-100",
         "sections": [
           {
-            "crn": 1743,
+            "crn": 2901,
             "subj": "CTSJ",
             "crse": "100",
-            "sec": "01",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Introduction to Critical Theory",
@@ -568,8 +580,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1330,
-                "timeEnd": 1425,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "instructor": "Malek Moazzam-Doulat",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -586,19 +598,19 @@
     "code": "CSP",
     "courses": [
       {
-        "title": "(Im)Migrant Communities of California",
+        "title": "Chaos",
         "subj": "CSP",
-        "crse": "1893",
-        "id": "CSP-1",
+        "crse": "2848",
+        "id": "CSP-51",
         "sections": [
           {
-            "crn": 1893,
+            "crn": 2848,
             "subj": "CSP",
-            "crse": "1",
+            "crse": "51",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "(Im)Migrant Communities of California",
+            "title": "Chaos",
             "attribute": "",
             "timeslots": [
               {
@@ -607,9 +619,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "instructor": "Mary Christianakis",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "instructor": "Janet D Scheel",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -627,11 +639,11 @@
       {
         "title": "International Relations: The Changing Rules of the Game",
         "subj": "DWA",
-        "crse": "1151",
+        "crse": "2270",
         "id": "DWA-101",
         "sections": [
           {
-            "crn": 1151,
+            "crn": 2270,
             "subj": "DWA",
             "crse": "101",
             "sec": "02",
@@ -645,9 +657,9 @@
                   "T",
                   "R"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Movindri Reddy",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "instructor": "Igor Olegovich Logvinenko",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -665,11 +677,11 @@
       {
         "title": "Principles of Economics I",
         "subj": "ECON",
-        "crse": "1168",
+        "crse": "2159",
         "id": "ECON-101",
         "sections": [
           {
-            "crn": 1168,
+            "crn": 2159,
             "subj": "ECON",
             "crse": "101",
             "sec": "02",
@@ -684,8 +696,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1100,
-                "timeEnd": 1155,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "instructor": "Victoria I. Umanskaya",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -702,19 +714,19 @@
     "code": "EDUC",
     "courses": [
       {
-        "title": "Sociocultural Foundations of Education",
+        "title": "Community Literacy",
         "subj": "EDUC",
-        "crse": "1194",
-        "id": "EDUC-201",
+        "crse": "2182",
+        "id": "EDUC-140",
         "sections": [
           {
-            "crn": 1194,
+            "crn": 2182,
             "subj": "EDUC",
-            "crse": "201",
+            "crse": "140",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sociocultural Foundations of Education",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Literacy",
             "attribute": "",
             "timeslots": [
               {
@@ -722,9 +734,9 @@
                   "T",
                   "R"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "La Mont Terry",
+                "timeStart": 1505,
+                "timeEnd": 1650,
+                "instructor": "Desiree M. Zamorano",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -740,29 +752,30 @@
     "code": "ENGL",
     "courses": [
       {
-        "title": "Shakespeare and Film",
+        "title": "Science as Fiction -- Philip K. Dick",
         "subj": "ENGL",
-        "crse": "1387",
-        "id": "ENGL-178",
+        "crse": "2370",
+        "id": "ENGL-155",
         "sections": [
           {
-            "crn": 1387,
+            "crn": 2370,
             "subj": "ENGL",
-            "crse": "178",
+            "crse": "155",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Shakespeare and Film",
+            "title": "Science as Fiction -- Philip K. Dick",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Ross B. Lerner",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "instructor": "Warren Montag",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -780,14 +793,14 @@
       {
         "title": "Beginning French I",
         "subj": "FREN",
-        "crse": "1264",
+        "crse": "2247",
         "id": "FREN-101",
         "sections": [
           {
-            "crn": 1264,
+            "crn": 2247,
             "subj": "FREN",
             "crse": "101",
-            "sec": "01",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Beginning French I",
@@ -819,11 +832,11 @@
       {
         "title": "Earth: Our Environment",
         "subj": "GEO",
-        "crse": "1398",
+        "crse": "2713",
         "id": "GEO-105",
         "sections": [
           {
-            "crn": 1398,
+            "crn": 2713,
             "subj": "GEO",
             "crse": "105",
             "sec": "01",
@@ -856,19 +869,19 @@
     "code": "GERM",
     "courses": [
       {
-        "title": "Elementary German I",
+        "title": "German Stylistics",
         "subj": "GERM",
-        "crse": "1139",
-        "id": "GERM-101",
+        "crse": "2131",
+        "id": "GERM-202",
         "sections": [
           {
-            "crn": 1139,
+            "crn": 2131,
             "subj": "GERM",
-            "crse": "101",
+            "crse": "202",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Elementary German I",
+            "title": "German Stylistics",
             "attribute": "",
             "timeslots": [
               {
@@ -877,9 +890,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1445,
-                "timeEnd": 1540,
-                "instructor": "Stephen Klemm",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "instructor": "Curtis Lee Maughan",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -897,13 +910,13 @@
       {
         "title": "Elementary Greek",
         "subj": "GRK",
-        "crse": "1142",
-        "id": "GRK-102",
+        "crse": "2132",
+        "id": "GRK-101",
         "sections": [
           {
-            "crn": 1142,
+            "crn": 2132,
             "subj": "GRK",
-            "crse": "102",
+            "crse": "101",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
@@ -934,19 +947,19 @@
     "code": "HIST",
     "courses": [
       {
-        "title": "United States Culture and Society I",
+        "title": "United States Culture and Society II",
         "subj": "HIST",
-        "crse": "1202",
-        "id": "HIST-101",
+        "crse": "2193",
+        "id": "HIST-102",
         "sections": [
           {
-            "crn": 1202,
+            "crn": 2193,
             "subj": "HIST",
-            "crse": "101",
-            "sec": "00",
+            "crse": "102",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "United States Culture and Society I",
+            "title": "United States Culture and Society II",
             "attribute": "",
             "timeslots": [
               {
@@ -955,9 +968,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "instructor": "Sharla M. Fett",
+                "timeStart": 1445,
+                "timeEnd": 1540,
+                "instructor": "Jane H. Hong",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -973,19 +986,19 @@
     "code": "JAPN",
     "courses": [
       {
-        "title": "Elementary Japanese I",
+        "title": "Intermediate Japanese II",
         "subj": "JAPN",
-        "crse": "1144",
-        "id": "JAPN-101",
+        "crse": "2135",
+        "id": "JAPN-202",
         "sections": [
           {
-            "crn": 1144,
+            "crn": 2135,
             "subj": "JAPN",
-            "crse": "101",
+            "crse": "202",
             "sec": "00",
             "credMin": 5,
             "credMax": 5,
-            "title": "Elementary Japanese I",
+            "title": "Intermediate Japanese II",
             "attribute": "",
             "timeslots": [
               {
@@ -994,9 +1007,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 915,
-                "timeEnd": 1040,
-                "instructor": "Motoko Ezaki",
+                "timeStart": 1355,
+                "timeEnd": 1520,
+                "instructor": "Yuki Taylor",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1012,19 +1025,19 @@
     "code": "KINE",
     "courses": [
       {
-        "title": "Introduction to Kinesiology",
+        "title": "Nutrition and Homeostasis",
         "subj": "KINE",
-        "crse": "1963",
-        "id": "KINE-104",
+        "crse": "2382",
+        "id": "KINE-210",
         "sections": [
           {
-            "crn": 1963,
+            "crn": 2382,
             "subj": "KINE",
-            "crse": "104",
-            "sec": "01",
+            "crse": "210",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Kinesiology",
+            "title": "Nutrition and Homeostasis",
             "attribute": "",
             "timeslots": [
               {
@@ -1033,9 +1046,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "instructor": "Melinda Houston",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "instructor": "Marcella Ann Raney",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1051,29 +1064,29 @@
     "code": "LATN",
     "courses": [
       {
-        "title": "Defending the Republic: The Literature of Constitutional Crises, from Cicero to Adams",
+        "title": "Topics in Classical Philology (Latin)",
         "subj": "LATN",
-        "crse": "1767",
-        "id": "LATN-348",
+        "crse": "2139",
+        "id": "LATN-201",
         "sections": [
           {
-            "crn": 1767,
+            "crn": 2139,
             "subj": "LATN",
-            "crse": "348",
+            "crse": "201",
             "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Defending the Republic: The Literature of Constitutional Crises, from Cicero to Adams",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Classical Philology (Latin)",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "instructor": "Jacob L. Mackey",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "instructor": "Damian Alexander Stocking",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1089,29 +1102,29 @@
     "code": "LLAS",
     "courses": [
       {
-        "title": "Colonial Latin America",
+        "title": "Chicano Education",
         "subj": "LLAS",
-        "crse": "1716",
-        "id": "LLAS-150",
+        "crse": "2659",
+        "id": "LLAS-213",
         "sections": [
           {
-            "crn": 1716,
+            "crn": 2659,
             "subj": "LLAS",
-            "crse": "150",
-            "sec": "01",
+            "crse": "213",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Colonial Latin America",
+            "title": "Chicano Education",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "timeStart": 830,
-                "timeEnd": 955,
-                "instructor": "Lisa Sousa",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Ronald Solorzano",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1129,14 +1142,14 @@
       {
         "title": "Introduction to Linguistics",
         "subj": "LING",
-        "crse": "1272",
+        "crse": "2254",
         "id": "LING-301",
         "sections": [
           {
-            "crn": 1272,
+            "crn": 2254,
             "subj": "LING",
             "crse": "301",
-            "sec": "01",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
             "title": "Introduction to Linguistics",
@@ -1148,9 +1161,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "instructor": "Michael F. Shelton",
+                "timeStart": 1445,
+                "timeEnd": 1540,
+                "instructor": "Mariska A Bolyanatz Brown",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1166,19 +1179,19 @@
     "code": "MATH",
     "courses": [
       {
-        "title": "Unified Precalculus and Calculus 1-A",
+        "title": "Unified Precalculus and Calculus 1-B",
         "subj": "MATH",
-        "crse": "1432",
-        "id": "MATH-108",
+        "crse": "2400",
+        "id": "MATH-109",
         "sections": [
           {
-            "crn": 1432,
+            "crn": 2400,
             "subj": "MATH",
-            "crse": "108",
+            "crse": "109",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Unified Precalculus and Calculus 1-A",
+            "title": "Unified Precalculus and Calculus 1-B",
             "attribute": "",
             "timeslots": [
               {
@@ -1207,11 +1220,11 @@
       {
         "title": "Introduction to Visual and Critical Studies",
         "subj": "MAC",
-        "crse": "1576",
+        "crse": "2431",
         "id": "MAC-143",
         "sections": [
           {
-            "crn": 1576,
+            "crn": 2431,
             "subj": "MAC",
             "crse": "143",
             "sec": "00",
@@ -1243,29 +1256,30 @@
     "code": "MUSC",
     "courses": [
       {
-        "title": "Materials of Music",
+        "title": "Music of Asia and the Pacific Islands",
         "subj": "MUSC",
-        "crse": "1547",
-        "id": "MUSC-101",
+        "crse": "2528",
+        "id": "MUSC-103",
         "sections": [
           {
-            "crn": 1547,
+            "crn": 2528,
             "subj": "MUSC",
-            "crse": "101",
-            "sec": "02",
+            "crse": "103",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Materials of Music",
+            "title": "Music of Asia and the Pacific Islands",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "instructor": "Stephen Cabell",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "instructor": "Simeon Pillich",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1283,11 +1297,11 @@
       {
         "title": "Classical Guitar Class (Beginning)",
         "subj": "MUSA",
-        "crse": "1467",
+        "crse": "2448",
         "id": "MUSA-103",
         "sections": [
           {
-            "crn": 1467,
+            "crn": 2448,
             "subj": "MUSA",
             "crse": "103",
             "sec": "00",
@@ -1325,19 +1339,19 @@
     "code": "PHIL",
     "courses": [
       {
-        "title": "Formal Logic",
+        "title": "Introduction to Philosophy",
         "subj": "PHIL",
-        "crse": "1687",
-        "id": "PHIL-150",
+        "crse": "2562",
+        "id": "PHIL-101",
         "sections": [
           {
-            "crn": 1687,
+            "crn": 2562,
             "subj": "PHIL",
-            "crse": "150",
+            "crse": "101",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Formal Logic",
+            "title": "Introduction to Philosophy",
             "attribute": "",
             "timeslots": [
               {
@@ -1346,9 +1360,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1445,
-                "timeEnd": 1540,
-                "instructor": "William Dylan Sabo",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "instructor": "Robert Eli Sanchez",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1366,11 +1380,11 @@
       {
         "title": "Tigers Live Fitness",
         "subj": "PHAC",
-        "crse": "1989",
+        "crse": "2769",
         "id": "PHAC-130",
         "sections": [
           {
-            "crn": 1989,
+            "crn": 2769,
             "subj": "PHAC",
             "crse": "130",
             "sec": "01",
@@ -1386,7 +1400,7 @@
                 ],
                 "timeStart": 1200,
                 "timeEnd": 1255,
-                "instructor": "Isabelle D. Dunne",
+                "instructor": "William W. Morris",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1402,19 +1416,19 @@
     "code": "PHYS",
     "courses": [
       {
-        "title": "Introductory Mechanics",
+        "title": "General Physics I",
         "subj": "PHYS",
-        "crse": "1591",
-        "id": "PHYS-110",
+        "crse": "2571",
+        "id": "PHYS-115",
         "sections": [
           {
-            "crn": 1591,
+            "crn": 2571,
             "subj": "PHYS",
-            "crse": "110",
-            "sec": "01",
+            "crse": "115",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introductory Mechanics",
+            "title": "General Physics I",
             "attribute": "",
             "timeslots": [
               {
@@ -1423,9 +1437,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "instructor": "Daniel P. Snowden-Ifft",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "instructor": "Jean-Luc Gauvreau",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1443,11 +1457,11 @@
       {
         "title": "American Politics and Public Policy",
         "subj": "POLS",
-        "crse": "1215",
+        "crse": "2914",
         "id": "POLS-101",
         "sections": [
           {
-            "crn": 1215,
+            "crn": 2914,
             "subj": "POLS",
             "crse": "101",
             "sec": "02",
@@ -1458,12 +1472,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "instructor": "Aldo Yanez Ruiz",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "instructor": "Michael C. Sardo",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1481,11 +1496,11 @@
       {
         "title": "Introduction to Psychology",
         "subj": "PSYC",
-        "crse": "1235",
+        "crse": "2219",
         "id": "PSYC-101",
         "sections": [
           {
-            "crn": 1235,
+            "crn": 2219,
             "subj": "PSYC",
             "crse": "101",
             "sec": "02",
@@ -1519,11 +1534,11 @@
       {
         "title": "Introduction to Public Health",
         "subj": "PUBH",
-        "crse": "1773",
+        "crse": "2690",
         "id": "PUBH-203",
         "sections": [
           {
-            "crn": 1773,
+            "crn": 2690,
             "subj": "PUBH",
             "crse": "203",
             "sec": "01",
@@ -1556,30 +1571,29 @@
     "code": "RELS",
     "courses": [
       {
-        "title": "\"Cults\" and \"Sects\": New Religious Movements in the Americas",
+        "title": "Islamophobia",
         "subj": "RELS",
-        "crse": "1942",
-        "id": "RELS-147",
+        "crse": "2749",
+        "id": "RELS-244",
         "sections": [
           {
-            "crn": 1942,
+            "crn": 2749,
             "subj": "RELS",
-            "crse": "147",
-            "sec": "02",
+            "crse": "244",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "\"Cults\" and \"Sects\": New Religious Movements in the Americas",
+            "title": "Islamophobia",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "instructor": "Michael Benjamin Amoruso",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "instructor": "Candace Mixon",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1595,28 +1609,29 @@
     "code": "RUSN",
     "courses": [
       {
-        "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+        "title": "Elementary Russian I",
         "subj": "RUSN",
-        "crse": "1846",
-        "id": "RUSN-336",
+        "crse": "2861",
+        "id": "RUSN-101",
         "sections": [
           {
-            "crn": 1846,
+            "crn": 2861,
             "subj": "RUSN",
-            "crse": "336",
+            "crse": "101",
             "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Elementary Russian I",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "instructor": "Julia Yuliya Sushytska",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -1635,11 +1650,11 @@
       {
         "title": "Introduction to Sociology",
         "subj": "SOC",
-        "crse": "1296",
+        "crse": "2600",
         "id": "SOC-101",
         "sections": [
           {
-            "crn": 1296,
+            "crn": 2600,
             "subj": "SOC",
             "crse": "101",
             "sec": "01",
@@ -1654,8 +1669,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 945,
-                "timeEnd": 1040,
+                "timeStart": 1330,
+                "timeEnd": 1425,
                 "instructor": "Ben Robin Weiss",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -1672,19 +1687,19 @@
     "code": "SPAN",
     "courses": [
       {
-        "title": "Beginning Spanish I",
+        "title": "Beginning Spanish II",
         "subj": "SPAN",
-        "crse": "1276",
-        "id": "SPAN-101",
+        "crse": "2256",
+        "id": "SPAN-102",
         "sections": [
           {
-            "crn": 1276,
+            "crn": 2256,
             "subj": "SPAN",
-            "crse": "101",
-            "sec": "02",
+            "crse": "102",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Beginning Spanish I",
+            "title": "Beginning Spanish II",
             "attribute": "",
             "timeslots": [
               {
@@ -1693,9 +1708,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "instructor": "Alicia Gonzalez",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "instructor": "Mariska A Bolyanatz Brown",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1713,11 +1728,11 @@
       {
         "title": "Introduction to Performance",
         "subj": "THEA",
-        "crse": "1610",
+        "crse": "2612",
         "id": "THEA-110",
         "sections": [
           {
-            "crn": 1610,
+            "crn": 2612,
             "subj": "THEA",
             "crse": "110",
             "sec": "01",
@@ -1752,14 +1767,14 @@
       {
         "title": "Environment and Society",
         "subj": "UEP",
-        "crse": "1670",
+        "crse": "2639",
         "id": "UEP-101",
         "sections": [
           {
-            "crn": 1670,
+            "crn": 2639,
             "subj": "UEP",
             "crse": "101",
-            "sec": "02",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Environment and Society",
@@ -1772,7 +1787,7 @@
                 ],
                 "timeStart": 1015,
                 "timeEnd": 1140,
-                "instructor": "Bhavna Shamasunder",
+                "instructor": "Nicole Lambrou",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -1790,11 +1805,11 @@
       {
         "title": "Art of Essay Writing: Writing on Travel",
         "subj": "WRD",
-        "crse": "1307",
+        "crse": "2262",
         "id": "WRD-201",
         "sections": [
           {
-            "crn": 1307,
+            "crn": 2262,
             "subj": "WRD",
             "crse": "201",
             "sec": "01",
@@ -1809,8 +1824,8 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1100,
-                "timeEnd": 1155,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "instructor": "Thomas L. Burkdall",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",

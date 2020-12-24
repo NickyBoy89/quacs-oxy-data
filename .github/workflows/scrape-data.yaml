@@ -36,6 +36,10 @@ jobs:
         run: |
           python3 quacs-oxy-scraper/semesters/main.py
 
+      - name: Scrape schools
+        run: |
+          python3 quacs-oxy-scraper/school_scraper/main.py
+
       - name: Scrape catalog
         run: |
           python3 quacs-oxy-scraper/catalog_scraper/main.py
@@ -67,6 +71,7 @@ jobs:
             rmp.json
             prerequisites.json
             faculty.json
+            schools.json
   commit-data:
     name: Commit changes
     continue-on-error: true
@@ -99,9 +104,16 @@ jobs:
           cp courses/catalog.json data/semester_data/${current_semester}
           cp courses/rmp.json data/semester_data/${current_semester}
           cp courses/prerequisites.json data/semester_data/${current_semester}
-          cp courses/faculty.json data/semester_data/${current_semester}
-          cd data/semester_data/${current_semester}
+          cp courses/schools.json data/semester_data/${current_semester}
+          cp courses/faculty.json data
           git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
-          git add semester_data
+          cd data
+          git add faculty.json
+          cd semester_data/${current_semester}
+          git add courses.json mod.rs
+          git add prerequisites.json
+          git add schools.json
+          git add catalog.json
+          git add meta.json
           git commit -m "$(date -u)"
           git push --force

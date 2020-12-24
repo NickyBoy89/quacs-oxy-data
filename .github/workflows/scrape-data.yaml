@@ -108,8 +108,8 @@ jobs:
           cp courses/prerequisites.json data/semester_data/${current_semester}
           cp courses/schools.json data/semester_data/${current_semester}
           cp courses/faculty.json data
-          git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
           cd data
+          git config user.name "Nicholas Novak" && git config user.email "nicholasmnovak@gmail.com"
           git add faculty.json
           git add semester_data/${current_semester}/courses.json semester_data/${current_semester}/mod.rs
           git add semester_data/${current_semester}/prerequisites.json

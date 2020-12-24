@@ -98,7 +98,7 @@ jobs:
 
       - name: Commit new data
         run: |
-          current_semester=$(head -n 1 semesters.json)
+          current_semester=$(head -n 1 courses/semesters.json)
           echo $current_semester
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
           cp courses/catalog.json data/semester_data/${current_semester}

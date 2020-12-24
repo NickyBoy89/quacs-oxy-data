@@ -72,6 +72,7 @@ jobs:
             prerequisites.json
             faculty.json
             schools.json
+            semesters.json
   commit-data:
     name: Commit changes
     continue-on-error: true

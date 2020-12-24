@@ -115,6 +115,6 @@ jobs:
           git add semester_data/${current_semester}/prerequisites.json
           git add semester_data/${current_semester}/schools.json
           git add semester_data/${current_semester}/catalog.json
-          git add semester_data/${current_semester}/meta.json
+          git add meta.json
           git commit -m "$(date -u)"
           git push --force

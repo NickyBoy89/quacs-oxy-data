@@ -6550,8 +6550,8 @@
                 "days": [
                   "W"
                 ],
-                "timeStart": 1515,
-                "timeEnd": 1640,
+                "timeStart": 1545,
+                "timeEnd": 1715,
                 "instructor": "Thomas Y. Yeh",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -6573,8 +6573,8 @@
                 "days": [
                   "W"
                 ],
-                "timeStart": 1545,
-                "timeEnd": 1715,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "instructor": "Thomas Y. Yeh",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -7341,7 +7341,7 @@
                 ],
                 "timeStart": 1330,
                 "timeEnd": 1425,
-                "instructor": "Kai Rudisell Small",
+                "instructor": "Claire Crawford",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -7997,93 +7997,11 @@
         ]
       },
       {
-        "title": "From Black Panthers to Black Lives Matter: Black Women in Social Movements",
-        "subj": "CSP",
-        "crse": "2937",
-        "id": "CSP-72",
-        "sections": [
-          {
-            "crn": 2937,
-            "subj": "CSP",
-            "crse": "72",
-            "sec": "72",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "From Black Panthers to Black Lives Matter: Black Women in Social Movements",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "instructor": "Anita Louise Zachary",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          },
-          {
-            "crn": 2936,
-            "subj": "CSP",
-            "crse": "72",
-            "sec": "72",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "From Black Panthers to Black Lives Matter: Black Women in Social Movements",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "instructor": "Anita Louise Zachary",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "My Self(ie): Reflections on Life in the Digital Age",
         "subj": "CSP",
-        "crse": "2939",
+        "crse": "2938",
         "id": "CSP-73",
         "sections": [
-          {
-            "crn": 2939,
-            "subj": "CSP",
-            "crse": "73",
-            "sec": "73",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "My Self(ie): Reflections on Life in the Digital Age",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "instructor": "Jackie Kate Elam",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          },
           {
             "crn": 2938,
             "subj": "CSP",
@@ -8108,23 +8026,47 @@
                 "location": ""
               }
             ]
+          },
+          {
+            "crn": 2939,
+            "subj": "CSP",
+            "crse": "73",
+            "sec": "73",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "My Self(ie): Reflections on Life in the Digital Age",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Jackie Kate Elam",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Color of Humanity",
+        "title": "Reading and Writing Identity in the Media",
         "subj": "CSP",
-        "crse": "2941",
-        "id": "CSP-75",
+        "crse": "2940",
+        "id": "CSP-74",
         "sections": [
           {
-            "crn": 2941,
+            "crn": 2940,
             "subj": "CSP",
-            "crse": "75",
-            "sec": "75",
+            "crse": "74",
+            "sec": "74",
             "credMin": 4,
             "credMax": 4,
-            "title": "Color of Humanity",
+            "title": "Reading and Writing Identity in the Media",
             "attribute": "",
             "timeslots": [
               {
@@ -8133,9 +8075,9 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "instructor": "Robert Eli Sanchez",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Emily Goulding",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -8376,19 +8318,19 @@
         ]
       },
       {
-        "title": "Reading and Writing Identity in the Media",
+        "title": "From Black Panthers to Black Lives Matter: Black Women in Social Movements",
         "subj": "CSP",
-        "crse": "2940",
-        "id": "CSP-74",
+        "crse": "2936",
+        "id": "CSP-72",
         "sections": [
           {
-            "crn": 2940,
+            "crn": 2936,
             "subj": "CSP",
-            "crse": "74",
-            "sec": "74",
+            "crse": "72",
+            "sec": "72",
             "credMin": 4,
             "credMax": 4,
-            "title": "Reading and Writing Identity in the Media",
+            "title": "From Black Panthers to Black Lives Matter: Black Women in Social Movements",
             "attribute": "",
             "timeslots": [
               {
@@ -8397,9 +8339,42 @@
                   "W",
                   "F"
                 ],
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "instructor": "Emily Goulding",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "instructor": "Anita Louise Zachary",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Color of Humanity",
+        "subj": "CSP",
+        "crse": "2941",
+        "id": "CSP-75",
+        "sections": [
+          {
+            "crn": 2941,
+            "subj": "CSP",
+            "crse": "75",
+            "sec": "75",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Color of Humanity",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "instructor": "Robert Eli Sanchez",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -8417,9 +8392,33 @@
       {
         "title": "International Relations: The Changing Rules of the Game",
         "subj": "DWA",
-        "crse": "2270",
+        "crse": "2141",
         "id": "DWA-101",
         "sections": [
+          {
+            "crn": 2141,
+            "subj": "DWA",
+            "crse": "101",
+            "sec": "101",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Relations: The Changing Rules of the Game",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "timeStart": 800,
+                "timeEnd": 925,
+                "instructor": "Lan Chu",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          },
           {
             "crn": 2270,
             "subj": "DWA",
@@ -8443,69 +8442,15 @@
                 "location": ""
               }
             ]
-          },
-          {
-            "crn": 2141,
-            "subj": "DWA",
-            "crse": "101",
-            "sec": "101",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Relations: The Changing Rules of the Game",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "D",
-                  "a",
-                  "y",
-                  "s",
-                  "-",
-                  "T",
-                  "B",
-                  "D"
-                ],
-                "timeStart": -1,
-                "timeEnd": -1,
-                "instructor": "Lan Chu",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
           }
         ]
       },
       {
         "title": "International Organizations",
         "subj": "DWA",
-        "crse": "2143",
+        "crse": "2142",
         "id": "DWA-102",
         "sections": [
-          {
-            "crn": 2143,
-            "subj": "DWA",
-            "crse": "102",
-            "sec": "102",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Organizations",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "instructor": "Laura Hebert",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          },
           {
             "crn": 2142,
             "subj": "DWA",
@@ -8529,23 +8474,15 @@
                 "location": ""
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Global Political Economy",
-        "subj": "DWA",
-        "crse": "2145",
-        "id": "DWA-103",
-        "sections": [
+          },
           {
-            "crn": 2145,
+            "crn": 2143,
             "subj": "DWA",
-            "crse": "103",
-            "sec": "103",
+            "crse": "102",
+            "sec": "102",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Global Political Economy",
+            "title": "International Organizations",
             "attribute": "",
             "timeslots": [
               {
@@ -8555,13 +8492,21 @@
                 ],
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "instructor": "Igor Olegovich Logvinenko",
+                "instructor": "Laura Hebert",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Global Political Economy",
+        "subj": "DWA",
+        "crse": "2144",
+        "id": "DWA-103",
+        "sections": [
           {
             "crn": 2144,
             "subj": "DWA",
@@ -8585,31 +8530,56 @@
                 "location": ""
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Nationalism and Ethnicity",
-        "subj": "DWA",
-        "crse": "2148",
-        "id": "DWA-235",
-        "sections": [
+          },
           {
-            "crn": 2148,
+            "crn": 2145,
             "subj": "DWA",
-            "crse": "235",
-            "sec": "235",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Nationalism and Ethnicity",
+            "crse": "103",
+            "sec": "103",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Global Political Economy",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "T",
+                  "R"
                 ],
-                "timeStart": 830,
-                "timeEnd": 955,
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "instructor": "Igor Olegovich Logvinenko",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "African Political Thought",
+        "subj": "DWA",
+        "crse": "2147",
+        "id": "DWA-233",
+        "sections": [
+          {
+            "crn": 2147,
+            "subj": "DWA",
+            "crse": "233",
+            "sec": "233",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "African Political Thought",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "instructor": "Movindri Reddy",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -8622,33 +8592,9 @@
       {
         "title": "China and the World",
         "subj": "DWA",
-        "crse": "2965",
+        "crse": "2149",
         "id": "DWA-245",
         "sections": [
-          {
-            "crn": 2965,
-            "subj": "DWA",
-            "crse": "245",
-            "sec": "245",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "China and the World",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "instructor": "Alexander F. Day",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          },
           {
             "crn": 2149,
             "subj": "DWA",
@@ -8672,64 +8618,25 @@
                 "location": ""
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Security in Asia",
-        "subj": "DWA",
-        "crse": "2151",
-        "id": "DWA-253",
-        "sections": [
+          },
           {
-            "crn": 2151,
+            "crn": 2965,
             "subj": "DWA",
-            "crse": "253",
-            "sec": "253",
+            "crse": "245",
+            "sec": "245",
             "credMin": 4,
             "credMax": 4,
-            "title": "Security in Asia",
+            "title": "China and the World",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
-                ],
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "instructor": "Sophal Ear",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Diplomacy and War",
-        "subj": "DWA",
-        "crse": "2673",
-        "id": "DWA-285",
-        "sections": [
-          {
-            "crn": 2673,
-            "subj": "DWA",
-            "crse": "285",
-            "sec": "285",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Diplomacy and War",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
+                  "T",
                   "R"
                 ],
-                "timeStart": 1330,
-                "timeEnd": 1630,
-                "instructor": "Derek N. Shearer",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "instructor": "Alexander F. Day",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -8739,19 +8646,19 @@
         ]
       },
       {
-        "title": "Interdisciplinary Research Design in World Affairs",
+        "title": "The United States and East Asia",
         "subj": "DWA",
-        "crse": "2674",
-        "id": "DWA-298",
+        "crse": "2150",
+        "id": "DWA-246",
         "sections": [
           {
-            "crn": 2674,
+            "crn": 2150,
             "subj": "DWA",
-            "crse": "298",
-            "sec": "298",
+            "crse": "246",
+            "sec": "246",
             "credMin": 4,
             "credMax": 4,
-            "title": "Interdisciplinary Research Design in World Affairs",
+            "title": "The United States and East Asia",
             "attribute": "",
             "timeslots": [
               {
@@ -8761,7 +8668,70 @@
                 ],
                 "timeStart": 1600,
                 "timeEnd": 1725,
-                "instructor": "Sophal Ear",
+                "instructor": "Xiao-huang Yin",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Model United Nations",
+        "subj": "DWA",
+        "crse": "2152",
+        "id": "DWA-260",
+        "sections": [
+          {
+            "crn": 2152,
+            "subj": "DWA",
+            "crse": "260",
+            "sec": "260",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Model United Nations",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "instructor": "Christopher Ryan Fennessy",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Global Environmental Challenges and Politics",
+        "subj": "DWA",
+        "crse": "2973",
+        "id": "DWA-288",
+        "sections": [
+          {
+            "crn": 2973,
+            "subj": "DWA",
+            "crse": "288",
+            "sec": "288",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Global Environmental Challenges and Politics",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "instructor": "Mariano Bertucci",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -8959,28 +8929,27 @@
         ]
       },
       {
-        "title": "African Political Thought",
+        "title": "Nationalism and Ethnicity",
         "subj": "DWA",
-        "crse": "2147",
-        "id": "DWA-233",
+        "crse": "2148",
+        "id": "DWA-235",
         "sections": [
           {
-            "crn": 2147,
+            "crn": 2148,
             "subj": "DWA",
-            "crse": "233",
-            "sec": "233",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "African Political Thought",
+            "crse": "235",
+            "sec": "235",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Nationalism and Ethnicity",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "T"
                 ],
-                "timeStart": 1015,
-                "timeEnd": 1140,
+                "timeStart": 830,
+                "timeEnd": 955,
                 "instructor": "Movindri Reddy",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
@@ -8991,19 +8960,19 @@
         ]
       },
       {
-        "title": "The United States and East Asia",
+        "title": "Security in Asia",
         "subj": "DWA",
-        "crse": "2150",
-        "id": "DWA-246",
+        "crse": "2151",
+        "id": "DWA-253",
         "sections": [
           {
-            "crn": 2150,
+            "crn": 2151,
             "subj": "DWA",
-            "crse": "246",
-            "sec": "246",
+            "crse": "253",
+            "sec": "253",
             "credMin": 4,
             "credMax": 4,
-            "title": "The United States and East Asia",
+            "title": "Security in Asia",
             "attribute": "",
             "timeslots": [
               {
@@ -9011,9 +8980,9 @@
                   "M",
                   "W"
                 ],
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "instructor": "Xiao-huang Yin",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "instructor": "Sophal Ear",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -9023,60 +8992,28 @@
         ]
       },
       {
-        "title": "Model United Nations",
+        "title": "Diplomacy and War",
         "subj": "DWA",
-        "crse": "2152",
-        "id": "DWA-260",
+        "crse": "2673",
+        "id": "DWA-285",
         "sections": [
           {
-            "crn": 2152,
+            "crn": 2673,
             "subj": "DWA",
-            "crse": "260",
-            "sec": "260",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Model United Nations",
+            "crse": "285",
+            "sec": "285",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Diplomacy and War",
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "R"
                 ],
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "instructor": "Christopher Ryan Fennessy",
-                "dateStart": "8/24",
-                "dateEnd": "11/20",
-                "location": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Global Environmental Challenges and Politics",
-        "subj": "DWA",
-        "crse": "2973",
-        "id": "DWA-288",
-        "sections": [
-          {
-            "crn": 2973,
-            "subj": "DWA",
-            "crse": "288",
-            "sec": "288",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Global Environmental Challenges and Politics",
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "instructor": "Mariano Bertucci",
+                "timeStart": 1330,
+                "timeEnd": 1630,
+                "instructor": "Derek N. Shearer",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""
@@ -21228,7 +21165,7 @@
                 ],
                 "timeStart": 830,
                 "timeEnd": 925,
-                "instructor": "Instructor Unassigned",
+                "instructor": "Andrew Jacob Dakopolos",
                 "dateStart": "8/24",
                 "dateEnd": "11/20",
                 "location": ""

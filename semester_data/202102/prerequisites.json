@@ -7429,19 +7429,6 @@
     }
   },
   "2392": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SPAN  202",
-          "type": "course"
-        },
-        {
-          "course": "SPAN  211",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11667,24 +11654,6 @@
       }
     }
   },
-  "2674": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA  101",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2675": {
     "restrictions": {
       "classification": {
@@ -15457,15 +15426,6 @@
     }
   },
   "2936": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2937": {
     "restrictions": {
       "classification": {
         "may_not_be": [

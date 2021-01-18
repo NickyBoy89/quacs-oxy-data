@@ -5484,20 +5484,6 @@
       }
     }
   },
-  "2306": {
-    "corequisites": {
-      "cross_list_courses": [
-        "CHEM-201"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2307": {
     "corequisites": {
       "cross_list_courses": [
@@ -9408,15 +9394,6 @@
       }
     }
   },
-  "2540": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2541": {
     "restrictions": {
       "classification": {
@@ -9427,15 +9404,6 @@
     }
   },
   "2542": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2543": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -10173,20 +10141,6 @@
       }
     }
   },
-  "2580": {
-    "corequisites": {
-      "cross_list_courses": [
-        "PHYS-115"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2581": {
     "corequisites": {
       "cross_list_courses": [
@@ -10202,20 +10156,6 @@
     }
   },
   "2582": {
-    "corequisites": {
-      "cross_list_courses": [
-        "PHYS-117"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2583": {
     "corequisites": {
       "cross_list_courses": [
         "PHYS-117"
@@ -10612,16 +10552,6 @@
     }
   },
   "2612": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Senior",
-          "Junior"
-        ]
-      }
-    }
-  },
-  "2613": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11796,52 +11726,6 @@
       }
     }
   },
-  "2687": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ  100",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  105",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  106",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  107",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  140",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  160",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  180",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ  195",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2689": {
     "restrictions": {
       "classification": {
@@ -12029,33 +11913,6 @@
         ],
         "must_be": [
           "Frosh"
-        ]
-      }
-    }
-  },
-  "2700": {
-    "corequisites": {
-      "cross_list_courses": [
-        "CHEM-201L"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM  120",
-          "type": "course"
-        },
-        {
-          "course": "CHEM  130",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
         ]
       }
     }
@@ -14482,28 +14339,6 @@
       }
     }
   },
-  "2867": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC  200",
-          "type": "course"
-        },
-        {
-          "course": "PSYC  322",
-          "type": "course"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2868": {
     "prerequisites": {
       "nested": [
@@ -14653,41 +14488,6 @@
     }
   },
   "2874": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2875": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC  330",
-          "type": "course"
-        },
-        {
-          "course": "PSYC  334",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "PSYC  200",
-              "type": "course"
-            },
-            {
-              "course": "PSYC  322",
-              "type": "course"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15115,15 +14915,6 @@
     }
   },
   "2911": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2912": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16801,20 +16592,46 @@
       }
     }
   },
-  "2996": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2997": {
     "restrictions": {
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "3015": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC  330",
+          "type": "course"
+        },
+        {
+          "course": "PSYC  334",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "PSYC  200",
+              "type": "course"
+            },
+            {
+              "course": "PSYC  322",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

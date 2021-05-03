@@ -126,15 +126,6 @@
     ]
   },
   {
-    "name": "Cultural Studies Program",
-    "depts": [
-      {
-        "code": "CSP",
-        "name": "Cultural Studies Program"
-      }
-    ]
-  },
-  {
     "name": "Critical Theory and Social Justice",
     "depts": [
       {
@@ -194,6 +185,15 @@
       {
         "code": "FREN",
         "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "First Year Seminars",
+    "depts": [
+      {
+        "code": "FYS",
+        "name": "First Year Seminars"
       }
     ]
   },

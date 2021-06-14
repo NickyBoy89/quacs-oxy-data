@@ -298,10 +298,10 @@
   "Sharla Fett": {
     "url": "/academics/faculty/sharla-fett",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/fett-sharla_400x400.jpg?itok=inWq5dwJ",
-    "title": "Professor, History; Advisory Committee, American Studies",
+    "title": "Robert Glass Cleland Professor of American History; Advisory Committee, American Studies",
     "biography": "Sharla Fett teaches courses on early U.S. and African American history, including the Atlantic World, Slavery and the Antebellum South, U.S. Women\u2019s History, and Collective Memory and Slavery\u2019s Legacies. Read her Oxy Story profile.",
     "education": "B.A., Carleton College; M.A., Stanford University; Ph.D., Rutgers University ",
-    "area": "History; Advisory Committee, American Studies"
+    "area": "American Studies"
   },
   "James Ford III": {
     "url": "/academics/faculty/james-ford-iii",
@@ -626,10 +626,10 @@
   "Amy Lyford": {
     "url": "/academics/faculty/amy-lyford",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/lyford-amy_400x400.jpg?itok=UeeuoiGe",
-    "title": "Professor, Art and Art History",
+    "title": "Arthur G Coons Professor in the History of Ideas",
     "biography": "Amy Lyford\u2019s research centers on twentieth-century American and European artistic practices, with a special interest in the histories of photography and sculpture.",
     "education": "B.A., Pomona College; M.A., Boston University; Ph.D., U.C. Berkeley",
-    "area": "Art and Art History"
+    "area": ""
   },
   "Linda Lyke": {
     "url": "/academics/faculty/linda-lyke",
@@ -1154,10 +1154,10 @@
   "Kristi Upson-Saia": {
     "url": "/academics/faculty/kristi-upson-saia",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/upson-saia_kristi-05.jpg?itok=2gaQ5qm8",
-    "title": "Professor, Religious Studies ",
+    "title": "David B. and Mary H. Gamble Professorship in Religion",
     "biography": "Areas of specialization:\u00a0religions of the late ancient Mediterranean world;\u00a0dress and performativity;\u00a0history of medicine",
     "education": "B.A., University of Washington;  M.Div., Princeton Theol. Sem.;  Ph.D., Duke University  ",
-    "area": "Religious Studies "
+    "area": ""
   },
   "Jonathan Veitch": {
     "url": "/academics/faculty/jonathan-veitch",
@@ -2007,6 +2007,14 @@
     "education": "B.A., Harvard University; M.A., Ph.D., University of California, Los Angeles",
     "area": "Religious Studies"
   },
+  "Jonathan Richards": {
+    "url": "/academics/faculty/jonathan-richards",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/jonathan_richards_head_shot.jpg?itok=pnYAyT_U",
+    "title": "Non-Tenure Track Assistant Professor, Music; Director of the Jazz Ensemble",
+    "biography": "Born and raised in Los Angeles,\u00a0Jonathan\u00a0is an active member of the music industry as a bassist, composer and educator. He is a graduate of the USC Thornton School of Music, where he studied with classical bass virtuoso Nico Abondolo and jazz legend John Clayton. He holds a Master\u2019s Degree from Cal Arts and is also on faculty at Pasadena City College. As a touring and studio musician, he has had the privilege of working with an array of musical artists, including David Foster, Khalid, Toni Braxton, Joe LaBarbera, Steve Lehman, Snuffy Walden, and the Clayton-Hamilton Jazz Orchestra. He has been featured on numerous recording projects for albums, television, and film. These include Beyonc\u00e9\u2019s\u00a0The Gift, Katharine McPhee\u2019s PBS Soundstage Special, The American Music Awards, and scoring sessions for shows like \"The Night Of\" (HBO), \"Mrs. America\" (HULU), \"Dear White People\" (Netfilx), and many more.\u00a0Jonathan\u00a0is passionate about education and engaging with his students. He is excited to lead Occidental\u2019s ensembles in many creative endeavors.",
+    "education": "B.A., USC; M.F.A., California Institute of the Arts",
+    "area": "Music; Director of the Jazz Ensemble"
+  },
   "Karina Rincon": {
     "url": "/academics/faculty/karina-rincon",
     "portrait": "/sites/default/files/campaign-logo.png",
@@ -2449,7 +2457,7 @@
   },
   "Robert Gottlieb": {
     "url": "/academics/faculty/robert-gottlieb",
-    "portrait": "/sites/default/files/campaign-logo.png",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/bob.jpg?itok=lHW_LBZQ",
     "title": "Professor, Urban & Environmental Policy, Emeritus",
     "biography": "",
     "education": "A.B., Reed College  ",

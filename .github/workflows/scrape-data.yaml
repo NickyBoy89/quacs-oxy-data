@@ -32,7 +32,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -59,7 +59,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -86,7 +86,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -116,7 +116,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -149,7 +149,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -182,7 +182,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |
@@ -217,7 +217,7 @@ jobs:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: action/setup-python@v2
+        uses: actions/setup-python@v2
           python-version: '3.x'
       - name: Setup pip requirements
         run: |

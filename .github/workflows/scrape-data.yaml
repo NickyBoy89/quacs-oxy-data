@@ -293,8 +293,8 @@ jobs:
           cp faculty/faculty.json data
       - name: Generate prerequisites graph on all the data
         run: |
-          python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prerequisite_graph.json
-          cp prerequisite_graph.json data
+          python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prereq_graph.json
+          cp prereq_graph.json data
           ls
       - name: Commit new data
         run: |
@@ -303,7 +303,7 @@ jobs:
           cd data
           git config user.name "Quacs Oxy Scraper" && git config user.email "scraper@nicholasnovak.io"
           git add faculty.json
-          git add prerequisite_graph.json
+          git add prereq_graph.json
           git add semester_data/${current_semester}/courses.json semester_data/${current_semester}/mod.rs
           git add semester_data/${current_semester}/prerequisites.json
           git add semester_data/${current_semester}/schools.json

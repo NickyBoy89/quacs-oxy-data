@@ -166,6 +166,9 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: semesters
+      - name: List files
+        run: |
+          ls
       - name: Scrape
         run: |
           mv semesters/semesters.json .

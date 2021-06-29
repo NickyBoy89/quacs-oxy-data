@@ -18,7 +18,7 @@ on:
 # rmp_scraper depends on nothing and generates rmp.json
 # school_scraper depends on semesters.json and generates schools.json
 # semesters depends on nothing and generates semesters.json
-# sis_scraper depends on semesters.json and catalog.json and generates courses.json
+# sis_scraper depends on semesters.json and catalog.json and generates courses.json and mod.rs
 jobs:
   # A lot of things depend on semesters.json, so start this first
   scrape-semesters:
@@ -243,7 +243,9 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: courses
-          path: courses.json
+          path: |
+            courses.json
+            mod.rs
   commit-data:
     name: Commit changes
     continue-on-error: true
@@ -269,7 +271,7 @@ jobs:
           current_semester=$(tail -n 1 semesters/semesters.json)
           echo $current_semester
           mkdir -p data/semester_data/${current_semester}
-          cp courses/courses.json mod/mod.rs data/semester_data/${current_semester}
+          cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
           cp catalog/catalog.json data/semester_data/${current_semester}
           cp rmp/rmp.json data/semester_data/${current_semester}
           cp prerequisites/prerequisites.json data/semester_data/${current_semester}

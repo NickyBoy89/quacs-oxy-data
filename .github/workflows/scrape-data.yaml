@@ -252,6 +252,21 @@ jobs:
     runs-on: ubuntu-latest
     needs: [scrape-semesters, scrape-faculty-directory, scrape-rmp, scrape-catalog, scrape-prerequisites, scrape-schools, scrape-sis]
     steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Setup pip requirements
+        run: |
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
       - name: Checkout data
         uses: actions/checkout@v2
         with:
@@ -266,10 +281,9 @@ jobs:
         run: |
           cd courses
           ls
-      - name: Commit new data
+      - name: Copy data from scrapers to data directory
         run: |
           current_semester=$(tail -n 1 semesters/semesters.json)
-          echo $current_semester
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
           cp catalog/catalog.json data/semester_data/${current_semester}
@@ -277,9 +291,17 @@ jobs:
           cp prerequisites/prerequisites.json data/semester_data/${current_semester}
           cp schools/schools.json data/semester_data/${current_semester}
           cp faculty/faculty.json data
+      - name: Generate prerequisites graph on all the data
+        run: |
+          python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prerequisite_graph.json
+      - name: Commit new data
+        run: |
+          current_semester=$(tail -n 1 semesters/semesters.json)
+          echo $current_semester
           cd data
           git config user.name "Quacs Oxy Scraper" && git config user.email "scraper@nicholasnovak.io"
           git add faculty.json
+          git add prerequisite_graph.json
           git add semester_data/${current_semester}/courses.json semester_data/${current_semester}/mod.rs
           git add semester_data/${current_semester}/prerequisites.json
           git add semester_data/${current_semester}/schools.json

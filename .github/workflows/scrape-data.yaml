@@ -134,7 +134,6 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          mv semesters/semesters.json .
           python3 quacs-oxy-scraper/catalog_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
@@ -166,9 +165,6 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: semesters
-      - name: List files
-        run: |
-          ls
       - name: Scrape
         run: |
           python3 quacs-oxy-scraper/prerequisite_scraper/main.py
@@ -203,7 +199,6 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          mv semesters/semesters.json .
           python3 quacs-oxy-scraper/school_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
@@ -243,8 +238,6 @@ jobs:
           name: catalog
       - name: Scrape
         run: |
-          mv semesters/semesters.json .
-          mv catalog/catalog.json .
           python3 quacs-oxy-scraper/sis_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2

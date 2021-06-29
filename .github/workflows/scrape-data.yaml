@@ -294,6 +294,7 @@ jobs:
       - name: Generate prerequisites graph on all the data
         run: |
           python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prerequisite_graph.json
+          cp prerequisite_graph.json data
           ls
       - name: Commit new data
         run: |

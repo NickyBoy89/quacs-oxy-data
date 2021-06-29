@@ -201,8 +201,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          mv semesters/semesters.json .
-        run: |
+        mv semesters/semesters.json .
           python3 quacs-oxy-scraper/school_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2

@@ -253,7 +253,7 @@ jobs:
     name: Commit changes
     continue-on-error: true
     runs-on: ubuntu-latest
-    needs: [data_scraper]
+    needs: [scrape-semesters, scrape-faculty-directory, scrape-rmp, scrape-catalog, scrape-prerequisites, scrape-schools, scrape-sis]
     steps:
       - name: Checkout data
         uses: actions/checkout@v2

@@ -266,7 +266,7 @@ jobs:
           ls
       - name: Commit new data
         run: |
-          current_semester=$(tail -n 1 courses/semesters.json)
+          current_semester=$(tail -n 1 semesters/semesters.json)
           echo $current_semester
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}

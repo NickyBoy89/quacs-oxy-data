@@ -171,7 +171,6 @@ jobs:
           ls
       - name: Scrape
         run: |
-          mv semesters/semesters.json .
           python3 quacs-oxy-scraper/prerequisite_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2

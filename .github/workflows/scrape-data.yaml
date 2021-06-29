@@ -8,73 +8,241 @@ on:
     types: rescrape
   workflow_dispatch:
   schedule:
+    # Once every week
     - cron: "0 0 * * 1"
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# All jobs are paralleled with the following rules:
+# catalog_scraper depends on semesters.json and creates catalog.json
+# faculty_directory_scraper depends on nothing and create faculty.json
+# prerequisite_scraper depends on semesters.json and generates prerequisites.json
+# rmp_scraper depends on nothing and generates rmp.json
+# school_scraper depends on semesters.json and generates schools.json
+# semesters depends on nothing and generates semesters.json
+# sis_scraper depends on semesters.json and catalog.json and generates courses.json
 jobs:
-  data_scraper:
-    name: "Scrape All Data"
-    runs-on: ubuntu-latest
+  # A lot of things depend on semesters.json, so start this first
+  scrape-semesters:
+    name: "Scrape semesters"
+    runs-on:
+      ubuntu-latest
     steps:
       - name: Checkout scrapers
         uses: actions/checkout@v2
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
-
       - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
+        uses: action/setup-python@v2
           python-version: '3.x'
-
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
           python -m pip install --upgrade pip
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
-
-      - name: Get semesters
+      - name: Scrape
         run: |
           python3 quacs-oxy-scraper/semesters/main.py
-
-      - name: Scrape schools
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: semesters
+          path: semesters.json
+  scrape-faculty-directory:
+    name: "Scrape faculty directory"
+    runs-on:
+      ubuntu-latest
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
         run: |
-          python3 quacs-oxy-scraper/school_scraper/main.py
-
-      - name: Scrape catalog
-        run: |
-          python3 quacs-oxy-scraper/catalog_scraper/main.py
-
-      - name: Scrape faculty directory
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
+      - name: Scrape
         run: |
           python3 quacs-oxy-scraper/faculty_directory_scraper/main.py
-
-      - name: Scrape prerequisites
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: faculty
+          path: faculty.json
+  scrape-rmp:
+    name: "Scrape RateMyProfessors"
+    runs-on:
+      ubuntu-latest
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
         run: |
-          python3 quacs-oxy-scraper/prerequisite_scraper/main.py
-
-      - name: Scrape RateMyProfessors
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
+      - name: Scrape
         run: |
           python3 quacs-oxy-scraper/rmp_scraper/main.py
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: rmp
+          path: rmp.json
 
-      - name: Scrape SIS
+  # These things depend on semesters.json, run them after the [scrape-semesters] job is done
+  scrape-catalog:
+    name: "Scrape catalog"
+    runs-on:
+      ubuntu-latest
+    needs: [scrape-semesters]
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
         run: |
-          python3 quacs-oxy-scraper/sis_scraper/main.py
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
+      - name: Get scraped data
+        uses: actions/download-artifact@v2
+        with:
+          name: semesters
+      - name: Scrape
+        run: |
+          mv semesters/semesters.json .
+          python3 quacs-oxy-scraper/catalog_scraper/main.py
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: catalog
+          path: catalog.json
+  scrape-prerequisites:
+    name: "Scrape prerequisites"
+    runs-on:
+      ubuntu-latest
+    needs: [scrape-semesters]
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
+        run: |
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
+      - name: Get scraped data
+        uses: actions/download-artifact@v2
+        with:
+          name: semesters
+      - name: Scrape
+        run: |
+          mv semesters/semesters.json .
+          python3 quacs-oxy-scraper/prerequisite_scraper/main.py
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: prerequisites
+          path: prerequisites.json
+  scrape-schools:
+    name: "Scrape schools"
+    runs-on:
+      ubuntu-latest
+    needs: [scrape-semesters]
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
+        run: |
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+      - name: Get scraped data
+        uses: actions/download-artifact@v2
+        with:
+          name: semesters
+      - name: Scrape
+        run: |
+          mv semesters/semesters.json .
+        run: |
+          python3 quacs-oxy-scraper/school_scraper/main.py
+      - name: Upload scraped data
+        uses: actions/upload-artifact@v2
+        with:
+          name: schools
+          path: schools.json
 
-      - name: Upload data
+  # This depends on semesters.json and catalog.json, so wait on [scrape-semesters] and [scrape-catalog]
+  scrape-sis:
+    name: "Scrape SIS"
+    runs-on:
+      ubuntu-latest
+    needs: [scrape-semesters, scrape-catalog]
+    steps:
+      - name: Checkout scrapers
+        uses: actions/checkout@v2
+        with:
+          path: 'quacs-oxy-scraper'
+          repository: 'NickyBoy89/quacs-oxy-scraper'
+      - name: Set up Python
+        uses: action/setup-python@v2
+          python-version: '3.x'
+      - name: Setup pip requirements
+        run: |
+          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
+          python -m pip install --upgrade pip
+          pip install -r quacs-oxy-scraper/requirements.txt
+          ls
+      - name: Get scraped data
+        uses: actions/download-artifact@v2
+        with:
+          name: semesters
+      - name: Get more data
+        uses: actions/download-artifact@v2
+        with:
+          name: catalog
+      - name: Scrape
+        run: |
+          mv semesters/semesters.json .
+          mv catalog/catalog.json .
+          python3 quacs-oxy-scraper/sis_scraper/main.py
+      - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
           name: courses
-          path: |
-            courses.json
-            mod.rs
-            catalog.json
-            rmp.json
-            prerequisites.json
-            faculty.json
-            schools.json
-            semesters.json
+          path: courses.json
   commit-data:
     name: Commit changes
     continue-on-error: true
@@ -87,29 +255,25 @@ jobs:
           path: 'data'
           repository: 'NickyBoy89/quacs-oxy-data'
           clean: true
-
       - name: Get scraped data
         uses: actions/download-artifact@v2
-
       - name: Generate meta json file
         run: echo {\"last_updated\":\"$(date --iso-8601=seconds -u)\"} > data/meta.json
-
       - name: Find whats in the artifact
         run: |
           cd courses
           ls
-
       - name: Commit new data
         run: |
           current_semester=$(tail -n 1 courses/semesters.json)
           echo $current_semester
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
-          cp courses/catalog.json data/semester_data/${current_semester}
-          cp courses/rmp.json data/semester_data/${current_semester}
-          cp courses/prerequisites.json data/semester_data/${current_semester}
-          cp courses/schools.json data/semester_data/${current_semester}
-          cp courses/faculty.json data
+          cp catalog/catalog.json data/semester_data/${current_semester}
+          cp rmp/rmp.json data/semester_data/${current_semester}
+          cp prerequisites/prerequisites.json data/semester_data/${current_semester}
+          cp schools/schools.json data/semester_data/${current_semester}
+          cp faculty/faculty.json data
           cd data
           git config user.name "Quacs Oxy Scraper" && git config user.email "scraper@nicholasnovak.io"
           git add faculty.json

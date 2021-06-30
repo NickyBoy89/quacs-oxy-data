@@ -8,8 +8,8 @@ on:
     types: rescrape
   workflow_dispatch:
   schedule:
-    # Once every week
-    - cron: "0 0 * * 1"
+    # Once every hour
+    - cron: "0 * * * *"
 
 # All jobs are paralleled with the following rules:
 # catalog_scraper depends on semesters.json and creates catalog.json

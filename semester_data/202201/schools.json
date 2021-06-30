@@ -1,0 +1,443 @@
+[
+  {
+    "name": "American Studies",
+    "depts": [
+      {
+        "code": "AMST",
+        "name": "American Studies"
+      }
+    ]
+  },
+  {
+    "name": "Arabic",
+    "depts": [
+      {
+        "code": "ARAB",
+        "name": "Arabic"
+      }
+    ]
+  },
+  {
+    "name": "Art History",
+    "depts": [
+      {
+        "code": "ARTH",
+        "name": "Art History"
+      }
+    ]
+  },
+  {
+    "name": "Studio Art",
+    "depts": [
+      {
+        "code": "ARTS",
+        "name": "Studio Art"
+      }
+    ]
+  },
+  {
+    "name": "Biochemistry",
+    "depts": [
+      {
+        "code": "BICH",
+        "name": "Biochemistry"
+      }
+    ]
+  },
+  {
+    "name": "Biology",
+    "depts": [
+      {
+        "code": "BIO",
+        "name": "Biology"
+      }
+    ]
+  },
+  {
+    "name": "Black Studies",
+    "depts": [
+      {
+        "code": "BLST",
+        "name": "Black Studies"
+      }
+    ]
+  },
+  {
+    "name": "Barack Obama Scholars Program",
+    "depts": [
+      {
+        "code": "BOSP",
+        "name": "Barack Obama Scholars Program"
+      }
+    ]
+  },
+  {
+    "name": "Chemistry",
+    "depts": [
+      {
+        "code": "CHEM",
+        "name": "Chemistry"
+      }
+    ]
+  },
+  {
+    "name": "Chinese Studies",
+    "depts": [
+      {
+        "code": "CHIN",
+        "name": "Chinese Studies"
+      }
+    ]
+  },
+  {
+    "name": "Cognitive Science",
+    "depts": [
+      {
+        "code": "COGS",
+        "name": "Cognitive Science"
+      }
+    ]
+  },
+  {
+    "name": "Computer Science",
+    "depts": [
+      {
+        "code": "COMP",
+        "name": "Computer Science"
+      }
+    ]
+  },
+  {
+    "name": "Core Program",
+    "depts": [
+      {
+        "code": "CORE",
+        "name": "Core Program"
+      }
+    ]
+  },
+  {
+    "name": "Comparative Studies in Literature and Culture",
+    "depts": [
+      {
+        "code": "CSLC",
+        "name": "Comparative Studies in Literature and Culture"
+      }
+    ]
+  },
+  {
+    "name": "Critical Theory and Social Justice",
+    "depts": [
+      {
+        "code": "CTSJ",
+        "name": "Critical Theory and Social Justice"
+      }
+    ]
+  },
+  {
+    "name": "Diplomacy & World Affairs",
+    "depts": [
+      {
+        "code": "DWA",
+        "name": "Diplomacy & World Affairs"
+      }
+    ]
+  },
+  {
+    "name": "East Asian Studies",
+    "depts": [
+      {
+        "code": "EASN",
+        "name": "East Asian Studies"
+      }
+    ]
+  },
+  {
+    "name": "Economics",
+    "depts": [
+      {
+        "code": "ECON",
+        "name": "Economics"
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "depts": [
+      {
+        "code": "EDUC",
+        "name": "Education"
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "depts": [
+      {
+        "code": "ENGL",
+        "name": "English"
+      }
+    ]
+  },
+  {
+    "name": "French",
+    "depts": [
+      {
+        "code": "FREN",
+        "name": "French"
+      }
+    ]
+  },
+  {
+    "name": "First Year Seminars",
+    "depts": [
+      {
+        "code": "FYS",
+        "name": "First Year Seminars"
+      }
+    ]
+  },
+  {
+    "name": "Geology",
+    "depts": [
+      {
+        "code": "GEO",
+        "name": "Geology"
+      }
+    ]
+  },
+  {
+    "name": "German",
+    "depts": [
+      {
+        "code": "GERM",
+        "name": "German"
+      }
+    ]
+  },
+  {
+    "name": "Greek",
+    "depts": [
+      {
+        "code": "GRK",
+        "name": "Greek"
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "depts": [
+      {
+        "code": "HIST",
+        "name": "History"
+      }
+    ]
+  },
+  {
+    "name": "Internships",
+    "depts": [
+      {
+        "code": "INT",
+        "name": "Internships"
+      }
+    ]
+  },
+  {
+    "name": "Japanese Studies",
+    "depts": [
+      {
+        "code": "JAPN",
+        "name": "Japanese Studies"
+      }
+    ]
+  },
+  {
+    "name": "Kinesiology",
+    "depts": [
+      {
+        "code": "KINE",
+        "name": "Kinesiology"
+      }
+    ]
+  },
+  {
+    "name": "Latin",
+    "depts": [
+      {
+        "code": "LATN",
+        "name": "Latin"
+      }
+    ]
+  },
+  {
+    "name": "Linguistics",
+    "depts": [
+      {
+        "code": "LING",
+        "name": "Linguistics"
+      }
+    ]
+  },
+  {
+    "name": "Latino/a and Latin American Studies",
+    "depts": [
+      {
+        "code": "LLAS",
+        "name": "Latino/a and Latin American Studies"
+      }
+    ]
+  },
+  {
+    "name": "Media Arts and Culture",
+    "depts": [
+      {
+        "code": "MAC",
+        "name": "Media Arts and Culture"
+      }
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "depts": [
+      {
+        "code": "MATH",
+        "name": "Mathematics"
+      }
+    ]
+  },
+  {
+    "name": "Music Applied Study",
+    "depts": [
+      {
+        "code": "MUSA",
+        "name": "Music Applied Study"
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "depts": [
+      {
+        "code": "MUSC",
+        "name": "Music"
+      }
+    ]
+  },
+  {
+    "name": "Physical Activities",
+    "depts": [
+      {
+        "code": "PHAC",
+        "name": "Physical Activities"
+      }
+    ]
+  },
+  {
+    "name": "Philosophy",
+    "depts": [
+      {
+        "code": "PHIL",
+        "name": "Philosophy"
+      }
+    ]
+  },
+  {
+    "name": "Physics",
+    "depts": [
+      {
+        "code": "PHYS",
+        "name": "Physics"
+      }
+    ]
+  },
+  {
+    "name": "Politics",
+    "depts": [
+      {
+        "code": "POLS",
+        "name": "Politics"
+      }
+    ]
+  },
+  {
+    "name": "Psychology",
+    "depts": [
+      {
+        "code": "PSYC",
+        "name": "Psychology"
+      }
+    ]
+  },
+  {
+    "name": "Public Health",
+    "depts": [
+      {
+        "code": "PUBH",
+        "name": "Public Health"
+      }
+    ]
+  },
+  {
+    "name": "Religious Studies",
+    "depts": [
+      {
+        "code": "RELS",
+        "name": "Religious Studies"
+      }
+    ]
+  },
+  {
+    "name": "Russian",
+    "depts": [
+      {
+        "code": "RUSN",
+        "name": "Russian"
+      }
+    ]
+  },
+  {
+    "name": "Sociology",
+    "depts": [
+      {
+        "code": "SOC",
+        "name": "Sociology"
+      }
+    ]
+  },
+  {
+    "name": "Spanish",
+    "depts": [
+      {
+        "code": "SPAN",
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Theater",
+    "depts": [
+      {
+        "code": "THEA",
+        "name": "Theater"
+      }
+    ]
+  },
+  {
+    "name": "Urban & Environmental Policy",
+    "depts": [
+      {
+        "code": "UEP",
+        "name": "Urban & Environmental Policy"
+      }
+    ]
+  },
+  {
+    "name": "Writing & Rhetoric",
+    "depts": [
+      {
+        "code": "WRD",
+        "name": "Writing & Rhetoric"
+      }
+    ]
+  }
+]

@@ -16,7 +16,7 @@ while read semester; do
   mkdir -p semester_data/$semester
   echo "Starting work on semester $semester"
   # To skip a range of semesters that are already generated, set this number to the highest semester generated
-  if [ $semester -lt 201603 ]
+  if [ $semester -lt 201803 ]
   then
     continue
   fi

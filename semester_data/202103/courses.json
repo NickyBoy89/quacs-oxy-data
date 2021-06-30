@@ -5,11 +5,6 @@
     "courses": []
   },
   {
-    "name": "Arabic",
-    "code": "ARAB",
-    "courses": []
-  },
-  {
     "name": "Art/History",
     "code": "ARTH",
     "courses": []
@@ -17,7 +12,37 @@
   {
     "name": "Art/Studio",
     "code": "ARTS",
-    "courses": []
+    "courses": [
+      {
+        "title": "Painting Fundamentals",
+        "subj": "ARTS",
+        "crse": "3001",
+        "id": "ARTS-102",
+        "sections": [
+          {
+            "crn": 3001,
+            "subj": "ARTS",
+            "crse": "102",
+            "sec": "102",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Painting Fundamentals",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Linda M. Besemer",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Barack Obama Scholars Program",
@@ -67,7 +92,43 @@
   {
     "name": "Core",
     "code": "CORE",
-    "courses": []
+    "courses": [
+      {
+        "title": "Imagining the Future",
+        "subj": "CORE",
+        "crse": "3032",
+        "id": "CORE-111",
+        "sections": [
+          {
+            "crn": 3032,
+            "subj": "CORE",
+            "crse": "111",
+            "sec": "111",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Imagining the Future",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "timeStart": 900,
+                "timeEnd": 1200,
+                "instructor": "James E. Ford",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Critical Theory/Social Justice",
@@ -75,14 +136,100 @@
     "courses": []
   },
   {
-    "name": "Cultural Studies Program",
-    "code": "CSP",
-    "courses": []
-  },
-  {
     "name": "Diplomacy and World Affairs",
     "code": "DWA",
-    "courses": []
+    "courses": [
+      {
+        "title": "International Development",
+        "subj": "DWA",
+        "crse": "3002",
+        "id": "DWA-221",
+        "sections": [
+          {
+            "crn": 3002,
+            "subj": "DWA",
+            "crse": "221",
+            "sec": "221",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Development",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Sophal Ear",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar",
+        "subj": "DWA",
+        "crse": "3004",
+        "id": "DWA-490",
+        "sections": [
+          {
+            "crn": 3004,
+            "subj": "DWA",
+            "crse": "490",
+            "sec": "490",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Movindri Reddy",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ideology at the Extremes",
+        "subj": "DWA",
+        "crse": "3003",
+        "id": "DWA-236",
+        "sections": [
+          {
+            "crn": 3003,
+            "subj": "DWA",
+            "crse": "236",
+            "sec": "236",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Ideology at the Extremes",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "timeStart": 1300,
+                "timeEnd": 1500,
+                "instructor": "Lan Chu",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Economics",
@@ -97,6 +244,11 @@
   {
     "name": "English",
     "code": "ENGL",
+    "courses": []
+  },
+  {
+    "name": "First Year Seminar",
+    "code": "FYS",
     "courses": []
   },
   {
@@ -122,7 +274,40 @@
   {
     "name": "History",
     "code": "HIST",
-    "courses": []
+    "courses": [
+      {
+        "title": "The United States in the World Since 1900",
+        "subj": "HIST",
+        "crse": "3005",
+        "id": "HIST-209",
+        "sections": [
+          {
+            "crn": 3005,
+            "subj": "HIST",
+            "crse": "209",
+            "sec": "209",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The United States in the World Since 1900",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "timeStart": 1500,
+                "timeEnd": 1700,
+                "instructor": "Jane H. Hong",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Japanese",
@@ -152,21 +337,274 @@
   {
     "name": "Mathematics",
     "code": "MATH",
-    "courses": []
+    "courses": [
+      {
+        "title": "Calculus 1",
+        "subj": "MATH",
+        "crse": "3006",
+        "id": "MATH-110",
+        "sections": [
+          {
+            "crn": 3006,
+            "subj": "MATH",
+            "crse": "110",
+            "sec": "110",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 1",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "James L. Brown",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multivariable Calculus",
+        "subj": "MATH",
+        "crse": "3008",
+        "id": "MATH-212",
+        "sections": [
+          {
+            "crn": 3008,
+            "subj": "MATH",
+            "crse": "212",
+            "sec": "212",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Multivariable Calculus",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "R",
+                  "F"
+                ],
+                "timeStart": 1200,
+                "timeEnd": 1255,
+                "instructor": "Jeffrey S. Miller",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Calculus 2",
+        "subj": "MATH",
+        "crse": "3007",
+        "id": "MATH-120",
+        "sections": [
+          {
+            "crn": 3007,
+            "subj": "MATH",
+            "crse": "120",
+            "sec": "120",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 2",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "timeStart": 1030,
+                "timeEnd": 1200,
+                "instructor": "Treena Basu",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Media Arts and Culture",
     "code": "MAC",
-    "courses": []
+    "courses": [
+      {
+        "title": "Topics in Global Media. Foreigners and Cinematic Border Crossings",
+        "subj": "MAC",
+        "crse": "3009",
+        "id": "MAC-248",
+        "sections": [
+          {
+            "crn": 3009,
+            "subj": "MAC",
+            "crse": "248",
+            "sec": "248",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Global Media. Foreigners and Cinematic Border Crossings",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "timeStart": 1000,
+                "timeEnd": 1200,
+                "instructor": "Katarzyna Marciniak",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Music",
     "code": "MUSC",
-    "courses": []
+    "courses": [
+      {
+        "title": "Music Theory I",
+        "subj": "MUSC",
+        "crse": "3010",
+        "id": "MUSC-101",
+        "sections": [
+          {
+            "crn": 3010,
+            "subj": "MUSC",
+            "crse": "101",
+            "sec": "101",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music Theory I",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "timeStart": 1500,
+                "timeEnd": 1700,
+                "instructor": "Stephen Cabell",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Music Applied Study",
     "code": "MUSA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Argentina",
+    "code": "ABAR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Australia",
+    "code": "ABAU",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Cameroon",
+    "code": "ABCN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Czech Republic",
+    "code": "ABCZ",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Ecuador",
+    "code": "ABEC",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-France",
+    "code": "ABFR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Greece",
+    "code": "ABGR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Hong Kong",
+    "code": "ABHK",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Italy",
+    "code": "ABIT",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Japan",
+    "code": "ABJA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Nepal",
+    "code": "ABNE",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-South Africa",
+    "code": "ABSA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-South Korea",
+    "code": "ABSK",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Spain",
+    "code": "ABSP",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Taiwan",
+    "code": "ABTN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Viet Nam",
+    "code": "ABVN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-the-Netherlands",
+    "code": "ABNT",
+    "courses": []
+  },
+  {
+    "name": "Oxy-in-the-United Kingdom",
+    "code": "ABUK",
     "courses": []
   },
   {
@@ -182,7 +620,74 @@
   {
     "name": "Physics",
     "code": "PHYS",
-    "courses": []
+    "courses": [
+      {
+        "title": "General Physics I Laboratory",
+        "subj": "PHYS",
+        "crse": "3012",
+        "id": "PHYS-115L",
+        "sections": [
+          {
+            "crn": 3012,
+            "subj": "PHYS",
+            "crse": "115L",
+            "sec": "115L",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "General Physics I Laboratory",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "instructor": "Gabriel Freiman",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "General Physics I",
+        "subj": "PHYS",
+        "crse": "3011",
+        "id": "PHYS-115",
+        "sections": [
+          {
+            "crn": 3011,
+            "subj": "PHYS",
+            "crse": "115",
+            "sec": "115",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "General Physics I",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "timeStart": 930,
+                "timeEnd": 1030,
+                "instructor": "Jean-Luc Gauvreau",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Politics",
@@ -212,7 +717,40 @@
   {
     "name": "Sociology",
     "code": "SOC",
-    "courses": []
+    "courses": [
+      {
+        "title": "Introduction to Sociology",
+        "subj": "SOC",
+        "crse": "3013",
+        "id": "SOC-101",
+        "sections": [
+          {
+            "crn": 3013,
+            "subj": "SOC",
+            "crse": "101",
+            "sec": "101",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Sociology",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "timeStart": 800,
+                "timeEnd": 1000,
+                "instructor": "Min Y. Yoo",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Spanish",
@@ -232,6 +770,68 @@
   {
     "name": "Writing and Rhetoric",
     "code": "WRD",
-    "courses": []
+    "courses": [
+      {
+        "title": "The Art of Essay Writing",
+        "subj": "WRD",
+        "crse": "3015",
+        "id": "WRD-201",
+        "sections": [
+          {
+            "crn": 3015,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "201",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "timeStart": 1330,
+                "timeEnd": 1530,
+                "instructor": "Ara Corbett",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creative Nonfiction",
+        "subj": "WRD",
+        "crse": "3014",
+        "id": "WRD-301",
+        "sections": [
+          {
+            "crn": 3014,
+            "subj": "WRD",
+            "crse": "301",
+            "sec": "301",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Creative Nonfiction",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Sarah C. Ostendorf",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1,0 +1,502 @@
+[
+  {
+    "name": "American Studies",
+    "code": "AMST",
+    "courses": [
+      {
+        "title": "Power and Identity",
+        "subj": "AMST",
+        "crse": "3105",
+        "id": "AMST-111",
+        "sections": [
+          {
+            "crn": 3105,
+            "subj": "AMST",
+            "crse": "111",
+            "sec": "111",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Power and Identity",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Kerry W Thompson",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Art/History",
+    "code": "ARTH",
+    "courses": []
+  },
+  {
+    "name": "Art/Studio",
+    "code": "ARTS",
+    "courses": []
+  },
+  {
+    "name": "Barack Obama Scholars Program",
+    "code": "BOSP",
+    "courses": []
+  },
+  {
+    "name": "Biochemistry",
+    "code": "BICH",
+    "courses": []
+  },
+  {
+    "name": "Biology",
+    "code": "BIO",
+    "courses": []
+  },
+  {
+    "name": "Black Studies",
+    "code": "BLST",
+    "courses": []
+  },
+  {
+    "name": "Chemistry",
+    "code": "CHEM",
+    "courses": []
+  },
+  {
+    "name": "Chinese",
+    "code": "CHIN",
+    "courses": []
+  },
+  {
+    "name": "Cognitive Science",
+    "code": "COGS",
+    "courses": [
+      {
+        "title": "I.S.:Multi-Sensory Integration",
+        "subj": "COGS",
+        "crse": "3001",
+        "id": "COGS-397",
+        "sections": [
+          {
+            "crn": 3001,
+            "subj": "COGS",
+            "crse": "397",
+            "sec": "397",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "I.S.:Multi-Sensory Integration",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Aleksandra Sherman",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Comparative Studies/Lit & Cult",
+    "code": "CSLC",
+    "courses": []
+  },
+  {
+    "name": "Computer Science",
+    "code": "COMP",
+    "courses": [
+      {
+        "title": "I.S.:Adv Computer Science",
+        "subj": "COMP",
+        "crse": "3019",
+        "id": "COMP-397",
+        "sections": [
+          {
+            "crn": 3019,
+            "subj": "COMP",
+            "crse": "397",
+            "sec": "397",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "I.S.:Adv Computer Science",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Jeffrey S. Miller",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Core",
+    "code": "CORE",
+    "courses": []
+  },
+  {
+    "name": "Critical Theory/Social Justice",
+    "code": "CTSJ",
+    "courses": [
+      {
+        "title": "I.S.:Analysis-contemp HipHop",
+        "subj": "CTSJ",
+        "crse": "3008",
+        "id": "CTSJ-397",
+        "sections": [
+          {
+            "crn": 3008,
+            "subj": "CTSJ",
+            "crse": "397",
+            "sec": "397",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "I.S.:Analysis-contemp HipHop",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Donna Kay Maeda",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diplomacy and World Affairs",
+    "code": "DWA",
+    "courses": []
+  },
+  {
+    "name": "Economics",
+    "code": "ECON",
+    "courses": []
+  },
+  {
+    "name": "Education",
+    "code": "EDUC",
+    "courses": [
+      {
+        "title": "I.S.:Educating African Amer",
+        "subj": "EDUC",
+        "crse": "3072",
+        "id": "EDUC-397",
+        "sections": [
+          {
+            "crn": 3072,
+            "subj": "EDUC",
+            "crse": "397",
+            "sec": "397",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "I.S.:Educating African Amer",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "La Mont Terry",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "code": "ENGL",
+    "courses": []
+  },
+  {
+    "name": "First Year Seminar",
+    "code": "FYS",
+    "courses": []
+  },
+  {
+    "name": "French",
+    "code": "FREN",
+    "courses": []
+  },
+  {
+    "name": "Geology",
+    "code": "GEO",
+    "courses": []
+  },
+  {
+    "name": "German",
+    "code": "GERM",
+    "courses": []
+  },
+  {
+    "name": "Greek",
+    "code": "GRK",
+    "courses": []
+  },
+  {
+    "name": "History",
+    "code": "HIST",
+    "courses": []
+  },
+  {
+    "name": "Japanese",
+    "code": "JAPN",
+    "courses": []
+  },
+  {
+    "name": "Kinesiology",
+    "code": "KINE",
+    "courses": []
+  },
+  {
+    "name": "Latin",
+    "code": "LATN",
+    "courses": []
+  },
+  {
+    "name": "Latino/a and Latin Amer Stud",
+    "code": "LLAS",
+    "courses": []
+  },
+  {
+    "name": "Linguistics",
+    "code": "LING",
+    "courses": []
+  },
+  {
+    "name": "Mathematics",
+    "code": "MATH",
+    "courses": [
+      {
+        "title": "I.S.:Ord Diffental Equa",
+        "subj": "MATH",
+        "crse": "3031",
+        "id": "MATH-397",
+        "sections": [
+          {
+            "crn": 3031,
+            "subj": "MATH",
+            "crse": "397",
+            "sec": "397",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "I.S.:Ord Diffental Equa",
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "timeStart": -1,
+                "timeEnd": -1,
+                "instructor": "Jeffrey S. Miller",
+                "dateStart": "8/24",
+                "dateEnd": "11/20",
+                "location": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Media Arts and Culture",
+    "code": "MAC",
+    "courses": []
+  },
+  {
+    "name": "Music",
+    "code": "MUSC",
+    "courses": []
+  },
+  {
+    "name": "Music Applied Study",
+    "code": "MUSA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Argentina",
+    "code": "ABAR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Australia",
+    "code": "ABAU",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Cameroon",
+    "code": "ABCN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Czech Republic",
+    "code": "ABCZ",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Ecuador",
+    "code": "ABEC",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-France",
+    "code": "ABFR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Greece",
+    "code": "ABGR",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Hong Kong",
+    "code": "ABHK",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Italy",
+    "code": "ABIT",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Japan",
+    "code": "ABJA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Nepal",
+    "code": "ABNE",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-South Africa",
+    "code": "ABSA",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-South Korea",
+    "code": "ABSK",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Spain",
+    "code": "ABSP",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Taiwan",
+    "code": "ABTN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-Viet Nam",
+    "code": "ABVN",
+    "courses": []
+  },
+  {
+    "name": "Occidental-in-the-Netherlands",
+    "code": "ABNT",
+    "courses": []
+  },
+  {
+    "name": "Oxy-in-the-United Kingdom",
+    "code": "ABUK",
+    "courses": []
+  },
+  {
+    "name": "Philosophy",
+    "code": "PHIL",
+    "courses": []
+  },
+  {
+    "name": "Physical Activities",
+    "code": "PHAC",
+    "courses": []
+  },
+  {
+    "name": "Physics",
+    "code": "PHYS",
+    "courses": []
+  },
+  {
+    "name": "Politics",
+    "code": "POLS",
+    "courses": []
+  },
+  {
+    "name": "Psychology",
+    "code": "PSYC",
+    "courses": []
+  },
+  {
+    "name": "Public Health",
+    "code": "PUBH",
+    "courses": []
+  },
+  {
+    "name": "Religious Studies",
+    "code": "RELS",
+    "courses": []
+  },
+  {
+    "name": "Russian",
+    "code": "RUSN",
+    "courses": []
+  },
+  {
+    "name": "Sociology",
+    "code": "SOC",
+    "courses": []
+  },
+  {
+    "name": "Spanish",
+    "code": "SPAN",
+    "courses": []
+  },
+  {
+    "name": "Theater",
+    "code": "THEA",
+    "courses": []
+  },
+  {
+    "name": "Urban and Environmental Policy",
+    "code": "UEP",
+    "courses": []
+  },
+  {
+    "name": "Writing and Rhetoric",
+    "code": "WRD",
+    "courses": []
+  }
+]

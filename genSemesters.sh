@@ -1,21 +1,43 @@
-semesters=( "201701" "201702" "201703" "201801" "201802" "201803" "201901" "201902" "201903" "202001" "202002" "202003" "202101" "202102" )
+# Pull down the scrapers
+sudo rm -r quacs-oxy-scraper
+cp -r ~/git/quacs-oxy-scraper .
 
-datadir="/home/nicholas/Projects/quacs-oxy-data"
-scrapedir="/home/nicholas/Projects/quacs-oxy-scraper"
+# Generate semesters
+echo "Generating semesters"
+if [ -f "semesters.json" ]; then
+  echo "semesters.json exists, skipping it"
+else
+  python3 quacs-oxy-scraper/semesters/main.py
+fi
 
-for semester in "${semesters[@]}";
-do
-  mkdir $semester
-  cd $semester
+# Loop through the semesters and scrape them
+while read semester; do
+  # Create a folder for each semester
+  mkdir -p semester_data/$semester
+  echo "Starting work on semester $semester"
+  # To skip a range of semesters that are already generated, set this number to the highest semester generated
+  if [ $semester -lt 201603 ]
+  then
+    continue
+  fi
 
-  echo "Catalog scraper"
-  python3 ${scrapedir}/catalog_scraper/main.py $semester
+  # RateMyProfessors scraper is not really used for anything
+  # python3 quacs-oxy-scraper/rmp_scraper/main.py $semester
 
-  echo "Prereq Scraper"
-  python3 ${scrapedir}/prerequisite_scraper/main.py $semester
+  # Generate the catalog.json because the sis_scraper needs it
+  python3 quacs-oxy-scraper/catalog_scraper/main.py $semester
+  # Launch all the other scrapers in their own processes
+  python3 quacs-oxy-scraper/prerequisite_scraper/main.py $semester && mv prerequisites.json semester_data/$semester &
+  python3 quacs-oxy-scraper/school_scraper/main.py $semester && mv schools.json semester_data/$semester &
+  python3 quacs-oxy-scraper/sis_scraper/main.py $semester && mv courses.json mod.rs semester_data/$semester &
+  # Wait for them all to complete
+  wait
+  # Move the catalog to the correct place, since the sis scraper has finished using it
+  mv catalog.json semester_data/$semester
+done <semesters.json
 
-  echo "SIS Scraper"
-  python3 ${scrapedir}/sis_scraper/main.py $semester
+echo "Create meta.json"
+echo {\"last_updated\":\"$(date --iso-8601=seconds -u)\"} > data/meta.json
 
-  cd $datadir
-done
+echo "Generate the prerequisite graph"
+python3 quacs-oxy-scraper/prerequisites_graph/main.py semester_data prereq_graph.json

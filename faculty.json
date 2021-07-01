@@ -103,14 +103,6 @@
     "education": "B.A., B.F.A., Indiana University; M.F.A., Tyler School of Art ",
     "area": "Art and Art History"
   },
-  "Scott Bogue": {
-    "url": "/academics/faculty/scott-bogue",
-    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/bogue-scott_400x400.jpg?itok=BZdyZyqJ",
-    "title": "Professor, Geology",
-    "biography": "Scott Bogue teaches introductory geology, Global Geophysics and Tectonics, Earth's Atmosphere and Oceans, and other courses.",
-    "education": "A.B., Brown University; Ph.D., UC Santa Cruz  ",
-    "area": "Geology"
-  },
   "Mari\u0161ka Bolyanatz Brown": {
     "url": "/academics/faculty/mariska-bolyanatz-brown",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/bolyanatz-mariska_400x400.jpg?itok=Lm9Ek2Lu",
@@ -279,14 +271,6 @@
     "education": "B.S., M.S., Ph.D., UCLA  ",
     "area": "Physics"
   },
-  "Robert Ellis": {
-    "url": "/academics/faculty/robert-ellis",
-    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/ellis_robert_400x400.jpg?itok=36zC1Gy8",
-    "title": "Norman Bridge Distinguished Professor of Spanish, Spanish and French Studies; Affiliated Faculty, Latino/a and Latin American Studies; Advisory Committee, Group Language ",
-    "biography": "Robert Ellis teaches courses in Spanish and in modern Spanish literature and civilization.",
-    "education": "B.A., Pomona College; M.A., Ph.D., UCLA ",
-    "area": "Spanish and French Studies; Affiliated Faculty, Latino/a and Latin American Studies; Advisory Committee, Group Language "
-  },
   "Hanan Elsayed": {
     "url": "/academics/faculty/hanan-elsayed",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/elsayed-hanan_400x400.jpg?itok=HurfEf0f",
@@ -319,14 +303,6 @@
     "education": "B.A., Harvard University; M.F.A., Ph.D., University of Southern California",
     "area": "Media Arts & Culture"
   },
-  "Eric Frank": {
-    "url": "/academics/faculty/eric-frank",
-    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/frank-eric_400x400.jpg?itok=rV1R9Cka",
-    "title": "Professor, Art and Art History",
-    "biography": "A fellow of the American Academy in Rome, Eric Frank's academic expertise is in Italian Renaissance art.",
-    "education": "B.A., Dartmouth College; M.A., Syracuse University; Ph.D., New York University",
-    "area": "Art and Art History"
-  },
   "Regina Freer": {
     "url": "/academics/faculty/regina-freer",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/freer_regina_400x400.jpg?itok=0o9sS0Ga",
@@ -350,14 +326,6 @@
     "biography": "Nina Gelbart's teaching specialties are early modern European history, French Enlightenment and Revolution, women's history, and the history of science and medicine.",
     "education": "A.B., Harvard University; M.A., Ph.D., University of Chicago  ",
     "area": "History; Anita Johnson Wand Professor of Women's Studies"
-  },
-  "Irene Girton": {
-    "url": "/academics/faculty/irene-girton",
-    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/girton-irene_400x400.jpg?itok=byfqhR7R",
-    "title": "Professor, Music",
-    "biography": "Irene Girton teaches courses in music theory and special topics in art song, Bach and the Enlightenment, and 20th-century music.",
-    "education": "B.Music, Oberlin College Conservatory of Music; M.Phil., Ph.D., Yale University  ",
-    "area": "Music"
   },
   "Shana Goffredi": {
     "url": "/academics/faculty/shana-goffredi",
@@ -2343,6 +2311,14 @@
     "education": "B.A., Bryn Mawr College; M.A., Ph.D., Yale University",
     "area": "Emerita (1969-2007)"
   },
+  "Scott Bogue": {
+    "url": "/academics/faculty/scott-bogue",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/bogue-scott_400x400.jpg?itok=BZdyZyqJ",
+    "title": "Professor, Geology, Emeritus (1987-2021)",
+    "biography": "Scott Bogue teaches introductory geology, Global Geophysics and Tectonics, Earth's Atmosphere and Oceans, and other courses.",
+    "education": "A.B., Brown University; Ph.D., UC Santa Cruz  ",
+    "area": "Geology, Emeritus (1987-2021)"
+  },
   "John Bouchard": {
     "url": "/academics/faculty/john-bouchard",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/john-bouchard-09.jpg?itok=DQ9ITZip",
@@ -2415,6 +2391,14 @@
     "education": "B.A., USC; M.A., Ph.D., UC Berkeley",
     "area": "Emerita (1991-2014)"
   },
+  "Robert Ellis": {
+    "url": "/academics/faculty/robert-ellis",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/ellis_robert_400x400.jpg?itok=36zC1Gy8",
+    "title": "Norman Bridge Distinguished Professor of Spanish, Spanish and French Studies; Emeritus (1984-2021)",
+    "biography": "Robert Ellis teaches courses in Spanish and in modern Spanish literature and civilization.",
+    "education": "B.A., Pomona College; M.A., Ph.D., UCLA ",
+    "area": "Spanish and French Studies; Emeritus (1984-2021)"
+  },
   "Daniel Fineman": {
     "url": "/academics/faculty/daniel-fineman",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/fineman-daniel_400x400.jpg?itok=q6PANhVo",
@@ -2422,6 +2406,14 @@
     "biography": "Daniel Fineman\u2019s primary fields of interest are American literature and literary theory.",
     "education": "B.A., Franklin and Marshall College; M.A., Ph.D., Princeton University ",
     "area": "English Emeritus (1976-2020)"
+  },
+  "Eric Frank": {
+    "url": "/academics/faculty/eric-frank",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/frank-eric_400x400.jpg?itok=rV1R9Cka",
+    "title": "Professor, Art and Art History; Emeritus (1986-2021)",
+    "biography": "A fellow of the American Academy in Rome, Eric Frank's academic expertise is in Italian Renaissance art.",
+    "education": "B.A., Dartmouth College; M.A., Syracuse University; Ph.D., New York University",
+    "area": "Art and Art History; Emeritus (1986-2021)"
   },
   "Alan Freeman": {
     "url": "/academics/faculty/alan-freeman",
@@ -2438,6 +2430,14 @@
     "biography": "",
     "education": "B.A., Nebraska Wesleyan University; M.A., University of Nebraska; Ph.D., University of Southern California",
     "area": "German, Emeritus (1960-1996)"
+  },
+  "Irene Girton": {
+    "url": "/academics/faculty/irene-girton",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/girton-irene_400x400.jpg?itok=byfqhR7R",
+    "title": "Professor, Music, Emerita (2000-2021)",
+    "biography": "Irene Girton teaches courses in music theory and special topics in art song, Bach and the Enlightenment, and 20th-century music.",
+    "education": "B.Music, Oberlin College Conservatory of Music; M.Phil., Ph.D., Yale University  ",
+    "area": "Music, Emerita (2000-2021)"
   },
   "Evelyne Glaser": {
     "url": "/academics/faculty/evelyne-glaser",

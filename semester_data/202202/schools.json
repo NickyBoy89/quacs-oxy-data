@@ -1,5 +1,14 @@
 [
   {
+    "name": "American Studies",
+    "depts": [
+      {
+        "code": "AMST",
+        "name": "American Studies"
+      }
+    ]
+  },
+  {
     "name": "Foreign Languages and Studies",
     "depts": [
       {
@@ -52,19 +61,6 @@
         "name": "Art History"
       },
       {
-        "code": "ARTH",
-        "name": "Art History"
-      },
-      {
-        "code": "ARTS",
-        "name": "Studio Art"
-      }
-    ]
-  },
-  {
-    "name": "Art",
-    "depts": [
-      {
         "code": "ARTS",
         "name": "Studio Art"
       }
@@ -78,10 +74,6 @@
         "name": "Biochemistry"
       },
       {
-        "code": "BICH",
-        "name": "Biochemistry"
-      },
-      {
         "code": "BIO",
         "name": "Biology"
       },
@@ -92,84 +84,62 @@
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Black Studies",
     "depts": [
       {
-        "code": "BICH",
-        "name": "Biochemistry"
+        "code": "BLST",
+        "name": "Black Studies"
       }
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Barack Obama Scholars Program",
     "depts": [
       {
-        "code": "BICH",
-        "name": "Biochemistry"
+        "code": "BOSP",
+        "name": "Barack Obama Scholars Program"
       }
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Chinese Studies",
     "depts": [
       {
-        "code": "BIO",
-        "name": "Biology"
+        "code": "CHIN",
+        "name": "Chinese Studies"
       }
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Cognitive Science",
     "depts": [
       {
-        "code": "BIO",
-        "name": "Biology"
+        "code": "COGS",
+        "name": "Cognitive Science"
       }
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Computer Science",
     "depts": [
       {
-        "code": "BIO",
-        "name": "Biology"
+        "code": "COMP",
+        "name": "Computer Science"
       }
     ]
   },
   {
-    "name": "Sciences",
+    "name": "Core Program",
     "depts": [
       {
-        "code": "CHEM",
-        "name": "Chemistry"
-      }
-    ]
-  },
-  {
-    "name": "Sciences",
-    "depts": [
-      {
-        "code": "CHEM",
-        "name": "Chemistry"
-      }
-    ]
-  },
-  {
-    "name": "Sciences",
-    "depts": [
-      {
-        "code": "CHEM",
-        "name": "Chemistry"
+        "code": "CORE",
+        "name": "Core Program"
       }
     ]
   },
   {
     "name": "English",
     "depts": [
-      {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
-      },
       {
         "code": "CSLC",
         "name": "Comparative Studies in Literature and Culture"
@@ -185,209 +155,110 @@
     ]
   },
   {
-    "name": "English",
+    "name": "Critical Theory and Social Justice",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "CTSJ",
+        "name": "Critical Theory and Social Justice"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Diplomacy & World Affairs",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "DWA",
+        "name": "Diplomacy & World Affairs"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Economics",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "ECON",
+        "name": "Economics"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Education",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "EDUC",
+        "name": "Education"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "First Year Seminars",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "FYS",
+        "name": "First Year Seminars"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Geology",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "GEO",
+        "name": "Geology"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "History",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "HIST",
+        "name": "History"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Internships",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "INT",
+        "name": "Internships"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Kinesiology",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "KINE",
+        "name": "Kinesiology"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Linguistics",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "LING",
+        "name": "Linguistics"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Media Arts and Culture",
     "depts": [
       {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
+        "code": "MAC",
+        "name": "Media Arts and Culture"
       }
     ]
   },
   {
-    "name": "English",
+    "name": "Mathematics",
     "depts": [
       {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
+        "code": "MATH",
+        "name": "Mathematics"
       }
     ]
   },
@@ -399,759 +270,98 @@
         "name": "Music Applied Study"
       },
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      },
-      {
         "code": "MUSC",
         "name": "Music"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Physical Activities",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "PHAC",
+        "name": "Physical Activities"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Philosophy",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "PHIL",
+        "name": "Philosophy"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Physics",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "PHYS",
+        "name": "Physics"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Politics",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "POLS",
+        "name": "Politics"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Psychology",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "PSYC",
+        "name": "Psychology"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Public Health",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "PUBH",
+        "name": "Public Health"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Religious Studies",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "RELS",
+        "name": "Religious Studies"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Sociology",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "SOC",
+        "name": "Sociology"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Theater",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
+        "code": "THEA",
+        "name": "Theater"
       }
     ]
   },
   {
-    "name": "Music",
+    "name": "Urban & Environmental Policy",
     "depts": [
       {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
+        "code": "UEP",
+        "name": "Urban & Environmental Policy"
       }
     ]
   }

@@ -16,6 +16,10 @@
         "name": "Arabic"
       },
       {
+        "code": "CHIN",
+        "name": "Chinese Studies"
+      },
+      {
         "code": "EASN",
         "name": "East Asian Studies"
       },
@@ -98,15 +102,6 @@
       {
         "code": "BOSP",
         "name": "Barack Obama Scholars Program"
-      }
-    ]
-  },
-  {
-    "name": "Chinese Studies",
-    "depts": [
-      {
-        "code": "CHIN",
-        "name": "Chinese Studies"
       }
     ]
   },

@@ -23,7 +23,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Building the 'American Pacific'",
+    "title": "Seminar in Art History: Colonial Urbanism",
     "prereqs": [
       "ARTH  150",
       "ARTH  160",
@@ -394,7 +394,7 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Firm-Level International Trade and Investment",
+    "title": "Senior Seminar: Macroeconomic Policy Since the Great Depression",
     "prereqs": [
       "ECON  250",
       "ECON  272"
@@ -456,6 +456,7 @@
       "ECLS  288",
       "ECLS  289",
       "ECLS  290",
+      "ENGL  101",
       "ENGL  106",
       "ENGL  140",
       "ENGL  142",
@@ -466,6 +467,7 @@
       "ENGL  189",
       "ENGL  220",
       "ENGL  241",
+      "ENGL  247",
       "ENGL  248",
       "ENGL  267",
       "ENGL  273",
@@ -541,66 +543,6 @@
       "CSP  8",
       "CSP  80",
       "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9",
       "WRD  201"
     ]
   },
@@ -712,7 +654,7 @@
     ]
   },
   "GEO 225": {
-    "title": "Earth: A field perspective",
+    "title": "Introduction to Field Methods",
     "prereqs": [
       "GEO  105",
       "GEO  106"
@@ -824,7 +766,7 @@
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium: Writing World History",
+    "title": "History Colloquium: Mexico-U.S. Borderlands",
     "prereqs": [
       "HIST  101",
       "HIST  102",
@@ -990,7 +932,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced) Laboratory",
+    "title": "Calculus 1 Laboratory (Advanced)",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -1085,8 +1027,7 @@
       "MATH  214",
       "OXPE",
       "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS  120"
     ]
   },
   "PHYS 120": {
@@ -1123,8 +1064,7 @@
       "MATH  214",
       "OXPE",
       "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS  120"
     ]
   },
   "PHYS 490": {
@@ -1505,8 +1445,16 @@
   "CHEM 350L": {
     "title": "Biochemistry Laboratory",
     "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
+      "CHEM  300",
+      "CHEM  301",
+      "CHEM  350"
+    ]
+  },
+  "CHEM 201": {
+    "title": "Biochemical and Environmental Analysis",
+    "prereqs": [
+      "CHEM  120",
+      "CHEM  130"
     ]
   },
   "CHEM 305": {
@@ -1525,8 +1473,8 @@
   "CHEM 350": {
     "title": "Biochemistry",
     "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
+      "CHEM  300",
+      "CHEM  301"
     ]
   },
   "CHEM 370": {
@@ -1830,66 +1778,6 @@
       "CSP  8",
       "CSP  80",
       "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9",
       "WRD  201"
     ]
   },
@@ -1965,7 +1853,7 @@
     ]
   },
   "GEO 255": {
-    "title": "Remote Exploration of Earth",
+    "title": "Spatial Analysis with Geographic Information Science",
     "prereqs": [
       "GEO  105",
       "GEO  106",
@@ -2175,6 +2063,13 @@
       "OXME"
     ]
   },
+  "MATH 320": {
+    "title": "Algebra",
+    "prereqs": [
+      "MATH  210",
+      "MATH  214"
+    ]
+  },
   "MATH 342": {
     "title": "Partial Differential Equations",
     "prereqs": [
@@ -2274,8 +2169,7 @@
     "prereqs": [
       "CHEM  305",
       "PHYS  240",
-      "PHYS  310",
-      "PHYS  320"
+      "PHYS  310"
     ]
   },
   "POLS 235": {
@@ -3077,7 +2971,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
+    "title": "Curatorial Seminar in Art History: East Asian Gardens",
     "prereqs": [
       "ARTH  150",
       "ARTH  160",
@@ -3086,6 +2980,7 @@
       "ARTH  257",
       "ARTH  266",
       "ARTH  268",
+      "ARTH  272",
       "ARTH  275",
       "ARTH  283",
       "ARTH  285",
@@ -3887,11 +3782,13 @@
     ]
   },
   "PSYC 490": {
-    "title": "Contemporary Topics Seminar",
+    "title": "Topic - Eating: From Cells to Society",
     "prereqs": [
       "PSYC  200",
+      "PSYC  302",
       "PSYC  321",
-      "PSYC  340"
+      "PSYC  323",
+      "PSYC  336"
     ]
   },
   "SOC 250": {
@@ -4249,6 +4146,13 @@
       "UEP  101"
     ]
   },
+  "LLAS 490": {
+    "title": "Senior Seminar",
+    "prereqs": [
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -4260,7 +4164,7 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar: Philosophy of Food",
+    "title": "Philosophy Seminar: Science & Social Values",
     "prereqs": [
       "PHIL  101",
       "PHIL  150",
@@ -4273,7 +4177,6 @@
       "PHIL  220",
       "PHIL  221",
       "PHIL  222",
-      "PHIL  223",
       "PHIL  225",
       "PHIL  230",
       "PHIL  231",
@@ -4291,7 +4194,6 @@
       "PHIL  275",
       "PHIL  285",
       "PHIL  290",
-      "PHIL  295",
       "PHIL  299",
       "PHIL  300",
       "PHIL  305",
@@ -4335,7 +4237,7 @@
     ]
   },
   "SOC 395": {
-    "title": "Special Topics in Sociology",
+    "title": "Special Topic in Sociology: Policing, Power, and Violence",
     "prereqs": [
       "OXSO",
       "SOC  101"
@@ -4476,67 +4378,7 @@
       "CSP  79",
       "CSP  8",
       "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9"
+      "CSP  9"
     ]
   },
   "ARTH 360": {
@@ -4587,7 +4429,7 @@
     ]
   },
   "CSLC 300": {
-    "title": "Contemporary Theory and Literature",
+    "title": "Contemporary Theory and Lit",
     "prereqs": [
       "CSLC  107",
       "CSLC  108",
@@ -4644,7 +4486,7 @@
     ]
   },
   "HIST 385": {
-    "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
+    "title": "Identity Formation in the Modern Middle East and Africa",
     "prereqs": [
       "HIST  101",
       "HIST  102",
@@ -4659,7 +4501,6 @@
       "HIST  183",
       "HIST  190",
       "HIST  191",
-      "HIST  200",
       "HIST  206",
       "HIST  208",
       "HIST  209",
@@ -4667,7 +4508,6 @@
       "HIST  211",
       "HIST  212",
       "HIST  213",
-      "HIST  215",
       "HIST  216",
       "HIST  220",
       "HIST  224",
@@ -4700,12 +4540,10 @@
       "HIST  309",
       "HIST  311",
       "HIST  312",
-      "HIST  316",
       "HIST  328",
       "HIST  330",
       "HIST  336",
       "HIST  338",
-      "HIST  344",
       "HIST  345",
       "HIST  346",
       "HIST  348",
@@ -4803,67 +4641,7 @@
       "CSP  79",
       "CSP  8",
       "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9"
+      "CSP  9"
     ]
   },
   "PHYS 261": {
@@ -5087,7 +4865,7 @@
     ]
   },
   "CTSJ 295": {
-    "title": "Topics in Critical Theory - Social Justice: Critical Theory and Psychopathology",
+    "title": "Topics in Critical Theory & Social Justice: Critical Theory and Psychopathology",
     "prereqs": [
       "CTSJ  100",
       "CTSJ  105",
@@ -5372,298 +5150,6 @@
       "OXSE",
       "SPAN  202",
       "SPAN  211"
-    ]
-  },
-  "CHEM 120": {
-    "title": "Foundations of General Chemistry",
-    "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  29",
-      "CSP  3",
-      "CSP  30",
-      "CSP  31",
-      "CSP  32",
-      "CSP  33",
-      "CSP  34",
-      "CSP  35",
-      "CSP  36",
-      "CSP  37",
-      "CSP  38",
-      "CSP  39",
-      "CSP  4",
-      "CSP  40",
-      "CSP  41",
-      "CSP  42",
-      "CSP  43",
-      "CSP  44",
-      "CSP  45",
-      "CSP  46",
-      "CSP  47",
-      "CSP  48",
-      "CSP  49",
-      "CSP  5",
-      "CSP  6",
-      "CSP  7",
-      "CSP  8",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  29",
-      "FYS  3",
-      "FYS  30",
-      "FYS  31",
-      "FYS  32",
-      "FYS  33",
-      "FYS  34",
-      "FYS  35",
-      "FYS  36",
-      "FYS  37",
-      "FYS  38",
-      "FYS  39",
-      "FYS  4",
-      "FYS  40",
-      "FYS  41",
-      "FYS  42",
-      "FYS  43",
-      "FYS  44",
-      "FYS  45",
-      "FYS  46",
-      "FYS  47",
-      "FYS  48",
-      "FYS  49",
-      "FYS  5",
-      "FYS  6",
-      "FYS  7",
-      "FYS  8",
-      "FYS  9",
-      "OXCP"
-    ]
-  },
-  "COMP 379": {
-    "title": "Operating Systems",
-    "prereqs": [
-      "COMP  229",
-      "COMP  239"
-    ]
-  },
-  "COMP 357": {
-    "title": "Networking",
-    "prereqs": [
-      "COMP  229",
-      "COMP  239"
-    ]
-  },
-  "CTSJ 395": {
-    "title": "Special Topics in Critical Theory - Social Justice: Whiteness",
-    "prereqs": [
-      "CTSJ  100",
-      "CTSJ  102",
-      "CTSJ  104",
-      "CTSJ  105",
-      "CTSJ  107",
-      "CTSJ  108",
-      "CTSJ  115",
-      "CTSJ  120",
-      "CTSJ  140",
-      "CTSJ  160",
-      "CTSJ  180",
-      "CTSJ  195"
-    ]
-  },
-  "ECON 323": {
-    "title": "Urban Economics",
-    "prereqs": [
-      "APEA",
-      "APEI",
-      "APST",
-      "COMP  146",
-      "ECON  102",
-      "MATH  146",
-      "UEP  305"
-    ]
-  },
-  "JAPN 460": {
-    "title": "Translating Texts",
-    "prereqs": [
-      "JAPN  302",
-      "OXJA"
-    ]
-  },
-  "MATH 110": {
-    "title": "Calculus 1",
-    "prereqs": [
-      "ALEKS",
-      "M110",
-      "M114",
-      "OXMA"
-    ]
-  },
-  "MATH 120": {
-    "title": "Calculus 2",
-    "prereqs": [
-      "APAB",
-      "APCS",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "OXMA",
-      "OXME"
-    ]
-  },
-  "MATH 212": {
-    "title": "Multivariable Calculus",
-    "prereqs": [
-      "APBC",
-      "MATH  120",
-      "MATH  128",
-      "OXMA"
-    ]
-  },
-  "MUSC 249": {
-    "title": "Recording Techniques",
-    "prereqs": [
-      "MUSC  148",
-      "MUSC  247"
-    ]
-  },
-  "PHYS 115": {
-    "title": "General Physics I",
-    "prereqs": [
-      "APBC",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
-      "OXMA"
-    ]
-  },
-  "PHYS 370": {
-    "title": "Energy Physics",
-    "prereqs": [
-      "PHYS  110",
-      "PHYS  117",
-      "PHYS  120",
-      "PHYS  230",
-      "PHYS  240"
-    ]
-  },
-  "PSYC 310": {
-    "title": "Motor Learning and Control",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
-    ]
-  },
-  "SOC 355": {
-    "title": "Power and Sexuality",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 325": {
-    "title": "Criminology",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "THEA 275": {
-    "title": "Scenic Design",
-    "prereqs": [
-      "THEA  120",
-      "THEA  175"
-    ]
-  },
-  "BIO 290": {
-    "title": "Research Methods in Biology",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "COMP 313": {
-    "title": "Computer Graphics",
-    "prereqs": [
-      "COMP  149",
-      "COMP  229"
-    ]
-  },
-  "COMP 390": {
-    "title": "Computer Science Junior Seminar",
-    "prereqs": [
-      "COMP  229",
-      "COMP  311",
-      "COMP  313",
-      "COMP  317",
-      "COMP  319",
-      "COMP  325",
-      "COMP  331",
-      "COMP  337",
-      "COMP  340",
-      "COMP  347",
-      "COMP  349",
-      "COMP  352",
-      "COMP  353",
-      "COMP  355",
-      "COMP  357",
-      "COMP  367",
-      "COMP  371",
-      "COMP  373",
-      "COMP  379",
-      "COMP  383",
-      "COMP  389",
-      "COMP  395",
-      "COMP  397",
-      "MATH  352"
-    ]
-  },
-  "WRD 301": {
-    "title": "Creative Nonfiction",
-    "prereqs": [
-      "OXWF",
-      "WRD  201"
     ]
   }
 }

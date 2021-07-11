@@ -9,26 +9,57 @@
     ]
   },
   {
-    "name": "Arabic",
+    "name": "Foreign Languages and Studies",
     "depts": [
       {
         "code": "ARAB",
         "name": "Arabic"
+      },
+      {
+        "code": "EASN",
+        "name": "East Asian Studies"
+      },
+      {
+        "code": "FREN",
+        "name": "French"
+      },
+      {
+        "code": "GERM",
+        "name": "German"
+      },
+      {
+        "code": "GRK",
+        "name": "Greek"
+      },
+      {
+        "code": "JAPN",
+        "name": "Japanese Studies"
+      },
+      {
+        "code": "LATN",
+        "name": "Latin"
+      },
+      {
+        "code": "LLAS",
+        "name": "Latino/a and Latin American Studies"
+      },
+      {
+        "code": "RUSN",
+        "name": "Russian"
+      },
+      {
+        "code": "SPAN",
+        "name": "Spanish"
       }
     ]
   },
   {
-    "name": "Art History",
+    "name": "Art",
     "depts": [
       {
         "code": "ARTH",
         "name": "Art History"
-      }
-    ]
-  },
-  {
-    "name": "Studio Art",
-    "depts": [
+      },
       {
         "code": "ARTS",
         "name": "Studio Art"
@@ -36,20 +67,19 @@
     ]
   },
   {
-    "name": "Biochemistry",
+    "name": "Sciences",
     "depts": [
       {
         "code": "BICH",
         "name": "Biochemistry"
-      }
-    ]
-  },
-  {
-    "name": "Biology",
-    "depts": [
+      },
       {
         "code": "BIO",
         "name": "Biology"
+      },
+      {
+        "code": "CHEM",
+        "name": "Chemistry"
       }
     ]
   },
@@ -68,15 +98,6 @@
       {
         "code": "BOSP",
         "name": "Barack Obama Scholars Program"
-      }
-    ]
-  },
-  {
-    "name": "Chemistry",
-    "depts": [
-      {
-        "code": "CHEM",
-        "name": "Chemistry"
       }
     ]
   },
@@ -117,11 +138,19 @@
     ]
   },
   {
-    "name": "Comparative Studies in Literature and Culture",
+    "name": "English",
     "depts": [
       {
         "code": "CSLC",
         "name": "Comparative Studies in Literature and Culture"
+      },
+      {
+        "code": "ENGL",
+        "name": "English"
+      },
+      {
+        "code": "WRD",
+        "name": "Writing & Rhetoric"
       }
     ]
   },
@@ -153,15 +182,6 @@
     ]
   },
   {
-    "name": "East Asian Studies",
-    "depts": [
-      {
-        "code": "EASN",
-        "name": "East Asian Studies"
-      }
-    ]
-  },
-  {
     "name": "Economics",
     "depts": [
       {
@@ -180,47 +200,11 @@
     ]
   },
   {
-    "name": "English",
-    "depts": [
-      {
-        "code": "ENGL",
-        "name": "English"
-      }
-    ]
-  },
-  {
-    "name": "French",
-    "depts": [
-      {
-        "code": "FREN",
-        "name": "French"
-      }
-    ]
-  },
-  {
     "name": "Geology",
     "depts": [
       {
         "code": "GEO",
         "name": "Geology"
-      }
-    ]
-  },
-  {
-    "name": "German",
-    "depts": [
-      {
-        "code": "GERM",
-        "name": "German"
-      }
-    ]
-  },
-  {
-    "name": "Greek",
-    "depts": [
-      {
-        "code": "GRK",
-        "name": "Greek"
       }
     ]
   },
@@ -243,15 +227,6 @@
     ]
   },
   {
-    "name": "Japanese Studies",
-    "depts": [
-      {
-        "code": "JAPN",
-        "name": "Japanese Studies"
-      }
-    ]
-  },
-  {
     "name": "Kinesiology",
     "depts": [
       {
@@ -261,29 +236,11 @@
     ]
   },
   {
-    "name": "Latin",
-    "depts": [
-      {
-        "code": "LATN",
-        "name": "Latin"
-      }
-    ]
-  },
-  {
     "name": "Linguistics",
     "depts": [
       {
         "code": "LING",
         "name": "Linguistics"
-      }
-    ]
-  },
-  {
-    "name": "Latino/a and Latin American Studies",
-    "depts": [
-      {
-        "code": "LLAS",
-        "name": "Latino/a and Latin American Studies"
       }
     ]
   },
@@ -306,17 +263,12 @@
     ]
   },
   {
-    "name": "Music Applied Study",
+    "name": "Music",
     "depts": [
       {
         "code": "MUSA",
         "name": "Music Applied Study"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
+      },
       {
         "code": "MUSC",
         "name": "Music"
@@ -387,29 +339,11 @@
     ]
   },
   {
-    "name": "Russian",
-    "depts": [
-      {
-        "code": "RUSN",
-        "name": "Russian"
-      }
-    ]
-  },
-  {
     "name": "Sociology",
     "depts": [
       {
         "code": "SOC",
         "name": "Sociology"
-      }
-    ]
-  },
-  {
-    "name": "Spanish",
-    "depts": [
-      {
-        "code": "SPAN",
-        "name": "Spanish"
       }
     ]
   },
@@ -428,15 +362,6 @@
       {
         "code": "UEP",
         "name": "Urban & Environmental Policy"
-      }
-    ]
-  },
-  {
-    "name": "Writing & Rhetoric",
-    "depts": [
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
       }
     ]
   }

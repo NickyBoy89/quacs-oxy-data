@@ -2,7 +2,38 @@
   {
     "name": "American Studies",
     "code": "AMST",
-    "courses": []
+    "courses": [
+      {
+        "title": "Race & Community Exposures: Environment, Health, Resilience, and Justice in the United States",
+        "subj": "AMST",
+        "crse": "3119",
+        "id": "AMST-111",
+        "sections": [
+          {
+            "crn": 3119,
+            "subj": "AMST",
+            "crse": "111",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Race & Community Exposures: Environment, Health, Resilience, and Justice in the United States",
+            "cap": 30,
+            "act": 23,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Regina Freer",
+                "location": "",
+                "dateStart": "5/1",
+                "dateEnd": "8/6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Art/History",
@@ -62,7 +93,43 @@
   {
     "name": "Core",
     "code": "CORE",
-    "courses": []
+    "courses": [
+      {
+        "title": "Thinking through COVID-19",
+        "subj": "CORE",
+        "crse": "3115",
+        "id": "CORE-100",
+        "sections": [
+          {
+            "crn": 3115,
+            "subj": "CORE",
+            "crse": "100",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Thinking through COVID-19",
+            "cap": 9999,
+            "act": 78,
+            "rem": 9921,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Mary Christianakis",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1200,
+                "dateStart": "5/1",
+                "dateEnd": "8/6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "name": "Critical Theory/Social Justice",

@@ -6,14 +6,12 @@
       "AMST  240",
       "AMST  242",
       "AMST  246",
-      "AMST  260",
       "AMST  270",
       "AMST  272",
       "AMST  280",
       "AMST  290",
       "AMST  295",
       "AMST  310",
-      "AMST  320",
       "AMST  346",
       "AMST  390",
       "PSYC  110",
@@ -23,7 +21,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Colonial Urbanism",
+    "title": "Seminar in Art History: Gender and Sexuality in 20th Century Art",
     "prereqs": [
       "ARTH  150",
       "ARTH  160",
@@ -32,11 +30,8 @@
       "ARTH  257",
       "ARTH  266",
       "ARTH  268",
-      "ARTH  270",
       "ARTH  272",
-      "ARTH  274",
       "ARTH  275",
-      "ARTH  280",
       "ARTH  283",
       "ARTH  285",
       "ARTH  287",
@@ -187,7 +182,7 @@
     "title": "Biophysical Chemistry",
     "prereqs": [
       "APBC",
-      "APPM",
+      "APPE",
       "CHEM  221",
       "MATH  120",
       "MATH  128",
@@ -230,16 +225,8 @@
     "title": "Topics in Artificial Intelligence",
     "prereqs": [
       "COGS  101",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229",
-      "COMP  311",
-      "COMP  317",
-      "COMP  337",
-      "COMP  353",
-      "COMP  367",
-      "COMP  395"
+      "COMP  210",
+      "COMP  211"
     ]
   },
   "CTSJ 335": {
@@ -330,7 +317,6 @@
       "ECON  297",
       "ECON  301",
       "ECON  302",
-      "ECON  304",
       "ECON  305",
       "ECON  306",
       "ECON  308",
@@ -351,6 +337,7 @@
       "ECON  340",
       "ECON  350",
       "ECON  351",
+      "ECON  352",
       "ECON  361",
       "ECON  395",
       "ECON  397",
@@ -394,7 +381,7 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Macroeconomic Policy Since the Great Depression",
+    "title": "Senior Seminar: Industrial Organization",
     "prereqs": [
       "ECON  250",
       "ECON  272"
@@ -438,7 +425,7 @@
     ]
   },
   "ENGL 365": {
-    "title": "Contemporary Literature",
+    "title": "Contemporary Literature: The Global Novel",
     "prereqs": [
       "ECLS  106",
       "ECLS  186",
@@ -456,24 +443,11 @@
       "ECLS  288",
       "ECLS  289",
       "ECLS  290",
-      "ENGL  101",
       "ENGL  106",
-      "ENGL  140",
-      "ENGL  142",
-      "ENGL  155",
-      "ENGL  159",
-      "ENGL  165",
-      "ENGL  178",
       "ENGL  189",
       "ENGL  220",
-      "ENGL  241",
-      "ENGL  247",
-      "ENGL  248",
       "ENGL  267",
-      "ENGL  273",
-      "ENGL  274",
       "ENGL  280",
-      "ENGL  281",
       "ENGL  287",
       "ENGL  288",
       "ENGL  289",
@@ -766,7 +740,7 @@
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium: Mexico-U.S. Borderlands",
+    "title": "History Colloquium: The Fascist Revolution: Politics Culture and Society",
     "prereqs": [
       "HIST  101",
       "HIST  102",
@@ -819,7 +793,6 @@
       "HIST  283",
       "HIST  295",
       "HIST  304",
-      "HIST  307",
       "HIST  309",
       "HIST  311",
       "HIST  312",
@@ -827,13 +800,14 @@
       "HIST  328",
       "HIST  330",
       "HIST  336",
+      "HIST  337",
+      "HIST  338",
       "HIST  344",
       "HIST  345",
-      "HIST  346",
-      "HIST  348",
       "HIST  354",
       "HIST  355",
       "HIST  357",
+      "HIST  358",
       "HIST  359",
       "HIST  376",
       "HIST  385",
@@ -931,12 +905,31 @@
       "SPAN  102"
     ]
   },
-  "MATH 114": {
-    "title": "Calculus 1 Laboratory (Advanced)",
+  "MATH 110": {
+    "title": "Calculus 1",
     "prereqs": [
-      "ALEKS",
+      "M110",
       "M114",
       "OXMA"
+    ]
+  },
+  "MATH 114": {
+    "title": "Calculus 1 (Advanced) Laboratory",
+    "prereqs": [
+      "M114",
+      "OXMA"
+    ]
+  },
+  "MATH 120": {
+    "title": "Calculus 2",
+    "prereqs": [
+      "APAB",
+      "APCS",
+      "MATH  109",
+      "MATH  110",
+      "MATH  114",
+      "OXMA",
+      "OXME"
     ]
   },
   "MATH 128": {
@@ -956,11 +949,22 @@
       "OXMA"
     ]
   },
+  "MATH 212": {
+    "title": "Multivariable Calculus",
+    "prereqs": [
+      "APBC",
+      "MATH  120",
+      "MATH  124",
+      "MATH  128",
+      "OXMA"
+    ]
+  },
   "MATH 214": {
     "title": "Linear Algebra",
     "prereqs": [
       "APBC",
       "MATH  120",
+      "MATH  124",
       "MATH  128",
       "OXMA"
     ]
@@ -982,7 +986,6 @@
   "MATH 108": {
     "title": "Unified Precalculus and Calculus 1-A",
     "prereqs": [
-      "ALEKS",
       "M108",
       "M110",
       "OXMA"
@@ -1020,6 +1023,16 @@
       "OXME"
     ]
   },
+  "PHYS 115": {
+    "title": "General Physics I",
+    "prereqs": [
+      "APBC",
+      "MATH  120",
+      "MATH  124",
+      "MATH  128",
+      "OXMA"
+    ]
+  },
   "PHYS 310": {
     "title": "Mathematical Methods in Physics",
     "prereqs": [
@@ -1053,8 +1066,7 @@
       "PHYS  110",
       "PHYS  115",
       "PHYS  120",
-      "PHYS  125",
-      "PHYS  230"
+      "PHYS  125"
     ]
   },
   "PHYS 320": {
@@ -1102,14 +1114,16 @@
     "prereqs": [
       "APPS",
       "COGS  101",
-      "PSYC  101"
+      "PSYC  101",
+      "PSYC  102"
     ]
   },
   "PSYC 322": {
     "title": "Physiological Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC  101",
+      "PSYC  102"
     ]
   },
   "PSYC 322L": {
@@ -1348,8 +1362,7 @@
     "title": "Advanced Projects in Painting and Drawing",
     "prereqs": [
       "ARTS  102",
-      "ARTS  210",
-      "OXAS"
+      "ARTS  210"
     ]
   },
   "BIO 221": {
@@ -1401,6 +1414,16 @@
       "COMP  146",
       "MATH  146",
       "MATH  150"
+    ]
+  },
+  "BIO 290": {
+    "title": "Research Methods in Biology",
+    "prereqs": [
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
     ]
   },
   "BIO 340": {
@@ -1501,7 +1524,7 @@
     ]
   },
   "CHIN 330": {
-    "title": "Topics in Fiction and Film",
+    "title": "Topics in Fiction and Film. Mainland China",
     "prereqs": [
       "CHIN  301",
       "CHIN  310",
@@ -1613,6 +1636,18 @@
       "ENWR  201"
     ]
   },
+  "CTSJ 295": {
+    "title": "Topic: Blackness, Gender, and Sexuality",
+    "prereqs": [
+      "CTSJ  101",
+      "CTSJ  105",
+      "CTSJ  106",
+      "CTSJ  107",
+      "CTSJ  140",
+      "CTSJ  180",
+      "CTSJ  186"
+    ]
+  },
   "DWA 223": {
     "title": "Workers Rights in the Global Economy",
     "prereqs": [
@@ -1687,6 +1722,36 @@
   },
   "ENGL 347": {
     "title": "19th Century Novel and Bollywood Cinema",
+    "prereqs": [
+      "ECLS  106",
+      "ECLS  186",
+      "ECLS  187",
+      "ECLS  188",
+      "ECLS  189",
+      "ECLS  205",
+      "ECLS  220",
+      "ECLS  241",
+      "ECLS  253",
+      "ECLS  255",
+      "ECLS  279",
+      "ECLS  286",
+      "ECLS  287",
+      "ECLS  288",
+      "ECLS  289",
+      "ECLS  290",
+      "ENGL  106",
+      "ENGL  189",
+      "ENGL  220",
+      "ENGL  267",
+      "ENGL  280",
+      "ENGL  287",
+      "ENGL  288",
+      "ENGL  289",
+      "ENGL  290"
+    ]
+  },
+  "ENGL 377": {
+    "title": "Literature and Other Arts",
     "prereqs": [
       "ECLS  106",
       "ECLS  186",
@@ -2013,6 +2078,80 @@
       "HIST  490"
     ]
   },
+  "HIST 395": {
+    "title": "Special Topics in History",
+    "prereqs": [
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  183",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  300",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390",
+      "HIST  490",
+      "HIST  495"
+    ]
+  },
   "JAPN 102": {
     "title": "Elementary Japanese II",
     "prereqs": [
@@ -2093,7 +2232,7 @@
     ]
   },
   "MATH 396": {
-    "title": "Topics in Applied Mathematics: Mathematical Modeling",
+    "title": "Topics in Appli",
     "prereqs": [
       "MATH  212",
       "MATH  214"
@@ -2102,8 +2241,8 @@
   "MUSC 151": {
     "title": "Music Theory II",
     "prereqs": [
-      "MUSC  101",
-      "OXMT"
+      "APMT",
+      "MUSC  101"
     ]
   },
   "PHYS 117": {
@@ -2141,8 +2280,7 @@
       "PHYS  110",
       "PHYS  115",
       "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS  120"
     ]
   },
   "PHYS 250": {
@@ -2205,7 +2343,8 @@
     "title": "Learning",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC  101",
+      "PSYC  102"
     ]
   },
   "PSYC 336": {
@@ -2247,14 +2386,16 @@
     "title": "Perception",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC  101",
+      "PSYC  102"
     ]
   },
   "PSYC 321": {
     "title": "Developmental Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC  101",
+      "PSYC  102"
     ]
   },
   "PSYC 350": {
@@ -2418,556 +2559,11 @@
       "UEP  101"
     ]
   },
-  "AMST 320": {
-    "title": "Graphic Narratives: From Pulp Fiction to Comix Literature",
+  "WRD 301": {
+    "title": "Creative Nonfiction",
     "prereqs": [
-      "AMST  101",
-      "AMST  111",
-      "AMST  215",
-      "AMST  240",
-      "AMST  242",
-      "AMST  246",
-      "AMST  260",
-      "AMST  270",
-      "AMST  272",
-      "AMST  280",
-      "AMST  290",
-      "AMST  295",
-      "AMST  310",
-      "AMST  346",
-      "AMST  375",
-      "AMST  390",
-      "AMST  490",
-      "DWA  246"
-    ]
-  },
-  "AMST 310": {
-    "title": "The American South",
-    "prereqs": [
-      "AMST  101",
-      "AMST  111",
-      "AMST  215",
-      "AMST  240",
-      "AMST  242",
-      "AMST  246",
-      "AMST  260",
-      "AMST  270",
-      "AMST  272",
-      "AMST  280",
-      "AMST  290",
-      "AMST  295",
-      "AMST  320",
-      "AMST  346",
-      "AMST  375",
-      "AMST  390",
-      "AMST  490",
-      "HIST  101",
-      "HIST  102",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  213",
-      "HIST  216",
-      "HIST  277",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  390",
-      "HIST  395"
-    ]
-  },
-  "ARTS 490": {
-    "title": "Studio Senior Seminar",
-    "prereqs": [
-      "ARTS  102",
-      "ARTS  103",
-      "ARTS  105",
-      "ARTS  203",
-      "ARTS  210",
-      "ARTS  216",
-      "ARTS  217"
-    ]
-  },
-  "BIO 330": {
-    "title": "Immunology",
-    "prereqs": [
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
-    ]
-  },
-  "BIO 378": {
-    "title": "Animal Behavior",
-    "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "CHEM 355": {
-    "title": "Bioinformatics",
-    "prereqs": [
-      "BIO  130",
-      "CHEM  221"
-    ]
-  },
-  "COGS 290": {
-    "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
-    "prereqs": [
-      "COGS  101",
-      "COGS  201"
-    ]
-  },
-  "ECON 309": {
-    "title": "Free Market Economics: The Austrian Perspective",
-    "prereqs": [
-      "APEA",
-      "APEI",
-      "ECON  102"
-    ]
-  },
-  "ECON 324": {
-    "title": "The Economics of Immigration",
-    "prereqs": [
-      "APEA",
-      "APEI",
-      "ECON  101"
-    ]
-  },
-  "EDUC 320": {
-    "title": "Critical Race Theory in Education",
-    "prereqs": [
-      "EDUC  201",
-      "EDUC  205",
-      "EDUC  207",
-      "EDUC  213",
-      "EDUC  215",
-      "EDUC  219",
-      "EDUC  283"
-    ]
-  },
-  "ENGL 311": {
-    "title": "Premodern Romance",
-    "prereqs": [
-      "ENGL  189",
-      "ENGL  241",
-      "ENGL  280",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
-  "HIST 312": {
-    "title": "Race, Rights, and Revolution in the Atlantic World",
-    "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  183",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  300",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  328",
-      "HIST  330",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390",
-      "HIST  395",
-      "HIST  490",
-      "HIST  495"
-    ]
-  },
-  "MAC 240": {
-    "title": "Introduction to Media Practices",
-    "prereqs": [
-      "MAC  143",
-      "MAC  145",
-      "MAC  146"
-    ]
-  },
-  "MAC 491": {
-    "title": "Senior Seminar in Media Production",
-    "prereqs": [
-      "MAC  355",
-      "MAC  390"
-    ]
-  },
-  "PSYC 436": {
-    "title": "Comparative Cognition",
-    "prereqs": [
-      "PSYC  301",
-      "PSYC  302",
-      "PSYC  306",
-      "PSYC  336"
-    ]
-  },
-  "SPAN 302": {
-    "title": "Introduction to Medieval and Golden Age Spanish Literature and Culture",
-    "prereqs": [
-      "OXSP",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 340": {
-    "title": "Spanish Phonology",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "THEA 325": {
-    "title": "Lighting Design",
-    "prereqs": [
-      "THEA  120",
-      "THEA  175"
-    ]
-  },
-  "AMST 260": {
-    "title": "United States Latino Literature and Cultural Studies",
-    "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  29",
-      "CSP  3",
-      "CSP  30",
-      "CSP  31",
-      "CSP  32",
-      "CSP  33",
-      "CSP  34",
-      "CSP  35",
-      "CSP  36",
-      "CSP  37",
-      "CSP  38",
-      "CSP  39",
-      "CSP  4",
-      "CSP  40",
-      "CSP  41",
-      "CSP  42",
-      "CSP  43",
-      "CSP  44",
-      "CSP  45",
-      "CSP  5",
-      "CSP  6",
-      "CSP  7",
-      "CSP  8",
-      "CSP  9"
-    ]
-  },
-  "BIO 320": {
-    "title": "Developmental Biology",
-    "prereqs": [
-      "BIO  130",
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
-    ]
-  },
-  "BIO 350": {
-    "title": "Microbial Symbiosis",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "BIO 250": {
-    "title": "Plant Form and Function",
-    "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "BIO 323": {
-    "title": "Histology",
-    "prereqs": [
-      "BIO  105",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "BIO 356": {
-    "title": "The Biology of Marine Fishes",
-    "prereqs": [
-      "BIO  240",
-      "BIO  250",
-      "BIO  260",
-      "BIO  268",
-      "BIO  270",
-      "BIO  275",
-      "BIO  280"
-    ]
-  },
-  "CHIN 350": {
-    "title": "Classical Chinese Texts",
-    "prereqs": [
-      "CHIN  301",
-      "OXCH"
-    ]
-  },
-  "COMP 229": {
-    "title": "Data Structures",
-    "prereqs": [
-      "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211"
-    ]
-  },
-  "COMP 395": {
-    "title": "Special Topics in Computer Science",
-    "prereqs": [
-      "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229"
-    ]
-  },
-  "CTSJ 332": {
-    "title": "Psychic Life of Violence",
-    "prereqs": [
-      "CTSJ  201",
-      "CTSJ  222",
-      "CTSJ  230",
-      "CTSJ  247",
-      "CTSJ  248",
-      "CTSJ  255",
-      "CTSJ  257",
-      "CTSJ  259",
-      "CTSJ  270",
-      "CTSJ  275",
-      "CTSJ  279",
-      "CTSJ  280",
-      "CTSJ  285",
-      "CTSJ  286",
-      "CTSJ  295"
-    ]
-  },
-  "DWA 220": {
-    "title": "International Political Economy",
-    "prereqs": [
-      "ECON  101",
-      "ECON  102"
-    ]
-  },
-  "DWA 332": {
-    "title": "The South Asian Diaspora",
-    "prereqs": [
-      "DWA  101",
-      "POLS  101"
-    ]
-  },
-  "JAPN 340": {
-    "title": "Language in News Media and Advertising",
-    "prereqs": [
-      "JAPN  302",
-      "OXJA"
-    ]
-  },
-  "MATH 362": {
-    "title": "Topology",
-    "prereqs": [
-      "MATH  210",
-      "MATH  212",
-      "MATH  214"
-    ]
-  },
-  "MATH 372": {
-    "title": "Operations Research",
-    "prereqs": [
-      "MATH  210",
-      "MATH  214"
-    ]
-  },
-  "MAC 390": {
-    "title": "Junior Seminar in Media Theory and Criticism",
-    "prereqs": [
-      "MAC  143",
-      "MAC  145",
-      "MAC  146"
-    ]
-  },
-  "PHYS 262": {
-    "title": "Electronics",
-    "prereqs": [
-      "APPE",
-      "PHYS  120",
-      "PHYS  125"
-    ]
-  },
-  "PSYC 444": {
-    "title": "Thinking and Reasoning",
-    "prereqs": [
-      "PSYC  200",
-      "PSYC  301",
-      "PSYC  302",
-      "PSYC  306"
-    ]
-  },
-  "SPAN 303": {
-    "title": "Introduction to Modern Latin American Literature and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 362": {
-    "title": "Modern Spanish Theater and Cinema",
-    "prereqs": [
-      "SPAN  301",
-      "SPAN  302",
-      "SPAN  303",
-      "SPAN  304",
-      "SPAN  309",
-      "SPAN  312",
-      "SPAN  313",
-      "SPAN  314",
-      "SPAN  316",
-      "SPAN  320",
-      "SPAN  340",
-      "SPAN  341",
-      "SPAN  342",
-      "SPAN  343",
-      "SPAN  351",
-      "SPAN  353",
-      "SPAN  363",
-      "SPAN  370",
-      "SPAN  377",
-      "SPAN  378",
-      "SPAN  382",
-      "SPAN  383",
-      "SPAN  398"
-    ]
-  },
-  "SPAN 309": {
-    "title": "Latin American Writers in Spain",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 382": {
-    "title": "Contemporary Mexican Novel",
-    "prereqs": [
-      "SPAN  300",
-      "SPAN  301",
-      "SPAN  302",
-      "SPAN  303",
-      "SPAN  304",
-      "SPAN  312",
-      "SPAN  313",
-      "SPAN  314",
-      "SPAN  316",
-      "SPAN  320",
-      "SPAN  340",
-      "SPAN  341",
-      "SPAN  351",
-      "SPAN  353",
-      "SPAN  362",
-      "SPAN  363",
-      "SPAN  377",
-      "SPAN  378",
-      "SPAN  379",
-      "SPAN  383"
-    ]
-  },
-  "THEA 410": {
-    "title": "Directing",
-    "prereqs": [
-      "THEA  120",
-      "THEA  310"
+      "OXWF",
+      "WRD  201"
     ]
   },
   "ARTH 391": {
@@ -2990,6 +2586,25 @@
       "ARTH  295"
     ]
   },
+  "ARTS 490": {
+    "title": "Studio Senior Seminar",
+    "prereqs": [
+      "ARTS  102",
+      "ARTS  103",
+      "ARTS  105",
+      "ARTS  203",
+      "ARTS  210",
+      "ARTS  216",
+      "ARTS  217"
+    ]
+  },
+  "CHEM 355": {
+    "title": "Bioinformatics",
+    "prereqs": [
+      "BIO  130",
+      "CHEM  221"
+    ]
+  },
   "CHEM 380": {
     "title": "Organic Synthesis",
     "prereqs": [
@@ -2997,12 +2612,27 @@
       "CHEM  240"
     ]
   },
+  "COGS 290": {
+    "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
+    "prereqs": [
+      "COGS  101",
+      "COGS  201"
+    ]
+  },
   "COMP 317": {
     "title": "Algorithms Analysis",
     "prereqs": [
-      "COMP  149",
       "COMP  229",
       "MATH  210"
+    ]
+  },
+  "COMP 229": {
+    "title": "Data Structures",
+    "prereqs": [
+      "APCA",
+      "COMP  127",
+      "COMP  131",
+      "COMP  211"
     ]
   },
   "CTSJ 360": {
@@ -3019,78 +2649,19 @@
       "CTSJ  195"
     ]
   },
-  "HIST 395": {
-    "title": "Special Topic in History: American History According to Hollywood",
+  "DWA 220": {
+    "title": "International Political Economy",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  183",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  300",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390",
-      "HIST  490",
-      "HIST  495"
+      "ECON  101",
+      "ECON  102"
+    ]
+  },
+  "ECON 309": {
+    "title": "Free Market Economics: The Austrian Perspective",
+    "prereqs": [
+      "APEA",
+      "APEI",
+      "ECON  102"
     ]
   },
   "HIST 335": {
@@ -3167,11 +2738,35 @@
       "HIST  495"
     ]
   },
+  "MAC 240": {
+    "title": "Introduction to Media Practices",
+    "prereqs": [
+      "MAC  143",
+      "MAC  145",
+      "MAC  146"
+    ]
+  },
+  "MAC 491": {
+    "title": "Senior Seminar in Media Production",
+    "prereqs": [
+      "MAC  355",
+      "MAC  390"
+    ]
+  },
   "PHYS 362": {
     "title": "Cosmology",
     "prereqs": [
       "PHYS  117",
       "PHYS  240"
+    ]
+  },
+  "PSYC 436": {
+    "title": "Comparative Cognition",
+    "prereqs": [
+      "PSYC  301",
+      "PSYC  302",
+      "PSYC  306",
+      "PSYC  336"
     ]
   },
   "SOC 200": {
@@ -3329,6 +2924,16 @@
       "BIO  130"
     ]
   },
+  "BIO 350": {
+    "title": "Microbial Symbiosis",
+    "prereqs": [
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
   "BIO 373": {
     "title": "Computational Biology",
     "prereqs": [
@@ -3349,6 +2954,13 @@
       "CHIN  330",
       "CHIN  350",
       "OXCH"
+    ]
+  },
+  "COMP 271": {
+    "title": "Mobile Apps",
+    "prereqs": [
+      "COMP  131",
+      "COMP  229"
     ]
   },
   "COMP 367": {
@@ -3378,6 +2990,18 @@
       "ECON  250",
       "ECON  251",
       "ECON  272"
+    ]
+  },
+  "EDUC 320": {
+    "title": "Critical Race Theory in Education",
+    "prereqs": [
+      "EDUC  201",
+      "EDUC  205",
+      "EDUC  207",
+      "EDUC  213",
+      "EDUC  215",
+      "EDUC  219",
+      "EDUC  283"
     ]
   },
   "ENGL 248": {
@@ -3523,11 +3147,6 @@
       "CSP  79",
       "CSP  8",
       "CSP  80",
-      "CSP  81",
-      "CSP  82",
-      "CSP  83",
-      "CSP  84",
-      "CSP  85",
       "CSP  9"
     ]
   },
@@ -3602,6 +3221,14 @@
       "PSYC  101"
     ]
   },
+  "MAC 390": {
+    "title": "Junior Seminar in Media Theory and Criticism",
+    "prereqs": [
+      "MAC  143",
+      "MAC  145",
+      "MAC  146"
+    ]
+  },
   "PHYS 350": {
     "title": "Statistical Physics",
     "prereqs": [
@@ -3615,6 +3242,15 @@
       "COGS  101",
       "LING  301",
       "PSYC  101"
+    ]
+  },
+  "PSYC 444": {
+    "title": "Thinking and Reasoning",
+    "prereqs": [
+      "PSYC  200",
+      "PSYC  301",
+      "PSYC  302",
+      "PSYC  306"
     ]
   },
   "SOC 205": {
@@ -3683,6 +3319,28 @@
       "UEP  106"
     ]
   },
+  "AMST 320": {
+    "title": "Graphic Narratives: From Pulp Fiction to Comix Literature",
+    "prereqs": [
+      "AMST  101",
+      "AMST  111",
+      "AMST  215",
+      "AMST  240",
+      "AMST  242",
+      "AMST  246",
+      "AMST  260",
+      "AMST  270",
+      "AMST  272",
+      "AMST  280",
+      "AMST  290",
+      "AMST  295",
+      "AMST  310",
+      "AMST  346",
+      "AMST  375",
+      "AMST  390",
+      "AMST  490"
+    ]
+  },
   "BIO 370": {
     "title": "Field Ecology",
     "prereqs": [
@@ -3696,6 +3354,14 @@
     "prereqs": [
       "BIO  260",
       "BIO  270"
+    ]
+  },
+  "BIO 330": {
+    "title": "Immunology",
+    "prereqs": [
+      "BIO  221",
+      "BIO  224",
+      "BIO  226"
     ]
   },
   "BLST 352": {
@@ -3729,6 +3395,62 @@
       "COMP  131"
     ]
   },
+  "CTSJ 398": {
+    "title": "Social Justice Practicum",
+    "prereqs": [
+      "CTSJ  101",
+      "CTSJ  105",
+      "CTSJ  106",
+      "CTSJ  107",
+      "CTSJ  140",
+      "CTSJ  160",
+      "CTSJ  180",
+      "CTSJ  186",
+      "CTSJ  195",
+      "CTSJ  210",
+      "CTSJ  211",
+      "CTSJ  215",
+      "CTSJ  222",
+      "CTSJ  230",
+      "CTSJ  232",
+      "CTSJ  233",
+      "CTSJ  234",
+      "CTSJ  250",
+      "CTSJ  255",
+      "CTSJ  257",
+      "CTSJ  259",
+      "CTSJ  260",
+      "CTSJ  261",
+      "CTSJ  265",
+      "CTSJ  270",
+      "CTSJ  273",
+      "CTSJ  275",
+      "CTSJ  279",
+      "CTSJ  280",
+      "CTSJ  285",
+      "CTSJ  286",
+      "CTSJ  295",
+      "CTSJ  310",
+      "CTSJ  311",
+      "CTSJ  312",
+      "CTSJ  320",
+      "CTSJ  332",
+      "CTSJ  335",
+      "CTSJ  337",
+      "CTSJ  340",
+      "CTSJ  352",
+      "CTSJ  357",
+      "CTSJ  360",
+      "CTSJ  361",
+      "CTSJ  369",
+      "CTSJ  370",
+      "CTSJ  384",
+      "CTSJ  386",
+      "CTSJ  390",
+      "CTSJ  395",
+      "CTSJ  397"
+    ]
+  },
   "DWA 103": {
     "title": "Introduction to Global Political Economy",
     "prereqs": [
@@ -3742,7 +3464,6 @@
       "AMST  101",
       "AMST  111",
       "AMST  197",
-      "AMST  202",
       "AMST  215",
       "AMST  240",
       "AMST  242",
@@ -3782,13 +3503,12 @@
     ]
   },
   "PSYC 490": {
-    "title": "Topic - Eating: From Cells to Society",
+    "title": "Topic: Psychology of Addiction",
     "prereqs": [
       "PSYC  200",
-      "PSYC  302",
-      "PSYC  321",
-      "PSYC  323",
-      "PSYC  336"
+      "PSYC  322",
+      "PSYC  330",
+      "PSYC  334"
     ]
   },
   "SOC 250": {
@@ -3812,6 +3532,225 @@
       "SOC  101"
     ]
   },
+  "SPAN 302": {
+    "title": "Introduction to Medieval and Golden Age Spanish Literature and Civilization",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 362": {
+    "title": "Modern Spanish Theater and Cinema",
+    "prereqs": [
+      "SPAN  301",
+      "SPAN  302",
+      "SPAN  303",
+      "SPAN  304",
+      "SPAN  309",
+      "SPAN  312",
+      "SPAN  313",
+      "SPAN  314",
+      "SPAN  316",
+      "SPAN  320",
+      "SPAN  340",
+      "SPAN  341",
+      "SPAN  342",
+      "SPAN  343",
+      "SPAN  351",
+      "SPAN  353",
+      "SPAN  363",
+      "SPAN  370",
+      "SPAN  377",
+      "SPAN  378",
+      "SPAN  382",
+      "SPAN  383",
+      "SPAN  398"
+    ]
+  },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "THEA 325": {
+    "title": "Lighting Design",
+    "prereqs": [
+      "THEA  120",
+      "THEA  175"
+    ]
+  },
+  "AMST 376": {
+    "title": "Slavery, Freedom, and American Memory",
+    "prereqs": [
+      "AMST  101",
+      "AMST  110",
+      "AMST  111",
+      "AMST  215",
+      "AMST  240",
+      "AMST  242",
+      "AMST  246",
+      "AMST  252",
+      "AMST  256",
+      "AMST  260",
+      "AMST  268",
+      "AMST  270",
+      "AMST  272",
+      "AMST  280",
+      "AMST  290",
+      "AMST  295",
+      "AMST  296",
+      "AMST  310",
+      "AMST  320",
+      "AMST  325",
+      "AMST  346",
+      "AMST  375",
+      "AMST  390",
+      "BLST  110",
+      "BLST  240",
+      "BLST  242",
+      "BLST  252",
+      "BLST  256",
+      "BLST  258",
+      "BLST  268",
+      "BLST  325",
+      "BLST  352"
+    ]
+  },
+  "AMST 260": {
+    "title": "United States Latino Literature and Cultural Studies",
+    "prereqs": [
+      "CSP  1",
+      "CSP  10",
+      "CSP  11",
+      "CSP  12",
+      "CSP  13",
+      "CSP  14",
+      "CSP  15",
+      "CSP  16",
+      "CSP  17",
+      "CSP  18",
+      "CSP  19",
+      "CSP  2",
+      "CSP  20",
+      "CSP  21",
+      "CSP  22",
+      "CSP  23",
+      "CSP  24",
+      "CSP  25",
+      "CSP  26",
+      "CSP  27",
+      "CSP  28",
+      "CSP  29",
+      "CSP  3",
+      "CSP  30",
+      "CSP  31",
+      "CSP  32",
+      "CSP  33",
+      "CSP  34",
+      "CSP  35",
+      "CSP  36",
+      "CSP  37",
+      "CSP  38",
+      "CSP  39",
+      "CSP  4",
+      "CSP  40",
+      "CSP  41",
+      "CSP  42",
+      "CSP  43",
+      "CSP  44",
+      "CSP  45",
+      "CSP  5",
+      "CSP  6",
+      "CSP  7",
+      "CSP  8",
+      "CSP  9"
+    ]
+  },
+  "BIO 320": {
+    "title": "Developmental Biology",
+    "prereqs": [
+      "BIO  130",
+      "BIO  221",
+      "BIO  224",
+      "BIO  226"
+    ]
+  },
+  "BIO 356": {
+    "title": "The Biology of Marine Fishes",
+    "prereqs": [
+      "BIO  240",
+      "BIO  250",
+      "BIO  260",
+      "BIO  268",
+      "BIO  270",
+      "BIO  275",
+      "BIO  280"
+    ]
+  },
+  "BIO 250": {
+    "title": "Plant Form and Function",
+    "prereqs": [
+      "BIO  104",
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
+  "BIO 323": {
+    "title": "Histology",
+    "prereqs": [
+      "BIO  105",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
+  "BLST 376": {
+    "title": "Slavery, Freedom, and American Memory",
+    "prereqs": [
+      "AMST  101",
+      "AMST  111",
+      "AMST  215",
+      "AMST  240",
+      "AMST  242",
+      "AMST  246",
+      "AMST  256",
+      "AMST  260",
+      "AMST  268",
+      "AMST  269",
+      "AMST  270",
+      "AMST  272",
+      "AMST  280",
+      "AMST  290",
+      "AMST  295",
+      "AMST  310",
+      "AMST  320",
+      "AMST  325",
+      "AMST  346",
+      "AMST  375",
+      "BLST  110",
+      "BLST  240",
+      "BLST  242",
+      "BLST  256",
+      "BLST  258",
+      "BLST  268",
+      "BLST  325",
+      "BLST  352",
+      "BLST  375"
+    ]
+  },
+  "CHIN 350": {
+    "title": "Classical Chinese Texts",
+    "prereqs": [
+      "CHIN  301",
+      "OXCH"
+    ]
+  },
   "COGS 303": {
     "title": "Topics in Neuroscience",
     "prereqs": [
@@ -3825,6 +3764,16 @@
     "prereqs": [
       "COMP  229",
       "COMP  239"
+    ]
+  },
+  "COMP 395": {
+    "title": "Special Topics in Computer Science",
+    "prereqs": [
+      "APCA",
+      "COMP  127",
+      "COMP  131",
+      "COMP  211",
+      "COMP  229"
     ]
   },
   "DWA 295": {
@@ -3942,6 +3891,13 @@
       "OXJA"
     ]
   },
+  "JAPN 340": {
+    "title": "Language in News Media and Advertising",
+    "prereqs": [
+      "JAPN  302",
+      "OXJA"
+    ]
+  },
   "LATN 201": {
     "title": "Topics in Classical Philology (Latin)",
     "prereqs": [
@@ -4016,11 +3972,34 @@
       "PHIL  225"
     ]
   },
+  "MATH 362": {
+    "title": "Topology",
+    "prereqs": [
+      "MATH  210",
+      "MATH  212",
+      "MATH  214"
+    ]
+  },
+  "MATH 372": {
+    "title": "Operations Research",
+    "prereqs": [
+      "MATH  210",
+      "MATH  214"
+    ]
+  },
   "MUSC 248": {
     "title": "Advanced Production: Sampling and Synthesis",
     "prereqs": [
       "MUSC  148",
       "MUSC  151"
+    ]
+  },
+  "PHYS 262": {
+    "title": "Electronics",
+    "prereqs": [
+      "APPE",
+      "PHYS  120",
+      "PHYS  125"
     ]
   },
   "PSYC 323": {
@@ -4044,11 +4023,34 @@
       "SOC  101"
     ]
   },
+  "SPAN 303": {
+    "title": "Introduction to Modern Latin American Literature and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
   "SPAN 325": {
     "title": "Madrid in its Literature and Art",
     "prereqs": [
       "SPAN  202",
       "SPAN  211"
+    ]
+  },
+  "SPAN 340": {
+    "title": "Spanish Phonology",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "THEA 410": {
+    "title": "Directing",
+    "prereqs": [
+      "THEA  120",
+      "THEA  310"
     ]
   },
   "BLST 312": {
@@ -4124,6 +4126,13 @@
       "COGS  201"
     ]
   },
+  "COMP 239": {
+    "title": "Computer Organization",
+    "prereqs": [
+      "APCA",
+      "COMP  131"
+    ]
+  },
   "COMP 347": {
     "title": "Machine Learning",
     "prereqs": [
@@ -4134,6 +4143,74 @@
       "MATH  150",
       "MATH  210",
       "MATH  214"
+    ]
+  },
+  "HIST 312": {
+    "title": "Race, Rights, and Revolution in the Atlantic World",
+    "prereqs": [
+      "HIST  101",
+      "HIST  102",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  183",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  300",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  328",
+      "HIST  330",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390",
+      "HIST  395",
+      "HIST  490",
+      "HIST  495"
     ]
   },
   "HIST 358": {
@@ -4164,7 +4241,7 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar: Science & Social Values",
+    "title": "Love in Personal and Political Life",
     "prereqs": [
       "PHIL  101",
       "PHIL  150",
@@ -4237,7 +4314,7 @@
     ]
   },
   "SOC 395": {
-    "title": "Special Topic in Sociology: Policing, Power, and Violence",
+    "title": "Special Topics in Sociology: Sociology of the Southern U.S.",
     "prereqs": [
       "OXSO",
       "SOC  101"
@@ -4278,6 +4355,13 @@
       "SPAN  379",
       "SPAN  382",
       "SPAN  383"
+    ]
+  },
+  "THEA 290": {
+    "title": "Topic: Reframe the Game - Strategies for a More Inclusive American Theater",
+    "prereqs": [
+      "THEA  101",
+      "THEA  210"
     ]
   },
   "AMST 346": {
@@ -4485,6 +4569,26 @@
       "COMP  131"
     ]
   },
+  "CTSJ 332": {
+    "title": "Psychic Life of Violence",
+    "prereqs": [
+      "CTSJ  201",
+      "CTSJ  222",
+      "CTSJ  230",
+      "CTSJ  247",
+      "CTSJ  248",
+      "CTSJ  255",
+      "CTSJ  257",
+      "CTSJ  259",
+      "CTSJ  270",
+      "CTSJ  275",
+      "CTSJ  279",
+      "CTSJ  280",
+      "CTSJ  285",
+      "CTSJ  286",
+      "CTSJ  295"
+    ]
+  },
   "HIST 385": {
     "title": "Identity Formation in the Modern Middle East and Africa",
     "prereqs": [
@@ -4563,7 +4667,7 @@
   "KINE 302": {
     "title": "Biomechanics",
     "prereqs": [
-      "APPM",
+      "APPE",
       "KINE  300",
       "PHYS  110",
       "PHYS  115"
@@ -4703,453 +4807,6 @@
       "SP",
       "SSL",
       "SSP"
-    ]
-  },
-  "ARTS 210": {
-    "title": "Intermediate Painting",
-    "prereqs": [
-      "ARTS  102",
-      "OXAS"
-    ]
-  },
-  "BIO 390": {
-    "title": "Special Topic in Biology: Broader Impacts of Biology",
-    "prereqs": [
-      "BIO  221",
-      "BIO  224",
-      "BIO  240",
-      "BIO  250",
-      "BIO  260",
-      "BIO  279",
-      "BIO  320",
-      "BIO  322",
-      "BIO  323",
-      "BIO  325",
-      "BIO  326",
-      "BIO  330",
-      "BIO  333",
-      "BIO  340",
-      "BIO  344",
-      "BIO  356",
-      "BIO  368",
-      "BIO  369",
-      "BIO  377",
-      "BIO  380"
-    ]
-  },
-  "BIO 393": {
-    "title": "Special Topics in Biology: The Biology and Epidemiology of COVID-19",
-    "prereqs": [
-      "BIO  221",
-      "BIO  224",
-      "BIO  226",
-      "BIO  322",
-      "BIO  349"
-    ]
-  },
-  "COMP 398": {
-    "title": "Directed Research",
-    "prereqs": [
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229"
-    ]
-  },
-  "CTSJ 300": {
-    "title": "Research Methods and Critical Inquiry",
-    "prereqs": [
-      "CTSJ  100",
-      "CTSJ  186"
-    ]
-  },
-  "ENGL 314": {
-    "title": "Renaissance Poetry",
-    "prereqs": [
-      "ENGL  241",
-      "ENGL  248",
-      "ENGL  273",
-      "ENGL  274",
-      "ENGL  280",
-      "ENGL  281",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
-  "MUSC 261": {
-    "title": "Western Music and Culture: 1580-1829",
-    "prereqs": [
-      "MUSC  101",
-      "OXMT"
-    ]
-  },
-  "PHYS 230": {
-    "title": "Introductory Electricity and Magnetism",
-    "prereqs": [
-      "APBC",
-      "APPM",
-      "MATH  120",
-      "MATH  128",
-      "OXMA",
-      "PHYS  110",
-      "PHYS  115"
-    ]
-  },
-  "PHYS 267": {
-    "title": "Engineering Physics",
-    "prereqs": [
-      "APPE",
-      "APPM",
-      "OXPE",
-      "PHYS  110",
-      "PHYS  115",
-      "PHYS  120",
-      "PHYS  125"
-    ]
-  },
-  "PUBH 307": {
-    "title": "Public Health Practicum",
-    "prereqs": [
-      "PUBH  203",
-      "UEP  203"
-    ]
-  },
-  "PUBH 301": {
-    "title": "Women's Health",
-    "prereqs": [
-      "PUBH  203",
-      "UEP  203"
-    ]
-  },
-  "SOC 280": {
-    "title": "Punishment",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "BIO 345": {
-    "title": "Virology",
-    "prereqs": [
-      "BIO  130",
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
-    ]
-  },
-  "COMP 325": {
-    "title": "Topics in Artificial Intelligence",
-    "prereqs": [
-      "APCA",
-      "COGS  101",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229",
-      "COMP  311",
-      "COMP  317",
-      "COMP  337",
-      "COMP  353",
-      "COMP  367",
-      "COMP  395"
-    ]
-  },
-  "COMP 371": {
-    "title": "Mobile Apps",
-    "prereqs": [
-      "APCA",
-      "COMP  131",
-      "COMP  229"
-    ]
-  },
-  "CTSJ 295": {
-    "title": "Topics in Critical Theory & Social Justice: Critical Theory and Psychopathology",
-    "prereqs": [
-      "CTSJ  100",
-      "CTSJ  105",
-      "CTSJ  106",
-      "CTSJ  107",
-      "CTSJ  140",
-      "CTSJ  160",
-      "CTSJ  180",
-      "CTSJ  195"
-    ]
-  },
-  "ENGL 332": {
-    "title": "Eighteenth Century Literature: 1730-1800",
-    "prereqs": [
-      "ECLS  109",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  267",
-      "ENGL  280",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
-  "ENGL 220": {
-    "title": "Literatures of the Scientific Revolution",
-    "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  29",
-      "CSP  3",
-      "CSP  30",
-      "CSP  31",
-      "CSP  32",
-      "CSP  33",
-      "CSP  34",
-      "CSP  35",
-      "CSP  36",
-      "CSP  37",
-      "CSP  38",
-      "CSP  39",
-      "CSP  4",
-      "CSP  40",
-      "CSP  41",
-      "CSP  42",
-      "CSP  43",
-      "CSP  44",
-      "CSP  45",
-      "CSP  46",
-      "CSP  47",
-      "CSP  48",
-      "CSP  49",
-      "CSP  5",
-      "CSP  50",
-      "CSP  51",
-      "CSP  52",
-      "CSP  53",
-      "CSP  54",
-      "CSP  55",
-      "CSP  56",
-      "CSP  57",
-      "CSP  58",
-      "CSP  59",
-      "CSP  6",
-      "CSP  60",
-      "CSP  61",
-      "CSP  62",
-      "CSP  63",
-      "CSP  64",
-      "CSP  65",
-      "CSP  66",
-      "CSP  67",
-      "CSP  68",
-      "CSP  69",
-      "CSP  7",
-      "CSP  70",
-      "CSP  71",
-      "CSP  72",
-      "CSP  73",
-      "CSP  74",
-      "CSP  75",
-      "CSP  76",
-      "CSP  77",
-      "CSP  78",
-      "CSP  79",
-      "CSP  8",
-      "CSP  80",
-      "CSP  81",
-      "CSP  82",
-      "CSP  83",
-      "CSP  84",
-      "CSP  85",
-      "CSP  9"
-    ]
-  },
-  "GEO 220": {
-    "title": "Earth Materials",
-    "prereqs": [
-      "GEO  105",
-      "GEO  106"
-    ]
-  },
-  "LLAS 304": {
-    "title": "Mexico-U.S. Borderlands",
-    "prereqs": [
-      "HIST   309",
-      "HIST  101",
-      "HIST  102",
-      "HIST  121",
-      "HIST  122",
-      "HIST  125",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  183",
-      "HIST  190",
-      "HIST  191",
-      "HIST  192",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  207",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  214",
-      "HIST  215",
-      "HIST  216",
-      "HIST  220",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  233",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  254",
-      "HIST  257",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  311",
-      "HIST  312",
-      "HIST  316",
-      "HIST  328",
-      "HIST  330",
-      "HIST  336",
-      "HIST  338",
-      "HIST  344",
-      "HIST  345",
-      "HIST  346",
-      "HIST  348",
-      "HIST  355",
-      "HIST  357",
-      "HIST  358",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390",
-      "HIST  395",
-      "HIST  397"
-    ]
-  },
-  "MUSC 113": {
-    "title": "Learning to Compose",
-    "prereqs": [
-      "MUSC  101",
-      "OXMT"
-    ]
-  },
-  "MUSC 148": {
-    "title": "Introduction to Digital Audio Workstation (DAW)",
-    "prereqs": [
-      "MUSC  101",
-      "OXMT"
-    ]
-  },
-  "MUSC 263": {
-    "title": "Western Music and Culture: 1830 to the Present",
-    "prereqs": [
-      "MUSC  101",
-      "OXMT"
-    ]
-  },
-  "PHIL 350": {
-    "title": "Metalogic",
-    "prereqs": [
-      "MATH  210",
-      "PHIL  150"
-    ]
-  },
-  "PSYC 420": {
-    "title": "Psychology of Addiction",
-    "prereqs": [
-      "PSYC  200",
-      "PSYC  322",
-      "PSYC  330",
-      "PSYC  334"
-    ]
-  },
-  "PUBH 238": {
-    "title": "Epidemiology",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130",
-      "BIO  268",
-      "COMP  146",
-      "MATH  146",
-      "MATH  150",
-      "UEP  305"
-    ]
-  },
-  "SOC 361": {
-    "title": "Sociology of Whiteness",
-    "prereqs": [
-      "SOC  101",
-      "SOC  102"
-    ]
-  },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
     ]
   }
 }

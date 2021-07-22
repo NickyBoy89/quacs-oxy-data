@@ -58,7 +58,7 @@
     ]
   },
   {
-    "name": "Art",
+    "name": "Humanities, Arts, and Social Sciences",
     "depts": [
       {
         "code": "ARTH",
@@ -67,6 +67,46 @@
       {
         "code": "ARTS",
         "name": "Studio Art"
+      },
+      {
+        "code": "CSLC",
+        "name": "Comparative Studies in Literature and Culture"
+      },
+      {
+        "code": "ECON",
+        "name": "Economics"
+      },
+      {
+        "code": "EDUC",
+        "name": "Education"
+      },
+      {
+        "code": "HIST",
+        "name": "History"
+      },
+      {
+        "code": "MUSA",
+        "name": "Music Applied Study"
+      },
+      {
+        "code": "MUSC",
+        "name": "Music"
+      },
+      {
+        "code": "PHIL",
+        "name": "Philosophy"
+      },
+      {
+        "code": "PUBH",
+        "name": "Public Health"
+      },
+      {
+        "code": "SOC",
+        "name": "Sociology"
+      },
+      {
+        "code": "THEA",
+        "name": "Theater"
       }
     ]
   },
@@ -84,6 +124,26 @@
       {
         "code": "CHEM",
         "name": "Chemistry"
+      },
+      {
+        "code": "COGS",
+        "name": "Cognitive Science"
+      },
+      {
+        "code": "GEO",
+        "name": "Geology"
+      },
+      {
+        "code": "MATH",
+        "name": "Mathematics"
+      },
+      {
+        "code": "PHYS",
+        "name": "Physics"
+      },
+      {
+        "code": "PSYC",
+        "name": "Psychology"
       }
     ]
   },
@@ -106,15 +166,6 @@
     ]
   },
   {
-    "name": "Cognitive Science",
-    "depts": [
-      {
-        "code": "COGS",
-        "name": "Cognitive Science"
-      }
-    ]
-  },
-  {
     "name": "Computer Science",
     "depts": [
       {
@@ -129,23 +180,6 @@
       {
         "code": "CORE",
         "name": "Core Program"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
-      },
-      {
-        "code": "ENGL",
-        "name": "English"
-      },
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
       }
     ]
   },
@@ -177,38 +211,15 @@
     ]
   },
   {
-    "name": "Economics",
+    "name": "Literature",
     "depts": [
       {
-        "code": "ECON",
-        "name": "Economics"
-      }
-    ]
-  },
-  {
-    "name": "Education",
-    "depts": [
+        "code": "ENGL",
+        "name": "English"
+      },
       {
-        "code": "EDUC",
-        "name": "Education"
-      }
-    ]
-  },
-  {
-    "name": "Geology",
-    "depts": [
-      {
-        "code": "GEO",
-        "name": "Geology"
-      }
-    ]
-  },
-  {
-    "name": "History",
-    "depts": [
-      {
-        "code": "HIST",
-        "name": "History"
+        "code": "WRD",
+        "name": "Writing & Rhetoric"
       }
     ]
   },
@@ -249,51 +260,11 @@
     ]
   },
   {
-    "name": "Mathematics",
-    "depts": [
-      {
-        "code": "MATH",
-        "name": "Mathematics"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSA",
-        "name": "Music Applied Study"
-      },
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
     "name": "Physical Activities",
     "depts": [
       {
         "code": "PHAC",
         "name": "Physical Activities"
-      }
-    ]
-  },
-  {
-    "name": "Philosophy",
-    "depts": [
-      {
-        "code": "PHIL",
-        "name": "Philosophy"
-      }
-    ]
-  },
-  {
-    "name": "Physics",
-    "depts": [
-      {
-        "code": "PHYS",
-        "name": "Physics"
       }
     ]
   },
@@ -307,47 +278,11 @@
     ]
   },
   {
-    "name": "Psychology",
-    "depts": [
-      {
-        "code": "PSYC",
-        "name": "Psychology"
-      }
-    ]
-  },
-  {
-    "name": "Public Health",
-    "depts": [
-      {
-        "code": "PUBH",
-        "name": "Public Health"
-      }
-    ]
-  },
-  {
     "name": "Religious Studies",
     "depts": [
       {
         "code": "RELS",
         "name": "Religious Studies"
-      }
-    ]
-  },
-  {
-    "name": "Sociology",
-    "depts": [
-      {
-        "code": "SOC",
-        "name": "Sociology"
-      }
-    ]
-  },
-  {
-    "name": "Theater",
-    "depts": [
-      {
-        "code": "THEA",
-        "name": "Theater"
       }
     ]
   },

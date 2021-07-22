@@ -85,6 +85,14 @@
         "name": "History"
       },
       {
+        "code": "LING",
+        "name": "Linguistics"
+      },
+      {
+        "code": "MAC",
+        "name": "Media Arts and Culture"
+      },
+      {
         "code": "MUSA",
         "name": "Music Applied Study"
       },
@@ -97,8 +105,8 @@
         "name": "Philosophy"
       },
       {
-        "code": "PUBH",
-        "name": "Public Health"
+        "code": "RELS",
+        "name": "Religious Studies"
       },
       {
         "code": "SOC",
@@ -130,8 +138,16 @@
         "name": "Cognitive Science"
       },
       {
+        "code": "COMP",
+        "name": "Computer Science"
+      },
+      {
         "code": "GEO",
         "name": "Geology"
+      },
+      {
+        "code": "KINE",
+        "name": "Kinesiology"
       },
       {
         "code": "MATH",
@@ -166,15 +182,6 @@
     ]
   },
   {
-    "name": "Computer Science",
-    "depts": [
-      {
-        "code": "COMP",
-        "name": "Computer Science"
-      }
-    ]
-  },
-  {
     "name": "Core Program",
     "depts": [
       {
@@ -193,20 +200,19 @@
     ]
   },
   {
-    "name": "Critical Theory and Social Justice",
+    "name": "Politics and Public Relations",
     "depts": [
       {
         "code": "CTSJ",
         "name": "Critical Theory and Social Justice"
-      }
-    ]
-  },
-  {
-    "name": "Diplomacy & World Affairs",
-    "depts": [
+      },
       {
         "code": "DWA",
         "name": "Diplomacy & World Affairs"
+      },
+      {
+        "code": "POLS",
+        "name": "Politics"
       }
     ]
   },
@@ -233,33 +239,6 @@
     ]
   },
   {
-    "name": "Kinesiology",
-    "depts": [
-      {
-        "code": "KINE",
-        "name": "Kinesiology"
-      }
-    ]
-  },
-  {
-    "name": "Linguistics",
-    "depts": [
-      {
-        "code": "LING",
-        "name": "Linguistics"
-      }
-    ]
-  },
-  {
-    "name": "Media Arts and Culture",
-    "depts": [
-      {
-        "code": "MAC",
-        "name": "Media Arts and Culture"
-      }
-    ]
-  },
-  {
     "name": "Physical Activities",
     "depts": [
       {
@@ -269,26 +248,12 @@
     ]
   },
   {
-    "name": "Politics",
+    "name": "Social Affairs",
     "depts": [
       {
-        "code": "POLS",
-        "name": "Politics"
-      }
-    ]
-  },
-  {
-    "name": "Religious Studies",
-    "depts": [
-      {
-        "code": "RELS",
-        "name": "Religious Studies"
-      }
-    ]
-  },
-  {
-    "name": "Urban & Environmental Policy",
-    "depts": [
+        "code": "PUBH",
+        "name": "Public Health"
+      },
       {
         "code": "UEP",
         "name": "Urban & Environmental Policy"

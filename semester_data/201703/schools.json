@@ -50,7 +50,7 @@
     ]
   },
   {
-    "name": "Art",
+    "name": "Humanities, Arts, and Social Sciences",
     "depts": [
       {
         "code": "ARTH",
@@ -59,6 +59,50 @@
       {
         "code": "ARTS",
         "name": "Studio Art"
+      },
+      {
+        "code": "CSLC",
+        "name": "Comparative Studies in Literature and Culture"
+      },
+      {
+        "code": "ECON",
+        "name": "Economics"
+      },
+      {
+        "code": "EDUC",
+        "name": "Education"
+      },
+      {
+        "code": "HIST",
+        "name": "History"
+      },
+      {
+        "code": "LING",
+        "name": "Linguistics"
+      },
+      {
+        "code": "MAC",
+        "name": "Media Arts and Culture"
+      },
+      {
+        "code": "MUSC",
+        "name": "Music"
+      },
+      {
+        "code": "PHIL",
+        "name": "Philosophy"
+      },
+      {
+        "code": "RELS",
+        "name": "Religious Studies"
+      },
+      {
+        "code": "SOC",
+        "name": "Sociology"
+      },
+      {
+        "code": "THEA",
+        "name": "Theater"
       }
     ]
   },
@@ -76,6 +120,34 @@
       {
         "code": "CHEM",
         "name": "Chemistry"
+      },
+      {
+        "code": "COGS",
+        "name": "Cognitive Science"
+      },
+      {
+        "code": "COMP",
+        "name": "Computer Science"
+      },
+      {
+        "code": "GEO",
+        "name": "Geology"
+      },
+      {
+        "code": "KINE",
+        "name": "Kinesiology"
+      },
+      {
+        "code": "MATH",
+        "name": "Mathematics"
+      },
+      {
+        "code": "PHYS",
+        "name": "Physics"
+      },
+      {
+        "code": "PSYC",
+        "name": "Psychology"
       }
     ]
   },
@@ -85,41 +157,6 @@
       {
         "code": "CLAS",
         "name": "Classical Studies"
-      }
-    ]
-  },
-  {
-    "name": "Cognitive Science",
-    "depts": [
-      {
-        "code": "COGS",
-        "name": "Cognitive Science"
-      }
-    ]
-  },
-  {
-    "name": "Computer Science",
-    "depts": [
-      {
-        "code": "COMP",
-        "name": "Computer Science"
-      }
-    ]
-  },
-  {
-    "name": "English",
-    "depts": [
-      {
-        "code": "CSLC",
-        "name": "Comparative Studies in Literature and Culture"
-      },
-      {
-        "code": "ENGL",
-        "name": "English"
-      },
-      {
-        "code": "WRD",
-        "name": "Writing & Rhetoric"
       }
     ]
   },
@@ -142,11 +179,15 @@
     ]
   },
   {
-    "name": "Diplomacy & World Affairs",
+    "name": "Politics and Public Relations",
     "depts": [
       {
         "code": "DWA",
         "name": "Diplomacy & World Affairs"
+      },
+      {
+        "code": "POLS",
+        "name": "Politics"
       }
     ]
   },
@@ -160,38 +201,15 @@
     ]
   },
   {
-    "name": "Economics",
+    "name": "Literature",
     "depts": [
       {
-        "code": "ECON",
-        "name": "Economics"
-      }
-    ]
-  },
-  {
-    "name": "Education",
-    "depts": [
+        "code": "ENGL",
+        "name": "English"
+      },
       {
-        "code": "EDUC",
-        "name": "Education"
-      }
-    ]
-  },
-  {
-    "name": "Geology",
-    "depts": [
-      {
-        "code": "GEO",
-        "name": "Geology"
-      }
-    ]
-  },
-  {
-    "name": "History",
-    "depts": [
-      {
-        "code": "HIST",
-        "name": "History"
+        "code": "WRD",
+        "name": "Writing & Rhetoric"
       }
     ]
   },
@@ -205,29 +223,11 @@
     ]
   },
   {
-    "name": "Kinesiology",
-    "depts": [
-      {
-        "code": "KINE",
-        "name": "Kinesiology"
-      }
-    ]
-  },
-  {
     "name": "Language",
     "depts": [
       {
         "code": "LANG",
         "name": "Language"
-      }
-    ]
-  },
-  {
-    "name": "Linguistics",
-    "depts": [
-      {
-        "code": "LING",
-        "name": "Linguistics"
       }
     ]
   },
@@ -241,33 +241,6 @@
     ]
   },
   {
-    "name": "Media Arts and Culture",
-    "depts": [
-      {
-        "code": "MAC",
-        "name": "Media Arts and Culture"
-      }
-    ]
-  },
-  {
-    "name": "Mathematics",
-    "depts": [
-      {
-        "code": "MATH",
-        "name": "Mathematics"
-      }
-    ]
-  },
-  {
-    "name": "Music",
-    "depts": [
-      {
-        "code": "MUSC",
-        "name": "Music"
-      }
-    ]
-  },
-  {
     "name": "Athletics & Physical Activities",
     "depts": [
       {
@@ -277,70 +250,7 @@
     ]
   },
   {
-    "name": "Philosophy",
-    "depts": [
-      {
-        "code": "PHIL",
-        "name": "Philosophy"
-      }
-    ]
-  },
-  {
-    "name": "Physics",
-    "depts": [
-      {
-        "code": "PHYS",
-        "name": "Physics"
-      }
-    ]
-  },
-  {
-    "name": "Politics",
-    "depts": [
-      {
-        "code": "POLS",
-        "name": "Politics"
-      }
-    ]
-  },
-  {
-    "name": "Psychology",
-    "depts": [
-      {
-        "code": "PSYC",
-        "name": "Psychology"
-      }
-    ]
-  },
-  {
-    "name": "Religious Studies",
-    "depts": [
-      {
-        "code": "RELS",
-        "name": "Religious Studies"
-      }
-    ]
-  },
-  {
-    "name": "Sociology",
-    "depts": [
-      {
-        "code": "SOC",
-        "name": "Sociology"
-      }
-    ]
-  },
-  {
-    "name": "Theater",
-    "depts": [
-      {
-        "code": "THEA",
-        "name": "Theater"
-      }
-    ]
-  },
-  {
-    "name": "Urban & Environmental Policy",
+    "name": "Social Affairs",
     "depts": [
       {
         "code": "UEP",

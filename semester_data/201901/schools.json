@@ -182,12 +182,21 @@
     ]
   },
   {
-    "name": "Politics and Public Relations",
+    "name": "Social Affairs",
     "depts": [
       {
         "code": "CTSJ",
         "name": "Critical Theory and Social Justice"
       },
+      {
+        "code": "UEP",
+        "name": "Urban & Environmental Policy"
+      }
+    ]
+  },
+  {
+    "name": "Politics and Public Relations",
+    "depts": [
       {
         "code": "DWA",
         "name": "Diplomacy & World Affairs"
@@ -235,15 +244,6 @@
       {
         "code": "PHAC",
         "name": "Athletics & Physical Activities"
-      }
-    ]
-  },
-  {
-    "name": "Social Affairs",
-    "depts": [
-      {
-        "code": "UEP",
-        "name": "Urban & Environmental Policy"
       }
     ]
   }

@@ -40,6 +40,7 @@ jobs:
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
           python -m pip install --upgrade pip
           pip install -r quacs-oxy-scraper/requirements.txt
+          cp quacs-oxy-scraper/transform.go .
           ls
       - name: Scrape
         run: |
@@ -50,7 +51,7 @@ jobs:
           name: semesters
           path: |
             semesters.json
-            quacs-oxy-scraper/transform.go
+            transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
     runs-on:
@@ -288,7 +289,9 @@ jobs:
           ls
       - name: Copy data from scrapers to data directory
         run: |
-          go run semesters/transform.go
+          cd semesters
+          go run transform.go
+          cd ../
           current_semester=$(tail -n 1 semesters/semesters.json)
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}

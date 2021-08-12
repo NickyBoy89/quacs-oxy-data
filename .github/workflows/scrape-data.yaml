@@ -48,7 +48,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: semesters
-          path: semesters.json
+          path: semesters.json transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
     runs-on:
@@ -286,7 +286,7 @@ jobs:
           ls
       - name: Copy data from scrapers to data directory
         run: |
-          go run transform.go
+          go run semesters/transform.go
           current_semester=$(tail -n 1 semesters/semesters.json)
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}

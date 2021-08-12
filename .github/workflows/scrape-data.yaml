@@ -267,6 +267,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
+      - name: Setup Go
+        run: |
+          sudo apt-get install golang
       - name: Checkout data
         uses: actions/checkout@v2
         with:
@@ -283,6 +286,7 @@ jobs:
           ls
       - name: Copy data from scrapers to data directory
         run: |
+          go run transform.go
           current_semester=$(tail -n 1 semesters/semesters.json)
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}

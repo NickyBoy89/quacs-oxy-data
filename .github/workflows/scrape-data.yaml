@@ -48,7 +48,9 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: semesters
-          path: semesters.json transform.go
+          path: |
+            semesters.json
+            transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
     runs-on:

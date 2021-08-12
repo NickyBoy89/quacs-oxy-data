@@ -50,7 +50,7 @@ jobs:
           name: semesters
           path: |
             semesters.json
-            transform.go
+            quacs-oxy-scraper/transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
     runs-on:

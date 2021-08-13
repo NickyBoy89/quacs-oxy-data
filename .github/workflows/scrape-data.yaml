@@ -43,7 +43,6 @@ jobs:
           cp quacs-oxy-scraper/transform.go .
       - name: Scrape
         run: |
-          cp quacs-oxy-scraper/counts.py quacs-oxy-scraper/semesters
           python3 quacs-oxy-scraper/semesters/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
@@ -241,7 +240,6 @@ jobs:
           name: catalog
       - name: Scrape
         run: |
-          cp quacs-oxy-scraper/counts.py quacs-oxy-scraper/sis_scraper/main.py
           python3 quacs-oxy-scraper/sis_scraper/main.py
       - name: Upload scraped data
         uses: actions/upload-artifact@v2

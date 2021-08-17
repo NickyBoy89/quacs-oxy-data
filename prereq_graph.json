@@ -12,11 +12,62 @@
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Bio Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM  120",
       "CHEM  130",
       "OXCE"
+    ]
+  },
+  "BIO 224": {
+    "title": "Genetic Analysis",
+    "prereqs": [
+      "BIO  130",
+      "CHEM  120",
+      "CHEM  130",
+      "OXCE"
+    ]
+  },
+  "BIO 260": {
+    "title": "Biodiversity and Organization of Marine Ecosystems",
+    "prereqs": [
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115"
+    ]
+  },
+  "BIO 280": {
+    "title": "Evolutionary Biology",
+    "prereqs": [
+      "BIO  104",
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
+  "BIO 333": {
+    "title": "Neurobiology",
+    "prereqs": [
+      "BIO  130",
+      "BIO  226",
+      "BIO  240"
+    ]
+  },
+  "BIO 349": {
+    "title": "Biochemistry I",
+    "prereqs": [
+      "BIO  130",
+      "CHEM  220"
+    ]
+  },
+  "BIO 370L": {
+    "title": "Field Ecology Laboratory",
+    "prereqs": [
+      "BIO  260",
+      "BIO  270"
     ]
   },
   "BIO 250": {
@@ -40,17 +91,6 @@
       "BIO  130"
     ]
   },
-  "BIO 280": {
-    "title": "Evolutionary Biology",
-    "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
   "BIO 322": {
     "title": "Principles of Biochemistry",
     "prereqs": [
@@ -66,52 +106,12 @@
       "BIO  226"
     ]
   },
-  "BIO 349": {
-    "title": "Biochemistry I",
-    "prereqs": [
-      "BIO  130",
-      "CHEM  220"
-    ]
-  },
   "BIO 370": {
     "title": "Field Ecology",
     "prereqs": [
       "BIO  260",
       "BIO  270",
       "GEO  225"
-    ]
-  },
-  "BIO 370L": {
-    "title": "Field Ecology Laboratory",
-    "prereqs": [
-      "BIO  260",
-      "BIO  270"
-    ]
-  },
-  "BIO 224": {
-    "title": "Genetic Analysis",
-    "prereqs": [
-      "BIO  130",
-      "CHEM  120",
-      "CHEM  130",
-      "OXCE"
-    ]
-  },
-  "BIO 260": {
-    "title": "Biodiversity and Organization of Marine Ecosystems",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115"
-    ]
-  },
-  "BIO 333": {
-    "title": "Neurobiology",
-    "prereqs": [
-      "BIO  130",
-      "BIO  226",
-      "BIO  240"
     ]
   },
   "BLST 352": {

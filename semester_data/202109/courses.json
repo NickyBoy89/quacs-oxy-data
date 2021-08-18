@@ -3352,8 +3352,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 40,
-            "act": 13,
-            "rem": 27,
+            "act": 12,
+            "rem": 28,
             "attribute": "",
             "timeslots": [
               {
@@ -3416,8 +3416,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 3,
-            "rem": 9,
+            "act": 2,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -13419,8 +13419,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 35,
-            "act": 8,
-            "rem": 27,
+            "act": 9,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -14035,8 +14035,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 8,
-            "rem": 27,
+            "act": 9,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -15411,7 +15411,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "David Timothy Claude",
+                "instructor": "David McKenna",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 925,

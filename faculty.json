@@ -647,14 +647,6 @@
     "education": "B.S., University of Arizona; Ph.D., University of California, Los Angeles  ",
     "area": "Biology"
   },
-  "Amanda Zellmer McCormack": {
-    "url": "/academics/faculty/amanda-zellmer-mccormack",
-    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/zellmer-amanda_400x400.jpg?itok=LCXeSQQP",
-    "title": "Associate Professor, Biology",
-    "biography": "Amanda Zellmer\u2019s research focuses on the utility and development of computational methods for studying spatial ecological and evolutionary processes, particularly in the context of conservation biology.",
-    "education": "B.S. University of Wisconsin, Ph.D University of Michigan",
-    "area": "Biology"
-  },
   "Lynn Mehl": {
     "url": "/academics/faculty/lynn-mehl",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/mehl-lynn_280x280.jpg?itok=uMHUA7C8",
@@ -1167,6 +1159,14 @@
     "education": "B.A., Nanjing University; M.A., Ph.D., Harvard University",
     "area": "American Studies; Advisory, East Asian Studies; Affiliated Faculty, History"
   },
+  "Amanda J. Zellmer ": {
+    "url": "/academics/faculty/amanda-j-zellmer",
+    "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/zellmer-amanda_400x400.jpg?itok=LCXeSQQP",
+    "title": "Associate Professor, Biology",
+    "biography": "Amanda Zellmer\u2019s research focuses on the utility and development of computational methods for studying spatial ecological and evolutionary processes, particularly in the context of conservation biology.",
+    "education": "B.S. University of Wisconsin, Ph.D University of Michigan",
+    "area": "Biology"
+  },
   "Meimei Zhang": {
     "url": "/academics/faculty/meimei-zhang",
     "portrait": "https://www.oxy.edu/sites/default/files/styles/faculty_profile_image/public/faculty-images/zhang_meimei_400x400.jpg?itok=1P03G8a6",
@@ -1310,14 +1310,6 @@
     "biography": "",
     "education": "B.A., B.S., M.S., National Taiwan University; M.S., Ph.D., Computer Science, University of Southern California ",
     "area": "Computer Science"
-  },
-  "David Claude McKenna": {
-    "url": "/academics/faculty/david-claude-mckenna",
-    "portrait": "/sites/default/files/campaign-logo.png",
-    "title": "Non-Tenure Track Instructor, Music",
-    "biography": "",
-    "education": "B.A., M.A., San Francisco State University",
-    "area": "Music"
   },
   "Rick Cole": {
     "url": "/academics/faculty/rick-cole",
@@ -1742,6 +1734,14 @@
     "biography": "Francisco Martinez is Artistic Director of the Francisco Martinez Dancetheatre and a multi-award winning choreographer.",
     "education": "",
     "area": "Theater & Performance Studies"
+  },
+  "David McKenna": {
+    "url": "/academics/faculty/david-mckenna",
+    "portrait": "/sites/default/files/campaign-logo.png",
+    "title": "Non-Tenure Track Instructor, Music",
+    "biography": "",
+    "education": "B.A., M.A., San Francisco State University",
+    "area": "Music"
   },
   "Laura McMillian": {
     "url": "/academics/faculty/laura-mcmillian",

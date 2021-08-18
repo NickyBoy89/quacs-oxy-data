@@ -250,32 +250,62 @@
         ]
       },
       {
-        "title": "Modern and Contemporary Art",
+        "title": "Practicum in Art History",
         "subj": "ARTH",
-        "crse": "389",
-        "id": "ARTH-389",
+        "crse": "298",
+        "id": "ARTH-298",
         "sections": [
           {
-            "crn": 1013,
+            "crn": 1919,
             "subj": "ARTH",
-            "crse": "389",
+            "crse": "298",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Modern and Contemporary Art",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Practicum in Art History",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Amy Lyford",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar in Art History",
+        "subj": "ARTH",
+        "crse": "490",
+        "id": "ARTH-490",
+        "sections": [
+          {
+            "crn": 1015,
+            "subj": "ARTH",
+            "crse": "490",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Senior Seminar in Art History",
+            "cap": 15,
+            "act": 4,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "M"
                 ],
-                "instructor": "Sami Siegelbaum",
+                "instructor": "Yurika Wakamatsu",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -318,32 +348,32 @@
         ]
       },
       {
-        "title": "Senior Seminar in Art History",
+        "title": "Modern and Contemporary Art",
         "subj": "ARTH",
-        "crse": "490",
-        "id": "ARTH-490",
+        "crse": "389",
+        "id": "ARTH-389",
         "sections": [
           {
-            "crn": 1015,
+            "crn": 1013,
             "subj": "ARTH",
-            "crse": "490",
+            "crse": "389",
             "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Senior Seminar in Art History",
-            "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Modern and Contemporary Art",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M"
+                  "R"
                 ],
-                "instructor": "Yurika Wakamatsu",
+                "instructor": "Sami Siegelbaum",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -357,6 +387,397 @@
     "name": "Art/Studio",
     "code": "ARTS",
     "courses": [
+      {
+        "title": "OxyArts Collaborate Workshop: Elementary School",
+        "subj": "ARTS",
+        "crse": "100",
+        "id": "ARTS-100",
+        "sections": [
+          {
+            "crn": 1817,
+            "subj": "ARTS",
+            "crse": "100",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "OxyArts Collaborate Workshop: Elementary School",
+            "cap": 5,
+            "act": 3,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Patricia Yossen",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1800,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Painting Fundamentals",
+        "subj": "ARTS",
+        "crse": "102",
+        "id": "ARTS-102",
+        "sections": [
+          {
+            "crn": 1018,
+            "subj": "ARTS",
+            "crse": "102",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Painting Fundamentals",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Linda M. Besemer",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1019,
+            "subj": "ARTS",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Painting Fundamentals",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Linda M. Besemer",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sculpture Fundamentals",
+        "subj": "ARTS",
+        "crse": "103",
+        "id": "ARTS-103",
+        "sections": [
+          {
+            "crn": 1020,
+            "subj": "ARTS",
+            "crse": "103",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sculpture Fundamentals",
+            "cap": 18,
+            "act": 11,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mary Beth Heffernan",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1021,
+            "subj": "ARTS",
+            "crse": "103",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sculpture Fundamentals",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mary Beth Heffernan",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Printmaking Fundamentals: Relief and Intaglio",
+        "subj": "ARTS",
+        "crse": "105",
+        "id": "ARTS-105",
+        "sections": [
+          {
+            "crn": 1022,
+            "subj": "ARTS",
+            "crse": "105",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Printmaking Fundamentals: Relief and Intaglio",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Camilla Taylor",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Photo Processes in Printmaking",
+        "subj": "ARTS",
+        "crse": "217",
+        "id": "ARTS-217",
+        "sections": [
+          {
+            "crn": 1024,
+            "subj": "ARTS",
+            "crse": "217",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Photo Processes in Printmaking",
+            "cap": 18,
+            "act": 4,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Linda F. Lyke",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Letterpress Printing",
+        "subj": "ARTS",
+        "crse": "227",
+        "id": "ARTS-227",
+        "sections": [
+          {
+            "crn": 1026,
+            "subj": "ARTS",
+            "crse": "227",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Letterpress Printing",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Jocelyn Webb Pedersen",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1025,
+            "subj": "ARTS",
+            "crse": "227",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Letterpress Printing",
+            "cap": 15,
+            "act": 15,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Jocelyn Webb Pedersen",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Interdisciplinary Arts:Pollinator Drones, Wish Factories, & Robotic Dogs-'What-if' Scenarios As Driv",
+        "subj": "ARTS",
+        "crse": "230",
+        "id": "ARTS-230",
+        "sections": [
+          {
+            "crn": 1834,
+            "subj": "ARTS",
+            "crse": "230",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Interdisciplinary Arts:Pollinator Drones, Wish Factories, & Robotic Dogs-'What-if' Scenarios As Driv",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Karina Natalie White",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Art Outside the Bounds: Wanlass Artist in Residence - Neutral and Authoritative Knowledge",
+        "subj": "ARTS",
+        "crse": "290",
+        "id": "ARTS-290",
+        "sections": [
+          {
+            "crn": 1029,
+            "subj": "ARTS",
+            "crse": "290",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Art Outside the Bounds: Wanlass Artist in Residence - Neutral and Authoritative Knowledge",
+            "cap": 18,
+            "act": 6,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Ernest Joseph Hill",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Projects in Sculpture",
+        "subj": "ARTS",
+        "crse": "303",
+        "id": "ARTS-303",
+        "sections": [
+          {
+            "crn": 1030,
+            "subj": "ARTS",
+            "crse": "303",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Projects in Sculpture",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Mary Beth Heffernan",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1155,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "OxyArts Collaborate Workshop: Middle School",
         "subj": "ARTS",
@@ -427,130 +848,6 @@
         ]
       },
       {
-        "title": "Painting Fundamentals",
-        "subj": "ARTS",
-        "crse": "102",
-        "id": "ARTS-102",
-        "sections": [
-          {
-            "crn": 1019,
-            "subj": "ARTS",
-            "crse": "102",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Painting Fundamentals",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Linda M. Besemer",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1018,
-            "subj": "ARTS",
-            "crse": "102",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Painting Fundamentals",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Linda M. Besemer",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sculpture Fundamentals",
-        "subj": "ARTS",
-        "crse": "103",
-        "id": "ARTS-103",
-        "sections": [
-          {
-            "crn": 1021,
-            "subj": "ARTS",
-            "crse": "103",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sculpture Fundamentals",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mary Beth Heffernan",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1555,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1020,
-            "subj": "ARTS",
-            "crse": "103",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sculpture Fundamentals",
-            "cap": 18,
-            "act": 11,
-            "rem": 7,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mary Beth Heffernan",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Digital Photography",
         "subj": "ARTS",
         "crse": "107",
@@ -578,66 +875,6 @@
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Letterpress Printing",
-        "subj": "ARTS",
-        "crse": "227",
-        "id": "ARTS-227",
-        "sections": [
-          {
-            "crn": 1025,
-            "subj": "ARTS",
-            "crse": "227",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Introduction to Letterpress Printing",
-            "cap": 15,
-            "act": 15,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1026,
-            "subj": "ARTS",
-            "crse": "227",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Introduction to Letterpress Printing",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -716,205 +953,28 @@
         ]
       },
       {
-        "title": "Advanced Projects in Sculpture",
+        "title": "Practicum in Studio Art",
         "subj": "ARTS",
-        "crse": "303",
-        "id": "ARTS-303",
+        "crse": "298",
+        "id": "ARTS-298",
         "sections": [
           {
-            "crn": 1030,
+            "crn": 1918,
             "subj": "ARTS",
-            "crse": "303",
+            "crse": "298",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Projects in Sculpture",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Practicum in Studio Art",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 0,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Mary Beth Heffernan",
+                "days": [],
+                "instructor": "Amy Lyford",
                 "location": "",
-                "timeStart": 900,
-                "timeEnd": 1155,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "OxyArts Collaborate Workshop: Elementary School",
-        "subj": "ARTS",
-        "crse": "100",
-        "id": "ARTS-100",
-        "sections": [
-          {
-            "crn": 1817,
-            "subj": "ARTS",
-            "crse": "100",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "OxyArts Collaborate Workshop: Elementary School",
-            "cap": 5,
-            "act": 3,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Patricia Yossen",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1800,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Printmaking Fundamentals: Relief and Intaglio",
-        "subj": "ARTS",
-        "crse": "105",
-        "id": "ARTS-105",
-        "sections": [
-          {
-            "crn": 1022,
-            "subj": "ARTS",
-            "crse": "105",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Printmaking Fundamentals: Relief and Intaglio",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Camilla Taylor",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Photo Processes in Printmaking",
-        "subj": "ARTS",
-        "crse": "217",
-        "id": "ARTS-217",
-        "sections": [
-          {
-            "crn": 1024,
-            "subj": "ARTS",
-            "crse": "217",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Photo Processes in Printmaking",
-            "cap": 18,
-            "act": 5,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Linda F. Lyke",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1555,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Interdisciplinary Arts:Pollinator Drones, Wish Factories, & Robotic Dogs-'What-if' Scenarios As Driv",
-        "subj": "ARTS",
-        "crse": "230",
-        "id": "ARTS-230",
-        "sections": [
-          {
-            "crn": 1834,
-            "subj": "ARTS",
-            "crse": "230",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Interdisciplinary Arts:Pollinator Drones, Wish Factories, & Robotic Dogs-'What-if' Scenarios As Driv",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Karina Natalie White",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Art Outside the Bounds: Wanlass Artist in Residence - Neutral and Authoritative Knowledge",
-        "subj": "ARTS",
-        "crse": "290",
-        "id": "ARTS-290",
-        "sections": [
-          {
-            "crn": 1029,
-            "subj": "ARTS",
-            "crse": "290",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Art Outside the Bounds: Wanlass Artist in Residence - Neutral and Authoritative Knowledge",
-            "cap": 18,
-            "act": 6,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Ernest Joseph Hill",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6787,8 +6847,8 @@
                 ],
                 "instructor": "Ron Buckmire",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1645,
+                "timeEnd": 1740,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -14682,8 +14742,8 @@
             "credMax": 4,
             "title": "Introduction to Visual and Critical Studies",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -21528,8 +21588,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -23526,8 +23586,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

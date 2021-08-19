@@ -15516,5 +15516,14 @@
         ]
       }
     }
+  },
+  "1920": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

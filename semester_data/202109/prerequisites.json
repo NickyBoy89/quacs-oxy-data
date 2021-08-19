@@ -1679,6 +1679,11 @@
     }
   },
   "1126": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COGS-201L"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {

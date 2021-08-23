@@ -1089,8 +1089,8 @@
                 ],
                 "instructor": "Andrew K. Udit",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1445,
+                "timeEnd": 1610,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -10632,8 +10632,8 @@
             "credMax": 4,
             "title": "Black Movements",
             "cap": 15,
-            "act": 16,
-            "rem": -1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12072,8 +12072,8 @@
             "credMax": 4,
             "title": "Medicine and Disease in Western Society",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -21026,8 +21026,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {

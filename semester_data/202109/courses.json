@@ -1083,14 +1083,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "W",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Andrew K. Udit",
                 "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1610,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -4687,15 +4682,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Michael G. Hill",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6842,13 +6831,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Ron Buckmire",
                 "location": "",
-                "timeStart": 1645,
-                "timeEnd": 1740,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7392,13 +7377,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T"
-                ],
+                "days": [],
                 "instructor": "Mary Christianakis",
                 "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2225,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7729,13 +7710,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Jacques F Fomerand",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -10917,8 +10894,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -11781,13 +11758,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M"
-                ],
+                "days": [],
                 "instructor": "Stephen Klemm",
                 "location": "",
-                "timeStart": 1800,
-                "timeEnd": 1930,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -12072,8 +12045,8 @@
             "credMax": 4,
             "title": "Medicine and Disease in Western Society",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -12391,15 +12364,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Mia Elise Lewis",
                 "location": "",
-                "timeStart": 915,
-                "timeEnd": 1040,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -19439,12 +19406,12 @@
             "timeslots": [
               {
                 "days": [
-                  "M"
+                  "F"
                 ],
                 "instructor": "Cori K. Vallembois",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1630,
+                "timeEnd": 1830,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -19494,8 +19461,8 @@
             "credMax": 1,
             "title": "Cardio Tennis",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -19890,17 +19857,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Robert John Bartlett",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -19920,17 +19879,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Robert John Bartlett",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -19958,17 +19909,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Robert John Bartlett",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -19988,17 +19931,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Robert John Bartlett",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20026,17 +19961,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Colm P. McFeely",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20056,17 +19983,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Colm P. McFeely",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20094,17 +20013,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Radames Lafaurie",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20124,17 +20035,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Radames Lafaurie",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20162,17 +20065,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Heather A. Collins",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20192,17 +20087,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Heather A. Collins",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20230,17 +20117,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20260,17 +20139,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "T",
-                  "W",
-                  "R",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Jack George Stabenfeldt",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -21737,8 +21608,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 5,
-            "rem": 14,
+            "act": 6,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -22180,13 +22051,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T"
-                ],
+                "days": [],
                 "instructor": "Clinton D. Chapman",
                 "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -22206,13 +22073,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "W"
-                ],
+                "days": [],
                 "instructor": "Clinton D. Chapman",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25371,8 +25234,8 @@
             "credMax": 2,
             "title": "Applied Projects in Sustainability",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

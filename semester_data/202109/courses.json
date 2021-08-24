@@ -25028,198 +25028,6 @@
         ]
       },
       {
-        "title": "Urban Policy and Politics",
-        "subj": "UEP",
-        "crse": "301",
-        "id": "UEP-301",
-        "sections": [
-          {
-            "crn": 1620,
-            "subj": "UEP",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Urban Policy and Politics",
-            "cap": 18,
-            "act": 17,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1843,
-            "subj": "UEP",
-            "crse": "301",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Urban Policy and Politics",
-            "cap": 18,
-            "act": 17,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Rick Charles Cole",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Urban Data Analysis",
-        "subj": "UEP",
-        "crse": "305",
-        "id": "UEP-305",
-        "sections": [
-          {
-            "crn": 1621,
-            "subj": "UEP",
-            "crse": "305",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Urban Data Analysis",
-            "cap": 32,
-            "act": 34,
-            "rem": -2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Urban Data Analysis Laboratory",
-        "subj": "UEP",
-        "crse": "305A",
-        "id": "UEP-305A",
-        "sections": [
-          {
-            "crn": 1623,
-            "subj": "UEP",
-            "crse": "305A",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Urban Data Analysis Laboratory",
-            "cap": 16,
-            "act": 17,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1622,
-            "subj": "UEP",
-            "crse": "305A",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Urban Data Analysis Laboratory",
-            "cap": 16,
-            "act": 17,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in UEP: Science, Technology, & Justice - The Making of \"Modern\" Families",
-        "subj": "UEP",
-        "crse": "395",
-        "id": "UEP-395",
-        "sections": [
-          {
-            "crn": 1908,
-            "subj": "UEP",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in UEP: Science, Technology, & Justice - The Making of \"Modern\" Families",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "April Joy Hovav",
-                "location": "",
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Applied Projects in Sustainability",
         "subj": "UEP",
         "crse": "246",
@@ -25246,6 +25054,128 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1655,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Policy and Politics",
+        "subj": "UEP",
+        "crse": "301",
+        "id": "UEP-301",
+        "sections": [
+          {
+            "crn": 1843,
+            "subj": "UEP",
+            "crse": "301",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Urban Policy and Politics",
+            "cap": 18,
+            "act": 17,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Rick Charles Cole",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1620,
+            "subj": "UEP",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Urban Policy and Politics",
+            "cap": 18,
+            "act": 17,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Data Analysis Laboratory",
+        "subj": "UEP",
+        "crse": "305A",
+        "id": "UEP-305A",
+        "sections": [
+          {
+            "crn": 1622,
+            "subj": "UEP",
+            "crse": "305A",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Urban Data Analysis Laboratory",
+            "cap": 16,
+            "act": 17,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1623,
+            "subj": "UEP",
+            "crse": "305A",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Urban Data Analysis Laboratory",
+            "cap": 16,
+            "act": 17,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25321,6 +25251,106 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Health Policy",
+        "subj": "UEP",
+        "crse": "209",
+        "id": "UEP-209",
+        "sections": [
+          {
+            "crn": 1922,
+            "subj": "UEP",
+            "crse": "209",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health Policy",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Corey Davis",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Data Analysis",
+        "subj": "UEP",
+        "crse": "305",
+        "id": "UEP-305",
+        "sections": [
+          {
+            "crn": 1621,
+            "subj": "UEP",
+            "crse": "305",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Urban Data Analysis",
+            "cap": 32,
+            "act": 34,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Special Topics in UEP: Science, Technology, & Justice - The Making of \"Modern\" Families",
+        "subj": "UEP",
+        "crse": "395",
+        "id": "UEP-395",
+        "sections": [
+          {
+            "crn": 1908,
+            "subj": "UEP",
+            "crse": "395",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in UEP: Science, Technology, & Justice - The Making of \"Modern\" Families",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "April Joy Hovav",
+                "location": "",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -25328,6 +25358,173 @@
     "name": "Writing and Rhetoric",
     "code": "WRD",
     "courses": [
+      {
+        "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
+        "subj": "WRD",
+        "crse": "201",
+        "id": "WRD-201",
+        "sections": [
+          {
+            "crn": 1526,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
+            "cap": 16,
+            "act": 16,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
+        "subj": "WRD",
+        "crse": "201",
+        "id": "WRD-201",
+        "sections": [
+          {
+            "crn": 1529,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
+            "cap": 16,
+            "act": 15,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ara Corbett",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1527,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
+            "cap": 16,
+            "act": 15,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ara Corbett",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Principles of Journalism I: Covering News Across Media",
+        "subj": "WRD",
+        "crse": "285",
+        "id": "WRD-285",
+        "sections": [
+          {
+            "crn": 1531,
+            "subj": "WRD",
+            "crse": "285",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Journalism I: Covering News Across Media",
+            "cap": 12,
+            "act": 5,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Robert J. Sipchen",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2225,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Argument and Rhetoric Across the Disciplines",
+        "subj": "WRD",
+        "crse": "295",
+        "id": "WRD-295",
+        "sections": [
+          {
+            "crn": 1533,
+            "subj": "WRD",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Argument and Rhetoric Across the Disciplines",
+            "cap": 18,
+            "act": 11,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Occidental Weekly Practicum",
         "subj": "WRD",
@@ -25355,68 +25552,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
-        "subj": "WRD",
-        "crse": "201",
-        "id": "WRD-201",
-        "sections": [
-          {
-            "crn": 1527,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
-            "cap": 16,
-            "act": 15,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ara Corbett",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1529,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "03",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
-            "cap": 16,
-            "act": 15,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ara Corbett",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25520,111 +25655,6 @@
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1255,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
-        "subj": "WRD",
-        "crse": "201",
-        "id": "WRD-201",
-        "sections": [
-          {
-            "crn": 1526,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
-            "cap": 16,
-            "act": 16,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Principles of Journalism I: Covering News Across Media",
-        "subj": "WRD",
-        "crse": "285",
-        "id": "WRD-285",
-        "sections": [
-          {
-            "crn": 1531,
-            "subj": "WRD",
-            "crse": "285",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Journalism I: Covering News Across Media",
-            "cap": 12,
-            "act": 5,
-            "rem": 7,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Robert J. Sipchen",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2225,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Argument and Rhetoric Across the Disciplines",
-        "subj": "WRD",
-        "crse": "295",
-        "id": "WRD-295",
-        "sections": [
-          {
-            "crn": 1533,
-            "subj": "WRD",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Argument and Rhetoric Across the Disciplines",
-            "cap": 18,
-            "act": 11,
-            "rem": 7,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

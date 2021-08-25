@@ -3979,8 +3979,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -5861,8 +5861,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 13,
-            "rem": 17,
+            "act": 12,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -5889,8 +5889,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 9,
-            "rem": 21,
+            "act": 10,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -6031,8 +6031,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Science Laboratory",
             "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "act": 3,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -6083,8 +6083,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Science Laboratory",
             "cap": 15,
-            "act": 7,
-            "rem": 8,
+            "act": 8,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -9284,8 +9284,8 @@
             "credMax": 4,
             "title": "Topics in English",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -12365,7 +12365,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Mia Elise Lewis",
+                "instructor": "Mila Elise Lewis",
                 "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -12398,7 +12398,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Mia Elise Lewis",
+                "instructor": "Mila Elise Lewis",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -12434,7 +12434,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Mia Elise Lewis",
+                "instructor": "Mila Elise Lewis",
                 "location": "",
                 "timeStart": 1100,
                 "timeEnd": 1155,
@@ -19639,8 +19639,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 20,
-            "act": 10,
-            "rem": 10,
+            "act": 11,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -22585,8 +22585,8 @@
             "credMax": 4,
             "title": "Introduction to American Religion",
             "cap": 30,
-            "act": 12,
-            "rem": 18,
+            "act": 11,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {

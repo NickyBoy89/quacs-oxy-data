@@ -1700,8 +1700,8 @@
             "credMax": 0,
             "title": "Biostatistics Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2948,8 +2948,8 @@
             "credMax": 4,
             "title": "Biostatistics",
             "cap": 24,
-            "act": 25,
-            "rem": -1,
+            "act": 26,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -3984,8 +3984,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -5621,8 +5621,8 @@
             "credMax": 4,
             "title": "Forms of Feeling, and a Feeling for Form: Literature and Its Lifeworlds",
             "cap": 35,
-            "act": 22,
-            "rem": 13,
+            "act": 21,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -7793,8 +7793,8 @@
             "credMax": 4,
             "title": "Introduction to Human Rights: Focus on the Americas",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -11810,8 +11810,8 @@
             "credMax": 4,
             "title": "Intermediate German",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -14015,8 +14015,8 @@
             "credMax": 4,
             "title": "Ordinary Differential Equations",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -20449,8 +20449,8 @@
             "credMax": 4,
             "title": "General Physics I",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -20485,8 +20485,8 @@
             "credMax": 0,
             "title": "General Physics I Laboratory",
             "cap": 14,
-            "act": 4,
-            "rem": 10,
+            "act": 3,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {

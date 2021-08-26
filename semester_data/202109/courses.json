@@ -11820,7 +11820,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Alexander Gardner",
+                "instructor": "Alex Gardner",
                 "location": "",
                 "timeStart": 1445,
                 "timeEnd": 1540,
@@ -16395,8 +16395,8 @@
             "credMax": 1,
             "title": "Voice (One Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {

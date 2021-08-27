@@ -229,8 +229,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5621,8 +5621,8 @@
             "credMax": 4,
             "title": "Forms of Feeling, and a Feeling for Form: Literature and Its Lifeworlds",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 20,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -8358,8 +8358,8 @@
             "credMax": 4,
             "title": "Intermediate Macroeconomic Theory",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -22731,8 +22731,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -22945,7 +22945,7 @@
             "crn": 1790,
             "subj": "RUSN",
             "crse": "338",
-            "sec": "00",
+            "sec": "01",
             "credMin": 5,
             "credMax": 5,
             "title": "Russian Literature: Dreamers, Realists, and the In-Between",

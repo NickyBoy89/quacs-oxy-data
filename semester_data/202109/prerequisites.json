@@ -15530,5 +15530,24 @@
         ]
       }
     }
+  },
+  "1927": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "CORE  111",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

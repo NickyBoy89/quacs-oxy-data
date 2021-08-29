@@ -7888,8 +7888,8 @@
             "credMax": 4,
             "title": "European Politics",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -12236,8 +12236,8 @@
             "credMax": 4,
             "title": "East Asian Survey",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -12272,8 +12272,8 @@
             "credMax": 4,
             "title": "Capitalism",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -19365,8 +19365,8 @@
             "credMax": 4,
             "title": "Imagination",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

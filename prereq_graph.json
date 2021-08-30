@@ -1085,20 +1085,6 @@
       "OXME"
     ]
   },
-  "PHYS 125": {
-    "title": "General Physics II",
-    "prereqs": [
-      "APBC",
-      "APPM",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
-      "OXMA",
-      "OXPE",
-      "PHYS  110",
-      "PHYS  115"
-    ]
-  },
   "PHYS 350": {
     "title": "Statistical Physics",
     "prereqs": [

@@ -15252,24 +15252,6 @@
       }
     }
   },
-  "1906": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS  101",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1907": {
     "restrictions": {
       "classification": {

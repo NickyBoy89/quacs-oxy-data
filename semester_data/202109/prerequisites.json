@@ -6320,51 +6320,6 @@
       }
     }
   },
-  "1304": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-128A"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "APAB",
-          "type": "course"
-        },
-        {
-          "course": "APCS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1305": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-128"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1306": {
     "restrictions": {
       "classification": {
@@ -11349,6 +11304,24 @@
       }
     }
   },
+  "1561": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1562": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "1567": {
     "restrictions": {
       "classification": {
@@ -14202,24 +14175,6 @@
       }
     }
   },
-  "1795": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1796": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1797": {
     "restrictions": {
       "classification": {
@@ -15451,6 +15406,55 @@
         "may_not_be": [],
         "must_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1928": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MATH-108A"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "M108",
+          "type": "course"
+        },
+        {
+          "course": "M110",
+          "type": "course"
+        },
+        {
+          "course": "OXMA",
+          "type": "course"
+        },
+        {
+          "course": "ALEKS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1929": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MATH-108"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

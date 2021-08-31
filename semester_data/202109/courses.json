@@ -630,8 +630,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3240,8 +3240,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 37,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -6625,8 +6625,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 17,
-            "rem": 13,
+            "act": 16,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -7461,8 +7461,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13443,8 +13443,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13499,6 +13499,94 @@
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1928,
+            "subj": "MATH",
+            "crse": "108",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Unified Precalculus and Calculus 1-A",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unified Precalculus and Calculus 1-A Laboratory",
+        "subj": "MATH",
+        "crse": "108A",
+        "id": "MATH-108A",
+        "sections": [
+          {
+            "crn": 1293,
+            "subj": "MATH",
+            "crse": "108A",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Unified Precalculus and Calculus 1-A Laboratory",
+            "cap": 35,
+            "act": 37,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Donald D Lawrence",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1929,
+            "subj": "MATH",
+            "crse": "108A",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Unified Precalculus and Calculus 1-A Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13781,42 +13869,6 @@
         ]
       },
       {
-        "title": "Calculus 2 (Advanced Placement)",
-        "subj": "MATH",
-        "crse": "128",
-        "id": "MATH-128",
-        "sections": [
-          {
-            "crn": 1304,
-            "subj": "MATH",
-            "crse": "128",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Calculus 2 (Advanced Placement)",
-            "cap": 35,
-            "act": 2,
-            "rem": 33,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ramin Naimi",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Creative Problem-Solving",
         "subj": "MATH",
         "crse": "160",
@@ -14087,40 +14139,6 @@
         ]
       },
       {
-        "title": "Unified Precalculus and Calculus 1-A Laboratory",
-        "subj": "MATH",
-        "crse": "108A",
-        "id": "MATH-108A",
-        "sections": [
-          {
-            "crn": 1293,
-            "subj": "MATH",
-            "crse": "108A",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Unified Precalculus and Calculus 1-A Laboratory",
-            "cap": 35,
-            "act": 37,
-            "rem": -2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Donald D Lawrence",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Calculus 1 Laboratory",
         "subj": "MATH",
         "crse": "110",
@@ -14263,40 +14281,6 @@
                 "location": "",
                 "timeStart": 1445,
                 "timeEnd": 1540,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 2 (Advanced Placement) Laboratory",
-        "subj": "MATH",
-        "crse": "128A",
-        "id": "MATH-128A",
-        "sections": [
-          {
-            "crn": 1305,
-            "subj": "MATH",
-            "crse": "128A",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 2 (Advanced Placement) Laboratory",
-            "cap": 35,
-            "act": 2,
-            "rem": 33,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Ramin Naimi",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -15434,8 +15418,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 38,
-            "rem": 22,
+            "act": 39,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -15677,8 +15661,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 37,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -17817,8 +17801,8 @@
             "credMax": 1,
             "title": "Clarinet (Half Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -19487,60 +19471,60 @@
         ]
       },
       {
-        "title": "Tigers Live Fitness",
+        "title": "Spin Class I",
         "subj": "PHAC",
-        "crse": "130",
-        "id": "PHAC-130",
+        "crse": "128",
+        "id": "PHAC-128",
         "sections": [
           {
-            "crn": 1795,
+            "crn": 1561,
             "subj": "PHAC",
-            "crse": "130",
+            "crse": "128",
             "sec": "01",
             "credMin": 1,
             "credMax": 1,
-            "title": "Tigers Live Fitness",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "title": "Spin Class I",
+            "cap": 10,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Isabelle D. Dunne",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1200,
-                "timeEnd": 1255,
+                "timeStart": 830,
+                "timeEnd": 925,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
           },
           {
-            "crn": 1796,
+            "crn": 1562,
             "subj": "PHAC",
-            "crse": "130",
+            "crse": "128",
             "sec": "02",
             "credMin": 0,
             "credMax": 0,
-            "title": "Tigers Live Fitness",
-            "cap": 5,
+            "title": "Spin Class I",
+            "cap": 2,
             "act": 0,
-            "rem": 5,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1200,
-                "timeEnd": 1255,
+                "timeStart": 830,
+                "timeEnd": 925,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20271,8 +20255,8 @@
             "credMax": 4,
             "title": "Introductory Mechanics",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -20361,8 +20345,8 @@
             "credMax": 0,
             "title": "Introductory Mechanics Laboratory",
             "cap": 14,
-            "act": 10,
-            "rem": 4,
+            "act": 9,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23399,8 +23383,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24760,8 +24744,8 @@
             "credMax": 2,
             "title": "Theater Now: Los Angeles",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

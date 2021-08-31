@@ -165,8 +165,8 @@
             "credMax": 4,
             "title": "Introduction to Early European Art",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -229,8 +229,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -967,8 +967,8 @@
             "credMax": 1,
             "title": "Practicum in Studio Art",
             "cap": 18,
-            "act": 2,
-            "rem": 16,
+            "act": 3,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -3276,8 +3276,8 @@
             "credMax": 4,
             "title": "Race and Religion",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5586,8 +5586,8 @@
             "credMax": 4,
             "title": "Russian Literature: Dreamers, Realists, and The In-Between",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 33,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6554,8 +6554,8 @@
             "credMax": 4,
             "title": "Computer Science Senior Seminar",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -7620,8 +7620,8 @@
             "credMax": 2,
             "title": "A Primer for Revolution: Transnational Social Movements",
             "cap": 13,
-            "act": 10,
-            "rem": 3,
+            "act": 9,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -9342,8 +9342,8 @@
             "credMax": 4,
             "title": "Renaissance Cultures of Punishment",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -9552,8 +9552,8 @@
             "credMax": 4,
             "title": "Topic: The Dystopian Novel",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -10915,8 +10915,8 @@
             "credMax": 4,
             "title": "Beginning French I",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10979,8 +10979,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -11085,8 +11085,8 @@
             "credMax": 4,
             "title": "Intermediate French",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11963,8 +11963,8 @@
             "credMax": 4,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12067,8 +12067,8 @@
             "credMax": 4,
             "title": "Topics in California History",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12344,8 +12344,8 @@
             "credMax": 4,
             "title": "Renaissance to Revolution!",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13415,8 +13415,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 20,
-            "rem": -2,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -13485,8 +13485,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 35,
-            "act": 37,
-            "rem": -2,
+            "act": 38,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -13575,8 +13575,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 2,
-            "rem": 33,
+            "act": 3,
+            "rem": 32,
             "attribute": "",
             "timeslots": [
               {
@@ -13609,8 +13609,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 29,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14153,8 +14153,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 29,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14555,8 +14555,8 @@
             "credMax": 4,
             "title": "The Politics and Poetics of Documentary",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14895,8 +14895,8 @@
             "credMax": 4,
             "title": "Projects in Documentary Media",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15000,8 +15000,8 @@
             "credMax": 4,
             "title": "Topics in Digital Culture: Women Making Moves - Women's Migration and Media",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -16303,8 +16303,8 @@
             "credMax": 0,
             "title": "Voice (Half Hour)",
             "cap": 5,
-            "act": 3,
-            "rem": 2,
+            "act": 4,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16369,8 +16369,8 @@
             "credMax": 1,
             "title": "Voice (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19485,8 +19485,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -19779,8 +19779,8 @@
             "credMax": 1,
             "title": "Zumba",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 5,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -20939,8 +20939,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22644,8 +22644,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -22751,8 +22751,8 @@
             "credMax": 4,
             "title": "Race and Religion",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -23348,8 +23348,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23910,8 +23910,8 @@
             "credMax": 4,
             "title": "Introduction to Modern Spanish Literature and Civilization",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -24988,8 +24988,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -25426,8 +25426,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

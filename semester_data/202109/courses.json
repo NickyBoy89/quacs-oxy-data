@@ -5163,8 +5163,8 @@
             "credMax": 4,
             "title": "Linguistics for Cognitive Science",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -6154,8 +6154,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6240,8 +6240,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6466,9 +6466,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "F"
+                ],
                 "instructor": "Irina Rabkina",
                 "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1655,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6625,8 +6629,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 16,
-            "rem": 14,
+            "act": 15,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -6731,8 +6735,8 @@
             "credMax": 4,
             "title": "Operating Systems",
             "cap": 24,
-            "act": 15,
-            "rem": 9,
+            "act": 16,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8170,8 +8174,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8988,8 +8992,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -11846,8 +11850,8 @@
             "credMax": 4,
             "title": "Advanced German: Topics in German Literature",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12272,8 +12276,8 @@
             "credMax": 4,
             "title": "Capitalism",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13549,8 +13553,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 34,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13575,8 +13579,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 5,
-            "rem": 30,
+            "act": 6,
+            "rem": 29,
             "attribute": "",
             "timeslots": [
               {
@@ -14045,8 +14049,8 @@
             "credMax": 4,
             "title": "Real Analysis",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16095,8 +16099,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22573,8 +22577,8 @@
             "credMax": 4,
             "title": "Introduction to American Religion",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -25426,8 +25430,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25453,8 +25457,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

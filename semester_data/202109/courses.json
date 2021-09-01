@@ -3276,8 +3276,8 @@
             "credMax": 4,
             "title": "Race and Religion",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3874,8 +3874,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -7040,8 +7040,8 @@
             "credMax": 4,
             "title": "The New Queer Politics of the Middle East",
             "cap": 25,
-            "act": 33,
-            "rem": -8,
+            "act": 34,
+            "rem": -9,
             "attribute": "",
             "timeslots": [
               {
@@ -7465,8 +7465,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8063,8 +8063,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8174,8 +8174,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9275,8 +9275,8 @@
             "credMax": 4,
             "title": "Contemporary American Poetry",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9486,8 +9486,8 @@
             "credMax": 4,
             "title": "Shakespeare and Film",
             "cap": 25,
-            "act": 30,
-            "rem": -5,
+            "act": 29,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -10254,8 +10254,8 @@
             "credMax": 4,
             "title": "Knowledge and Nature in the African Diaspora",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10919,8 +10919,8 @@
             "credMax": 4,
             "title": "Beginning French I",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13489,8 +13489,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 35,
-            "act": 36,
-            "rem": -1,
+            "act": 35,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13517,8 +13517,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 35,
-            "act": 5,
-            "rem": 30,
+            "act": 6,
+            "rem": 29,
             "attribute": "",
             "timeslots": [
               {
@@ -13553,8 +13553,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 33,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13579,8 +13579,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 7,
-            "rem": 28,
+            "act": 8,
+            "rem": 27,
             "attribute": "",
             "timeslots": [
               {
@@ -15701,8 +15701,8 @@
             "credMax": 1,
             "title": "College Chorus",
             "cap": 99,
-            "act": 17,
-            "rem": 82,
+            "act": 18,
+            "rem": 81,
             "attribute": "",
             "timeslots": [
               {
@@ -15803,8 +15803,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 3,
-            "rem": 32,
+            "act": 4,
+            "rem": 31,
             "attribute": "",
             "timeslots": [
               {
@@ -16121,8 +16121,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -16312,9 +16312,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "R"
+                ],
                 "instructor": "Karen Jean Hogle Brown",
                 "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1400,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -16452,9 +16456,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "R"
+                ],
                 "instructor": "Karen Jean Hogle Brown",
                 "location": "",
+                "timeStart": 945,
+                "timeEnd": 1045,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -16518,9 +16526,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "W"
+                ],
                 "instructor": "Karen Jean Hogle Brown",
                 "location": "",
+                "timeStart": 1030,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -21040,8 +21052,8 @@
             "credMax": 4,
             "title": "Introduction to Political Theory",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21730,8 +21742,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 3,
-            "rem": 2,
+            "act": 4,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22755,8 +22767,8 @@
             "credMax": 4,
             "title": "Race and Religion",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

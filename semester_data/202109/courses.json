@@ -2390,8 +2390,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 3,
-            "rem": 96,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -4408,8 +4408,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -4470,8 +4470,8 @@
             "credMax": 0,
             "title": "Integrated Concepts in General Chemistry Laboratory",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 8,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19222,8 +19222,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 36,
-            "rem": -1,
+            "act": 37,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

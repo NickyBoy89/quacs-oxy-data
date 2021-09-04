@@ -1119,8 +1119,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 28,
-            "act": 28,
-            "rem": 0,
+            "act": 29,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -1233,8 +1233,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -9234,8 +9234,8 @@
             "credMax": 4,
             "title": "The School-to-Prison Pipeline",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -12037,8 +12037,8 @@
             "credMax": 4,
             "title": "Urban History",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -16099,8 +16099,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 4,
-            "rem": 16,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -19528,8 +19528,8 @@
             "credMax": 0,
             "title": "Spin Class I",
             "cap": 2,
-            "act": 0,
-            "rem": 2,
+            "act": 1,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25265,8 +25265,8 @@
             "credMax": 4,
             "title": "Urban History",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

@@ -630,8 +630,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -3764,8 +3764,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -5760,8 +5760,8 @@
             "credMax": 4,
             "title": "Meaning in a Material World: Lucretius On the Nature of Things",
             "cap": 35,
-            "act": 39,
-            "rem": -4,
+            "act": 40,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -5900,8 +5900,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 26,
-            "rem": 4,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -6094,8 +6094,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Science Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6785,7 +6785,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Mariam Ashchyan",
+                "instructor": "Luci Masredjian",
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1725,
@@ -7145,8 +7145,8 @@
             "credMax": 4,
             "title": "Melancholy and Ressentiment in the Postcolonial: What Comes After Postcolonialism?",
             "cap": 16,
-            "act": 19,
-            "rem": -3,
+            "act": 18,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -15358,8 +15358,8 @@
             "credMax": 1,
             "title": "Son Jarocho Ensemble",
             "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "act": 6,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -19258,8 +19258,8 @@
             "credMax": 4,
             "title": "Topics in the History of Philosophy: The Myth of Dualism",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19510,7 +19510,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Kacy Rodgers",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 925,
@@ -19537,7 +19537,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Kacy Rodgers",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 925,
@@ -19572,7 +19572,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Jewel M Greenberg",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
@@ -19599,7 +19599,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Jewel M Greenberg",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 1300,
                 "timeEnd": 1355,
@@ -19626,7 +19626,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Orameh Bagheri",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
@@ -19653,7 +19653,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Jewel M Greenberg",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
@@ -19680,7 +19680,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Jewel M Greenberg",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 1300,
                 "timeEnd": 1355,
@@ -19707,7 +19707,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Orameh Bagheri",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
@@ -20239,7 +20239,7 @@
                   "R",
                   "F"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Jack George Stabenfeldt",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,

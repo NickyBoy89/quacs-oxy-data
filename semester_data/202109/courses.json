@@ -1293,8 +1293,8 @@
             "credMax": 4,
             "title": "General Zoology",
             "cap": 28,
-            "act": 28,
-            "rem": 0,
+            "act": 27,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1355,8 +1355,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4576,8 +4576,8 @@
             "credMax": 4,
             "title": "Introduction to Chemistry",
             "cap": 25,
-            "act": 36,
-            "rem": -11,
+            "act": 37,
+            "rem": -12,
             "attribute": "",
             "timeslots": [
               {
@@ -9234,8 +9234,8 @@
             "credMax": 4,
             "title": "The School-to-Prison Pipeline",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -14489,8 +14489,8 @@
             "credMax": 4,
             "title": "Introduction to Digital Media and Culture",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -16017,8 +16017,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -16755,8 +16755,8 @@
             "credMax": 0,
             "title": "Oboe (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -24601,8 +24601,8 @@
             "credMax": 2,
             "title": "Costume Construction",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

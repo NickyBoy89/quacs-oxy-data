@@ -2346,8 +2346,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 7,
-            "rem": 92,
+            "act": 8,
+            "rem": 91,
             "attribute": "",
             "timeslots": [
               {
@@ -3786,8 +3786,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -8459,8 +8459,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -8529,8 +8529,8 @@
             "credMax": 4,
             "title": "Public Economics",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -8556,8 +8556,8 @@
             "credMax": 4,
             "title": "Public Economics",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8881,8 +8881,8 @@
             "credMax": 4,
             "title": "Economic Development",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -9164,8 +9164,8 @@
             "credMax": 4,
             "title": "Educational Innovations:  Challenges and Effects",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12037,8 +12037,8 @@
             "credMax": 4,
             "title": "Urban History",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14559,8 +14559,8 @@
             "credMax": 4,
             "title": "The Politics and Poetics of Documentary",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -22650,8 +22650,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23245,8 +23245,8 @@
             "credMax": 4,
             "title": "Sociology of Education",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23379,8 +23379,8 @@
             "credMax": 4,
             "title": "Special Topics in SOC: Science, Technology, & Justice - The Making of \"Modern\" Families",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -25237,8 +25237,8 @@
             "credMax": 4,
             "title": "Urban History",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -25565,8 +25565,8 @@
             "credMax": 4,
             "title": "Special Topics in UEP: Science, Technology, & Justice - The Making of \"Modern\" Families",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {

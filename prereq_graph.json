@@ -1274,6 +1274,34 @@
       "RUSN  101"
     ]
   },
+  "SOC 304": {
+    "title": "Sociological Inquiry",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 321": {
+    "title": "Immigration to the United States From Mexico and Central America",
+    "prereqs": [
+      "LLAS  101",
+      "SOC  101"
+    ]
+  },
+  "SOC 355": {
+    "title": "Power and Sexuality",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 370": {
+    "title": "Sociology of (Non)Violence",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
   "SOC 250": {
     "title": "Race and Ethnicity in American Society",
     "prereqs": [
@@ -1295,36 +1323,8 @@
       "SOC  101"
     ]
   },
-  "SOC 370": {
-    "title": "Sociology of (Non)Violence",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
   "SOC 395": {
     "title": "Special Topics in SOC: Science, Technology, & Justice - The Making of \"Modern\" Families",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 304": {
-    "title": "Sociological Inquiry",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 321": {
-    "title": "Immigration to the United States From Mexico and Central America",
-    "prereqs": [
-      "LLAS  101",
-      "SOC  101"
-    ]
-  },
-  "SOC 355": {
-    "title": "Power and Sexuality",
     "prereqs": [
       "OXSO",
       "SOC  101"
@@ -1377,6 +1377,14 @@
       "SPAN  102"
     ]
   },
+  "SPAN 314": {
+    "title": "Latin American Women's Voices in Fiction and Film",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
   "SPAN 304": {
     "title": "Introduction to Modern Spanish Literature and Civilization",
     "prereqs": [
@@ -1387,14 +1395,6 @@
   },
   "SPAN 343": {
     "title": "Spanish Sociolinguistics",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 314": {
-    "title": "Latin American Women's Voices in Fiction and Film",
     "prereqs": [
       "OXSE",
       "SPAN  202",

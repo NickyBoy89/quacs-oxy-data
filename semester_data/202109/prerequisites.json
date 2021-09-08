@@ -15521,5 +15521,17 @@
         ]
       }
     }
+  },
+  "1945": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

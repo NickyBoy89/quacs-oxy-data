@@ -1329,8 +1329,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1355,8 +1355,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 14,
-            "act": 13,
-            "rem": 1,
+            "act": 14,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -3874,8 +3874,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -8090,8 +8090,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8992,8 +8992,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10955,8 +10955,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -19815,8 +19815,8 @@
             "credMax": 0,
             "title": "Beginning Yoga",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -22712,8 +22712,8 @@
             "credMax": 4,
             "title": "Health Policy",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 21,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -25496,8 +25496,8 @@
             "credMax": 4,
             "title": "Health Policy",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 21,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

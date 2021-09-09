@@ -16547,8 +16547,8 @@
             "credMax": 1,
             "title": "Voice (One Hour)",
             "cap": 2,
-            "act": 0,
-            "rem": 2,
+            "act": 1,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23728,8 +23728,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

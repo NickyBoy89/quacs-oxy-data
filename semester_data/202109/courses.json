@@ -2698,8 +2698,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -6304,8 +6304,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 8,
-            "rem": 16,
+            "act": 7,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -13613,8 +13613,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 27,
-            "rem": 8,
+            "act": 29,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -13669,8 +13669,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13705,8 +13705,8 @@
             "credMax": 4,
             "title": "Calculus 1 (Advanced)",
             "cap": 35,
-            "act": 8,
-            "rem": 27,
+            "act": 7,
+            "rem": 28,
             "attribute": "",
             "timeslots": [
               {
@@ -13767,8 +13767,8 @@
             "credMax": 0,
             "title": "Calculus 1 (Advanced) Laboratory",
             "cap": 20,
-            "act": 4,
-            "rem": 16,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -14157,8 +14157,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 27,
-            "rem": 8,
+            "act": 29,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14209,8 +14209,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -19340,8 +19340,8 @@
             "credMax": 4,
             "title": "Minds, Agents, and Persons",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23698,8 +23698,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23782,8 +23782,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24489,8 +24489,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -24897,8 +24897,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

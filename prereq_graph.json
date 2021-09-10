@@ -1077,6 +1077,20 @@
       "OXME"
     ]
   },
+  "PHYS 350": {
+    "title": "Statistical Physics",
+    "prereqs": [
+      "PHYS  240",
+      "PHYS  310"
+    ]
+  },
+  "PHYS 490": {
+    "title": "Senior Physics Seminar I",
+    "prereqs": [
+      "PHYS  240",
+      "PHYS  320"
+    ]
+  },
   "PHYS 115": {
     "title": "General Physics I",
     "prereqs": [
@@ -1131,27 +1145,6 @@
       "PHYS  240"
     ]
   },
-  "PHYS 350": {
-    "title": "Statistical Physics",
-    "prereqs": [
-      "PHYS  240",
-      "PHYS  310"
-    ]
-  },
-  "PHYS 490": {
-    "title": "Senior Physics Seminar I",
-    "prereqs": [
-      "PHYS  240",
-      "PHYS  320"
-    ]
-  },
-  "POLS 235": {
-    "title": "United States Foreign Relations",
-    "prereqs": [
-      "DWA  101",
-      "POLS  101"
-    ]
-  },
   "POLS 301": {
     "title": "Urban Policy and Politics",
     "prereqs": [
@@ -1163,6 +1156,13 @@
     "title": "Black Political Thought",
     "prereqs": [
       "BLST  110",
+      "POLS  101"
+    ]
+  },
+  "POLS 235": {
+    "title": "United States Foreign Relations",
+    "prereqs": [
+      "DWA  101",
       "POLS  101"
     ]
   },
@@ -1190,15 +1190,8 @@
       "PSYC  101"
     ]
   },
-  "PSYC 310": {
-    "title": "Motor Learning and Control",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
-    ]
-  },
-  "PSYC 322": {
-    "title": "Physiological Psychology",
+  "PSYC 321": {
+    "title": "Developmental Psychology",
     "prereqs": [
       "APPS",
       "PSYC  101"
@@ -1209,20 +1202,6 @@
     "prereqs": [
       "PSYC  200",
       "PSYC  322"
-    ]
-  },
-  "PSYC 428": {
-    "title": "Adolescence",
-    "prereqs": [
-      "PSYC  200",
-      "PSYC  321"
-    ]
-  },
-  "PSYC 321": {
-    "title": "Developmental Psychology",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
     ]
   },
   "PSYC 323": {
@@ -1260,6 +1239,27 @@
       "PSYC  330"
     ]
   },
+  "PSYC 310": {
+    "title": "Motor Learning and Control",
+    "prereqs": [
+      "APPS",
+      "PSYC  101"
+    ]
+  },
+  "PSYC 322": {
+    "title": "Physiological Psychology",
+    "prereqs": [
+      "APPS",
+      "PSYC  101"
+    ]
+  },
+  "PSYC 428": {
+    "title": "Adolescence",
+    "prereqs": [
+      "PSYC  200",
+      "PSYC  321"
+    ]
+  },
   "PUBH 301": {
     "title": "Women's Health",
     "prereqs": [
@@ -1272,34 +1272,6 @@
     "prereqs": [
       "OXRU",
       "RUSN  101"
-    ]
-  },
-  "SOC 304": {
-    "title": "Sociological Inquiry",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 321": {
-    "title": "Immigration to the United States From Mexico and Central America",
-    "prereqs": [
-      "LLAS  101",
-      "SOC  101"
-    ]
-  },
-  "SOC 355": {
-    "title": "Power and Sexuality",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 370": {
-    "title": "Sociology of (Non)Violence",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
     ]
   },
   "SOC 250": {
@@ -1323,8 +1295,36 @@
       "SOC  101"
     ]
   },
+  "SOC 370": {
+    "title": "Sociology of (Non)Violence",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
   "SOC 395": {
     "title": "Special Topics in SOC: Science, Technology, & Justice - The Making of \"Modern\" Families",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 304": {
+    "title": "Sociological Inquiry",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 321": {
+    "title": "Immigration to the United States From Mexico and Central America",
+    "prereqs": [
+      "LLAS  101",
+      "SOC  101"
+    ]
+  },
+  "SOC 355": {
+    "title": "Power and Sexuality",
     "prereqs": [
       "OXSO",
       "SOC  101"
@@ -1377,14 +1377,6 @@
       "SPAN  102"
     ]
   },
-  "SPAN 314": {
-    "title": "Latin American Women's Voices in Fiction and Film",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
   "SPAN 304": {
     "title": "Introduction to Modern Spanish Literature and Civilization",
     "prereqs": [
@@ -1395,6 +1387,14 @@
   },
   "SPAN 343": {
     "title": "Spanish Sociolinguistics",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 314": {
+    "title": "Latin American Women's Voices in Fiction and Film",
     "prereqs": [
       "OXSE",
       "SPAN  202",

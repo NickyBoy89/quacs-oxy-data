@@ -8881,8 +8881,8 @@
             "credMax": 4,
             "title": "Economic Development",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15289,8 +15289,8 @@
             "credMax": 4,
             "title": "Topics in Vocal Music: Opera",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 33,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -21920,8 +21920,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 6,
-            "rem": -1,
+            "act": 5,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

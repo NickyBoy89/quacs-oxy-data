@@ -5900,8 +5900,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 23,
-            "rem": 7,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -5928,8 +5928,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5990,8 +5990,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Science Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6094,8 +6094,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Science Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 13,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12496,8 +12496,8 @@
             "credMax": 5,
             "title": "Elementary Japanese I",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13669,8 +13669,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 26,
-            "rem": 9,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -14209,8 +14209,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 26,
-            "rem": 9,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -15324,8 +15324,8 @@
             "credMax": 2,
             "title": "Glee Club (Sopranos/Altos)",
             "cap": 35,
-            "act": 18,
-            "rem": 17,
+            "act": 19,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -24813,8 +24813,8 @@
             "credMax": 2,
             "title": "Intensive Performance Laboratory",
             "cap": 18,
-            "act": 2,
-            "rem": 16,
+            "act": 3,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

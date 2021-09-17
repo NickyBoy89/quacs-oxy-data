@@ -1950,8 +1950,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 9,
-            "rem": -1,
+            "act": 10,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1976,8 +1976,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 6,
-            "rem": 2,
+            "act": 5,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -2098,8 +2098,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 20,
-            "rem": -4,
+            "act": 19,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -2160,8 +2160,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 13,
-            "rem": -5,
+            "act": 12,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -3240,8 +3240,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 39,
-            "rem": -4,
+            "act": 40,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -15726,8 +15726,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 39,
-            "rem": -4,
+            "act": 40,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {

@@ -3468,8 +3468,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3520,8 +3520,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -22478,8 +22478,8 @@
             "credMax": 4,
             "title": "Adolescence",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

@@ -2098,8 +2098,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 19,
-            "rem": -3,
+            "act": 18,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2134,8 +2134,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 10,
-            "rem": -2,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -20235,8 +20235,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Cross Country",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {

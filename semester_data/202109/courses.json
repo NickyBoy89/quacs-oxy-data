@@ -2412,8 +2412,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -20075,8 +20075,8 @@
             "credMax": 0,
             "title": "Zumba",
             "cap": 5,
-            "act": 3,
-            "rem": 2,
+            "act": 4,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24813,8 +24813,8 @@
             "credMax": 2,
             "title": "Intensive Performance Laboratory",
             "cap": 18,
-            "act": 3,
-            "rem": 15,
+            "act": 4,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {

@@ -8335,8 +8335,8 @@
             "credMax": 4,
             "title": "Intermediate Microeconomic Theory",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19876,8 +19876,8 @@
             "subj": "PHAC",
             "crse": "134",
             "sec": "04",
-            "credMin": 1,
-            "credMax": 1,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Beginning Yoga",
             "cap": 10,
             "act": 1,

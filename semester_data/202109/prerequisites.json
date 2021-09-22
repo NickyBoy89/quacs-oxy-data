@@ -17396,5 +17396,23 @@
         ]
       }
     }
+  },
+  "1962": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

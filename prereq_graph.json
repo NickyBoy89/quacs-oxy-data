@@ -335,15 +335,15 @@
       "COMP  211"
     ]
   },
-  "COMP 357": {
-    "title": "Networking",
+  "COMP 379": {
+    "title": "Operating Systems",
     "prereqs": [
       "COMP  229",
       "COMP  239"
     ]
   },
-  "COMP 379": {
-    "title": "Operating Systems",
+  "COMP 357": {
+    "title": "Networking",
     "prereqs": [
       "COMP  229",
       "COMP  239"
@@ -464,6 +464,14 @@
       "OXME"
     ]
   },
+  "ECON 320": {
+    "title": "Economic Development",
+    "prereqs": [
+      "APEA",
+      "APEI",
+      "ECON  102"
+    ]
+  },
   "ECON 323": {
     "title": "Urban Economics",
     "prereqs": [
@@ -483,81 +491,11 @@
       "ECON  272"
     ]
   },
-  "ECON 320": {
-    "title": "Economic Development",
-    "prereqs": [
-      "APEA",
-      "APEI",
-      "ECON  102"
-    ]
-  },
   "EDUC 300": {
     "title": "Community Engagement in Education",
     "prereqs": [
       "EDUC  201",
       "EDUC  207"
-    ]
-  },
-  "ENGL 322": {
-    "title": "Renaissance Cultures of Punishment",
-    "prereqs": [
-      "ENGL  106",
-      "ENGL  142",
-      "ENGL  155",
-      "ENGL  159",
-      "ENGL  178",
-      "ENGL  189",
-      "ENGL  241",
-      "ENGL  248",
-      "ENGL  273",
-      "ENGL  274",
-      "ENGL  280",
-      "ENGL  281",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
-  "ENGL 365": {
-    "title": "Contemporary Literature",
-    "prereqs": [
-      "ECLS  106",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  140",
-      "ENGL  142",
-      "ENGL  155",
-      "ENGL  159",
-      "ENGL  165",
-      "ENGL  178",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  241",
-      "ENGL  248",
-      "ENGL  267",
-      "ENGL  273",
-      "ENGL  274",
-      "ENGL  280",
-      "ENGL  281",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
     ]
   },
   "ENGL 280": {
@@ -656,10 +594,82 @@
       "ENGL  290"
     ]
   },
+  "ENGL 322": {
+    "title": "Renaissance Cultures of Punishment",
+    "prereqs": [
+      "ENGL  106",
+      "ENGL  142",
+      "ENGL  155",
+      "ENGL  159",
+      "ENGL  178",
+      "ENGL  189",
+      "ENGL  241",
+      "ENGL  248",
+      "ENGL  273",
+      "ENGL  274",
+      "ENGL  280",
+      "ENGL  281",
+      "ENGL  287",
+      "ENGL  288",
+      "ENGL  289",
+      "ENGL  290"
+    ]
+  },
+  "ENGL 365": {
+    "title": "Contemporary Literature",
+    "prereqs": [
+      "ECLS  106",
+      "ECLS  186",
+      "ECLS  187",
+      "ECLS  188",
+      "ECLS  189",
+      "ECLS  205",
+      "ECLS  220",
+      "ECLS  241",
+      "ECLS  253",
+      "ECLS  255",
+      "ECLS  279",
+      "ECLS  286",
+      "ECLS  287",
+      "ECLS  288",
+      "ECLS  289",
+      "ECLS  290",
+      "ENGL  106",
+      "ENGL  140",
+      "ENGL  142",
+      "ENGL  155",
+      "ENGL  159",
+      "ENGL  165",
+      "ENGL  178",
+      "ENGL  189",
+      "ENGL  220",
+      "ENGL  241",
+      "ENGL  248",
+      "ENGL  267",
+      "ENGL  273",
+      "ENGL  274",
+      "ENGL  280",
+      "ENGL  281",
+      "ENGL  287",
+      "ENGL  288",
+      "ENGL  289",
+      "ENGL  290"
+    ]
+  },
   "FREN 102": {
     "title": "Beginning French II",
     "prereqs": [
       "FREN  101",
+      "OXFR"
+    ]
+  },
+  "FREN 201": {
+    "title": "Intermediate French",
+    "prereqs": [
+      "APFR",
+      "FL",
+      "FR",
+      "FREN  102",
       "OXFR"
     ]
   },
@@ -683,23 +693,6 @@
       "OXFR"
     ]
   },
-  "FREN 201": {
-    "title": "Intermediate French",
-    "prereqs": [
-      "APFR",
-      "FL",
-      "FR",
-      "FREN  102",
-      "OXFR"
-    ]
-  },
-  "GEO 395": {
-    "title": "Directed Research",
-    "prereqs": [
-      "GEO  105",
-      "GEO  106"
-    ]
-  },
   "GEO 225": {
     "title": "Earth: A field perspective",
     "prereqs": [
@@ -709,6 +702,13 @@
   },
   "GEO 245": {
     "title": "Earth's Climate: Past and Future",
+    "prereqs": [
+      "GEO  105",
+      "GEO  106"
+    ]
+  },
+  "GEO 395": {
+    "title": "Directed Research",
     "prereqs": [
       "GEO  105",
       "GEO  106"
@@ -803,6 +803,13 @@
       "HIST  495"
     ]
   },
+  "JAPN 460": {
+    "title": "Translating Texts",
+    "prereqs": [
+      "JAPN  302",
+      "OXJA"
+    ]
+  },
   "JAPN 201": {
     "title": "Intermediate Japanese I",
     "prereqs": [
@@ -816,13 +823,6 @@
     "title": "Advanced Japanese I",
     "prereqs": [
       "JAPN  202",
-      "OXJA"
-    ]
-  },
-  "JAPN 460": {
-    "title": "Translating Texts",
-    "prereqs": [
-      "JAPN  302",
       "OXJA"
     ]
   },
@@ -893,7 +893,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1 Laboratory",
+    "title": "Calculus 1",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -902,7 +902,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced) Laboratory",
+    "title": "Calculus 1 (Advanced)",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -910,7 +910,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -930,8 +930,8 @@
       "OXMA"
     ]
   },
-  "MATH 214": {
-    "title": "Linear Algebra",
+  "MATH 212": {
+    "title": "Multivariable Calculus",
     "prereqs": [
       "APBC",
       "MATH  120",
@@ -939,15 +939,8 @@
       "OXMA"
     ]
   },
-  "MATH 330": {
-    "title": "Probability",
-    "prereqs": [
-      "MATH  212",
-      "MATH  214"
-    ]
-  },
-  "MATH 212": {
-    "title": "Multivariable Calculus",
+  "MATH 214": {
+    "title": "Linear Algebra",
     "prereqs": [
       "APBC",
       "MATH  120",
@@ -962,11 +955,11 @@
       "MATH  214"
     ]
   },
-  "MAC 491": {
-    "title": "Senior Seminar in Media Production",
+  "MATH 330": {
+    "title": "Probability",
     "prereqs": [
-      "MAC  355",
-      "MAC  390"
+      "MATH  212",
+      "MATH  214"
     ]
   },
   "MAC 240": {
@@ -975,6 +968,13 @@
       "MAC  143",
       "MAC  145",
       "MAC  146"
+    ]
+  },
+  "MAC 491": {
+    "title": "Senior Seminar in Media Production",
+    "prereqs": [
+      "MAC  355",
+      "MAC  390"
     ]
   },
   "MUSC 249": {
@@ -1077,6 +1077,20 @@
       "OXME"
     ]
   },
+  "PHYS 350": {
+    "title": "Statistical Physics",
+    "prereqs": [
+      "PHYS  240",
+      "PHYS  310"
+    ]
+  },
+  "PHYS 490": {
+    "title": "Senior Physics Seminar I",
+    "prereqs": [
+      "PHYS  240",
+      "PHYS  320"
+    ]
+  },
   "PHYS 115": {
     "title": "General Physics I",
     "prereqs": [
@@ -1131,27 +1145,6 @@
       "PHYS  240"
     ]
   },
-  "PHYS 350": {
-    "title": "Statistical Physics",
-    "prereqs": [
-      "PHYS  240",
-      "PHYS  310"
-    ]
-  },
-  "PHYS 490": {
-    "title": "Senior Physics Seminar I",
-    "prereqs": [
-      "PHYS  240",
-      "PHYS  320"
-    ]
-  },
-  "POLS 235": {
-    "title": "United States Foreign Relations",
-    "prereqs": [
-      "DWA  101",
-      "POLS  101"
-    ]
-  },
   "POLS 301": {
     "title": "Urban Policy and Politics",
     "prereqs": [
@@ -1163,6 +1156,13 @@
     "title": "Black Political Thought",
     "prereqs": [
       "BLST  110",
+      "POLS  101"
+    ]
+  },
+  "POLS 235": {
+    "title": "United States Foreign Relations",
+    "prereqs": [
+      "DWA  101",
       "POLS  101"
     ]
   },
@@ -1190,15 +1190,8 @@
       "PSYC  101"
     ]
   },
-  "PSYC 310": {
-    "title": "Motor Learning and Control",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
-    ]
-  },
-  "PSYC 322": {
-    "title": "Physiological Psychology",
+  "PSYC 321": {
+    "title": "Developmental Psychology",
     "prereqs": [
       "APPS",
       "PSYC  101"
@@ -1209,20 +1202,6 @@
     "prereqs": [
       "PSYC  200",
       "PSYC  322"
-    ]
-  },
-  "PSYC 428": {
-    "title": "Adolescence",
-    "prereqs": [
-      "PSYC  200",
-      "PSYC  321"
-    ]
-  },
-  "PSYC 321": {
-    "title": "Developmental Psychology",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
     ]
   },
   "PSYC 323": {
@@ -1260,6 +1239,27 @@
       "PSYC  330"
     ]
   },
+  "PSYC 310": {
+    "title": "Motor Learning and Control",
+    "prereqs": [
+      "APPS",
+      "PSYC  101"
+    ]
+  },
+  "PSYC 322": {
+    "title": "Physiological Psychology",
+    "prereqs": [
+      "APPS",
+      "PSYC  101"
+    ]
+  },
+  "PSYC 428": {
+    "title": "Adolescence",
+    "prereqs": [
+      "PSYC  200",
+      "PSYC  321"
+    ]
+  },
   "PUBH 301": {
     "title": "Women's Health",
     "prereqs": [
@@ -1272,34 +1272,6 @@
     "prereqs": [
       "OXRU",
       "RUSN  101"
-    ]
-  },
-  "SOC 304": {
-    "title": "Sociological Inquiry",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 321": {
-    "title": "Immigration to the United States From Mexico and Central America",
-    "prereqs": [
-      "LLAS  101",
-      "SOC  101"
-    ]
-  },
-  "SOC 355": {
-    "title": "Power and Sexuality",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 370": {
-    "title": "Sociology of (Non)Violence",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
     ]
   },
   "SOC 250": {
@@ -1323,8 +1295,36 @@
       "SOC  101"
     ]
   },
+  "SOC 370": {
+    "title": "Sociology of (Non)Violence",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
   "SOC 395": {
     "title": "Special Topics in SOC: Science, Technology, & Justice - The Making of \"Modern\" Families",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 304": {
+    "title": "Sociological Inquiry",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 321": {
+    "title": "Immigration to the United States From Mexico and Central America",
+    "prereqs": [
+      "LLAS  101",
+      "SOC  101"
+    ]
+  },
+  "SOC 355": {
+    "title": "Power and Sexuality",
     "prereqs": [
       "OXSO",
       "SOC  101"
@@ -1377,14 +1377,6 @@
       "SPAN  102"
     ]
   },
-  "SPAN 314": {
-    "title": "Latin American Women's Voices in Fiction and Film",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
   "SPAN 304": {
     "title": "Introduction to Modern Spanish Literature and Civilization",
     "prereqs": [
@@ -1395,6 +1387,14 @@
   },
   "SPAN 343": {
     "title": "Spanish Sociolinguistics",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 314": {
+    "title": "Latin American Women's Voices in Fiction and Film",
     "prereqs": [
       "OXSE",
       "SPAN  202",

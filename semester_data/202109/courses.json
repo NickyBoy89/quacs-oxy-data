@@ -19921,28 +19921,6 @@
             ]
           },
           {
-            "crn": 1571,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "05",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Beginning Yoga",
-            "cap": 0,
-            "act": 10,
-            "rem": -10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Instructor-TBD",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
             "crn": 1568,
             "subj": "PHAC",
             "crse": "134",
@@ -19991,28 +19969,6 @@
                 "location": "",
                 "timeStart": 1300,
                 "timeEnd": 1355,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1572,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "06",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Beginning Yoga",
-            "cap": 0,
-            "act": 4,
-            "rem": -4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Instructor-TBD",
-                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20097,8 +20053,8 @@
             "credMax": 1,
             "title": "Zumba",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -20124,8 +20080,8 @@
             "credMax": 0,
             "title": "Zumba",
             "cap": 5,
-            "act": 4,
-            "rem": 1,
+            "act": 3,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

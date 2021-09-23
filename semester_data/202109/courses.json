@@ -656,8 +656,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2500,8 +2500,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -5714,8 +5714,8 @@
             "credMax": 4,
             "title": "Contemporary Theory and Literature",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5749,8 +5749,8 @@
             "credMax": 4,
             "title": "Russian Literature: Dreamers, Realists, and The In-Between",
             "cap": 35,
-            "act": 32,
-            "rem": 3,
+            "act": 31,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -6867,8 +6867,8 @@
             "credMax": 1,
             "title": "Building your Academic Skills: Strategies for Academic Success and Finding Home at Oxy",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12132,8 +12132,8 @@
             "credMax": 4,
             "title": "Medicine and Disease in Western Society",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20035,8 +20035,8 @@
             "credMax": 1,
             "title": "Karate",
             "cap": 99,
-            "act": 13,
-            "rem": 86,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -20062,8 +20062,8 @@
             "credMax": 0,
             "title": "Karate",
             "cap": 99,
-            "act": 3,
-            "rem": 96,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -23996,8 +23996,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24088,8 +24088,8 @@
             "credMax": 4,
             "title": "Advanced Spanish",
             "cap": 13,
-            "act": 11,
-            "rem": 2,
+            "act": 10,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -24985,8 +24985,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

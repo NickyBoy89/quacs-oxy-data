@@ -5287,8 +5287,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 4,
-            "act": 0,
-            "rem": 4,
+            "act": 1,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -15347,8 +15347,8 @@
             "credMax": 1,
             "title": "College Chorus",
             "cap": 99,
-            "act": 22,
-            "rem": 77,
+            "act": 21,
+            "rem": 78,
             "attribute": "",
             "timeslots": [
               {

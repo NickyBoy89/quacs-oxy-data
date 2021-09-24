@@ -23862,8 +23862,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation I",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -24390,8 +24390,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 11,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

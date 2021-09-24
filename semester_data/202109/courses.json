@@ -6964,8 +6964,8 @@
             "credMax": 4,
             "title": "Justice Bootcamp",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7132,8 +7132,8 @@
             "credMax": 4,
             "title": "Indigenous Feminisms",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

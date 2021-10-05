@@ -264,8 +264,8 @@
             "credMax": 1,
             "title": "Practicum in Art History",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -6937,8 +6937,8 @@
             "credMax": 4,
             "title": "Justice Bootcamp",
             "cap": 25,
-            "act": 30,
-            "rem": -5,
+            "act": 31,
+            "rem": -6,
             "attribute": "",
             "timeslots": [
               {
@@ -13661,8 +13661,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14229,8 +14229,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14363,8 +14363,8 @@
             "credMax": 4,
             "title": "Real Analysis",
             "cap": 15,
-            "act": 12,
-            "rem": 3,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -24418,7 +24418,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Laura Michelle Mcmillian",
+                "instructor": "Laura Michelle McMillian",
                 "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -24697,7 +24697,7 @@
                 "days": [
                   "F"
                 ],
-                "instructor": "Laura Michelle Mcmillian",
+                "instructor": "Laura Michelle McMillian",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1530,

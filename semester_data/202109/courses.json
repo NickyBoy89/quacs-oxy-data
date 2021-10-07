@@ -436,8 +436,8 @@
             "credMax": 4,
             "title": "Painting Fundamentals",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7061,8 +7061,8 @@
             "credMax": 4,
             "title": "Language and Power",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -9297,8 +9297,8 @@
             "credMax": 4,
             "title": "Shakespeare and Film",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -14059,8 +14059,8 @@
             "credMax": 4,
             "title": "Linear Algebra",
             "cap": 20,
-            "act": 12,
-            "rem": 8,
+            "act": 11,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -19902,8 +19902,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 22,
-            "act": 17,
-            "rem": 5,
+            "act": 18,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

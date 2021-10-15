@@ -2412,8 +2412,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -11642,8 +11642,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 2,
-            "rem": 3,
+            "act": 3,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19753,8 +19753,8 @@
             "credMax": 1,
             "title": "Dance Team",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -20319,8 +20319,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Soccer",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -20455,8 +20455,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Water Polo",
             "cap": 99,
-            "act": 7,
-            "rem": 92,
+            "act": 10,
+            "rem": 89,
             "attribute": "",
             "timeslots": [
               {
@@ -24434,8 +24434,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 3,
-            "act": 3,
-            "rem": 0,
+            "act": 4,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

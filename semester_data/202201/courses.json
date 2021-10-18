@@ -6590,11 +6590,6 @@
     ]
   },
   {
-    "name": "Core",
-    "code": "CORE",
-    "courses": []
-  },
-  {
     "name": "Critical Theory/Social Justice",
     "code": "CTSJ",
     "courses": [
@@ -8750,7 +8745,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Kenjus Terrel Watson",
+                "instructor": "Anthony Trochez",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 955,
@@ -10245,7 +10240,7 @@
             "crn": 2728,
             "subj": "FYS",
             "crse": "61",
-            "sec": "01",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Ecomusicology",
@@ -13834,9 +13829,9 @@
             "credMin": 2,
             "credMax": 2,
             "title": "Senior Seminar in Critical Media",
-            "cap": 12,
+            "cap": 6,
             "act": 0,
-            "rem": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14042,14 +14037,14 @@
             "credMin": 2,
             "credMax": 2,
             "title": "Advanced Editing",
-            "cap": 14,
+            "cap": 16,
             "act": 0,
-            "rem": 14,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "R"
                 ],
                 "instructor": "Diana Lee Keeler",
                 "location": "",
@@ -14654,7 +14649,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Dina Asta Ormenyi",
+                "instructor": "Celka Ilona Ojakangas",
                 "location": "",
                 "timeStart": 1100,
                 "timeEnd": 1155,
@@ -14681,7 +14676,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Dina Asta Ormenyi",
+                "instructor": "Celka Ilona Ojakangas",
                 "location": "",
                 "timeStart": 945,
                 "timeEnd": 1040,
@@ -14741,9 +14736,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Composition Seminar",
-            "cap": 15,
+            "cap": 10,
             "act": 0,
-            "rem": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -15114,7 +15109,7 @@
             "crn": 2398,
             "subj": "MUSC",
             "crse": "201",
-            "sec": "00",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
             "title": "The Ethics and Aesthetics of Sampling",
@@ -15160,9 +15155,9 @@
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "M"
                 ],
-                "instructor": "Ramona Maia Gonzalez",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1930,
                 "timeEnd": 2225,
@@ -17751,21 +17746,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Australia",
-    "code": "ABAU",
-    "courses": []
-  },
-  {
-    "name": "Occidental-in-Cameroon",
-    "code": "ABCN",
-    "courses": []
-  },
-  {
-    "name": "Occidental-in-Czech Republic",
-    "code": "ABCZ",
-    "courses": []
-  },
-  {
     "name": "Occidental-in-Ecuador",
     "code": "ABEC",
     "courses": [
@@ -17982,11 +17962,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Nepal",
-    "code": "ABNE",
-    "courses": []
-  },
-  {
     "name": "Occidental-in-South Africa",
     "code": "ABSA",
     "courses": [
@@ -18129,11 +18104,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Occidental-in-Viet Nam",
-    "code": "ABVN",
-    "courses": []
   },
   {
     "name": "Occidental-in-the-Netherlands",
@@ -19094,8 +19064,8 @@
             "subj": "PHAC",
             "crse": "134",
             "sec": "04",
-            "credMin": 0,
-            "credMax": 0,
+            "credMin": 1,
+            "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 10,
             "act": 0,

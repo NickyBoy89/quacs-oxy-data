@@ -9141,8 +9141,8 @@
   "2377": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 6,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -9189,8 +9189,8 @@
   "2380": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 6,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -9221,8 +9221,8 @@
   "2382": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 6,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -17886,22 +17886,6 @@
       }
     }
   },
-  "2748": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2750": {
     "reserved": [
       {
@@ -18467,24 +18451,6 @@
       }
     }
   },
-  "2770": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2771": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2772": {
     "restrictions": {
       "classification": {
@@ -18585,15 +18551,6 @@
     }
   },
   "2783": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2784": {
     "restrictions": {
       "classification": {
         "may_not_be": [

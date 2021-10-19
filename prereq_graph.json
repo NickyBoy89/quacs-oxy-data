@@ -2021,36 +2021,6 @@
       "EDUC  283"
     ]
   },
-  "ENGL 332": {
-    "title": "Eighteenth Century Literature: 1730-1800",
-    "prereqs": [
-      "ECLS  109",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  267",
-      "ENGL  280",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
   "ENGL 290": {
     "title": "Introduction to Literary Methods",
     "prereqs": [
@@ -2177,6 +2147,46 @@
       "WRD  201"
     ]
   },
+  "ENGL 332": {
+    "title": "Eighteenth Century Literature: 1730-1800",
+    "prereqs": [
+      "ECLS  109",
+      "ECLS  186",
+      "ECLS  187",
+      "ECLS  188",
+      "ECLS  189",
+      "ECLS  205",
+      "ECLS  220",
+      "ECLS  241",
+      "ECLS  253",
+      "ECLS  255",
+      "ECLS  279",
+      "ECLS  286",
+      "ECLS  287",
+      "ECLS  288",
+      "ECLS  289",
+      "ECLS  290",
+      "ENGL  106",
+      "ENGL  189",
+      "ENGL  220",
+      "ENGL  267",
+      "ENGL  280",
+      "ENGL  287",
+      "ENGL  288",
+      "ENGL  289",
+      "ENGL  290"
+    ]
+  },
+  "FREN 252": {
+    "title": "Advanced Conversation II",
+    "prereqs": [
+      "APFR",
+      "FL",
+      "FR",
+      "FREN  102",
+      "OXFR"
+    ]
+  },
   "FREN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2197,14 +2207,11 @@
       "OXFR"
     ]
   },
-  "FREN 252": {
-    "title": "Advanced Conversation II",
+  "GEO 215": {
+    "title": "Evolution of the Earth",
     "prereqs": [
-      "APFR",
-      "FL",
-      "FR",
-      "FREN  102",
-      "OXFR"
+      "GEO  105",
+      "GEO  106"
     ]
   },
   "GEO 220": {
@@ -2229,11 +2236,14 @@
       "GEO  305"
     ]
   },
-  "GEO 215": {
-    "title": "Evolution of the Earth",
+  "GERM 202": {
+    "title": "German Stylistics",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "APGE",
+      "GERM  201",
+      "GL",
+      "GM",
+      "OXGE"
     ]
   },
   "GERM 102": {
@@ -2243,14 +2253,75 @@
       "OXGE"
     ]
   },
-  "GERM 202": {
-    "title": "German Stylistics",
+  "HIST 348": {
+    "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "APGE",
-      "GERM  201",
-      "GL",
-      "GM",
-      "OXGE"
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  211",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390"
     ]
   },
   "HIST 385": {
@@ -2332,75 +2403,11 @@
       "HIST  495"
     ]
   },
-  "HIST 348": {
-    "title": "The Chinese Cultural Revolution and the Global Sixties",
+  "JAPN 102": {
+    "title": "Elementary Japanese II",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
+      "JAPN  101",
+      "OXJA"
     ]
   },
   "JAPN 202": {
@@ -2419,11 +2426,18 @@
       "OXJA"
     ]
   },
-  "JAPN 102": {
-    "title": "Elementary Japanese II",
+  "KINE 304": {
+    "title": "Human Physiology",
     "prereqs": [
-      "JAPN  101",
-      "OXJA"
+      "BIO  115",
+      "KINE  301"
+    ]
+  },
+  "KINE 398": {
+    "title": "Community Health and Fitness Research",
+    "prereqs": [
+      "KINE  298",
+      "KINE  307"
     ]
   },
   "KINE 302": {
@@ -2433,13 +2447,6 @@
       "KINE  300",
       "PHYS  110",
       "PHYS  115"
-    ]
-  },
-  "KINE 304": {
-    "title": "Human Physiology",
-    "prereqs": [
-      "BIO  115",
-      "KINE  301"
     ]
   },
   "LATN 201": {
@@ -2575,13 +2582,6 @@
       "FYS  9"
     ]
   },
-  "MATH 370": {
-    "title": "Numerical Analysis",
-    "prereqs": [
-      "MATH  212",
-      "MATH  214"
-    ]
-  },
   "MATH 150": {
     "title": "Statistical Data Analysis",
     "prereqs": [
@@ -2601,6 +2601,13 @@
       "MATH  212",
       "MATH  214",
       "MATH  340"
+    ]
+  },
+  "MATH 370": {
+    "title": "Numerical Analysis",
+    "prereqs": [
+      "MATH  212",
+      "MATH  214"
     ]
   },
   "MAC 390": {

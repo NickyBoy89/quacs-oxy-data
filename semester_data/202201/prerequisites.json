@@ -9155,13 +9155,6 @@
     }
   },
   "2378": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -9171,13 +9164,6 @@
     }
   },
   "2379": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -9203,13 +9189,6 @@
     }
   },
   "2381": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -9219,13 +9198,6 @@
     }
   },
   "2382": {
-    "reserved": [
-      {
-        "max": 6,
-        "open": 6,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11452,15 +11424,6 @@
     }
   },
   "2450": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2451": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -19126,6 +19089,122 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2845": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2846": {
+    "reserved": [
+      {
+        "max": 6,
+        "open": 6,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2847": {
+    "reserved": [
+      {
+        "max": 6,
+        "open": 6,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2848": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "MUSC  151",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2849": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MUSC-151A"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "MUSC  101",
+          "type": "course"
+        },
+        {
+          "course": "OXMT",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2850": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MUSC-151"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2851": {
+    "reserved": [
+      {
+        "max": 25,
+        "open": 25,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

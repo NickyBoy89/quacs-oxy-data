@@ -8869,218 +8869,6 @@
         ]
       },
       {
-        "title": "The \"Deviant\"",
-        "subj": "ENGL",
-        "crse": "241",
-        "id": "ENGL-241",
-        "sections": [
-          {
-            "crn": 2451,
-            "subj": "ENGL",
-            "crse": "241",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The \"Deviant\"",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Leila B. Neti",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Literary Experiments from Chaucer to Milton",
-        "subj": "ENGL",
-        "crse": "287",
-        "id": "ENGL-287",
-        "sections": [
-          {
-            "crn": 2453,
-            "subj": "ENGL",
-            "crse": "287",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Literary Experiments from Chaucer to Milton",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ross B. Lerner",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The American Experience in Literature",
-        "subj": "ENGL",
-        "crse": "289",
-        "id": "ENGL-289",
-        "sections": [
-          {
-            "crn": 2455,
-            "subj": "ENGL",
-            "crse": "289",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The American Experience in Literature",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "James E. Ford",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Eighteenth Century Literature: 1730-1800",
-        "subj": "ENGL",
-        "crse": "332",
-        "id": "ENGL-332",
-        "sections": [
-          {
-            "crn": 2703,
-            "subj": "ENGL",
-            "crse": "332",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Eighteenth Century Literature: 1730-1800",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Warren Montag",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Science as Fiction -- Philip K. Dick",
-        "subj": "ENGL",
-        "crse": "155",
-        "id": "ENGL-155",
-        "sections": [
-          {
-            "crn": 2701,
-            "subj": "ENGL",
-            "crse": "155",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Science as Fiction -- Philip K. Dick",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Warren Montag",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Literature of Revenge",
-        "subj": "ENGL",
-        "crse": "222",
-        "id": "ENGL-222",
-        "sections": [
-          {
-            "crn": 2450,
-            "subj": "ENGL",
-            "crse": "222",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Literature of Revenge",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ross B. Lerner",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Creative Writing: Introduction to Fiction Writing",
         "subj": "ENGL",
         "crse": "280",
@@ -9221,6 +9009,182 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Science as Fiction -- Philip K. Dick",
+        "subj": "ENGL",
+        "crse": "155",
+        "id": "ENGL-155",
+        "sections": [
+          {
+            "crn": 2701,
+            "subj": "ENGL",
+            "crse": "155",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Science as Fiction -- Philip K. Dick",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Warren Montag",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Literature of Revenge",
+        "subj": "ENGL",
+        "crse": "222",
+        "id": "ENGL-222",
+        "sections": [
+          {
+            "crn": 2450,
+            "subj": "ENGL",
+            "crse": "222",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Literature of Revenge",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ross B. Lerner",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Literary Experiments from Chaucer to Milton",
+        "subj": "ENGL",
+        "crse": "287",
+        "id": "ENGL-287",
+        "sections": [
+          {
+            "crn": 2453,
+            "subj": "ENGL",
+            "crse": "287",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Literary Experiments from Chaucer to Milton",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ross B. Lerner",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The American Experience in Literature",
+        "subj": "ENGL",
+        "crse": "289",
+        "id": "ENGL-289",
+        "sections": [
+          {
+            "crn": 2455,
+            "subj": "ENGL",
+            "crse": "289",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The American Experience in Literature",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "James E. Ford",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eighteenth Century Literature: 1730-1800",
+        "subj": "ENGL",
+        "crse": "332",
+        "id": "ENGL-332",
+        "sections": [
+          {
+            "crn": 2703,
+            "subj": "ENGL",
+            "crse": "332",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Eighteenth Century Literature: 1730-1800",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Warren Montag",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -9234,34 +9198,6 @@
         "crse": "51",
         "id": "FYS-51",
         "sections": [
-          {
-            "crn": 2720,
-            "subj": "FYS",
-            "crse": "51",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Science, Society, and You: A Complicated Relationship",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Gretchen B. North",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2721,
             "subj": "FYS",
@@ -9289,95 +9225,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Debating Controversial Issues in Sexuality",
-        "subj": "FYS",
-        "crse": "52",
-        "id": "FYS-52",
-        "sections": [
+          },
           {
-            "crn": 2723,
+            "crn": 2720,
             "subj": "FYS",
-            "crse": "52",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Debating Controversial Issues in Sexuality",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Prison Abolition",
-        "subj": "FYS",
-        "crse": "54",
-        "id": "FYS-54",
-        "sections": [
-          {
-            "crn": 2725,
-            "subj": "FYS",
-            "crse": "54",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Prison Abolition",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Clair Morrissey",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Detective Fiction: Investigating Our Modern World",
-        "subj": "FYS",
-        "crse": "55",
-        "id": "FYS-55",
-        "sections": [
-          {
-            "crn": 2727,
-            "subj": "FYS",
-            "crse": "55",
+            "crse": "51",
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Detective Fiction: Investigating Our Modern World",
+            "title": "Science, Society, and You: A Complicated Relationship",
             "cap": 15,
             "act": 0,
             "rem": 15,
@@ -9389,729 +9245,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Devin Fromm",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2726,
-            "subj": "FYS",
-            "crse": "55",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Detective Fiction: Investigating Our Modern World",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Devin Fromm",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Drag",
-        "subj": "FYS",
-        "crse": "57",
-        "id": "FYS-57",
-        "sections": [
-          {
-            "crn": 2733,
-            "subj": "FYS",
-            "crse": "57",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Drag",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Global Medical Cultures",
-        "subj": "FYS",
-        "crse": "58",
-        "id": "FYS-58",
-        "sections": [
-          {
-            "crn": 2735,
-            "subj": "FYS",
-            "crse": "58",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Global Medical Cultures",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Christopher Michael Blakley",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2734,
-            "subj": "FYS",
-            "crse": "58",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Global Medical Cultures",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Christopher Michael Blakley",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Black Paris: Diasporic Connections in the City of Light",
-        "subj": "FYS",
-        "crse": "60",
-        "id": "FYS-60",
-        "sections": [
-          {
-            "crn": 2737,
-            "subj": "FYS",
-            "crse": "60",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Black Paris: Diasporic Connections in the City of Light",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Lauren A Brown",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Emerging From Chaos",
-        "subj": "FYS",
-        "crse": "62",
-        "id": "FYS-62",
-        "sections": [
-          {
-            "crn": 2729,
-            "subj": "FYS",
-            "crse": "62",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Emerging From Chaos",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Nathan Laird Graeser",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2730,
-            "subj": "FYS",
-            "crse": "62",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Emerging From Chaos",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Nathan Laird Graeser",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Contemporary Middle East",
-        "subj": "FYS",
-        "crse": "63",
-        "id": "FYS-63",
-        "sections": [
-          {
-            "crn": 2738,
-            "subj": "FYS",
-            "crse": "63",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Contemporary Middle East",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Candace Mixon",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "White Privilege, White Grievance: The rise of White Identity Politics",
-        "subj": "FYS",
-        "crse": "64",
-        "id": "FYS-64",
-        "sections": [
-          {
-            "crn": 2742,
-            "subj": "FYS",
-            "crse": "64",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "White Privilege, White Grievance: The rise of White Identity Politics",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Anita Louise Zachary",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2739,
-            "subj": "FYS",
-            "crse": "64",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "White Privilege, White Grievance: The rise of White Identity Politics",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Anita Louise Zachary",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Uncanny",
-        "subj": "FYS",
-        "crse": "66",
-        "id": "FYS-66",
-        "sections": [
-          {
-            "crn": 2731,
-            "subj": "FYS",
-            "crse": "66",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Uncanny",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jackie Kate Elam",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2743,
-            "subj": "FYS",
-            "crse": "66",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Uncanny",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jackie Kate Elam",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The American South",
-        "subj": "FYS",
-        "crse": "67",
-        "id": "FYS-67",
-        "sections": [
-          {
-            "crn": 2745,
-            "subj": "FYS",
-            "crse": "67",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The American South",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Charles Potts",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Kendrick Lamar and Hip Hop Pedagogy in Post-Modern America",
-        "subj": "FYS",
-        "crse": "70",
-        "id": "FYS-70",
-        "sections": [
-          {
-            "crn": 2744,
-            "subj": "FYS",
-            "crse": "70",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Kendrick Lamar and Hip Hop Pedagogy in Post-Modern America",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Will Power",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Other Realities: The Anthropology of Being Human",
-        "subj": "FYS",
-        "crse": "72",
-        "id": "FYS-72",
-        "sections": [
-          {
-            "crn": 2752,
-            "subj": "FYS",
-            "crse": "72",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Other Realities: The Anthropology of Being Human",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Transnational Feminist Film",
-        "subj": "FYS",
-        "crse": "74",
-        "id": "FYS-74",
-        "sections": [
-          {
-            "crn": 2754,
-            "subj": "FYS",
-            "crse": "74",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Transnational Feminist Film",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Viviana Beatriz MacManus",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2823,
-            "subj": "FYS",
-            "crse": "74",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Transnational Feminist Film",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Viviana Beatriz MacManus",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Disneyland and Los Angeles",
-        "subj": "FYS",
-        "crse": "75",
-        "id": "FYS-75",
-        "sections": [
-          {
-            "crn": 2755,
-            "subj": "FYS",
-            "crse": "75",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Disneyland and Los Angeles",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeremiah B. Axelrod",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2732,
-            "subj": "FYS",
-            "crse": "75",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Disneyland and Los Angeles",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jeremiah B. Axelrod",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Memory and the Self in Graphic Narratives",
-        "subj": "FYS",
-        "crse": "76",
-        "id": "FYS-76",
-        "sections": [
-          {
-            "crn": 2756,
-            "subj": "FYS",
-            "crse": "76",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Memory and the Self in Graphic Narratives",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mia Lewis",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Immigration, Citizenship, and Political Community",
-        "subj": "FYS",
-        "crse": "77",
-        "id": "FYS-77",
-        "sections": [
-          {
-            "crn": 2758,
-            "subj": "FYS",
-            "crse": "77",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Immigration, Citizenship, and Political Community",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Kyle Estes",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2757,
-            "subj": "FYS",
-            "crse": "77",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Immigration, Citizenship, and Political Community",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Kyle Estes",
+                "instructor": "Gretchen B. North",
                 "location": "",
                 "timeStart": 1215,
                 "timeEnd": 1310,
@@ -10159,6 +9293,70 @@
         ]
       },
       {
+        "title": "Detective Fiction: Investigating Our Modern World",
+        "subj": "FYS",
+        "crse": "55",
+        "id": "FYS-55",
+        "sections": [
+          {
+            "crn": 2726,
+            "subj": "FYS",
+            "crse": "55",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Detective Fiction: Investigating Our Modern World",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Devin Fromm",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2727,
+            "subj": "FYS",
+            "crse": "55",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Detective Fiction: Investigating Our Modern World",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Devin Fromm",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "From the Phonograph to Auto-Tune: Exploring the Cultures of Recorded Music",
         "subj": "FYS",
         "crse": "56",
@@ -10187,6 +9385,70 @@
                 "location": "",
                 "timeStart": 1215,
                 "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Global Medical Cultures",
+        "subj": "FYS",
+        "crse": "58",
+        "id": "FYS-58",
+        "sections": [
+          {
+            "crn": 2734,
+            "subj": "FYS",
+            "crse": "58",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Global Medical Cultures",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Christopher Michael Blakley",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2735,
+            "subj": "FYS",
+            "crse": "58",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Global Medical Cultures",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Christopher Michael Blakley",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -10267,6 +9529,134 @@
         ]
       },
       {
+        "title": "Emerging From Chaos",
+        "subj": "FYS",
+        "crse": "62",
+        "id": "FYS-62",
+        "sections": [
+          {
+            "crn": 2730,
+            "subj": "FYS",
+            "crse": "62",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Emerging From Chaos",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nathan Laird Graeser",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2729,
+            "subj": "FYS",
+            "crse": "62",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Emerging From Chaos",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nathan Laird Graeser",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "White Privilege, White Grievance: The rise of White Identity Politics",
+        "subj": "FYS",
+        "crse": "64",
+        "id": "FYS-64",
+        "sections": [
+          {
+            "crn": 2739,
+            "subj": "FYS",
+            "crse": "64",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "White Privilege, White Grievance: The rise of White Identity Politics",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Anita Louise Zachary",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2742,
+            "subj": "FYS",
+            "crse": "64",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "White Privilege, White Grievance: The rise of White Identity Politics",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Anita Louise Zachary",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Renaissance and Enlightenment Individuals",
         "subj": "FYS",
         "crse": "65",
@@ -10292,6 +9682,70 @@
                   "F"
                 ],
                 "instructor": "Maryanne Horowitz",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Uncanny",
+        "subj": "FYS",
+        "crse": "66",
+        "id": "FYS-66",
+        "sections": [
+          {
+            "crn": 2743,
+            "subj": "FYS",
+            "crse": "66",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Uncanny",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jackie Kate Elam",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2731,
+            "subj": "FYS",
+            "crse": "66",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Uncanny",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jackie Kate Elam",
                 "location": "",
                 "timeStart": 1215,
                 "timeEnd": 1310,
@@ -10409,6 +9863,516 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Transnational Feminist Film",
+        "subj": "FYS",
+        "crse": "74",
+        "id": "FYS-74",
+        "sections": [
+          {
+            "crn": 2823,
+            "subj": "FYS",
+            "crse": "74",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Transnational Feminist Film",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Viviana Beatriz MacManus",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2754,
+            "subj": "FYS",
+            "crse": "74",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Transnational Feminist Film",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Viviana Beatriz MacManus",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Disneyland and Los Angeles",
+        "subj": "FYS",
+        "crse": "75",
+        "id": "FYS-75",
+        "sections": [
+          {
+            "crn": 2732,
+            "subj": "FYS",
+            "crse": "75",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Disneyland and Los Angeles",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jeremiah B. Axelrod",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2755,
+            "subj": "FYS",
+            "crse": "75",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Disneyland and Los Angeles",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeremiah B. Axelrod",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Immigration, Citizenship, and Political Community",
+        "subj": "FYS",
+        "crse": "77",
+        "id": "FYS-77",
+        "sections": [
+          {
+            "crn": 2757,
+            "subj": "FYS",
+            "crse": "77",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Immigration, Citizenship, and Political Community",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Kyle Estes",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2758,
+            "subj": "FYS",
+            "crse": "77",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Immigration, Citizenship, and Political Community",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Kyle Estes",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Debating Controversial Issues in Sexuality",
+        "subj": "FYS",
+        "crse": "52",
+        "id": "FYS-52",
+        "sections": [
+          {
+            "crn": 2723,
+            "subj": "FYS",
+            "crse": "52",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Debating Controversial Issues in Sexuality",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prison Abolition",
+        "subj": "FYS",
+        "crse": "54",
+        "id": "FYS-54",
+        "sections": [
+          {
+            "crn": 2725,
+            "subj": "FYS",
+            "crse": "54",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Prison Abolition",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Clair Morrissey",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Drag",
+        "subj": "FYS",
+        "crse": "57",
+        "id": "FYS-57",
+        "sections": [
+          {
+            "crn": 2733,
+            "subj": "FYS",
+            "crse": "57",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Drag",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Black Paris: Diasporic Connections in the City of Light",
+        "subj": "FYS",
+        "crse": "60",
+        "id": "FYS-60",
+        "sections": [
+          {
+            "crn": 2737,
+            "subj": "FYS",
+            "crse": "60",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Black Paris: Diasporic Connections in the City of Light",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Lauren A Brown",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Contemporary Middle East",
+        "subj": "FYS",
+        "crse": "63",
+        "id": "FYS-63",
+        "sections": [
+          {
+            "crn": 2738,
+            "subj": "FYS",
+            "crse": "63",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Contemporary Middle East",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Candace Mixon",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The American South",
+        "subj": "FYS",
+        "crse": "67",
+        "id": "FYS-67",
+        "sections": [
+          {
+            "crn": 2745,
+            "subj": "FYS",
+            "crse": "67",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The American South",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Charles Potts",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kendrick Lamar and Hip Hop Pedagogy in Post-Modern America",
+        "subj": "FYS",
+        "crse": "70",
+        "id": "FYS-70",
+        "sections": [
+          {
+            "crn": 2744,
+            "subj": "FYS",
+            "crse": "70",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Kendrick Lamar and Hip Hop Pedagogy in Post-Modern America",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Will Power",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Other Realities: The Anthropology of Being Human",
+        "subj": "FYS",
+        "crse": "72",
+        "id": "FYS-72",
+        "sections": [
+          {
+            "crn": 2752,
+            "subj": "FYS",
+            "crse": "72",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Other Realities: The Anthropology of Being Human",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Memory and the Self in Graphic Narratives",
+        "subj": "FYS",
+        "crse": "76",
+        "id": "FYS-76",
+        "sections": [
+          {
+            "crn": 2756,
+            "subj": "FYS",
+            "crse": "76",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Memory and the Self in Graphic Narratives",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mia Lewis",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -10417,11 +10381,75 @@
     "code": "FREN",
     "courses": [
       {
+        "title": "Beginning French I",
+        "subj": "FREN",
+        "crse": "101",
+        "id": "FREN-101",
+        "sections": [
+          {
+            "crn": 2012,
+            "subj": "FREN",
+            "crse": "101",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning French I",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Susan Grayson",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Beginning French II",
         "subj": "FREN",
         "crse": "102",
         "id": "FREN-102",
         "sections": [
+          {
+            "crn": 2014,
+            "subj": "FREN",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning French II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Hanan Elsayed",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2013,
             "subj": "FREN",
@@ -10449,15 +10477,23 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Intermediate French",
+        "subj": "FREN",
+        "crse": "201",
+        "id": "FREN-201",
+        "sections": [
           {
-            "crn": 2014,
+            "crn": 2015,
             "subj": "FREN",
-            "crse": "102",
-            "sec": "02",
+            "crse": "201",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Beginning French II",
+            "title": "Intermediate French",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -10469,10 +10505,45 @@
                   "W",
                   "F"
                 ],
+                "instructor": "Arthur Flannigan Saint-Aubin",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Conversation II",
+        "subj": "FREN",
+        "crse": "252",
+        "id": "FREN-252",
+        "sections": [
+          {
+            "crn": 2699,
+            "subj": "FREN",
+            "crse": "252",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Advanced Conversation II",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
                 "instructor": "Hanan Elsayed",
                 "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
+                "timeStart": 1605,
+                "timeEnd": 1700,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -10586,113 +10657,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Beginning French I",
-        "subj": "FREN",
-        "crse": "101",
-        "id": "FREN-101",
-        "sections": [
-          {
-            "crn": 2012,
-            "subj": "FREN",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning French I",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Susan Grayson",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intermediate French",
-        "subj": "FREN",
-        "crse": "201",
-        "id": "FREN-201",
-        "sections": [
-          {
-            "crn": 2015,
-            "subj": "FREN",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate French",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Arthur Flannigan Saint-Aubin",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Conversation II",
-        "subj": "FREN",
-        "crse": "252",
-        "id": "FREN-252",
-        "sections": [
-          {
-            "crn": 2699,
-            "subj": "FREN",
-            "crse": "252",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Advanced Conversation II",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Hanan Elsayed",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -10701,63 +10665,75 @@
     "code": "GEO",
     "courses": [
       {
-        "title": "Earth: Our Environment Lab",
+        "title": "Earth: Our Environment",
         "subj": "GEO",
         "crse": "105",
         "id": "GEO-105",
         "sections": [
           {
-            "crn": 2269,
+            "crn": 2268,
             "subj": "GEO",
             "crse": "105",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Earth: Our Environment Lab",
-            "cap": 12,
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Earth: Our Environment",
+            "cap": 24,
             "act": 0,
-            "rem": 12,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
                 "instructor": "Margaret E. Rusmore",
                 "location": "",
-                "timeStart": 930,
-                "timeEnd": 1130,
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
           },
           {
-            "crn": 2273,
+            "crn": 2271,
             "subj": "GEO",
             "crse": "105",
-            "sec": "2-2",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Earth: Our Environment Lab",
-            "cap": 12,
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Earth: Our Environment",
+            "cap": 24,
             "act": 0,
-            "rem": 12,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "M",
+                  "W",
+                  "F"
                 ],
                 "instructor": "Ann E. Blythe",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1555,
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Earth: Our Environment Lab",
+        "subj": "GEO",
+        "crse": "105",
+        "id": "GEO-105",
+        "sections": [
           {
             "crn": 2270,
             "subj": "GEO",
@@ -10809,227 +10785,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Earth: Our Environment",
-        "subj": "GEO",
-        "crse": "105",
-        "id": "GEO-105",
-        "sections": [
-          {
-            "crn": 2271,
-            "subj": "GEO",
-            "crse": "105",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Earth: Our Environment",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ann E. Blythe",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           },
           {
-            "crn": 2268,
+            "crn": 2269,
             "subj": "GEO",
             "crse": "105",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Earth: Our Environment",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Margaret E. Rusmore",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Geographic Information Science I Laboratory",
-        "subj": "GEO",
-        "crse": "150L",
-        "id": "GEO-150L",
-        "sections": [
-          {
-            "crn": 2275,
-            "subj": "GEO",
-            "crse": "150L",
-            "sec": "00",
+            "sec": "1-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Geographic Information Science I Laboratory",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "James L. Sadd",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1810,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Spatial Analysis with Geographic Information Science Lab",
-        "subj": "GEO",
-        "crse": "160L",
-        "id": "GEO-160L",
-        "sections": [
-          {
-            "crn": 2718,
-            "subj": "GEO",
-            "crse": "160L",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Spatial Analysis with Geographic Information Science Lab",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "James L. Sadd",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1810,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Earth Materials",
-        "subj": "GEO",
-        "crse": "220",
-        "id": "GEO-220",
-        "sections": [
-          {
-            "crn": 2277,
-            "subj": "GEO",
-            "crse": "220",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Earth Materials",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Christopher John-Paul Oze",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Remote Exploration of Earth",
-        "subj": "GEO",
-        "crse": "255",
-        "id": "GEO-255",
-        "sections": [
-          {
-            "crn": 2279,
-            "subj": "GEO",
-            "crse": "255",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Remote Exploration of Earth",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Zachariah Douglas Fleming",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Field Mapping",
-        "subj": "GEO",
-        "crse": "324",
-        "id": "GEO-324",
-        "sections": [
-          {
-            "crn": 2281,
-            "subj": "GEO",
-            "crse": "324",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Advanced Field Mapping",
+            "title": "Earth: Our Environment Lab",
             "cap": 12,
             "act": 0,
             "rem": 12,
@@ -11037,46 +10801,38 @@
             "timeslots": [
               {
                 "days": [
-                  "M"
+                  "R"
                 ],
-                "instructor": "Ann E. Blythe",
+                "instructor": "Margaret E. Rusmore",
                 "location": "",
-                "timeStart": 1430,
-                "timeEnd": 1700,
+                "timeStart": 930,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Structural Geology Laboratory",
-        "subj": "GEO",
-        "crse": "325L",
-        "id": "GEO-325L",
-        "sections": [
+          },
           {
-            "crn": 2283,
+            "crn": 2273,
             "subj": "GEO",
-            "crse": "325L",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Structural Geology Laboratory",
-            "cap": 24,
+            "crse": "105",
+            "sec": "2-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Earth: Our Environment Lab",
+            "cap": 12,
             "act": 0,
-            "rem": 24,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "T"
                 ],
-                "instructor": "Zachariah Douglas Fleming",
+                "instructor": "Ann E. Blythe",
                 "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
+                "timeStart": 1355,
+                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -11327,30 +11083,92 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "German",
-    "code": "GERM",
-    "courses": [
+      },
       {
-        "title": "Elementary German II",
-        "subj": "GERM",
-        "crse": "102",
-        "id": "GERM-102",
+        "title": "Geographic Information Science I Laboratory",
+        "subj": "GEO",
+        "crse": "150L",
+        "id": "GEO-150L",
         "sections": [
           {
-            "crn": 2004,
-            "subj": "GERM",
-            "crse": "102",
+            "crn": 2275,
+            "subj": "GEO",
+            "crse": "150L",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Geographic Information Science I Laboratory",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "James L. Sadd",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1810,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Spatial Analysis with Geographic Information Science Lab",
+        "subj": "GEO",
+        "crse": "160L",
+        "id": "GEO-160L",
+        "sections": [
+          {
+            "crn": 2718,
+            "subj": "GEO",
+            "crse": "160L",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Spatial Analysis with Geographic Information Science Lab",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "James L. Sadd",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1810,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Earth Materials",
+        "subj": "GEO",
+        "crse": "220",
+        "id": "GEO-220",
+        "sections": [
+          {
+            "crn": 2277,
+            "subj": "GEO",
+            "crse": "220",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Elementary German II",
-            "cap": 18,
+            "title": "Earth Materials",
+            "cap": 24,
             "act": 0,
-            "rem": 18,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -11359,7 +11177,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Alex Gardner",
+                "instructor": "Christopher John-Paul Oze",
                 "location": "",
                 "timeStart": 945,
                 "timeEnd": 1040,
@@ -11370,6 +11188,116 @@
           }
         ]
       },
+      {
+        "title": "Remote Exploration of Earth",
+        "subj": "GEO",
+        "crse": "255",
+        "id": "GEO-255",
+        "sections": [
+          {
+            "crn": 2279,
+            "subj": "GEO",
+            "crse": "255",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Remote Exploration of Earth",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Zachariah Douglas Fleming",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Field Mapping",
+        "subj": "GEO",
+        "crse": "324",
+        "id": "GEO-324",
+        "sections": [
+          {
+            "crn": 2281,
+            "subj": "GEO",
+            "crse": "324",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Advanced Field Mapping",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Ann E. Blythe",
+                "location": "",
+                "timeStart": 1430,
+                "timeEnd": 1700,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Structural Geology Laboratory",
+        "subj": "GEO",
+        "crse": "325L",
+        "id": "GEO-325L",
+        "sections": [
+          {
+            "crn": 2283,
+            "subj": "GEO",
+            "crse": "325L",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Structural Geology Laboratory",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Zachariah Douglas Fleming",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "German",
+    "code": "GERM",
+    "courses": [
       {
         "title": "German Stylistics",
         "subj": "GERM",
@@ -11405,6 +11333,42 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Elementary German II",
+        "subj": "GERM",
+        "crse": "102",
+        "id": "GERM-102",
+        "sections": [
+          {
+            "crn": 2004,
+            "subj": "GERM",
+            "crse": "102",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Elementary German II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alex Gardner",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11412,6 +11376,41 @@
     "name": "Greek",
     "code": "GRK",
     "courses": [
+      {
+        "title": "Topics in Classical Philology (Greek)",
+        "subj": "GRK",
+        "crse": "201",
+        "id": "GRK-201",
+        "sections": [
+          {
+            "crn": 2007,
+            "subj": "GRK",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Classical Philology (Greek)",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Sydney Keiko Mitsunaga-Whitten",
+                "location": "",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Elementary Greek",
         "subj": "GRK",
@@ -11447,21 +11446,97 @@
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "History",
+    "code": "HIST",
+    "courses": [
       {
-        "title": "Topics in Classical Philology (Greek)",
-        "subj": "GRK",
-        "crse": "201",
-        "id": "GRK-201",
+        "title": "Humanities from Renaissance to the Present",
+        "subj": "HIST",
+        "crse": "125",
+        "id": "HIST-125",
         "sections": [
           {
-            "crn": 2007,
-            "subj": "GRK",
-            "crse": "201",
+            "crn": 2030,
+            "subj": "HIST",
+            "crse": "125",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Classical Philology (Greek)",
+            "title": "Humanities from Renaissance to the Present",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Maryanne Horowitz",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ancient Athens and Renaissance Florence",
+        "subj": "HIST",
+        "crse": "220",
+        "id": "HIST-220",
+        "sections": [
+          {
+            "crn": 2476,
+            "subj": "HIST",
+            "crse": "220",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Ancient Athens and Renaissance Florence",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Maryanne Horowitz",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Remembering the Conquest of Mexico",
+        "subj": "HIST",
+        "crse": "256",
+        "id": "HIST-256",
+        "sections": [
+          {
+            "crn": 2762,
+            "subj": "HIST",
+            "crse": "256",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Remembering the Conquest of Mexico",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -11470,25 +11545,55 @@
               {
                 "days": [
                   "M",
-                  "W"
+                  "W",
+                  "F"
                 ],
-                "instructor": "Sydney Keiko Mitsunaga-Whitten",
+                "instructor": "Lisa Sousa",
                 "location": "",
-                "timeStart": 1745,
-                "timeEnd": 1910,
+                "timeStart": 1215,
+                "timeEnd": 1310,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "History",
-    "code": "HIST",
-    "courses": [
+      },
+      {
+        "title": "The Chinese Cultural Revolution and the Global Sixties",
+        "subj": "HIST",
+        "crse": "348",
+        "id": "HIST-348",
+        "sections": [
+          {
+            "crn": 2763,
+            "subj": "HIST",
+            "crse": "348",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Chinese Cultural Revolution and the Global Sixties",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Antiquity to 1700: Europe and the Middle East",
         "subj": "HIST",
@@ -11664,91 +11769,27 @@
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Japanese",
+    "code": "JAPN",
+    "courses": [
       {
-        "title": "Humanities from Renaissance to the Present",
-        "subj": "HIST",
-        "crse": "125",
-        "id": "HIST-125",
+        "title": "Elementary Japanese II",
+        "subj": "JAPN",
+        "crse": "102",
+        "id": "JAPN-102",
         "sections": [
           {
-            "crn": 2030,
-            "subj": "HIST",
-            "crse": "125",
+            "crn": 2008,
+            "subj": "JAPN",
+            "crse": "102",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Humanities from Renaissance to the Present",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Maryanne Horowitz",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Ancient Athens and Renaissance Florence",
-        "subj": "HIST",
-        "crse": "220",
-        "id": "HIST-220",
-        "sections": [
-          {
-            "crn": 2476,
-            "subj": "HIST",
-            "crse": "220",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Ancient Athens and Renaissance Florence",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Maryanne Horowitz",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Remembering the Conquest of Mexico",
-        "subj": "HIST",
-        "crse": "256",
-        "id": "HIST-256",
-        "sections": [
-          {
-            "crn": 2762,
-            "subj": "HIST",
-            "crse": "256",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Remembering the Conquest of Mexico",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Elementary Japanese II",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -11760,10 +11801,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Lisa Sousa",
+                "instructor": "Mia Lewis",
                 "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
+                "timeStart": 905,
+                "timeEnd": 1030,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -11772,22 +11813,22 @@
         ]
       },
       {
-        "title": "The Chinese Cultural Revolution and the Global Sixties",
-        "subj": "HIST",
-        "crse": "348",
-        "id": "HIST-348",
+        "title": "Topics in Japanese Studies",
+        "subj": "JAPN",
+        "crse": "295",
+        "id": "JAPN-295",
         "sections": [
           {
-            "crn": 2763,
-            "subj": "HIST",
-            "crse": "348",
+            "crn": 2010,
+            "subj": "JAPN",
+            "crse": "295",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "The Chinese Cultural Revolution and the Global Sixties",
-            "cap": 16,
+            "title": "Topics in Japanese Studies",
+            "cap": 25,
             "act": 0,
-            "rem": 16,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -11795,23 +11836,17 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Alexander F. Day",
+                "instructor": "Mia Lewis",
                 "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
+                "timeStart": 1515,
+                "timeEnd": 1640,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Japanese",
-    "code": "JAPN",
-    "courses": [
+      },
       {
         "title": "Intermediate Japanese II",
         "subj": "JAPN",
@@ -11883,77 +11918,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Elementary Japanese II",
-        "subj": "JAPN",
-        "crse": "102",
-        "id": "JAPN-102",
-        "sections": [
-          {
-            "crn": 2008,
-            "subj": "JAPN",
-            "crse": "102",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Elementary Japanese II",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mia Lewis",
-                "location": "",
-                "timeStart": 905,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Japanese Studies",
-        "subj": "JAPN",
-        "crse": "295",
-        "id": "JAPN-295",
-        "sections": [
-          {
-            "crn": 2010,
-            "subj": "JAPN",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Japanese Studies",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mia Lewis",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -11961,373 +11925,6 @@
     "name": "Kinesiology",
     "code": "KINE",
     "courses": [
-      {
-        "title": "Sport in American Society",
-        "subj": "KINE",
-        "crse": "201",
-        "id": "KINE-201",
-        "sections": [
-          {
-            "crn": 2707,
-            "subj": "KINE",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sport in American Society",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Melinda Houston",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Community Health and Fitness Research",
-        "subj": "KINE",
-        "crse": "298",
-        "id": "KINE-298",
-        "sections": [
-          {
-            "crn": 2462,
-            "subj": "KINE",
-            "crse": "298",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Health and Fitness Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Marcella Ann Raney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2474,
-            "subj": "KINE",
-            "crse": "398",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Health and Fitness Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Marcella Ann Raney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Human Anatomy I Laboratory",
-        "subj": "KINE",
-        "crse": "300L",
-        "id": "KINE-300L",
-        "sections": [
-          {
-            "crn": 2464,
-            "subj": "KINE",
-            "crse": "300L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy I Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2465,
-            "subj": "KINE",
-            "crse": "300L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy I Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Biomechanics",
-        "subj": "KINE",
-        "crse": "302",
-        "id": "KINE-302",
-        "sections": [
-          {
-            "crn": 2466,
-            "subj": "KINE",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biomechanics",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Stuart G. Rugg",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Biomechanics Laboratory",
-        "subj": "KINE",
-        "crse": "302L",
-        "id": "KINE-302L",
-        "sections": [
-          {
-            "crn": 2468,
-            "subj": "KINE",
-            "crse": "302L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biomechanics Laboratory",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Stuart G. Rugg",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2467,
-            "subj": "KINE",
-            "crse": "302L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biomechanics Laboratory",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Stuart G. Rugg",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Human Physiology Laboratory",
-        "subj": "KINE",
-        "crse": "304L",
-        "id": "KINE-304L",
-        "sections": [
-          {
-            "crn": 2470,
-            "subj": "KINE",
-            "crse": "304L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Physiology Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Peter Julian Eusebio Reonisto",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2471,
-            "subj": "KINE",
-            "crse": "304L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Physiology Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Peter Julian Eusebio Reonisto",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Internship",
-        "subj": "KINE",
-        "crse": "396",
-        "id": "KINE-396",
-        "sections": [
-          {
-            "crn": 2473,
-            "subj": "KINE",
-            "crse": "396",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Internship",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Senior Seminar",
-        "subj": "KINE",
-        "crse": "490",
-        "id": "KINE-490",
-        "sections": [
-          {
-            "crn": 2475,
-            "subj": "KINE",
-            "crse": "490",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "Melinda Houston",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Introduction to Kinesiology",
         "subj": "KINE",
@@ -12435,6 +12032,126 @@
         ]
       },
       {
+        "title": "Human Anatomy I Laboratory",
+        "subj": "KINE",
+        "crse": "300L",
+        "id": "KINE-300L",
+        "sections": [
+          {
+            "crn": 2465,
+            "subj": "KINE",
+            "crse": "300L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy I Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2464,
+            "subj": "KINE",
+            "crse": "300L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy I Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biomechanics Laboratory",
+        "subj": "KINE",
+        "crse": "302L",
+        "id": "KINE-302L",
+        "sections": [
+          {
+            "crn": 2467,
+            "subj": "KINE",
+            "crse": "302L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Biomechanics Laboratory",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Stuart G. Rugg",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2468,
+            "subj": "KINE",
+            "crse": "302L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Biomechanics Laboratory",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Stuart G. Rugg",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Human Physiology",
         "subj": "KINE",
         "crse": "304",
@@ -12469,30 +12186,171 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Latin",
-    "code": "LATN",
-    "courses": [
+      },
       {
-        "title": "Topics in Classical Philology (Latin)",
-        "subj": "LATN",
-        "crse": "201",
-        "id": "LATN-201",
+        "title": "Human Physiology Laboratory",
+        "subj": "KINE",
+        "crse": "304L",
+        "id": "KINE-304L",
         "sections": [
           {
-            "crn": 2286,
-            "subj": "LATN",
+            "crn": 2471,
+            "subj": "KINE",
+            "crse": "304L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Physiology Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Peter Julian Eusebio Reonisto",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2470,
+            "subj": "KINE",
+            "crse": "304L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Physiology Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Peter Julian Eusebio Reonisto",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Health and Fitness Research",
+        "subj": "KINE",
+        "crse": "398",
+        "id": "KINE-398",
+        "sections": [
+          {
+            "crn": 2474,
+            "subj": "KINE",
+            "crse": "398",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Health and Fitness Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Marcella Ann Raney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2462,
+            "subj": "KINE",
+            "crse": "298",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Health and Fitness Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Marcella Ann Raney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sport in American Society",
+        "subj": "KINE",
+        "crse": "201",
+        "id": "KINE-201",
+        "sections": [
+          {
+            "crn": 2707,
+            "subj": "KINE",
             "crse": "201",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Classical Philology (Latin)",
-            "cap": 25,
+            "title": "Sport in American Society",
+            "cap": 24,
             "act": 0,
-            "rem": 25,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Melinda Houston",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biomechanics",
+        "subj": "KINE",
+        "crse": "302",
+        "id": "KINE-302",
+        "sections": [
+          {
+            "crn": 2466,
+            "subj": "KINE",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Biomechanics",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -12501,10 +12359,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Jacob L. Mackey",
+                "instructor": "Stuart G. Rugg",
                 "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1655,
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12512,6 +12370,76 @@
           }
         ]
       },
+      {
+        "title": "Internship",
+        "subj": "KINE",
+        "crse": "396",
+        "id": "KINE-396",
+        "sections": [
+          {
+            "crn": 2473,
+            "subj": "KINE",
+            "crse": "396",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Internship",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar",
+        "subj": "KINE",
+        "crse": "490",
+        "id": "KINE-490",
+        "sections": [
+          {
+            "crn": 2475,
+            "subj": "KINE",
+            "crse": "490",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Melinda Houston",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Latin",
+    "code": "LATN",
+    "courses": [
       {
         "title": "Elementary Latin",
         "subj": "LATN",
@@ -12547,6 +12475,42 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Topics in Classical Philology (Latin)",
+        "subj": "LATN",
+        "crse": "201",
+        "id": "LATN-201",
+        "sections": [
+          {
+            "crn": 2286,
+            "subj": "LATN",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Classical Philology (Latin)",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jacob L. Mackey",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1655,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -12554,41 +12518,6 @@
     "name": "Latino/a and Latin Amer Stud",
     "code": "LLAS",
     "courses": [
-      {
-        "title": "Modern Latin America",
-        "subj": "LLAS",
-        "crse": "151",
-        "id": "LLAS-151",
-        "sections": [
-          {
-            "crn": 2290,
-            "subj": "LLAS",
-            "crse": "151",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Modern Latin America",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Alexandra M. Puerto",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Introduction to Latina/o and Latin American Studies",
         "subj": "LLAS",
@@ -12658,6 +12587,41 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Modern Latin America",
+        "subj": "LLAS",
+        "crse": "151",
+        "id": "LLAS-151",
+        "sections": [
+          {
+            "crn": 2290,
+            "subj": "LLAS",
+            "crse": "151",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Modern Latin America",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Alexandra M. Puerto",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -12671,34 +12635,6 @@
         "crse": "301",
         "id": "LING-301",
         "sections": [
-          {
-            "crn": 2287,
-            "subj": "LING",
-            "crse": "301",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Linguistics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mariska A Bolyanatz Brown",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2288,
             "subj": "LING",
@@ -12726,6 +12662,34 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2287,
+            "subj": "LING",
+            "crse": "301",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Linguistics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mariska A Bolyanatz Brown",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       }
@@ -12736,19 +12700,19 @@
     "code": "MATH",
     "courses": [
       {
-        "title": "Mathematics as a Liberal Art",
+        "title": "Unified Precalculus and Calculus 1-B",
         "subj": "MATH",
-        "crse": "105",
-        "id": "MATH-105",
+        "crse": "109",
+        "id": "MATH-109",
         "sections": [
           {
-            "crn": 2306,
+            "crn": 2307,
             "subj": "MATH",
-            "crse": "105",
+            "crse": "109",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Mathematics as a Liberal Art",
+            "title": "Unified Precalculus and Calculus 1-B",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12760,44 +12724,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Ramin Naimi",
+                "instructor": "Donald D Lawrence",
                 "location": "",
                 "timeStart": 1445,
                 "timeEnd": 1540,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Unified Precalculus and Calculus 1-B Laboratory",
-        "subj": "MATH",
-        "crse": "109A",
-        "id": "MATH-109A",
-        "sections": [
-          {
-            "crn": 2308,
-            "subj": "MATH",
-            "crse": "109A",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Unified Precalculus and Calculus 1-B Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Donald D Lawrence",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12811,58 +12741,6 @@
         "crse": "110",
         "id": "MATH-110",
         "sections": [
-          {
-            "crn": 2310,
-            "subj": "MATH",
-            "crse": "110",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Eric Lars Sundberg",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2312,
-            "subj": "MATH",
-            "crse": "110",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Eric Lars Sundberg",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2309,
             "subj": "MATH",
@@ -12918,23 +12796,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 2",
-        "subj": "MATH",
-        "crse": "120",
-        "id": "MATH-120",
-        "sections": [
+          },
           {
-            "crn": 2314,
+            "crn": 2310,
             "subj": "MATH",
-            "crse": "120",
+            "crse": "110",
             "sec": "1-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Calculus 2",
+            "title": "Calculus 1",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12944,33 +12814,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Timothy Rainone",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2316,
-            "subj": "MATH",
-            "crse": "120",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 2",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Nishu Lal",
+                "instructor": "Eric Lars Sundberg",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 955,
@@ -12980,13 +12824,13 @@
             ]
           },
           {
-            "crn": 2318,
+            "crn": 2312,
             "subj": "MATH",
-            "crse": "120",
-            "sec": "3-1",
+            "crse": "110",
+            "sec": "2-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Calculus 2",
+            "title": "Calculus 1",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12994,9 +12838,9 @@
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "T"
                 ],
-                "instructor": "Nishu Lal",
+                "instructor": "Eric Lars Sundberg",
                 "location": "",
                 "timeStart": 1015,
                 "timeEnd": 1140,
@@ -13004,7 +12848,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Calculus 2",
+        "subj": "MATH",
+        "crse": "120",
+        "id": "MATH-120",
+        "sections": [
           {
             "crn": 2313,
             "subj": "MATH",
@@ -13088,295 +12940,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Discrete Mathematics",
-        "subj": "MATH",
-        "crse": "210",
-        "id": "MATH-210",
-        "sections": [
-          {
-            "crn": 2320,
-            "subj": "MATH",
-            "crse": "210",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Discrete Mathematics",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Donald D Lawrence",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Multivariable Calculus",
-        "subj": "MATH",
-        "crse": "212",
-        "id": "MATH-212",
-        "sections": [
-          {
-            "crn": 2323,
-            "subj": "MATH",
-            "crse": "212",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Multivariable Calculus",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           },
           {
-            "crn": 2322,
+            "crn": 2314,
             "subj": "MATH",
-            "crse": "212",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Multivariable Calculus",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Treena Basu",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Linear Algebra",
-        "subj": "MATH",
-        "crse": "214",
-        "id": "MATH-214",
-        "sections": [
-          {
-            "crn": 2325,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1655,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2324,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Timothy Rainone",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Complex Analysis",
-        "subj": "MATH",
-        "crse": "312",
-        "id": "MATH-312",
-        "sections": [
-          {
-            "crn": 2327,
-            "subj": "MATH",
-            "crse": "312",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Complex Analysis",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Nishu Lal",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Mathematical Statistics",
-        "subj": "MATH",
-        "crse": "332",
-        "id": "MATH-332",
-        "sections": [
-          {
-            "crn": 2329,
-            "subj": "MATH",
-            "crse": "332",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Mathematical Statistics",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Tamas Lengyel",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1655,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Numerical Analysis",
-        "subj": "MATH",
-        "crse": "370",
-        "id": "MATH-370",
-        "sections": [
-          {
-            "crn": 2331,
-            "subj": "MATH",
-            "crse": "370",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Numerical Analysis",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Treena Basu",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Unified Precalculus and Calculus 1-B",
-        "subj": "MATH",
-        "crse": "109",
-        "id": "MATH-109",
-        "sections": [
-          {
-            "crn": 2307,
-            "subj": "MATH",
-            "crse": "109",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Unified Precalculus and Calculus 1-B",
+            "crse": "120",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 2",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -13384,14 +12956,64 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T"
                 ],
-                "instructor": "Donald D Lawrence",
+                "instructor": "Timothy Rainone",
                 "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1540,
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2316,
+            "subj": "MATH",
+            "crse": "120",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 2",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2318,
+            "subj": "MATH",
+            "crse": "120",
+            "sec": "3-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 2",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -13428,6 +13050,134 @@
                 "location": "",
                 "timeStart": 1445,
                 "timeEnd": 1540,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multivariable Calculus",
+        "subj": "MATH",
+        "crse": "212",
+        "id": "MATH-212",
+        "sections": [
+          {
+            "crn": 2322,
+            "subj": "MATH",
+            "crse": "212",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Multivariable Calculus",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Treena Basu",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2323,
+            "subj": "MATH",
+            "crse": "212",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Multivariable Calculus",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeffrey S. Miller",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Linear Algebra",
+        "subj": "MATH",
+        "crse": "214",
+        "id": "MATH-214",
+        "sections": [
+          {
+            "crn": 2324,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Timothy Rainone",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2325,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeffrey S. Miller",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1655,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -13575,6 +13325,220 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Mathematics as a Liberal Art",
+        "subj": "MATH",
+        "crse": "105",
+        "id": "MATH-105",
+        "sections": [
+          {
+            "crn": 2306,
+            "subj": "MATH",
+            "crse": "105",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Mathematics as a Liberal Art",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1445,
+                "timeEnd": 1540,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unified Precalculus and Calculus 1-B Laboratory",
+        "subj": "MATH",
+        "crse": "109A",
+        "id": "MATH-109A",
+        "sections": [
+          {
+            "crn": 2308,
+            "subj": "MATH",
+            "crse": "109A",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Unified Precalculus and Calculus 1-B Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Donald D Lawrence",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Discrete Mathematics",
+        "subj": "MATH",
+        "crse": "210",
+        "id": "MATH-210",
+        "sections": [
+          {
+            "crn": 2320,
+            "subj": "MATH",
+            "crse": "210",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Discrete Mathematics",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Donald D Lawrence",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complex Analysis",
+        "subj": "MATH",
+        "crse": "312",
+        "id": "MATH-312",
+        "sections": [
+          {
+            "crn": 2327,
+            "subj": "MATH",
+            "crse": "312",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Complex Analysis",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mathematical Statistics",
+        "subj": "MATH",
+        "crse": "332",
+        "id": "MATH-332",
+        "sections": [
+          {
+            "crn": 2329,
+            "subj": "MATH",
+            "crse": "332",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Mathematical Statistics",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Tamas Lengyel",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1655,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Numerical Analysis",
+        "subj": "MATH",
+        "crse": "370",
+        "id": "MATH-370",
+        "sections": [
+          {
+            "crn": 2331,
+            "subj": "MATH",
+            "crse": "370",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Numerical Analysis",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Treena Basu",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -13640,7 +13604,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Jonathan Wysocki",
+                "instructor": "Aleem Hossain",
                 "location": "",
                 "timeStart": 1930,
                 "timeEnd": 2225,
@@ -13826,8 +13790,8 @@
             "subj": "MAC",
             "crse": "490",
             "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
+            "credMin": 4,
+            "credMax": 4,
             "title": "Senior Seminar in Critical Media",
             "cap": 6,
             "act": 0,
@@ -13839,6 +13803,40 @@
                   "R"
                 ],
                 "instructor": "Katarzyna Marciniak",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Digital Design",
+        "subj": "MAC",
+        "crse": "110",
+        "id": "MAC-110",
+        "sections": [
+          {
+            "crn": 2845,
+            "subj": "MAC",
+            "crse": "110",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Digital Design",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Diana Lee Keeler",
                 "location": "",
                 "timeStart": 1700,
                 "timeEnd": 1825,
@@ -14254,6 +14252,32 @@
             ]
           },
           {
+            "crn": 2847,
+            "subj": "MUSC",
+            "crse": "109",
+            "sec": "08",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano Class",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Dina Asta Ormenyi",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2377,
             "subj": "MUSC",
             "crse": "109",
@@ -14326,6 +14350,32 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2846,
+            "subj": "MUSC",
+            "crse": "109",
+            "sec": "07",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano Class",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Dina Asta Ormenyi",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14560,6 +14610,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2848,
+            "subj": "MUSC",
+            "crse": "148",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Digital Audio Workstation (DAW)",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1855,
+                "timeEnd": 2020,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -14570,33 +14647,6 @@
         "id": "MUSC-151",
         "sections": [
           {
-            "crn": 2395,
-            "subj": "MUSC",
-            "crse": "151",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Music Theory II",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Stephen Cabell",
-                "location": "",
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2394,
             "subj": "MUSC",
             "crse": "151",
@@ -14604,9 +14654,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Music Theory II",
-            "cap": 20,
+            "cap": 18,
             "act": 0,
-            "rem": 20,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -14618,6 +14668,60 @@
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2849,
+            "subj": "MUSC",
+            "crse": "151",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music Theory II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Celka Ilona Ojakangas",
+                "location": "",
+                "timeStart": 1745,
+                "timeEnd": 1910,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2395,
+            "subj": "MUSC",
+            "crse": "151",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music Theory II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Stephen Cabell",
+                "location": "",
+                "timeStart": 1745,
+                "timeEnd": 1910,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14639,9 +14743,9 @@
             "credMin": 0,
             "credMax": 0,
             "title": "Music Theory II Musicianship",
-            "cap": 20,
+            "cap": 18,
             "act": 0,
-            "rem": 20,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -14666,9 +14770,9 @@
             "credMin": 0,
             "credMax": 0,
             "title": "Music Theory II Musicianship",
-            "cap": 20,
+            "cap": 18,
             "act": 0,
-            "rem": 20,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -14680,6 +14784,95 @@
                 "location": "",
                 "timeStart": 945,
                 "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2850,
+            "subj": "MUSC",
+            "crse": "151A",
+            "sec": "03",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Music Theory II Musicianship",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W",
+                  "F"
+                ],
+                "instructor": "Celka Ilona Ojakangas",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Ethics and Aesthetics of Sampling",
+        "subj": "MUSC",
+        "crse": "201",
+        "id": "MUSC-201",
+        "sections": [
+          {
+            "crn": 2851,
+            "subj": "MUSC",
+            "crse": "201",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Ethics and Aesthetics of Sampling",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Shanna Lorenz",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2398,
+            "subj": "MUSC",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Ethics and Aesthetics of Sampling",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Shanna Lorenz",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -15092,41 +15285,6 @@
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Ethics and Aesthetics of Sampling",
-        "subj": "MUSC",
-        "crse": "201",
-        "id": "MUSC-201",
-        "sections": [
-          {
-            "crn": 2398,
-            "subj": "MUSC",
-            "crse": "201",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Ethics and Aesthetics of Sampling",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Shanna Lorenz",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24194,7 +24352,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "James K. Angell",
+                "instructor": "Brendan Patrick Hughes",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1555,

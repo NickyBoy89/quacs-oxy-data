@@ -17623,22 +17623,6 @@
       }
     }
   },
-  "2732": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2733": {
     "reserved": [
       {
@@ -17831,6 +17815,22 @@
       }
     }
   },
+  "2746": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "2747": {
     "prerequisites": {
       "nested": [
@@ -17845,22 +17845,6 @@
       "classification": {
         "may_not_be": [
           "Frosh"
-        ]
-      }
-    }
-  },
-  "2750": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
         ]
       }
     }
@@ -19205,6 +19189,60 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2852": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2853": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2854": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "KINE  304",
+          "type": "course"
+        },
+        {
+          "course": "CHEM  120",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

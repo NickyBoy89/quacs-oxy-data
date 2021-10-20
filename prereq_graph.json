@@ -2177,16 +2177,6 @@
       "ENGL  290"
     ]
   },
-  "FREN 252": {
-    "title": "Advanced Conversation II",
-    "prereqs": [
-      "APFR",
-      "FL",
-      "FR",
-      "FREN  102",
-      "OXFR"
-    ]
-  },
   "FREN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2207,11 +2197,14 @@
       "OXFR"
     ]
   },
-  "GEO 215": {
-    "title": "Evolution of the Earth",
+  "FREN 252": {
+    "title": "Advanced Conversation II",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "APFR",
+      "FL",
+      "FR",
+      "FREN  102",
+      "OXFR"
     ]
   },
   "GEO 220": {
@@ -2236,14 +2229,11 @@
       "GEO  305"
     ]
   },
-  "GERM 202": {
-    "title": "German Stylistics",
+  "GEO 215": {
+    "title": "Evolution of the Earth",
     "prereqs": [
-      "APGE",
-      "GERM  201",
-      "GL",
-      "GM",
-      "OXGE"
+      "GEO  105",
+      "GEO  106"
     ]
   },
   "GERM 102": {
@@ -2253,75 +2243,14 @@
       "OXGE"
     ]
   },
-  "HIST 348": {
-    "title": "The Chinese Cultural Revolution and the Global Sixties",
+  "GERM 202": {
+    "title": "German Stylistics",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
+      "APGE",
+      "GERM  201",
+      "GL",
+      "GM",
+      "OXGE"
     ]
   },
   "HIST 385": {
@@ -2403,11 +2332,75 @@
       "HIST  495"
     ]
   },
-  "JAPN 102": {
-    "title": "Elementary Japanese II",
+  "HIST 348": {
+    "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "JAPN  101",
-      "OXJA"
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  211",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390"
     ]
   },
   "JAPN 202": {
@@ -2426,18 +2419,11 @@
       "OXJA"
     ]
   },
-  "KINE 304": {
-    "title": "Human Physiology",
+  "JAPN 102": {
+    "title": "Elementary Japanese II",
     "prereqs": [
-      "BIO  115",
-      "KINE  301"
-    ]
-  },
-  "KINE 398": {
-    "title": "Community Health and Fitness Research",
-    "prereqs": [
-      "KINE  298",
-      "KINE  307"
+      "JAPN  101",
+      "OXJA"
     ]
   },
   "KINE 302": {
@@ -2447,6 +2433,20 @@
       "KINE  300",
       "PHYS  110",
       "PHYS  115"
+    ]
+  },
+  "KINE 305": {
+    "title": "Exercise Physiology",
+    "prereqs": [
+      "CHEM  120",
+      "KINE  304"
+    ]
+  },
+  "KINE 304": {
+    "title": "Human Physiology",
+    "prereqs": [
+      "BIO  115",
+      "KINE  301"
     ]
   },
   "LATN 201": {

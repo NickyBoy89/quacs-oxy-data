@@ -5418,9 +5418,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "W"
+                ],
                 "instructor": "Carmel A Levitan",
                 "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1315,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -10101,7 +10105,7 @@
         ]
       },
       {
-        "title": "Drag",
+        "title": "Isn't It Romantic? Lovers, Knights, Sorcerers and Superheroes Through the Ages",
         "subj": "FYS",
         "crse": "57",
         "id": "FYS-57",
@@ -10113,7 +10117,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Drag",
+            "title": "Isn't It Romantic? Lovers, Knights, Sorcerers and Superheroes Through the Ages",
             "cap": 15,
             "act": 0,
             "rem": 15,
@@ -19207,8 +19211,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": 800,
-                "timeEnd": 855,
+                "timeStart": 1000,
+                "timeEnd": 1055,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19288,8 +19292,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": 800,
-                "timeEnd": 855,
+                "timeStart": 1000,
+                "timeEnd": 1055,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19300,8 +19304,8 @@
             "subj": "PHAC",
             "crse": "134",
             "sec": "04",
-            "credMin": 1,
-            "credMax": 1,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Beginning Yoga",
             "cap": 10,
             "act": 0,
@@ -25134,9 +25138,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Community Internship",
-            "cap": 18,
+            "cap": 31,
             "act": 0,
-            "rem": 18,
+            "rem": 31,
             "attribute": "",
             "timeslots": [
               {
@@ -25267,9 +25271,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Community Organizing and Leadership",
-            "cap": 18,
+            "cap": 31,
             "act": 0,
-            "rem": 18,
+            "rem": 31,
             "attribute": "",
             "timeslots": [
               {

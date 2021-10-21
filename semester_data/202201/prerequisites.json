@@ -14770,6 +14770,13 @@
         "UEP-310"
       ]
     },
+    "reserved": [
+      {
+        "max": 31,
+        "open": 31,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15594,8 +15601,8 @@
     },
     "reserved": [
       {
-        "max": 3,
-        "open": 3,
+        "max": 31,
+        "open": 31,
         "reservedFor": "Major"
       }
     ],

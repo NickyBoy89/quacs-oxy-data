@@ -2177,6 +2177,16 @@
       "ENGL  290"
     ]
   },
+  "FREN 252": {
+    "title": "Advanced Conversation II",
+    "prereqs": [
+      "APFR",
+      "FL",
+      "FR",
+      "FREN  102",
+      "OXFR"
+    ]
+  },
   "FREN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2197,14 +2207,11 @@
       "OXFR"
     ]
   },
-  "FREN 252": {
-    "title": "Advanced Conversation II",
+  "GEO 215": {
+    "title": "Evolution of the Earth",
     "prereqs": [
-      "APFR",
-      "FL",
-      "FR",
-      "FREN  102",
-      "OXFR"
+      "GEO  105",
+      "GEO  106"
     ]
   },
   "GEO 220": {
@@ -2229,11 +2236,14 @@
       "GEO  305"
     ]
   },
-  "GEO 215": {
-    "title": "Evolution of the Earth",
+  "GERM 202": {
+    "title": "German Stylistics",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "APGE",
+      "GERM  201",
+      "GL",
+      "GM",
+      "OXGE"
     ]
   },
   "GERM 102": {
@@ -2243,14 +2253,75 @@
       "OXGE"
     ]
   },
-  "GERM 202": {
-    "title": "German Stylistics",
+  "HIST 348": {
+    "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "APGE",
-      "GERM  201",
-      "GL",
-      "GM",
-      "OXGE"
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  211",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390"
     ]
   },
   "HIST 385": {
@@ -2332,75 +2403,11 @@
       "HIST  495"
     ]
   },
-  "HIST 348": {
-    "title": "The Chinese Cultural Revolution and the Global Sixties",
+  "JAPN 102": {
+    "title": "Elementary Japanese II",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
+      "JAPN  101",
+      "OXJA"
     ]
   },
   "JAPN 202": {
@@ -2419,11 +2426,11 @@
       "OXJA"
     ]
   },
-  "JAPN 102": {
-    "title": "Elementary Japanese II",
+  "KINE 304": {
+    "title": "Human Physiology",
     "prereqs": [
-      "JAPN  101",
-      "OXJA"
+      "BIO  115",
+      "KINE  301"
     ]
   },
   "KINE 302": {
@@ -2440,13 +2447,6 @@
     "prereqs": [
       "CHEM  120",
       "KINE  304"
-    ]
-  },
-  "KINE 304": {
-    "title": "Human Physiology",
-    "prereqs": [
-      "BIO  115",
-      "KINE  301"
     ]
   },
   "LATN 201": {
@@ -2582,6 +2582,13 @@
       "FYS  9"
     ]
   },
+  "MATH 370": {
+    "title": "Numerical Analysis",
+    "prereqs": [
+      "MATH  212",
+      "MATH  214"
+    ]
+  },
   "MATH 150": {
     "title": "Statistical Data Analysis",
     "prereqs": [
@@ -2603,19 +2610,19 @@
       "MATH  340"
     ]
   },
-  "MATH 370": {
-    "title": "Numerical Analysis",
-    "prereqs": [
-      "MATH  212",
-      "MATH  214"
-    ]
-  },
   "MAC 390": {
     "title": "Junior Seminar in Media Theory and Criticism",
     "prereqs": [
       "MAC  143",
       "MAC  145",
       "MAC  146"
+    ]
+  },
+  "MUSC 113": {
+    "title": "Learning to Compose",
+    "prereqs": [
+      "MUSC  101",
+      "OXMT"
     ]
   },
   "MUSC 148": {
@@ -2630,34 +2637,6 @@
     "prereqs": [
       "MUSC  101",
       "OXMT"
-    ]
-  },
-  "MUSC 113": {
-    "title": "Learning to Compose",
-    "prereqs": [
-      "MUSC  101",
-      "OXMT"
-    ]
-  },
-  "PHYS 125": {
-    "title": "General Physics II",
-    "prereqs": [
-      "APBC",
-      "APPM",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
-      "OXMA",
-      "OXPE",
-      "PHYS  110",
-      "PHYS  115"
-    ]
-  },
-  "PHYS 491": {
-    "title": "Senior Physics Seminar II",
-    "prereqs": [
-      "PHYS  240",
-      "PHYS  320"
     ]
   },
   "PHYS 117": {
@@ -2694,6 +2673,34 @@
       "PHYS  320"
     ]
   },
+  "PHYS 125": {
+    "title": "General Physics II",
+    "prereqs": [
+      "APBC",
+      "APPM",
+      "MATH  120",
+      "MATH  124",
+      "MATH  128",
+      "OXMA",
+      "OXPE",
+      "PHYS  110",
+      "PHYS  115"
+    ]
+  },
+  "PHYS 491": {
+    "title": "Senior Physics Seminar II",
+    "prereqs": [
+      "PHYS  240",
+      "PHYS  320"
+    ]
+  },
+  "POLS 265": {
+    "title": "Community Planning and Politics Practicum",
+    "prereqs": [
+      "POLS  101",
+      "UEP  101"
+    ]
+  },
   "POLS 321": {
     "title": "Gender and Politics in the Global South",
     "prereqs": [
@@ -2702,11 +2709,26 @@
       "POLS  120"
     ]
   },
-  "POLS 265": {
-    "title": "Community Planning and Politics Practicum",
+  "PSYC 302": {
+    "title": "Perception",
     "prereqs": [
-      "POLS  101",
-      "UEP  101"
+      "APPS",
+      "PSYC  101"
+    ]
+  },
+  "PSYC 431": {
+    "title": "Clinical Psychology",
+    "prereqs": [
+      "PSYC  200",
+      "PSYC  330"
+    ]
+  },
+  "PSYC 490": {
+    "title": "Contemporary Topics Seminar",
+    "prereqs": [
+      "PSYC  200",
+      "PSYC  321",
+      "PSYC  340"
     ]
   },
   "PSYC 301": {
@@ -2733,28 +2755,6 @@
       "PSYC  306"
     ]
   },
-  "PSYC 490": {
-    "title": "Contemporary Topics Seminar: Teamwork Within Diverse Environments",
-    "prereqs": [
-      "PSYC  201",
-      "PSYC  323",
-      "PSYC  340"
-    ]
-  },
-  "PSYC 302": {
-    "title": "Perception",
-    "prereqs": [
-      "APPS",
-      "PSYC  101"
-    ]
-  },
-  "PSYC 431": {
-    "title": "Clinical Psychology",
-    "prereqs": [
-      "PSYC  200",
-      "PSYC  330"
-    ]
-  },
   "PUBH 238": {
     "title": "Epidemiology",
     "prereqs": [
@@ -2775,6 +2775,41 @@
     "prereqs": [
       "PUBH  203",
       "UEP  203"
+    ]
+  },
+  "SOC 225": {
+    "title": "Masculinities",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 265": {
+    "title": "Gender and Society",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 306": {
+    "title": "Qualitative Research Methods",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 361": {
+    "title": "Sociology of Whiteness",
+    "prereqs": [
+      "SOC  101",
+      "SOC  102"
+    ]
+  },
+  "SOC 380": {
+    "title": "Sociology of Disaster",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
     ]
   },
   "SOC 205": {
@@ -2813,41 +2848,6 @@
       "SOC  101"
     ]
   },
-  "SOC 225": {
-    "title": "Masculinities",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 265": {
-    "title": "Gender and Society",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 306": {
-    "title": "Qualitative Research Methods",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 361": {
-    "title": "Sociology of Whiteness",
-    "prereqs": [
-      "SOC  101",
-      "SOC  102"
-    ]
-  },
-  "SOC 380": {
-    "title": "Sociology of Disaster",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
   "SPAN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2858,6 +2858,17 @@
       "SPAN  102"
     ]
   },
+  "SPAN 211": {
+    "title": "Spanish for Heritage Speakers",
+    "prereqs": [
+      "APSP",
+      "OXSP",
+      "SL",
+      "SP",
+      "SSL",
+      "SSP"
+    ]
+  },
   "SPAN 252": {
     "title": "Advanced Conversation II",
     "prereqs": [
@@ -2866,6 +2877,21 @@
       "SL",
       "SP",
       "SPAN  102"
+    ]
+  },
+  "SPAN 312": {
+    "title": "Spanish Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 360": {
+    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
+    "prereqs": [
+      "SPAN  202",
+      "SPAN  211"
     ]
   },
   "SPAN 301": {
@@ -2880,32 +2906,6 @@
     "title": "History of the Spanish Language",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 211": {
-    "title": "Spanish for Heritage Speakers",
-    "prereqs": [
-      "APSP",
-      "OXSP",
-      "SL",
-      "SP",
-      "SSL",
-      "SSP"
-    ]
-  },
-  "SPAN 312": {
-    "title": "Spanish Film and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 360": {
-    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
-    "prereqs": [
       "SPAN  202",
       "SPAN  211"
     ]

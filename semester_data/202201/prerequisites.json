@@ -18813,28 +18813,6 @@
       }
     }
   },
-  "2821": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SPAN  202",
-          "type": "course"
-        },
-        {
-          "course": "SPAN  211",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2822": {
     "prerequisites": {
       "nested": [
@@ -19318,6 +19296,218 @@
       ],
       "type": ""
     },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2861": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN  202",
+          "type": "course"
+        },
+        {
+          "course": "SPAN  211",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2862": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2863": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2864": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ARTH  170",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2865": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2866": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2867": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2868": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2869": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2870": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2871": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COGS  101",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2872": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2873": {
     "restrictions": {
       "classification": {
         "may_not_be": [

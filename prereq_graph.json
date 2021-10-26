@@ -1649,6 +1649,25 @@
       "FYS  9"
     ]
   },
+  "ARTH 391": {
+    "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
+    "prereqs": [
+      "ARTH  150",
+      "ARTH  160",
+      "ARTH  170",
+      "ARTH  180",
+      "ARTH  257",
+      "ARTH  266",
+      "ARTH  268",
+      "ARTH  275",
+      "ARTH  283",
+      "ARTH  285",
+      "ARTH  287",
+      "ARTH  288",
+      "ARTH  289",
+      "ARTH  295"
+    ]
+  },
   "ARTH 390": {
     "title": "Seminar in Art History: Building the 'American Pacific'",
     "prereqs": [
@@ -1664,25 +1683,6 @@
       "ARTH  274",
       "ARTH  275",
       "ARTH  280",
-      "ARTH  283",
-      "ARTH  285",
-      "ARTH  287",
-      "ARTH  288",
-      "ARTH  289",
-      "ARTH  295"
-    ]
-  },
-  "ARTH 391": {
-    "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
-    "prereqs": [
-      "ARTH  150",
-      "ARTH  160",
-      "ARTH  170",
-      "ARTH  180",
-      "ARTH  257",
-      "ARTH  266",
-      "ARTH  268",
-      "ARTH  275",
       "ARTH  283",
       "ARTH  285",
       "ARTH  287",
@@ -2903,7 +2903,7 @@
       "SPAN  211"
     ]
   },
-  "SPAN 360": {
+  "SPAN 371": {
     "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
     "prereqs": [
       "SPAN  202",

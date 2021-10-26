@@ -362,19 +362,19 @@
         ]
       },
       {
-        "title": "Islamic Art, Architecture, and Visual Culture",
+        "title": "Arts of the Spanish Empire (1516-1700)",
         "subj": "ARTH",
-        "crse": "278",
-        "id": "ARTH-278",
+        "crse": "273",
+        "id": "ARTH-273",
         "sections": [
           {
-            "crn": 2047,
+            "crn": 2862,
             "subj": "ARTH",
-            "crse": "278",
+            "crse": "273",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Islamic Art, Architecture, and Visual Culture",
+            "title": "Arts of the Spanish Empire (1516-1700)",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -383,9 +383,80 @@
               {
                 "days": [
                   "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Samuel Frederic Luterbacher",
+                "location": "",
+                "timeStart": 1445,
+                "timeEnd": 1540,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "History of Photography",
+        "subj": "ARTH",
+        "crse": "287",
+        "id": "ARTH-287",
+        "sections": [
+          {
+            "crn": 2410,
+            "subj": "ARTH",
+            "crse": "287",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "History of Photography",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Amy Lyford",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Arts of Pilgrimage: From Rome to Graceland",
+        "subj": "ARTH",
+        "crse": "375",
+        "id": "ARTH-375",
+        "sections": [
+          {
+            "crn": 2864,
+            "subj": "ARTH",
+            "crse": "375",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Arts of Pilgrimage: From Rome to Graceland",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
                   "W"
                 ],
-                "instructor": "Candace Mixon",
+                "instructor": "Amy Lyford",
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1725,
@@ -397,54 +468,19 @@
         ]
       },
       {
-        "title": "Seminar in Art History: Building the 'American Pacific'",
+        "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
         "subj": "ARTH",
-        "crse": "390",
-        "id": "ARTH-390",
+        "crse": "391",
+        "id": "ARTH-391",
         "sections": [
           {
-            "crn": 2051,
+            "crn": 2052,
             "subj": "ARTH",
-            "crse": "390",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Seminar in Art History: Building the 'American Pacific'",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Amy Lyford",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Senior Seminar in Art History",
-        "subj": "ARTH",
-        "crse": "490",
-        "id": "ARTH-490",
-        "sections": [
-          {
-            "crn": 2053,
-            "subj": "ARTH",
-            "crse": "490",
+            "crse": "391",
             "sec": "00",
             "credMin": 2,
             "credMax": 2,
-            "title": "Senior Seminar in Art History",
+            "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -452,12 +488,12 @@
             "timeslots": [
               {
                 "days": [
-                  "M"
+                  "F"
                 ],
-                "instructor": "Yurika Wakamatsu",
+                "instructor": "Stephanie Spurr Schrader",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
+                "timeStart": 1000,
+                "timeEnd": 1300,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -537,22 +573,87 @@
         ]
       },
       {
-        "title": "History of Photography",
+        "title": "Islamic Art, Architecture, and Visual Culture",
         "subj": "ARTH",
-        "crse": "287",
-        "id": "ARTH-287",
+        "crse": "278",
+        "id": "ARTH-278",
         "sections": [
           {
-            "crn": 2410,
+            "crn": 2047,
             "subj": "ARTH",
-            "crse": "287",
+            "crse": "278",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "History of Photography",
+            "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
             "act": 0,
             "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Candace Mixon",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Practicum in Art History",
+        "subj": "ARTH",
+        "crse": "298",
+        "id": "ARTH-298",
+        "sections": [
+          {
+            "crn": 2863,
+            "subj": "ARTH",
+            "crse": "298",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Practicum in Art History",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Samuel Frederic Luterbacher",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Seminar in Art History: Building the 'American Pacific'",
+        "subj": "ARTH",
+        "crse": "390",
+        "id": "ARTH-390",
+        "sections": [
+          {
+            "crn": 2051,
+            "subj": "ARTH",
+            "crse": "390",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Seminar in Art History: Building the 'American Pacific'",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -562,8 +663,8 @@
                 ],
                 "instructor": "Amy Lyford",
                 "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -572,19 +673,19 @@
         ]
       },
       {
-        "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
+        "title": "Senior Seminar in Art History",
         "subj": "ARTH",
-        "crse": "391",
-        "id": "ARTH-391",
+        "crse": "490",
+        "id": "ARTH-490",
         "sections": [
           {
-            "crn": 2052,
+            "crn": 2053,
             "subj": "ARTH",
-            "crse": "391",
+            "crse": "490",
             "sec": "00",
             "credMin": 2,
             "credMax": 2,
-            "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
+            "title": "Senior Seminar in Art History",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -592,12 +693,12 @@
             "timeslots": [
               {
                 "days": [
-                  "F"
+                  "M"
                 ],
-                "instructor": "Stephanie Spurr Schrader",
+                "instructor": "Yurika Wakamatsu",
                 "location": "",
-                "timeStart": 1000,
-                "timeEnd": 1300,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -611,6 +712,304 @@
     "name": "Art/Studio",
     "code": "ARTS",
     "courses": [
+      {
+        "title": "OxyArts Collaborate Workshop",
+        "subj": "ARTS",
+        "crse": "100",
+        "id": "ARTS-100",
+        "sections": [
+          {
+            "crn": 2018,
+            "subj": "ARTS",
+            "crse": "100",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "OxyArts Collaborate Workshop",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Yossen",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Painting Fundamentals",
+        "subj": "ARTS",
+        "crse": "102",
+        "id": "ARTS-102",
+        "sections": [
+          {
+            "crn": 2019,
+            "subj": "ARTS",
+            "crse": "102",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Painting Fundamentals",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Linda M. Besemer",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Digital Photography",
+        "subj": "ARTS",
+        "crse": "107",
+        "id": "ARTS-107",
+        "sections": [
+          {
+            "crn": 2055,
+            "subj": "ARTS",
+            "crse": "107",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Digital Photography",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "David K. Weldzius",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Photography Against the Grain",
+        "subj": "ARTS",
+        "crse": "209",
+        "id": "ARTS-209",
+        "sections": [
+          {
+            "crn": 2056,
+            "subj": "ARTS",
+            "crse": "209",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Photography Against the Grain",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mary Beth Heffernan",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Book Arts: The Handprinted Book",
+        "subj": "ARTS",
+        "crse": "228",
+        "id": "ARTS-228",
+        "sections": [
+          {
+            "crn": 2711,
+            "subj": "ARTS",
+            "crse": "228",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Book Arts: The Handprinted Book",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Jocelyn Webb Pedersen",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2712,
+            "subj": "ARTS",
+            "crse": "228",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Book Arts: The Handprinted Book",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Jocelyn Webb Pedersen",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Art of Resistance!",
+        "subj": "ARTS",
+        "crse": "250",
+        "id": "ARTS-250",
+        "sections": [
+          {
+            "crn": 2022,
+            "subj": "ARTS",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Resistance!",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Kenturah H. Davis",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Writing Art and Writing as Art",
+        "subj": "ARTS",
+        "crse": "301",
+        "id": "ARTS-301",
+        "sections": [
+          {
+            "crn": 2058,
+            "subj": "ARTS",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Writing Art and Writing as Art",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Kenji C. Liu",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Projects/Printmaking",
+        "subj": "ARTS",
+        "crse": "330",
+        "id": "ARTS-330",
+        "sections": [
+          {
+            "crn": 2060,
+            "subj": "ARTS",
+            "crse": "330",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Projects/Printmaking",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Linda F. Lyke",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Drawing Fundamentals",
         "subj": "ARTS",
@@ -752,296 +1151,28 @@
         ]
       },
       {
-        "title": "Book Arts: The Handprinted Book",
+        "title": "Practicum in Studio Art",
         "subj": "ARTS",
-        "crse": "228",
-        "id": "ARTS-228",
+        "crse": "298",
+        "id": "ARTS-298",
         "sections": [
           {
-            "crn": 2712,
+            "crn": 2865,
             "subj": "ARTS",
-            "crse": "228",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Book Arts: The Handprinted Book",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2711,
-            "subj": "ARTS",
-            "crse": "228",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Book Arts: The Handprinted Book",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Writing Art and Writing as Art",
-        "subj": "ARTS",
-        "crse": "301",
-        "id": "ARTS-301",
-        "sections": [
-          {
-            "crn": 2058,
-            "subj": "ARTS",
-            "crse": "301",
+            "crse": "298",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Writing Art and Writing as Art",
-            "cap": 15,
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Practicum in Studio Art",
+            "cap": 10,
             "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Kenji C. Liu",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Projects/Printmaking",
-        "subj": "ARTS",
-        "crse": "330",
-        "id": "ARTS-330",
-        "sections": [
-          {
-            "crn": 2060,
-            "subj": "ARTS",
-            "crse": "330",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Projects/Printmaking",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Linda F. Lyke",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "OxyArts Collaborate Workshop",
-        "subj": "ARTS",
-        "crse": "100",
-        "id": "ARTS-100",
-        "sections": [
-          {
-            "crn": 2018,
-            "subj": "ARTS",
-            "crse": "100",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "OxyArts Collaborate Workshop",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Patricia Yossen",
+                "instructor": "Amy Lyford",
                 "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Painting Fundamentals",
-        "subj": "ARTS",
-        "crse": "102",
-        "id": "ARTS-102",
-        "sections": [
-          {
-            "crn": 2019,
-            "subj": "ARTS",
-            "crse": "102",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Painting Fundamentals",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Linda M. Besemer",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Digital Photography",
-        "subj": "ARTS",
-        "crse": "107",
-        "id": "ARTS-107",
-        "sections": [
-          {
-            "crn": 2055,
-            "subj": "ARTS",
-            "crse": "107",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Digital Photography",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "David K. Weldzius",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Photography Against the Grain",
-        "subj": "ARTS",
-        "crse": "209",
-        "id": "ARTS-209",
-        "sections": [
-          {
-            "crn": 2056,
-            "subj": "ARTS",
-            "crse": "209",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Photography Against the Grain",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mary Beth Heffernan",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1555,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Art of Resistance!",
-        "subj": "ARTS",
-        "crse": "250",
-        "id": "ARTS-250",
-        "sections": [
-          {
-            "crn": 2022,
-            "subj": "ARTS",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Resistance!",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Kenturah H. Davis",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5217,6 +5348,146 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "COGS",
+        "crse": "395",
+        "id": "COGS-395",
+        "sections": [
+          {
+            "crn": 2866,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2868,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Stephanie Marie-Elizabeth Nelli",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2870,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Aleksandra Sherman",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2867,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2869,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Stephanie Marie-Elizabeth Nelli",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2871,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "06",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Aleksandra Sherman",
+                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -13869,22 +14140,22 @@
         ]
       },
       {
-        "title": "Topic in Media Theory and Practice: Media Activism through Participatory Video",
+        "title": "Topic in Global Media: Transpacific Social Justice",
         "subj": "MAC",
-        "crse": "250",
-        "id": "MAC-250",
+        "crse": "248",
+        "id": "MAC-248",
         "sections": [
           {
-            "crn": 2299,
+            "crn": 2298,
             "subj": "MAC",
-            "crse": "250",
+            "crse": "248",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic in Media Theory and Practice: Media Activism through Participatory Video",
-            "cap": 16,
+            "title": "Topic in Global Media: Transpacific Social Justice",
+            "cap": 25,
             "act": 0,
-            "rem": 16,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -13894,8 +14165,43 @@
                 ],
                 "instructor": "Vivian Wenli Lin",
                 "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+        "subj": "MAC",
+        "crse": "271",
+        "id": "MAC-271",
+        "sections": [
+          {
+            "crn": 2873,
+            "subj": "MAC",
+            "crse": "271",
+            "sec": "00",
+            "credMin": 8,
+            "credMax": 8,
+            "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Teddy Pozo",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1725,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14137,22 +14443,57 @@
         ]
       },
       {
-        "title": "Topic in Global Media: Transpacific Social Justice",
+        "title": "Topics in Animation and Visual Effects",
         "subj": "MAC",
-        "crse": "248",
-        "id": "MAC-248",
+        "crse": "247",
+        "id": "MAC-247",
         "sections": [
           {
-            "crn": 2298,
+            "crn": 2872,
             "subj": "MAC",
-            "crse": "248",
+            "crse": "247",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic in Global Media: Transpacific Social Justice",
-            "cap": 25,
+            "title": "Topics in Animation and Visual Effects",
+            "cap": 16,
             "act": 0,
-            "rem": 25,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Amanda Ann Tasse",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topic in Media Theory and Practice: Media Activism through Participatory Video",
+        "subj": "MAC",
+        "crse": "250",
+        "id": "MAC-250",
+        "sections": [
+          {
+            "crn": 2299,
+            "subj": "MAC",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic in Media Theory and Practice: Media Activism through Participatory Video",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -14162,8 +14503,8 @@
                 ],
                 "instructor": "Vivian Wenli Lin",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24227,13 +24568,13 @@
       {
         "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
         "subj": "SPAN",
-        "crse": "360",
-        "id": "SPAN-360",
+        "crse": "371",
+        "id": "SPAN-371",
         "sections": [
           {
-            "crn": 2821,
+            "crn": 2861,
             "subj": "SPAN",
-            "crse": "360",
+            "crse": "371",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,

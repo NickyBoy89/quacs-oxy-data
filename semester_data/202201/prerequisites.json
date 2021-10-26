@@ -4501,6 +4501,11 @@
     }
   },
   "2188": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CHEM-350L"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {
@@ -4523,6 +4528,11 @@
     }
   },
   "2189": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CHEM-350L"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {

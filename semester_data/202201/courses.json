@@ -362,19 +362,19 @@
         ]
       },
       {
-        "title": "Greek and Roman Art",
+        "title": "Islamic Art, Architecture, and Visual Culture",
         "subj": "ARTH",
-        "crse": "272",
-        "id": "ARTH-272",
+        "crse": "278",
+        "id": "ARTH-278",
         "sections": [
           {
-            "crn": 2046,
+            "crn": 2047,
             "subj": "ARTH",
-            "crse": "272",
+            "crse": "278",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Greek and Roman Art",
+            "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -383,48 +383,12 @@
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
-                "instructor": "Samuel Frederic Luterbacher",
+                "instructor": "Candace Mixon",
                 "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1540,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "History of Photography",
-        "subj": "ARTH",
-        "crse": "287",
-        "id": "ARTH-287",
-        "sections": [
-          {
-            "crn": 2410,
-            "subj": "ARTH",
-            "crse": "287",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "History of Photography",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Amy Lyford",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
+                "timeStart": 1600,
+                "timeEnd": 1725,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -573,19 +537,19 @@
         ]
       },
       {
-        "title": "Islamic Art, Architecture, and Visual Culture",
+        "title": "History of Photography",
         "subj": "ARTH",
-        "crse": "278",
-        "id": "ARTH-278",
+        "crse": "287",
+        "id": "ARTH-287",
         "sections": [
           {
-            "crn": 2047,
+            "crn": 2410,
             "subj": "ARTH",
-            "crse": "278",
+            "crse": "287",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Islamic Art, Architecture, and Visual Culture",
+            "title": "History of Photography",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -593,48 +557,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Candace Mixon",
+                "instructor": "Amy Lyford",
                 "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Art of the Early Italian Renaissance",
-        "subj": "ARTH",
-        "crse": "374",
-        "id": "ARTH-374",
-        "sections": [
-          {
-            "crn": 2050,
-            "subj": "ARTH",
-            "crse": "374",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Art of the Early Italian Renaissance",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Samuel Frederic Luterbacher",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
+                "timeStart": 1515,
+                "timeEnd": 1640,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -6796,7 +6725,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Mary Christianakis",
+                "instructor": "Claire Crawford",
                 "location": "",
                 "timeStart": 945,
                 "timeEnd": 1040,
@@ -8963,13 +8892,12 @@
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
                 "instructor": "Jennifer Espinoza",
                 "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1540,
+                "timeStart": 1745,
+                "timeEnd": 1910,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -8999,13 +8927,12 @@
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
                 "instructor": "Warren Montag",
                 "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
+                "timeStart": 1600,
+                "timeEnd": 1725,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -11456,6 +11383,41 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Marx, Nietzsche, Freud",
+        "subj": "GERM",
+        "crse": "307",
+        "id": "GERM-307",
+        "sections": [
+          {
+            "crn": 2859,
+            "subj": "GERM",
+            "crse": "307",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Marx, Nietzsche, Freud",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Stephen Klemm",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11463,41 +11425,6 @@
     "name": "Greek",
     "code": "GRK",
     "courses": [
-      {
-        "title": "Topics in Classical Philology (Greek)",
-        "subj": "GRK",
-        "crse": "201",
-        "id": "GRK-201",
-        "sections": [
-          {
-            "crn": 2007,
-            "subj": "GRK",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Classical Philology (Greek)",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Sydney Keiko Mitsunaga-Whitten",
-                "location": "",
-                "timeStart": 1745,
-                "timeEnd": 1910,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Elementary Greek",
         "subj": "GRK",
@@ -11527,6 +11454,76 @@
                 "location": "",
                 "timeStart": 1445,
                 "timeEnd": 1540,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Homer's Odyssey, and The No-Place That's Home",
+        "subj": "GRK",
+        "crse": "386",
+        "id": "GRK-386",
+        "sections": [
+          {
+            "crn": 2860,
+            "subj": "GRK",
+            "crse": "386",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Homer's Odyssey, and The No-Place That's Home",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Sydney Keiko Mitsunaga-Whitten",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in Classical Philology (Greek)",
+        "subj": "GRK",
+        "crse": "201",
+        "id": "GRK-201",
+        "sections": [
+          {
+            "crn": 2007,
+            "subj": "GRK",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Classical Philology (Greek)",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Sydney Keiko Mitsunaga-Whitten",
+                "location": "",
+                "timeStart": 1745,
+                "timeEnd": 1910,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23126,9 +23123,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Elementary Russian I",
-            "cap": 18,
+            "cap": 25,
             "act": 0,
-            "rem": 18,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -23139,8 +23136,8 @@
                 ],
                 "instructor": "Julia Yuliya Sushytska",
                 "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

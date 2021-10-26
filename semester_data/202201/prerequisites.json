@@ -1257,22 +1257,6 @@
       }
     }
   },
-  "2046": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2047": {
     "reserved": [
       {
@@ -1285,24 +1269,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2050": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ARTH  170",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -19316,6 +19282,42 @@
         "reservedFor": "Major"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2859": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GERM  202",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2860": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GRK  102",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

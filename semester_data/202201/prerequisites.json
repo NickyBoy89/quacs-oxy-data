@@ -7206,11 +7206,6 @@
   "2292": {
     "reserved": [
       {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Major"
-      },
-      {
         "max": 10,
         "open": 10,
         "reservedFor": "Frosh"
@@ -7227,11 +7222,6 @@
   },
   "2293": {
     "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Major"
-      },
       {
         "max": 10,
         "open": 10,
@@ -7283,6 +7273,13 @@
     }
   },
   "2296": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -8723,6 +8720,14 @@
         },
         {
           "course": "OXSO",
+          "type": "course"
+        },
+        {
+          "course": "SOC  102",
+          "type": "course"
+        },
+        {
+          "course": "SOC  105",
           "type": "course"
         }
       ],
@@ -14675,6 +14680,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 3,
+        "open": 3,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -19476,6 +19488,13 @@
     }
   },
   "2872": {
+    "reserved": [
+      {
+        "max": 8,
+        "open": 8,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -19485,6 +19504,70 @@
     }
   },
   "2873": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2874": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2875": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "OLLA",
+          "type": "course"
+        },
+        {
+          "course": "LATN  201",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2876": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2877": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "RUSN  201",
+          "type": "course"
+        },
+        {
+          "course": "OLRU",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    }
+  },
+  "2878": {
     "restrictions": {
       "classification": {
         "may_not_be": [

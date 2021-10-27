@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Bio Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM  120",
       "CHEM  130",
@@ -1691,6 +1691,14 @@
       "ARTH  295"
     ]
   },
+  "ARTS 310": {
+    "title": "Advanced Projects in Painting and Drawing",
+    "prereqs": [
+      "ARTS  102",
+      "ARTS  210",
+      "OXAS"
+    ]
+  },
   "ARTS 210": {
     "title": "Intermediate Painting",
     "prereqs": [
@@ -1698,12 +1706,30 @@
       "OXAS"
     ]
   },
-  "ARTS 310": {
-    "title": "Advanced Projects in Painting and Drawing",
+  "BIO 290": {
+    "title": "Research Methods in Biology",
     "prereqs": [
-      "ARTS  102",
-      "ARTS  210",
-      "OXAS"
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
+  "BIO 345": {
+    "title": "Virology",
+    "prereqs": [
+      "BIO  130",
+      "BIO  221",
+      "BIO  224",
+      "BIO  226"
+    ]
+  },
+  "BIO 369": {
+    "title": "Biological Oceanography",
+    "prereqs": [
+      "BIO  260",
+      "BIO  270"
     ]
   },
   "BIO 221": {
@@ -1746,32 +1772,6 @@
       "PSYC  201"
     ]
   },
-  "BIO 290": {
-    "title": "Research Methods in Biology",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "BIO 345": {
-    "title": "Virology",
-    "prereqs": [
-      "BIO  130",
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
-    ]
-  },
-  "BIO 369": {
-    "title": "Biological Oceanography",
-    "prereqs": [
-      "BIO  260",
-      "BIO  270"
-    ]
-  },
   "BLST 320": {
     "title": "Critical Race Theory in Education",
     "prereqs": [
@@ -1784,6 +1784,28 @@
       "EDUC  219",
       "EDUC  281",
       "EDUC  283"
+    ]
+  },
+  "CHEM 150": {
+    "title": "Molecular Symmetry and Structure",
+    "prereqs": [
+      "CHEM  100",
+      "CHEM  120",
+      "OXCE"
+    ]
+  },
+  "CHEM 350": {
+    "title": "Biochemistry",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
+    ]
+  },
+  "CHEM 350L": {
+    "title": "Biochemistry Laboratory",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
     ]
   },
   "CHEM 305": {
@@ -1807,42 +1829,11 @@
       "PHYS  120"
     ]
   },
-  "CHEM 350": {
-    "title": "Biochemistry",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
-  "CHEM 350L": {
-    "title": "Biochemistry Laboratory",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
   "CHEM 380": {
     "title": "Organic Synthesis",
     "prereqs": [
       "CHEM  221",
       "CHEM  240"
-    ]
-  },
-  "CHEM 150": {
-    "title": "Molecular Symmetry and Structure",
-    "prereqs": [
-      "CHEM  100",
-      "CHEM  120",
-      "OXCE"
-    ]
-  },
-  "CHIN 202": {
-    "title": "Intermediate Chinese II",
-    "prereqs": [
-      "APCL",
-      "CHIN  201",
-      "CL",
-      "OXCH"
     ]
   },
   "CHIN 102": {
@@ -1857,6 +1848,23 @@
     "prereqs": [
       "CHIN  301",
       "OXCH"
+    ]
+  },
+  "CHIN 202": {
+    "title": "Intermediate Chinese II",
+    "prereqs": [
+      "APCL",
+      "CHIN  201",
+      "CL",
+      "OXCH"
+    ]
+  },
+  "COGS 303": {
+    "title": "Topics in Neuroscience",
+    "prereqs": [
+      "BIO  268",
+      "COGS  201",
+      "PSYC  200"
     ]
   },
   "COGS 292": {
@@ -1874,12 +1882,33 @@
       "PSYC  200"
     ]
   },
-  "COGS 303": {
-    "title": "Topics in Neuroscience",
+  "COMP 347": {
+    "title": "Machine Learning",
     "prereqs": [
-      "BIO  268",
-      "COGS  201",
-      "PSYC  200"
+      "COMP  146",
+      "COMP  149",
+      "COMP  229",
+      "MATH  146",
+      "MATH  150",
+      "MATH  210",
+      "MATH  214"
+    ]
+  },
+  "COMP 373": {
+    "title": "Databases",
+    "prereqs": [
+      "COMP  229",
+      "COMP  239"
+    ]
+  },
+  "COMP 395": {
+    "title": "Special Topics in Computer Science",
+    "prereqs": [
+      "APCA",
+      "COMP  127",
+      "COMP  131",
+      "COMP  211",
+      "COMP  229"
     ]
   },
   "COMP 277": {
@@ -1918,50 +1947,8 @@
       "MATH  352"
     ]
   },
-  "COMP 347": {
-    "title": "Machine Learning",
-    "prereqs": [
-      "COMP  146",
-      "COMP  149",
-      "COMP  229",
-      "MATH  146",
-      "MATH  150",
-      "MATH  210",
-      "MATH  214"
-    ]
-  },
-  "COMP 373": {
-    "title": "Databases",
-    "prereqs": [
-      "COMP  229",
-      "COMP  239"
-    ]
-  },
-  "COMP 395": {
-    "title": "Special Topics in Computer Science",
-    "prereqs": [
-      "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229"
-    ]
-  },
-  "CTSJ 295": {
-    "title": "Topics in Critical Theory - Social Justice: Critical Theory and Psychopathology",
-    "prereqs": [
-      "CTSJ  100",
-      "CTSJ  105",
-      "CTSJ  106",
-      "CTSJ  107",
-      "CTSJ  140",
-      "CTSJ  160",
-      "CTSJ  180",
-      "CTSJ  195"
-    ]
-  },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Writing Trauma",
+    "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
     "prereqs": [
       "CTSJ  100",
       "CTSJ  102",
@@ -1977,11 +1964,32 @@
       "CTSJ  195"
     ]
   },
+  "CTSJ 295": {
+    "title": "Topics in Critical Theory - Social Justice: Critical Theory and Psychopathology",
+    "prereqs": [
+      "CTSJ  100",
+      "CTSJ  105",
+      "CTSJ  106",
+      "CTSJ  107",
+      "CTSJ  140",
+      "CTSJ  160",
+      "CTSJ  180",
+      "CTSJ  195"
+    ]
+  },
   "DWA 283": {
     "title": "Soft Power: How Nations Interact Without War",
     "prereqs": [
       "DWA  101",
       "POLS  101"
+    ]
+  },
+  "ECON 311": {
+    "title": "International Economics",
+    "prereqs": [
+      "APEA",
+      "APEI",
+      "ECON  102"
     ]
   },
   "ECON 301": {
@@ -1990,14 +1998,6 @@
       "APEA",
       "APEI",
       "ECON  101",
-      "ECON  102"
-    ]
-  },
-  "ECON 311": {
-    "title": "International Economics",
-    "prereqs": [
-      "APEA",
-      "APEI",
       "ECON  102"
     ]
   },
@@ -2019,6 +2019,36 @@
       "EDUC  215",
       "EDUC  219",
       "EDUC  283"
+    ]
+  },
+  "ENGL 332": {
+    "title": "Eighteenth Century Literature: 1730-1800",
+    "prereqs": [
+      "ECLS  109",
+      "ECLS  186",
+      "ECLS  187",
+      "ECLS  188",
+      "ECLS  189",
+      "ECLS  205",
+      "ECLS  220",
+      "ECLS  241",
+      "ECLS  253",
+      "ECLS  255",
+      "ECLS  279",
+      "ECLS  286",
+      "ECLS  287",
+      "ECLS  288",
+      "ECLS  289",
+      "ECLS  290",
+      "ENGL  106",
+      "ENGL  189",
+      "ENGL  220",
+      "ENGL  267",
+      "ENGL  280",
+      "ENGL  287",
+      "ENGL  288",
+      "ENGL  289",
+      "ENGL  290"
     ]
   },
   "ENGL 290": {
@@ -2147,46 +2177,6 @@
       "WRD  201"
     ]
   },
-  "ENGL 332": {
-    "title": "Eighteenth Century Literature: 1730-1800",
-    "prereqs": [
-      "ECLS  109",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  267",
-      "ENGL  280",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
-    ]
-  },
-  "FREN 252": {
-    "title": "Advanced Conversation II",
-    "prereqs": [
-      "APFR",
-      "FL",
-      "FR",
-      "FREN  102",
-      "OXFR"
-    ]
-  },
   "FREN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2207,11 +2197,14 @@
       "OXFR"
     ]
   },
-  "GEO 215": {
-    "title": "Evolution of the Earth",
+  "FREN 252": {
+    "title": "Advanced Conversation II",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "APFR",
+      "FL",
+      "FR",
+      "FREN  102",
+      "OXFR"
     ]
   },
   "GEO 220": {
@@ -2236,14 +2229,11 @@
       "GEO  305"
     ]
   },
-  "GERM 202": {
-    "title": "German Stylistics",
+  "GEO 215": {
+    "title": "Evolution of the Earth",
     "prereqs": [
-      "APGE",
-      "GERM  201",
-      "GL",
-      "GM",
-      "OXGE"
+      "GEO  105",
+      "GEO  106"
     ]
   },
   "GERM 102": {
@@ -2253,75 +2243,14 @@
       "OXGE"
     ]
   },
-  "HIST 348": {
-    "title": "The Chinese Cultural Revolution and the Global Sixties",
+  "GERM 202": {
+    "title": "German Stylistics",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
+      "APGE",
+      "GERM  201",
+      "GL",
+      "GM",
+      "OXGE"
     ]
   },
   "HIST 385": {
@@ -2403,11 +2332,75 @@
       "HIST  495"
     ]
   },
-  "JAPN 102": {
-    "title": "Elementary Japanese II",
+  "HIST 348": {
+    "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "JAPN  101",
-      "OXJA"
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  211",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390"
     ]
   },
   "JAPN 202": {
@@ -2426,11 +2419,11 @@
       "OXJA"
     ]
   },
-  "KINE 304": {
-    "title": "Human Physiology",
+  "JAPN 102": {
+    "title": "Elementary Japanese II",
     "prereqs": [
-      "BIO  115",
-      "KINE  301"
+      "JAPN  101",
+      "OXJA"
     ]
   },
   "KINE 302": {
@@ -2447,6 +2440,20 @@
     "prereqs": [
       "CHEM  120",
       "KINE  304"
+    ]
+  },
+  "KINE 304": {
+    "title": "Human Physiology",
+    "prereqs": [
+      "BIO  115",
+      "KINE  301"
+    ]
+  },
+  "LATN 350": {
+    "title": "Passages: African American writers and Greco-Roman Literature",
+    "prereqs": [
+      "LATN  201",
+      "OLLA"
     ]
   },
   "LATN 201": {
@@ -2777,39 +2784,11 @@
       "UEP  203"
     ]
   },
-  "SOC 225": {
-    "title": "Masculinities",
+  "RUSN 339": {
+    "title": "The Demonic in Eastern European Literature and Film",
     "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 265": {
-    "title": "Gender and Society",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 306": {
-    "title": "Qualitative Research Methods",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 361": {
-    "title": "Sociology of Whiteness",
-    "prereqs": [
-      "SOC  101",
-      "SOC  102"
-    ]
-  },
-  "SOC 380": {
-    "title": "Sociology of Disaster",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
+      "OLRU",
+      "RUSN  201"
     ]
   },
   "SOC 205": {
@@ -2848,6 +2827,43 @@
       "SOC  101"
     ]
   },
+  "SOC 225": {
+    "title": "Masculinities",
+    "prereqs": [
+      "OXSO",
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
+    ]
+  },
+  "SOC 265": {
+    "title": "Gender and Society",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 306": {
+    "title": "Qualitative Research Methods",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 361": {
+    "title": "Sociology of Whiteness",
+    "prereqs": [
+      "SOC  101",
+      "SOC  102"
+    ]
+  },
+  "SOC 380": {
+    "title": "Sociology of Disaster",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
   "SPAN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2858,17 +2874,6 @@
       "SPAN  102"
     ]
   },
-  "SPAN 211": {
-    "title": "Spanish for Heritage Speakers",
-    "prereqs": [
-      "APSP",
-      "OXSP",
-      "SL",
-      "SP",
-      "SSL",
-      "SSP"
-    ]
-  },
   "SPAN 252": {
     "title": "Advanced Conversation II",
     "prereqs": [
@@ -2877,21 +2882,6 @@
       "SL",
       "SP",
       "SPAN  102"
-    ]
-  },
-  "SPAN 312": {
-    "title": "Spanish Film and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 371": {
-    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
-    "prereqs": [
-      "SPAN  202",
-      "SPAN  211"
     ]
   },
   "SPAN 301": {
@@ -2906,6 +2896,32 @@
     "title": "History of the Spanish Language",
     "prereqs": [
       "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 211": {
+    "title": "Spanish for Heritage Speakers",
+    "prereqs": [
+      "APSP",
+      "OXSP",
+      "SL",
+      "SP",
+      "SSL",
+      "SSP"
+    ]
+  },
+  "SPAN 312": {
+    "title": "Spanish Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 371": {
+    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
+    "prereqs": [
       "SPAN  202",
       "SPAN  211"
     ]

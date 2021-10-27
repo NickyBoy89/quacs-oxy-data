@@ -1669,7 +1669,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Building the 'American Pacific'",
+    "title": "Seminar in Art History: Performance, Embodiment and the Dematerialization of Contemporary Art",
     "prereqs": [
       "ARTH  150",
       "ARTH  160",
@@ -1860,7 +1860,7 @@
     ]
   },
   "COGS 303": {
-    "title": "Topics in Neuroscience",
+    "title": "Topic in Neuroscience: Deep Learning",
     "prereqs": [
       "BIO  268",
       "COGS  201",
@@ -2740,14 +2740,6 @@
       "PSYC  306"
     ]
   },
-  "PSYC 490": {
-    "title": "Contemporary Topics Seminar: Teamwork Within Diverse Environments",
-    "prereqs": [
-      "PSYC  201",
-      "PSYC  323",
-      "PSYC  340"
-    ]
-  },
   "PSYC 302": {
     "title": "Perception",
     "prereqs": [
@@ -2760,6 +2752,14 @@
     "prereqs": [
       "PSYC  200",
       "PSYC  330"
+    ]
+  },
+  "PSYC 490": {
+    "title": "Contemporary Topics Seminar: Teamwork Within Diverse Environments",
+    "prereqs": [
+      "PSYC  201",
+      "PSYC  323",
+      "PSYC  340"
     ]
   },
   "PUBH 238": {

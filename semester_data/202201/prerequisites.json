@@ -1197,19 +1197,14 @@
   "2042": {
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       },
       {
         "max": 5,
         "open": 5,
         "reservedFor": "Major"
-      },
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Transfer"
       }
     ],
     "restrictions": {
@@ -8651,24 +8646,6 @@
     }
   },
   "2353": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2354": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "RUSN  202",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
     "restrictions": {
       "classification": {
         "may_not_be": [

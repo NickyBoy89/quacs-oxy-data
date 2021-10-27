@@ -2777,6 +2777,41 @@
       "UEP  203"
     ]
   },
+  "SOC 225": {
+    "title": "Masculinities",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 265": {
+    "title": "Gender and Society",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 306": {
+    "title": "Qualitative Research Methods",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
+  "SOC 361": {
+    "title": "Sociology of Whiteness",
+    "prereqs": [
+      "SOC  101",
+      "SOC  102"
+    ]
+  },
+  "SOC 380": {
+    "title": "Sociology of Disaster",
+    "prereqs": [
+      "OXSO",
+      "SOC  101"
+    ]
+  },
   "SOC 205": {
     "title": "Contemporary Sociological Theory",
     "prereqs": [
@@ -2813,41 +2848,6 @@
       "SOC  101"
     ]
   },
-  "SOC 225": {
-    "title": "Masculinities",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 265": {
-    "title": "Gender and Society",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 306": {
-    "title": "Qualitative Research Methods",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
-  "SOC 361": {
-    "title": "Sociology of Whiteness",
-    "prereqs": [
-      "SOC  101",
-      "SOC  102"
-    ]
-  },
-  "SOC 380": {
-    "title": "Sociology of Disaster",
-    "prereqs": [
-      "OXSO",
-      "SOC  101"
-    ]
-  },
   "SPAN 152": {
     "title": "Intermediate Conversation II",
     "prereqs": [
@@ -2858,6 +2858,17 @@
       "SPAN  102"
     ]
   },
+  "SPAN 211": {
+    "title": "Spanish for Heritage Speakers",
+    "prereqs": [
+      "APSP",
+      "OXSP",
+      "SL",
+      "SP",
+      "SSL",
+      "SSP"
+    ]
+  },
   "SPAN 252": {
     "title": "Advanced Conversation II",
     "prereqs": [
@@ -2866,6 +2877,21 @@
       "SL",
       "SP",
       "SPAN  102"
+    ]
+  },
+  "SPAN 312": {
+    "title": "Spanish Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN  202",
+      "SPAN  211"
+    ]
+  },
+  "SPAN 371": {
+    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
+    "prereqs": [
+      "SPAN  202",
+      "SPAN  211"
     ]
   },
   "SPAN 301": {
@@ -2880,32 +2906,6 @@
     "title": "History of the Spanish Language",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 211": {
-    "title": "Spanish for Heritage Speakers",
-    "prereqs": [
-      "APSP",
-      "OXSP",
-      "SL",
-      "SP",
-      "SSL",
-      "SSP"
-    ]
-  },
-  "SPAN 312": {
-    "title": "Spanish Film and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN  202",
-      "SPAN  211"
-    ]
-  },
-  "SPAN 371": {
-    "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
-    "prereqs": [
       "SPAN  202",
       "SPAN  211"
     ]

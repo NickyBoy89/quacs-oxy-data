@@ -18494,6 +18494,42 @@
     ]
   },
   {
+    "name": "Occidental-in-Cameroon",
+    "code": "ABCN",
+    "courses": [
+      {
+        "title": "Occidental-in-Cameroon",
+        "subj": "ABCN",
+        "crse": "302",
+        "id": "ABCN-302",
+        "sections": [
+          {
+            "crn": 2879,
+            "subj": "ABCN",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Cameroon",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Occidental-in-Ecuador",
     "code": "ABEC",
     "courses": [
@@ -18547,42 +18583,6 @@
             "credMin": 16,
             "credMax": 16,
             "title": "Occidental-in-France",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Greece",
-    "code": "ABGR",
-    "courses": [
-      {
-        "title": "Occidental-in-Greece",
-        "subj": "ABGR",
-        "crse": "302",
-        "id": "ABGR-302",
-        "sections": [
-          {
-            "crn": 2833,
-            "subj": "ABGR",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Greece",
             "cap": 16,
             "act": 0,
             "rem": 16,

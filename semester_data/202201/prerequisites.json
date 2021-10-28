@@ -19544,5 +19544,14 @@
         ]
       }
     }
+  },
+  "2879": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

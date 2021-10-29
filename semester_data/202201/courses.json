@@ -12218,9 +12218,9 @@
             "credMin": 5,
             "credMax": 5,
             "title": "Elementary Japanese II",
-            "cap": 25,
+            "cap": 35,
             "act": 0,
-            "rem": 25,
+            "rem": 35,
             "attribute": "",
             "timeslots": [
               {
@@ -12533,19 +12533,19 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Biomechanics Laboratory",
-            "cap": 8,
+            "cap": 12,
             "act": 0,
-            "rem": 8,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "W"
                 ],
                 "instructor": "Stuart G. Rugg",
                 "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -13744,8 +13744,8 @@
                 ],
                 "instructor": "Ron Buckmire",
                 "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25118,10 +25118,10 @@
                 "days": [
                   "M"
                 ],
-                "instructor": "James K. Angell",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1600,
-                "timeEnd": 1655,
+                "timeEnd": 1725,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

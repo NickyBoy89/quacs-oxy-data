@@ -5086,8 +5086,8 @@
     },
     "reserved": [
       {
-        "max": 24,
-        "open": 24,
+        "max": 20,
+        "open": 20,
         "reservedFor": "Major"
       }
     ],
@@ -11244,24 +11244,6 @@
       }
     }
   },
-  "2443": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ECON  250",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2444": {
     "prerequisites": {
       "nested": [
@@ -12032,20 +12014,6 @@
         }
       ],
       "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2467": {
-    "corequisites": {
-      "cross_list_courses": [
-        "KINE-302"
-      ]
     },
     "restrictions": {
       "classification": {
@@ -13544,6 +13512,13 @@
     }
   },
   "2513": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -13553,6 +13528,13 @@
     }
   },
   "2514": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -17280,24 +17262,6 @@
       }
     }
   },
-  "2712": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ARTS  227",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2713": {
     "corequisites": {
       "cross_list_courses": [
@@ -17661,22 +17625,6 @@
     }
   },
   "2739": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2741": {
     "reserved": [
       {
         "max": 15,
@@ -18339,42 +18287,6 @@
       }
     }
   },
-  "2772": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2773": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2774": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2775": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2776": {
     "restrictions": {
       "classification": {
@@ -18421,24 +18333,6 @@
     }
   },
   "2781": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2782": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2783": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -19541,6 +19435,70 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2881": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ECON  250",
+          "type": "course"
+        },
+        {
+          "course": "ECON  251",
+          "type": "course"
+        },
+        {
+          "course": "ECON  272",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior"
+        ]
+      }
+    }
+  },
+  "2883": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2884": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MATH-109"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Transfer"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

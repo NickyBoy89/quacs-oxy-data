@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Bio Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM  120",
       "CHEM  130",
@@ -1649,25 +1649,6 @@
       "FYS  9"
     ]
   },
-  "ARTH 391": {
-    "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
-    "prereqs": [
-      "ARTH  150",
-      "ARTH  160",
-      "ARTH  170",
-      "ARTH  180",
-      "ARTH  257",
-      "ARTH  266",
-      "ARTH  268",
-      "ARTH  275",
-      "ARTH  283",
-      "ARTH  285",
-      "ARTH  287",
-      "ARTH  288",
-      "ARTH  289",
-      "ARTH  295"
-    ]
-  },
   "ARTH 390": {
     "title": "Seminar in Art History: Performance, Embodiment and the Dematerialization of Contemporary Art",
     "prereqs": [
@@ -1691,6 +1672,25 @@
       "ARTH  295"
     ]
   },
+  "ARTH 391": {
+    "title": "Curatorial Seminar in Art History. The Art of Describing: 17th- century Dutch Paintings and Drawings",
+    "prereqs": [
+      "ARTH  150",
+      "ARTH  160",
+      "ARTH  170",
+      "ARTH  180",
+      "ARTH  257",
+      "ARTH  266",
+      "ARTH  268",
+      "ARTH  275",
+      "ARTH  283",
+      "ARTH  285",
+      "ARTH  287",
+      "ARTH  288",
+      "ARTH  289",
+      "ARTH  295"
+    ]
+  },
   "ARTS 210": {
     "title": "Intermediate Painting",
     "prereqs": [
@@ -1704,6 +1704,32 @@
       "ARTS  102",
       "ARTS  210",
       "OXAS"
+    ]
+  },
+  "BIO 290": {
+    "title": "Research Methods in Biology",
+    "prereqs": [
+      "BIO  105",
+      "BIO  106",
+      "BIO  110",
+      "BIO  115",
+      "BIO  130"
+    ]
+  },
+  "BIO 345": {
+    "title": "Virology",
+    "prereqs": [
+      "BIO  130",
+      "BIO  221",
+      "BIO  224",
+      "BIO  226"
+    ]
+  },
+  "BIO 369": {
+    "title": "Biological Oceanography",
+    "prereqs": [
+      "BIO  260",
+      "BIO  270"
     ]
   },
   "BIO 221": {
@@ -1746,32 +1772,6 @@
       "PSYC  201"
     ]
   },
-  "BIO 290": {
-    "title": "Research Methods in Biology",
-    "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
-    ]
-  },
-  "BIO 345": {
-    "title": "Virology",
-    "prereqs": [
-      "BIO  130",
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
-    ]
-  },
-  "BIO 369": {
-    "title": "Biological Oceanography",
-    "prereqs": [
-      "BIO  260",
-      "BIO  270"
-    ]
-  },
   "BLST 320": {
     "title": "Critical Race Theory in Education",
     "prereqs": [
@@ -1784,6 +1784,28 @@
       "EDUC  219",
       "EDUC  281",
       "EDUC  283"
+    ]
+  },
+  "CHEM 150": {
+    "title": "Molecular Symmetry and Structure",
+    "prereqs": [
+      "CHEM  100",
+      "CHEM  120",
+      "OXCE"
+    ]
+  },
+  "CHEM 350": {
+    "title": "Biochemistry",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
+    ]
+  },
+  "CHEM 350L": {
+    "title": "Biochemistry Laboratory",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
     ]
   },
   "CHEM 305": {
@@ -1807,42 +1829,11 @@
       "PHYS  120"
     ]
   },
-  "CHEM 350": {
-    "title": "Biochemistry",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
-  "CHEM 350L": {
-    "title": "Biochemistry Laboratory",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
   "CHEM 380": {
     "title": "Organic Synthesis",
     "prereqs": [
       "CHEM  221",
       "CHEM  240"
-    ]
-  },
-  "CHEM 150": {
-    "title": "Molecular Symmetry and Structure",
-    "prereqs": [
-      "CHEM  100",
-      "CHEM  120",
-      "OXCE"
-    ]
-  },
-  "CHIN 202": {
-    "title": "Intermediate Chinese II",
-    "prereqs": [
-      "APCL",
-      "CHIN  201",
-      "CL",
-      "OXCH"
     ]
   },
   "CHIN 102": {
@@ -1857,6 +1848,23 @@
     "prereqs": [
       "CHIN  301",
       "OXCH"
+    ]
+  },
+  "CHIN 202": {
+    "title": "Intermediate Chinese II",
+    "prereqs": [
+      "APCL",
+      "CHIN  201",
+      "CL",
+      "OXCH"
+    ]
+  },
+  "COGS 303": {
+    "title": "Topic in Neuroscience: Deep Learning",
+    "prereqs": [
+      "BIO  268",
+      "COGS  201",
+      "PSYC  200"
     ]
   },
   "COGS 292": {
@@ -1874,12 +1882,33 @@
       "PSYC  200"
     ]
   },
-  "COGS 303": {
-    "title": "Topic in Neuroscience: Deep Learning",
+  "COMP 347": {
+    "title": "Machine Learning",
     "prereqs": [
-      "BIO  268",
-      "COGS  201",
-      "PSYC  200"
+      "COMP  146",
+      "COMP  149",
+      "COMP  229",
+      "MATH  146",
+      "MATH  150",
+      "MATH  210",
+      "MATH  214"
+    ]
+  },
+  "COMP 373": {
+    "title": "Databases",
+    "prereqs": [
+      "COMP  229",
+      "COMP  239"
+    ]
+  },
+  "COMP 395": {
+    "title": "Special Topics in Computer Science",
+    "prereqs": [
+      "APCA",
+      "COMP  127",
+      "COMP  131",
+      "COMP  211",
+      "COMP  229"
     ]
   },
   "COMP 277": {
@@ -1916,35 +1945,6 @@
       "COMP  395",
       "COMP  397",
       "MATH  352"
-    ]
-  },
-  "COMP 347": {
-    "title": "Machine Learning",
-    "prereqs": [
-      "COMP  146",
-      "COMP  149",
-      "COMP  229",
-      "MATH  146",
-      "MATH  150",
-      "MATH  210",
-      "MATH  214"
-    ]
-  },
-  "COMP 373": {
-    "title": "Databases",
-    "prereqs": [
-      "COMP  229",
-      "COMP  239"
-    ]
-  },
-  "COMP 395": {
-    "title": "Special Topics in Computer Science",
-    "prereqs": [
-      "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229"
     ]
   },
   "CTSJ 295": {

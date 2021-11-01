@@ -1164,7 +1164,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -1206,7 +1206,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -1613,8 +1613,8 @@
     },
     "reserved": [
       {
-        "max": 8,
-        "open": 8,
+        "max": 10,
+        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -1635,8 +1635,8 @@
     },
     "reserved": [
       {
-        "max": 8,
-        "open": 8,
+        "max": 10,
+        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -1656,8 +1656,8 @@
     },
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 5,
+        "open": 5,
         "reservedFor": "Frosh"
       }
     ],
@@ -1992,7 +1992,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -2013,7 +2013,7 @@
     "reserved": [
       {
         "max": 4,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -4751,7 +4751,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 15,
+        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -4772,7 +4772,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -4824,7 +4824,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],
@@ -5087,7 +5087,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 20,
+        "open": 18,
         "reservedFor": "Major"
       }
     ],
@@ -5220,7 +5220,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 16,
+        "open": 15,
         "reservedFor": "Major"
       }
     ],
@@ -5650,7 +5650,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 20,
+        "open": 19,
         "reservedFor": "Major"
       }
     ],
@@ -9251,15 +9251,11 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "MUSC  101",
-          "type": "course"
-        },
-        {
-          "course": "OXMT",
+          "course": "MUSC  151",
           "type": "course"
         }
       ],
-      "type": "or"
+      "type": ""
     },
     "reserved": [
       {
@@ -9280,15 +9276,11 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "MUSC  101",
-          "type": "course"
-        },
-        {
-          "course": "OXMT",
+          "course": "MUSC  151",
           "type": "course"
         }
       ],
-      "type": "or"
+      "type": ""
     },
     "reserved": [
       {
@@ -9391,7 +9383,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 25,
+        "open": 23,
         "reservedFor": "Major"
       }
     ],
@@ -11943,7 +11935,7 @@
     "reserved": [
       {
         "max": 2,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Transfer"
       }
     ],
@@ -13337,7 +13329,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -14871,7 +14863,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -14989,12 +14981,12 @@
     "reserved": [
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       },
       {
         "max": 11,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -17303,7 +17295,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],

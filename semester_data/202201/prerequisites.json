@@ -1677,8 +1677,8 @@
     },
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 5,
+        "open": 5,
         "reservedFor": "Frosh"
       }
     ],
@@ -1696,6 +1696,13 @@
         "BIO-105"
       ]
     },
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1710,6 +1717,13 @@
         "BIO-105"
       ]
     },
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1727,8 +1741,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -1748,8 +1762,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 8,
+        "open": 8,
         "reservedFor": "Frosh"
       }
     ],
@@ -1769,8 +1783,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 7,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -1806,6 +1820,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1838,6 +1859,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1869,6 +1897,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1900,6 +1935,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1931,6 +1973,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1962,6 +2011,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -14673,7 +14729,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -17213,15 +17269,6 @@
       }
     }
   },
-  "2709": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2710": {
     "corequisites": {
       "cross_list_courses": [
@@ -19512,5 +19559,6 @@
         ]
       }
     }
-  }
+  },
+  "2887": {}
 }

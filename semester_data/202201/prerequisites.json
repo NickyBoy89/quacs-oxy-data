@@ -1180,7 +1180,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Frosh"
       },
       {
@@ -1201,7 +1201,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       },
       {
@@ -2355,6 +2355,11 @@
     }
   },
   "2094": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-345"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -2364,6 +2369,11 @@
     }
   },
   "2095": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-345"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -8446,7 +8456,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       },
       {
@@ -8667,7 +8677,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -9271,7 +9281,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Frosh"
       }
     ],
@@ -13676,7 +13686,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -13763,7 +13773,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -13792,7 +13802,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -17401,7 +17411,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17819,7 +17829,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Frosh"
       }
     ],
@@ -17851,7 +17861,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 6,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],

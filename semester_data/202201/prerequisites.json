@@ -2814,7 +2814,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -7258,8 +7258,8 @@
   "2292": {
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
+        "max": 16,
+        "open": 13,
         "reservedFor": "Frosh"
       }
     ],
@@ -7275,8 +7275,8 @@
   "2293": {
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
+        "max": 12,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -8243,7 +8243,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 15,
+        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -8568,7 +8568,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -8694,7 +8694,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 5,
+        "open": 6,
         "reservedFor": "Frosh"
       }
     ],
@@ -9201,7 +9201,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 14,
+        "open": 15,
         "reservedFor": "Major"
       }
     ],
@@ -9516,7 +9516,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 13,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -13606,39 +13606,7 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "BIO  105",
-          "type": "course"
-        },
-        {
-          "course": "BIO  106",
-          "type": "course"
-        },
-        {
-          "course": "BIO  110",
-          "type": "course"
-        },
-        {
-          "course": "BIO  115",
-          "type": "course"
-        },
-        {
-          "course": "BIO  130",
-          "type": "course"
-        },
-        {
-          "course": "COMP  146",
-          "type": "course"
-        },
-        {
-          "course": "MATH  146",
-          "type": "course"
-        },
-        {
-          "course": "MATH  150",
-          "type": "course"
-        },
-        {
-          "course": "UEP  305",
+          "course": "PUBH  203",
           "type": "course"
         },
         {
@@ -13648,35 +13616,30 @@
               "type": "course"
             },
             {
-              "nested": [
-                {
-                  "course": "BIO  105",
-                  "type": "course"
-                },
-                {
-                  "course": "BIO  106",
-                  "type": "course"
-                },
-                {
-                  "course": "BIO  110",
-                  "type": "course"
-                },
-                {
-                  "course": "BIO  115",
-                  "type": "course"
-                },
-                {
-                  "course": "BIO  130",
-                  "type": "course"
-                }
-              ],
-              "type": "or"
+              "course": "COMP  146",
+              "type": "course"
+            },
+            {
+              "course": "MATH  150",
+              "type": "course"
+            },
+            {
+              "course": "PSYC  201",
+              "type": "course"
+            },
+            {
+              "course": "UEP  305",
+              "type": "course"
+            },
+            {
+              "course": "APST",
+              "type": "course"
             }
           ],
-          "type": "and"
+          "type": "or"
         }
       ],
-      "type": "or"
+      "type": "and"
     },
     "restrictions": {
       "classification": {
@@ -14216,7 +14179,7 @@
     "reserved": [
       {
         "max": 6,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -14896,7 +14859,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       },
       {
@@ -17465,7 +17428,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17787,7 +17750,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 9,
+        "open": 11,
         "reservedFor": "Frosh"
       }
     ],
@@ -17867,7 +17830,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 12,
         "reservedFor": "Frosh"
       }
     ],
@@ -17915,7 +17878,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 13,
+        "open": 12,
         "reservedFor": "Frosh"
       }
     ],
@@ -18806,7 +18769,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],

@@ -2753,15 +2753,12 @@
   "PUBH 238": {
     "title": "Epidemiology",
     "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130",
+      "APST",
       "BIO  268",
       "COMP  146",
-      "MATH  146",
       "MATH  150",
+      "PSYC  201",
+      "PUBH  203",
       "UEP  305"
     ]
   },

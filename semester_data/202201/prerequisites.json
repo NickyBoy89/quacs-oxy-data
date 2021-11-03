@@ -441,8 +441,8 @@
   "2020": {
     "reserved": [
       {
-        "max": 5,
-        "open": 0,
+        "max": 4,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -4713,7 +4713,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -5087,7 +5087,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -5621,7 +5621,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -7304,7 +7304,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -9365,7 +9365,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 16,
+        "open": 13,
         "reservedFor": "Major"
       }
     ],
@@ -9556,7 +9556,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Transfer"
       },
       {
@@ -9576,14 +9576,9 @@
   "2412": {
     "reserved": [
       {
-        "max": 10,
-        "open": 8,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Frosh"
-      },
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Transfer"
       }
     ],
     "restrictions": {
@@ -9616,18 +9611,6 @@
     }
   },
   "2414": {
-    "reserved": [
-      {
-        "max": 10,
-        "open": 10,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Transfer"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -14561,7 +14544,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -15091,7 +15074,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -18846,7 +18829,7 @@
     "reserved": [
       {
         "max": 6,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],

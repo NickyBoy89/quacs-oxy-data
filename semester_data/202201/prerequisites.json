@@ -5195,7 +5195,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5621,7 +5621,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -5650,7 +5650,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 8,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -5679,7 +5679,7 @@
     "reserved": [
       {
         "max": 18,
-        "open": 17,
+        "open": 15,
         "reservedFor": "Major"
       },
       {
@@ -9531,7 +9531,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -12084,7 +12084,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -13533,40 +13533,73 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "PUBH  203",
+          "course": "BIO  268",
+          "type": "course"
+        },
+        {
+          "course": "COMP  146",
+          "type": "course"
+        },
+        {
+          "course": "MATH  150",
+          "type": "course"
+        },
+        {
+          "course": "PSYC  201",
+          "type": "course"
+        },
+        {
+          "course": "UEP  305",
+          "type": "course"
+        },
+        {
+          "course": "APST",
+          "type": "course"
+        },
+        {
+          "course": "UEP  203",
           "type": "course"
         },
         {
           "nested": [
             {
-              "course": "BIO  268",
+              "course": "PUBH  203",
               "type": "course"
             },
             {
-              "course": "COMP  146",
-              "type": "course"
-            },
-            {
-              "course": "MATH  150",
-              "type": "course"
-            },
-            {
-              "course": "PSYC  201",
-              "type": "course"
-            },
-            {
-              "course": "UEP  305",
-              "type": "course"
-            },
-            {
-              "course": "APST",
-              "type": "course"
+              "nested": [
+                {
+                  "course": "BIO  268",
+                  "type": "course"
+                },
+                {
+                  "course": "COMP  146",
+                  "type": "course"
+                },
+                {
+                  "course": "MATH  150",
+                  "type": "course"
+                },
+                {
+                  "course": "PSYC  201",
+                  "type": "course"
+                },
+                {
+                  "course": "UEP  305",
+                  "type": "course"
+                },
+                {
+                  "course": "APST",
+                  "type": "course"
+                }
+              ],
+              "type": "or"
             }
           ],
-          "type": "or"
+          "type": "and"
         }
       ],
-      "type": "and"
+      "type": "or"
     },
     "restrictions": {
       "classification": {
@@ -15428,7 +15461,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -18920,7 +18953,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 14,
+        "open": 13,
         "reservedFor": "Major"
       }
     ],
@@ -19023,8 +19056,8 @@
   "2858": {
     "reserved": [
       {
-        "max": 10,
-        "open": 5,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Frosh"
       },
       {
@@ -19280,7 +19313,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],

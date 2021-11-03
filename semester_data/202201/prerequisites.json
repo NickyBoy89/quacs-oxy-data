@@ -1164,7 +1164,7 @@
       },
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1421,7 +1421,7 @@
     "reserved": [
       {
         "max": 4,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -2530,6 +2530,11 @@
     }
   },
   "2103": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-373"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -2539,6 +2544,11 @@
     }
   },
   "2104": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-373"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -5087,7 +5097,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -5532,7 +5542,7 @@
     "reserved": [
       {
         "max": 24,
-        "open": 21,
+        "open": 20,
         "reservedFor": "Major"
       }
     ],
@@ -7304,7 +7314,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -8376,7 +8386,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ]
@@ -8422,7 +8432,7 @@
       },
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9390,7 +9400,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -12084,7 +12094,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -14679,7 +14689,7 @@
     "reserved": [
       {
         "max": 31,
-        "open": 24,
+        "open": 23,
         "reservedFor": "Major"
       }
     ],
@@ -15078,7 +15088,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -15215,7 +15225,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -15461,7 +15471,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -15508,7 +15518,7 @@
     "reserved": [
       {
         "max": 31,
-        "open": 24,
+        "open": 23,
         "reservedFor": "Major"
       }
     ],
@@ -18729,7 +18739,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],
@@ -19510,7 +19520,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -19522,5 +19532,14 @@
       }
     }
   },
-  "2890": {}
+  "2890": {},
+  "2891": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  }
 }

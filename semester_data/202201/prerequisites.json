@@ -2224,45 +2224,6 @@
       }
     }
   },
-  "2088": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "BIO  130",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "BIO  105",
-              "type": "course"
-            },
-            {
-              "course": "BIO  106",
-              "type": "course"
-            },
-            {
-              "course": "BIO  110",
-              "type": "course"
-            },
-            {
-              "course": "BIO  115",
-              "type": "course"
-            }
-          ],
-          "type": "or"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2090": {
     "corequisites": {
       "cross_list_courses": [
@@ -5660,7 +5621,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -5718,7 +5679,7 @@
     "reserved": [
       {
         "max": 18,
-        "open": 18,
+        "open": 17,
         "reservedFor": "Major"
       },
       {
@@ -9404,7 +9365,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 17,
+        "open": 16,
         "reservedFor": "Major"
       }
     ],

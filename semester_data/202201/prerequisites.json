@@ -5542,7 +5542,7 @@
     "reserved": [
       {
         "max": 24,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5606,7 +5606,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 15,
+        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -8671,6 +8671,14 @@
           "type": "course"
         },
         {
+          "course": "SOC  102",
+          "type": "course"
+        },
+        {
+          "course": "SOC  105",
+          "type": "course"
+        },
+        {
           "course": "OXSO",
           "type": "course"
         }
@@ -9375,7 +9383,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -12064,7 +12072,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": -8,
+        "open": -9,
         "reservedFor": "Major"
       }
     ],
@@ -13716,7 +13724,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17476,7 +17484,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17636,7 +17644,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Frosh"
       }
     ],
@@ -19165,7 +19173,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       },
       {

@@ -3054,8 +3054,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 9,
-            "rem": 0,
+            "act": 10,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3408,8 +3408,8 @@
             "credMax": 4,
             "title": "Southern African Politics",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7733,8 +7733,8 @@
             "credMax": 4,
             "title": "Southern African Politics",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12095,8 +12095,8 @@
             "credMax": 4,
             "title": "The Chinese Cultural Revolution and the Global Sixties",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12165,8 +12165,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 15,
-            "rem": 15,
+            "act": 16,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -13099,8 +13099,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 15,
-            "rem": 15,
+            "act": 16,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -16422,8 +16422,8 @@
             "credMax": 1,
             "title": "Voice (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19220,8 +19220,8 @@
             "credMax": 4,
             "title": "Kierkegaard",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

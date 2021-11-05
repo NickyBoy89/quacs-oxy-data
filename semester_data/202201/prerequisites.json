@@ -5558,7 +5558,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -8351,7 +8351,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       },
       {
@@ -9456,15 +9456,6 @@
       }
     }
   },
-  "2404": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2405": {
     "prerequisites": {
       "nested": [
@@ -9817,7 +9808,29 @@
       }
     }
   },
-  "2423": {
+  "2424": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "APEI",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "ECON  101",
+              "type": "course"
+            },
+            {
+              "course": "APEA",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -9826,7 +9839,7 @@
       }
     }
   },
-  "2424": {
+  "2425": {
     "prerequisites": {
       "nested": [
         {
@@ -12103,6 +12116,28 @@
       "cross_list_courses": [
         "KINE-304"
       ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2472": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "CHEM  120",
+          "type": "course"
+        },
+        {
+          "course": "KINE  307",
+          "type": "course"
+        }
+      ],
+      "type": "and"
     },
     "restrictions": {
       "classification": {
@@ -15456,44 +15491,6 @@
       {
         "max": 5,
         "open": -1,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2604": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC  323",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "PSYC  201",
-              "type": "course"
-            },
-            {
-              "course": "PSYC  340",
-              "type": "course"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 5,
-        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -19569,6 +19566,75 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2893": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2894": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC  101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC  102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        },
+        {
+          "course": "PSYC  323",
+          "type": "course"
+        },
+        {
+          "course": "PSYC  330",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "PSYC  321",
+              "type": "course"
+            },
+            {
+              "nested": [
+                {
+                  "course": "PSYC  101",
+                  "type": "course"
+                },
+                {
+                  "course": "PSYC  102",
+                  "type": "course"
+                },
+                {
+                  "course": "APPS",
+                  "type": "course"
+                }
+              ],
+              "type": "or"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

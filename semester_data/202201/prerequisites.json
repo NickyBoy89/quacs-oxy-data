@@ -8510,7 +8510,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -1,
+        "open": -2,
         "reservedFor": "Frosh"
       }
     ],
@@ -9553,7 +9553,7 @@
       },
       {
         "max": 2,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Transfer"
       },
       {
@@ -14355,7 +14355,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -14713,7 +14713,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -4,
+        "open": -5,
         "reservedFor": "Major"
       }
     ],

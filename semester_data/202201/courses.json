@@ -2436,8 +2436,8 @@
             "credMax": 1,
             "title": "Computational Biology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3225,8 +3225,8 @@
             "credMax": 4,
             "title": "Computational Biology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5566,8 +5566,8 @@
             "credMax": 4,
             "title": "Animal Cognition",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -5853,8 +5853,8 @@
             "credMax": 4,
             "title": "To Dwell or to Wander: Reading Confucius and Zhuangzi",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -6977,8 +6977,8 @@
             "credMax": 4,
             "title": "Resistance Movements and the Law",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7692,8 +7692,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13508,8 +13508,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 8,
-            "rem": 27,
+            "act": 9,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -13536,8 +13536,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 15,
-            "rem": 20,
+            "act": 14,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -13564,8 +13564,8 @@
             "credMax": 0,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 8,
-            "rem": 27,
+            "act": 9,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -13590,8 +13590,8 @@
             "credMax": 0,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 15,
-            "rem": 20,
+            "act": 14,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -15324,8 +15324,8 @@
             "credMax": 1,
             "title": "Jazz Ensemble",
             "cap": 40,
-            "act": 0,
-            "rem": 40,
+            "act": 1,
+            "rem": 39,
             "attribute": "",
             "timeslots": [
               {
@@ -15358,8 +15358,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 9,
-            "rem": 26,
+            "act": 10,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -21830,8 +21830,8 @@
             "credMax": 4,
             "title": "Community Planning and Politics Practicum",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -22004,8 +22004,8 @@
             "credMax": 4,
             "title": "Contemporary Chinese Politics",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -25604,8 +25604,8 @@
             "credMax": 4,
             "title": "Community Planning and Politics Practicum",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -25639,8 +25639,8 @@
             "credMax": 4,
             "title": "Environmental Law and Policy",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25703,8 +25703,8 @@
             "credMax": 4,
             "title": "Environmental Health and Policy",
             "cap": 20,
-            "act": 17,
-            "rem": 3,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

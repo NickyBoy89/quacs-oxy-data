@@ -1490,8 +1490,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1576,8 +1576,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22039,8 +22039,8 @@
             "credMax": 4,
             "title": "American Intelligence and National Security",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22109,8 +22109,8 @@
             "credMax": 4,
             "title": "Topics in Politics: Politics of Development",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -23382,8 +23382,8 @@
             "credMax": 4,
             "title": "How to Live and Die Well in Buddhist Traditions",
             "cap": 30,
-            "act": 31,
-            "rem": -1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

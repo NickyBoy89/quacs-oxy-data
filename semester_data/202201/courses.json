@@ -2185,8 +2185,8 @@
             "credMax": 4,
             "title": "Virology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -4578,8 +4578,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -4606,8 +4606,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6168,8 +6168,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 3,
-            "rem": 12,
+            "act": 4,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6254,8 +6254,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 14,
-            "rem": 16,
+            "act": 15,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -6907,8 +6907,8 @@
             "credMax": 4,
             "title": "Introduction to Critical Theory",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8590,8 +8590,8 @@
             "credMax": 4,
             "title": "Behavioral Economics",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -9609,8 +9609,8 @@
             "credMax": 4,
             "title": "Eighteenth Century Literature: 1730-1800",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -12869,8 +12869,8 @@
             "credMax": 4,
             "title": "Nutrition and Homeostasis",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14352,8 +14352,8 @@
             "credMax": 4,
             "title": "Topic in Film History: New Waves of East Asian Cinema",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14956,8 +14956,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 6,
-            "rem": 0,
+            "act": 5,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15034,8 +15034,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 2,
-            "rem": 4,
+            "act": 3,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -19237,8 +19237,8 @@
             "credMax": 4,
             "title": "Bioethics",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -20069,8 +20069,8 @@
             "credMax": 1,
             "title": "Zumba",
             "cap": 35,
-            "act": 11,
-            "rem": 24,
+            "act": 12,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -22686,8 +22686,8 @@
             "credMax": 4,
             "title": "Adolescence",
             "cap": 16,
-            "act": 18,
-            "rem": -2,
+            "act": 19,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -22722,8 +22722,8 @@
             "credMax": 4,
             "title": "Thinking and Reasoning",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22898,8 +22898,8 @@
             "credMax": 4,
             "title": "Health Psychology",
             "cap": 19,
-            "act": 17,
-            "rem": 2,
+            "act": 19,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23035,8 +23035,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

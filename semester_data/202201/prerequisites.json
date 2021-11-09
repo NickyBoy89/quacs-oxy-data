@@ -5530,7 +5530,7 @@
     "reserved": [
       {
         "max": 24,
-        "open": -1,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],
@@ -8510,7 +8510,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Frosh"
       }
     ],
@@ -12113,28 +12113,6 @@
       }
     }
   },
-  "2472": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM  120",
-          "type": "course"
-        },
-        {
-          "course": "KINE  307",
-          "type": "course"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2473": {
     "reserved": [
       {
@@ -15191,7 +15169,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 0,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],

@@ -5566,8 +5566,8 @@
             "credMax": 4,
             "title": "Animal Cognition",
             "cap": 18,
-            "act": 20,
-            "rem": -2,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5930,8 +5930,8 @@
             "credMax": 2,
             "title": "Justice and Equity in Technology",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -6442,8 +6442,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6652,8 +6652,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8016,8 +8016,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 10,
-            "rem": 22,
+            "act": 11,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -9538,8 +9538,8 @@
             "credMax": 4,
             "title": "Literary Experiments from Chaucer to Milton",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -10260,7 +10260,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Alexander H. Bolyanatz",
                 "location": "",
                 "timeStart": 1215,
                 "timeEnd": 1310,
@@ -10712,7 +10712,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Matthew B. Lynch",
                 "location": "",
                 "timeStart": 1215,
                 "timeEnd": 1310,
@@ -12608,8 +12608,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12905,8 +12905,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -14655,8 +14655,8 @@
             "credMax": 4,
             "title": "Topics in Media Representation: Cultures of Protest",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16310,6 +16310,28 @@
             ]
           },
           {
+            "crn": 2907,
+            "subj": "MUSA",
+            "crse": "201",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Piano (Half Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2611,
             "subj": "MUSA",
             "crse": "201",
@@ -16362,6 +16384,50 @@
         "id": "MUSA-202",
         "sections": [
           {
+            "crn": 2615,
+            "subj": "MUSA",
+            "crse": "202",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (One Hour)",
+            "cap": 20,
+            "act": 2,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2908,
+            "subj": "MUSA",
+            "crse": "202",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Piano (One Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2614,
             "subj": "MUSA",
             "crse": "202",
@@ -16399,28 +16465,6 @@
               {
                 "days": [],
                 "instructor": "Junko Ueno Garrett",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2615,
-            "subj": "MUSA",
-            "crse": "202",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano (One Hour)",
-            "cap": 20,
-            "act": 2,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Instructor Unassigned",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -19870,8 +19914,8 @@
             "credMax": 4,
             "title": "Representation and Reality",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21833,8 +21877,8 @@
             "credMax": 2,
             "title": "Senior Physics Seminar II",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -22697,8 +22741,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 16,
-            "rem": 3,
+            "act": 15,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -23457,8 +23501,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25574,8 +25618,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

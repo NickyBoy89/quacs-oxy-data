@@ -8323,7 +8323,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -19088,7 +19088,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 0,
+        "open": -2,
         "reservedFor": "Frosh"
       },
       {

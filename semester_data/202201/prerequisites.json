@@ -1729,7 +1729,7 @@
     },
     "reserved": [
       {
-        "max": 10,
+        "max": 9,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -1771,7 +1771,7 @@
     },
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -19053,7 +19053,7 @@
   "2855": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }

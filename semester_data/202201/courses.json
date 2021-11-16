@@ -11276,8 +11276,8 @@
             "credMax": 0,
             "title": "Geographic Information Science I Laboratory",
             "cap": 24,
-            "act": 14,
-            "rem": 10,
+            "act": 13,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11484,8 +11484,8 @@
             "credMax": 4,
             "title": "Geographic Information Science I",
             "cap": 24,
-            "act": 14,
-            "rem": 10,
+            "act": 13,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -23537,8 +23537,8 @@
             "credMax": 0,
             "title": "Epidemiology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -23631,8 +23631,8 @@
             "credMax": 4,
             "title": "Epidemiology",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

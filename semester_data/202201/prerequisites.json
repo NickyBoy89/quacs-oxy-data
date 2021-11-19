@@ -4111,20 +4111,6 @@
       }
     }
   },
-  "2170": {
-    "corequisites": {
-      "cross_list_courses": [
-        "CHEM-221"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2172": {
     "corequisites": {
       "cross_list_courses": [
@@ -4208,20 +4194,6 @@
     }
   },
   "2176": {
-    "corequisites": {
-      "cross_list_courses": [
-        "CHEM-240"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2177": {
     "corequisites": {
       "cross_list_courses": [
         "CHEM-240"
@@ -6683,18 +6655,6 @@
     }
   },
   "2290": {
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Transfer"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -19763,6 +19723,34 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2909": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CHEM-220"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2910": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COGS-320"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

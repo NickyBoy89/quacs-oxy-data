@@ -1787,6 +1787,20 @@
       "OXCE"
     ]
   },
+  "CHEM 350": {
+    "title": "Biochemistry",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
+    ]
+  },
+  "CHEM 350L": {
+    "title": "Biochemistry Laboratory",
+    "prereqs": [
+      "CHEM  221",
+      "CHEM  240"
+    ]
+  },
   "CHEM 305": {
     "title": "Physical Chemistry II",
     "prereqs": [
@@ -1808,34 +1822,11 @@
       "PHYS  120"
     ]
   },
-  "CHEM 350": {
-    "title": "Biochemistry",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
-  "CHEM 350L": {
-    "title": "Biochemistry Laboratory",
-    "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
-    ]
-  },
   "CHEM 380": {
     "title": "Organic Synthesis",
     "prereqs": [
       "CHEM  221",
       "CHEM  240"
-    ]
-  },
-  "CHIN 202": {
-    "title": "Intermediate Chinese II",
-    "prereqs": [
-      "APCL",
-      "CHIN  201",
-      "CL",
-      "OXCH"
     ]
   },
   "CHIN 102": {
@@ -1852,6 +1843,23 @@
       "OXCH"
     ]
   },
+  "CHIN 202": {
+    "title": "Intermediate Chinese II",
+    "prereqs": [
+      "APCL",
+      "CHIN  201",
+      "CL",
+      "OXCH"
+    ]
+  },
+  "COGS 303": {
+    "title": "Topic in Neuroscience: Deep Learning",
+    "prereqs": [
+      "BIO  268",
+      "COGS  201",
+      "PSYC  200"
+    ]
+  },
   "COGS 292": {
     "title": "Brain Plasticity",
     "prereqs": [
@@ -1861,14 +1869,6 @@
   },
   "COGS 320": {
     "title": "Cognitive Neuroscience",
-    "prereqs": [
-      "BIO  268",
-      "COGS  201",
-      "PSYC  200"
-    ]
-  },
-  "COGS 303": {
-    "title": "Topic in Neuroscience: Deep Learning",
     "prereqs": [
       "BIO  268",
       "COGS  201",

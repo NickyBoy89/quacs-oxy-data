@@ -3804,226 +3804,6 @@
             ]
           },
           {
-            "crn": 2179,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2181,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2183,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "06",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2195,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2197,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2199,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "06",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2151,
-            "subj": "CHEM",
-            "crse": "195",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jeff Scott Cannon",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2153,
-            "subj": "CHEM",
-            "crse": "195",
-            "sec": "03",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2155,
-            "subj": "CHEM",
-            "crse": "195",
-            "sec": "05",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Raul Navarro",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2157,
-            "subj": "CHEM",
-            "crse": "195",
-            "sec": "07",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew K. Udit",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2178,
             "subj": "CHEM",
             "crse": "295",
@@ -4193,6 +3973,226 @@
               {
                 "days": [],
                 "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2151,
+            "subj": "CHEM",
+            "crse": "195",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jeff Scott Cannon",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2153,
+            "subj": "CHEM",
+            "crse": "195",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2155,
+            "subj": "CHEM",
+            "crse": "195",
+            "sec": "05",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Raul Navarro",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2157,
+            "subj": "CHEM",
+            "crse": "195",
+            "sec": "07",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2179,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2181,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2183,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "06",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2195,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2197,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2199,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "06",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -4384,6 +4384,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2909,
+            "subj": "CHEM",
+            "crse": "220L",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Organic Chemistry I Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "John Hudson Phillips",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -4393,34 +4419,6 @@
         "crse": "221",
         "id": "CHEM-221",
         "sections": [
-          {
-            "crn": 2166,
-            "subj": "CHEM",
-            "crse": "221",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Organic Chemistry II",
-            "cap": 20,
-            "act": 18,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Raul Navarro",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2165,
             "subj": "CHEM",
@@ -4448,6 +4446,34 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2166,
+            "subj": "CHEM",
+            "crse": "221",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Organic Chemistry II",
+            "cap": 20,
+            "act": 18,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Raul Navarro",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -4457,58 +4483,6 @@
         "crse": "221L",
         "id": "CHEM-221L",
         "sections": [
-          {
-            "crn": 2168,
-            "subj": "CHEM",
-            "crse": "221L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Organic Chemistry II Laboratory",
-            "cap": 15,
-            "act": 12,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2170,
-            "subj": "CHEM",
-            "crse": "221L",
-            "sec": "04",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Organic Chemistry II Laboratory",
-            "cap": 15,
-            "act": 1,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2167,
             "subj": "CHEM",
@@ -4556,6 +4530,32 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2168,
+            "subj": "CHEM",
+            "crse": "221L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Organic Chemistry II Laboratory",
+            "cap": 15,
+            "act": 12,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -4660,32 +4660,6 @@
             ]
           },
           {
-            "crn": 2177,
-            "subj": "CHEM",
-            "crse": "240L",
-            "sec": "04",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Integrated Concepts in General Chemistry Laboratory",
-            "cap": 14,
-            "act": 1,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2174,
             "subj": "CHEM",
             "crse": "240L",
@@ -4729,6 +4703,224 @@
                   "R"
                 ],
                 "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Spectroscopy and Structure Laboratory",
+        "subj": "CHEM",
+        "crse": "305L",
+        "id": "CHEM-305L",
+        "sections": [
+          {
+            "crn": 2186,
+            "subj": "CHEM",
+            "crse": "305L",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Spectroscopy and Structure Laboratory",
+            "cap": 8,
+            "act": 9,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Anne Yu",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biochemistry",
+        "subj": "CHEM",
+        "crse": "350",
+        "id": "CHEM-350",
+        "sections": [
+          {
+            "crn": 2188,
+            "subj": "CHEM",
+            "crse": "350",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Biochemistry",
+            "cap": 24,
+            "act": 12,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Natalie B. Muren",
+                "location": "",
+                "timeStart": 1215,
+                "timeEnd": 1310,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2189,
+            "subj": "CHEM",
+            "crse": "350",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Biochemistry",
+            "cap": 24,
+            "act": 7,
+            "rem": 17,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Natalie B. Muren",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biochemistry Laboratory",
+        "subj": "CHEM",
+        "crse": "350L",
+        "id": "CHEM-350L",
+        "sections": [
+          {
+            "crn": 2190,
+            "subj": "CHEM",
+            "crse": "350L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Biochemistry Laboratory",
+            "cap": 10,
+            "act": 6,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Natalie B. Muren",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2192,
+            "subj": "CHEM",
+            "crse": "350L",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Biochemistry Laboratory",
+            "cap": 10,
+            "act": 6,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Natalie B. Muren",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2191,
+            "subj": "CHEM",
+            "crse": "350L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Biochemistry Laboratory",
+            "cap": 10,
+            "act": 9,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Natalie B. Muren",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Biochemical and Environmental Analysis Laboratory",
+        "subj": "CHEM",
+        "crse": "201L",
+        "id": "CHEM-201L",
+        "sections": [
+          {
+            "crn": 2159,
+            "subj": "CHEM",
+            "crse": "201L",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Biochemical and Environmental Analysis Laboratory",
+            "cap": 12,
+            "act": 3,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Emmanuelle Despagnet-Ayoub",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -4811,156 +5003,6 @@
         ]
       },
       {
-        "title": "Biochemistry",
-        "subj": "CHEM",
-        "crse": "350",
-        "id": "CHEM-350",
-        "sections": [
-          {
-            "crn": 2189,
-            "subj": "CHEM",
-            "crse": "350",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biochemistry",
-            "cap": 24,
-            "act": 7,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2188,
-            "subj": "CHEM",
-            "crse": "350",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biochemistry",
-            "cap": 24,
-            "act": 12,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1310,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Biochemistry Laboratory",
-        "subj": "CHEM",
-        "crse": "350L",
-        "id": "CHEM-350L",
-        "sections": [
-          {
-            "crn": 2191,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 9,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2190,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 6,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2192,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "03",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 6,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Organic Synthesis",
         "subj": "CHEM",
         "crse": "380",
@@ -5027,74 +5069,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Biochemical and Environmental Analysis Laboratory",
-        "subj": "CHEM",
-        "crse": "201L",
-        "id": "CHEM-201L",
-        "sections": [
-          {
-            "crn": 2159,
-            "subj": "CHEM",
-            "crse": "201L",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Biochemical and Environmental Analysis Laboratory",
-            "cap": 12,
-            "act": 3,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Spectroscopy and Structure Laboratory",
-        "subj": "CHEM",
-        "crse": "305L",
-        "id": "CHEM-305L",
-        "sections": [
-          {
-            "crn": 2186,
-            "subj": "CHEM",
-            "crse": "305L",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Spectroscopy and Structure Laboratory",
-            "cap": 8,
-            "act": 9,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Anne Yu",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -5102,42 +5076,6 @@
     "name": "Chinese",
     "code": "CHIN",
     "courses": [
-      {
-        "title": "Intermediate Chinese II",
-        "subj": "CHIN",
-        "crse": "202",
-        "id": "CHIN-202",
-        "sections": [
-          {
-            "crn": 2002,
-            "subj": "CHIN",
-            "crse": "202",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Intermediate Chinese II",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Swee Fong Lee",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Elementary Chinese II",
         "subj": "CHIN",
@@ -5209,6 +5147,42 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Intermediate Chinese II",
+        "subj": "CHIN",
+        "crse": "202",
+        "id": "CHIN-202",
+        "sections": [
+          {
+            "crn": 2002,
+            "subj": "CHIN",
+            "crse": "202",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Intermediate Chinese II",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Swee Fong Lee",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -5217,33 +5191,34 @@
     "code": "COGS",
     "courses": [
       {
-        "title": "Introduction to Cognitive Science",
+        "title": "Animal Cognition",
         "subj": "COGS",
-        "crse": "101",
-        "id": "COGS-101",
+        "crse": "220",
+        "id": "COGS-220",
         "sections": [
           {
-            "crn": 2202,
+            "crn": 2697,
             "subj": "COGS",
-            "crse": "101",
+            "crse": "220",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Cognitive Science",
-            "cap": 45,
-            "act": 45,
-            "rem": 0,
+            "title": "Animal Cognition",
+            "cap": 18,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W"
+                  "W",
+                  "F"
                 ],
-                "instructor": "Carmel A Levitan",
+                "instructor": "William Dylan Sabo",
                 "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
+                "timeStart": 1445,
+                "timeEnd": 1540,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5252,68 +5227,34 @@
         ]
       },
       {
-        "title": "Brain Plasticity",
+        "title": "Topic in Neuroscience: Deep Learning",
         "subj": "COGS",
-        "crse": "292",
-        "id": "COGS-292",
+        "crse": "303",
+        "id": "COGS-303",
         "sections": [
           {
-            "crn": 2206,
+            "crn": 2760,
             "subj": "COGS",
-            "crse": "292",
+            "crse": "303",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Brain Plasticity",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "title": "Topic in Neuroscience: Deep Learning",
+            "cap": 16,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "instructor": "Kevin Urstadt",
+                "instructor": "Stephanie Marie-Elizabeth Nelli",
                 "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Cognitive Neuroscience",
-        "subj": "COGS",
-        "crse": "320",
-        "id": "COGS-320",
-        "sections": [
-          {
-            "crn": 2207,
-            "subj": "COGS",
-            "crse": "320",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Cognitive Neuroscience",
-            "cap": 18,
-            "act": 21,
-            "rem": -3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Kevin Urstadt",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5327,32 +5268,6 @@
         "crse": "320L",
         "id": "COGS-320L",
         "sections": [
-          {
-            "crn": 2209,
-            "subj": "COGS",
-            "crse": "320L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Cognitive Neuroscience Laboratory",
-            "cap": 9,
-            "act": 11,
-            "rem": -2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Kevin Urstadt",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2208,
             "subj": "COGS",
@@ -5369,6 +5284,58 @@
               {
                 "days": [
                   "T"
+                ],
+                "instructor": "Kevin Urstadt",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2910,
+            "subj": "COGS",
+            "crse": "320L",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Cognitive Neuroscience Laboratory",
+            "cap": 9,
+            "act": 0,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Kevin Urstadt",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1810,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2209,
+            "subj": "COGS",
+            "crse": "320L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Cognitive Neuroscience Laboratory",
+            "cap": 9,
+            "act": 11,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
                 ],
                 "instructor": "Kevin Urstadt",
                 "location": "",
@@ -5552,34 +5519,33 @@
         ]
       },
       {
-        "title": "Animal Cognition",
+        "title": "Introduction to Cognitive Science",
         "subj": "COGS",
-        "crse": "220",
-        "id": "COGS-220",
+        "crse": "101",
+        "id": "COGS-101",
         "sections": [
           {
-            "crn": 2697,
+            "crn": 2202,
             "subj": "COGS",
-            "crse": "220",
+            "crse": "101",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Animal Cognition",
-            "cap": 18,
-            "act": 20,
-            "rem": -2,
+            "title": "Introduction to Cognitive Science",
+            "cap": 45,
+            "act": 45,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
-                "instructor": "William Dylan Sabo",
+                "instructor": "Carmel A Levitan",
                 "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1540,
+                "timeStart": 1600,
+                "timeEnd": 1725,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5588,34 +5554,68 @@
         ]
       },
       {
-        "title": "Topic in Neuroscience: Deep Learning",
+        "title": "Brain Plasticity",
         "subj": "COGS",
-        "crse": "303",
-        "id": "COGS-303",
+        "crse": "292",
+        "id": "COGS-292",
         "sections": [
           {
-            "crn": 2760,
+            "crn": 2206,
             "subj": "COGS",
-            "crse": "303",
+            "crse": "292",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic in Neuroscience: Deep Learning",
-            "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "title": "Brain Plasticity",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Stephanie Marie-Elizabeth Nelli",
+                "instructor": "Kevin Urstadt",
                 "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cognitive Neuroscience",
+        "subj": "COGS",
+        "crse": "320",
+        "id": "COGS-320",
+        "sections": [
+          {
+            "crn": 2207,
+            "subj": "COGS",
+            "crse": "320",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Cognitive Neuroscience",
+            "cap": 18,
+            "act": 21,
+            "rem": -3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Kevin Urstadt",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -17580,7 +17580,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Aroussiak G. Baltaian",
+                "instructor": "Jin Shan Dai",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -22611,8 +22611,8 @@
             "credMax": 4,
             "title": "Comprehensive Seminar",
             "cap": 40,
-            "act": 18,
-            "rem": 22,
+            "act": 19,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -25661,7 +25661,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Alan P. Knoerr",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1315,

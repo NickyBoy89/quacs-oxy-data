@@ -5277,8 +5277,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 9,
-            "act": 10,
-            "rem": -1,
+            "act": 9,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5303,8 +5303,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 9,
-            "act": 0,
-            "rem": 9,
+            "act": 1,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -5329,8 +5329,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 9,
-            "act": 11,
-            "rem": -2,
+            "act": 10,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5603,8 +5603,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 18,
-            "act": 21,
-            "rem": -3,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -13006,8 +13006,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -19703,8 +19703,8 @@
             "credMax": 4,
             "title": "Bioethics",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

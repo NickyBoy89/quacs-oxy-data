@@ -1542,8 +1542,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -1576,8 +1576,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 30,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -22937,8 +22937,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 4,
-            "rem": 1,
+            "act": 5,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

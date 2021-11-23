@@ -305,8 +305,8 @@
             "credMax": 5,
             "title": "Elementary Arabic I",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -548,8 +548,8 @@
             "credMax": 4,
             "title": "Introduction to East Asian Art",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 34,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3443,8 +3443,8 @@
             "credMax": 4,
             "title": "Critical Race Theory in Education",
             "cap": 20,
-            "act": 11,
-            "rem": 9,
+            "act": 12,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -4324,7 +4324,7 @@
                 "days": [
                   "M"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -4350,7 +4350,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -4376,7 +4376,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -4500,7 +4500,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -4526,7 +4526,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -4552,7 +4552,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Cheyenne Laura Orozco",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -5678,8 +5678,8 @@
             "credMax": 4,
             "title": "The Demonic in Eastern European Literature and Film",
             "cap": 35,
-            "act": 31,
-            "rem": 4,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -8016,8 +8016,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 11,
-            "rem": 21,
+            "act": 12,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -9111,8 +9111,8 @@
             "credMax": 4,
             "title": "The Politics and Pedagogy of First and Second Language Acquisition",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -9216,8 +9216,8 @@
             "credMax": 4,
             "title": "Critical Race Theory in Education",
             "cap": 20,
-            "act": 11,
-            "rem": 9,
+            "act": 12,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -11553,9 +11553,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Evolution of the Earth",
-            "cap": 24,
+            "cap": 18,
             "act": 19,
-            "rem": 5,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -11959,8 +11959,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 23,
-            "rem": 7,
+            "act": 24,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -19773,8 +19773,8 @@
             "credMax": 4,
             "title": "Language, Translation, and Meaning",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22154,8 +22154,8 @@
             "credMax": 4,
             "title": "Contemporary Chinese Politics",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22611,8 +22611,8 @@
             "credMax": 4,
             "title": "Comprehensive Seminar",
             "cap": 40,
-            "act": 19,
-            "rem": 21,
+            "act": 20,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -23475,8 +23475,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -26396,6 +26396,104 @@
         ]
       },
       {
+        "title": "Principles of Journalism II: Narrative Nonfiction: True Stories Told Well",
+        "subj": "WRD",
+        "crse": "286",
+        "id": "WRD-286",
+        "sections": [
+          {
+            "crn": 2578,
+            "subj": "WRD",
+            "crse": "286",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Journalism II: Narrative Nonfiction: True Stories Told Well",
+            "cap": 14,
+            "act": 5,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Robert J. Sipchen",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2225,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Theory and Pedagogy of Writing",
+        "subj": "WRD",
+        "crse": "395",
+        "id": "WRD-395",
+        "sections": [
+          {
+            "crn": 2580,
+            "subj": "WRD",
+            "crse": "395",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Theory and Pedagogy of Writing",
+            "cap": 14,
+            "act": 11,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Charlyne Bactol Sarmiento",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Occidental Weekly Practicum",
+        "subj": "WRD",
+        "crse": "135",
+        "id": "WRD-135",
+        "sections": [
+          {
+            "crn": 2571,
+            "subj": "WRD",
+            "crse": "135",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Occidental Weekly Practicum",
+            "cap": 14,
+            "act": 4,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Barbara A. Thomas",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Popular Science Writing",
         "subj": "WRD",
         "crse": "275",
@@ -26457,139 +26555,6 @@
                 "location": "",
                 "timeStart": 1930,
                 "timeEnd": 2225,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Occidental Weekly Practicum",
-        "subj": "WRD",
-        "crse": "135",
-        "id": "WRD-135",
-        "sections": [
-          {
-            "crn": 2571,
-            "subj": "WRD",
-            "crse": "135",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Occidental Weekly Practicum",
-            "cap": 14,
-            "act": 4,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Barbara A. Thomas",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Visual Rhetoric: Communication through Pictures and/or Words",
-        "subj": "WRD",
-        "crse": "235",
-        "id": "WRD-235",
-        "sections": [
-          {
-            "crn": 2576,
-            "subj": "WRD",
-            "crse": "235",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Visual Rhetoric: Communication through Pictures and/or Words",
-            "cap": 18,
-            "act": 1,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ara Corbett",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Principles of Journalism II: Narrative Nonfiction: True Stories Told Well",
-        "subj": "WRD",
-        "crse": "286",
-        "id": "WRD-286",
-        "sections": [
-          {
-            "crn": 2578,
-            "subj": "WRD",
-            "crse": "286",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Journalism II: Narrative Nonfiction: True Stories Told Well",
-            "cap": 14,
-            "act": 5,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Robert J. Sipchen",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2225,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Theory and Pedagogy of Writing",
-        "subj": "WRD",
-        "crse": "395",
-        "id": "WRD-395",
-        "sections": [
-          {
-            "crn": 2580,
-            "subj": "WRD",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Theory and Pedagogy of Writing",
-            "cap": 14,
-            "act": 11,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Charlyne Bactol Sarmiento",
-                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -22105,257 +22105,38 @@
         ]
       },
       {
-        "title": "Democratic Socialism, American Style",
-        "subj": "POLS",
-        "crse": "200",
-        "id": "POLS-200",
-        "sections": [
-          {
-            "crn": 2499,
-            "subj": "POLS",
-            "crse": "200",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Democratic Socialism, American Style",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Peter Dreier",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Contemporary Chinese Politics",
-        "subj": "POLS",
-        "crse": "226",
-        "id": "POLS-226",
-        "sections": [
-          {
-            "crn": 2501,
-            "subj": "POLS",
-            "crse": "226",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Contemporary Chinese Politics",
-            "cap": 25,
-            "act": 9,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Tsung Chi",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "American Intelligence and National Security",
-        "subj": "POLS",
-        "crse": "250",
-        "id": "POLS-250",
-        "sections": [
-          {
-            "crn": 2503,
-            "subj": "POLS",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "American Intelligence and National Security",
-            "cap": 25,
-            "act": 24,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mariano Bertucci",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Community Law Internship",
-        "subj": "POLS",
-        "crse": "260",
-        "id": "POLS-260",
-        "sections": [
-          {
-            "crn": 2505,
-            "subj": "POLS",
-            "crse": "260",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Community Law Internship",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Thalia N.C. Gonzalez",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Politics: Politics of Development",
-        "subj": "POLS",
-        "crse": "295",
-        "id": "POLS-295",
-        "sections": [
-          {
-            "crn": 2507,
-            "subj": "POLS",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Politics: Politics of Development",
-            "cap": 20,
-            "act": 1,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Kyle Estes",
-                "location": "",
-                "timeStart": 1445,
-                "timeEnd": 1540,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Gender and Politics in the Global South",
-        "subj": "POLS",
-        "crse": "321",
-        "id": "POLS-321",
-        "sections": [
-          {
-            "crn": 2509,
-            "subj": "POLS",
-            "crse": "321",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Gender and Politics in the Global South",
-            "cap": 18,
-            "act": 12,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jennifer M. Piscopo",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Tocqueville, Mill, and Nietzsche on Individuality and Community in a Modern Democracy",
-        "subj": "POLS",
-        "crse": "351",
-        "id": "POLS-351",
-        "sections": [
-          {
-            "crn": 2511,
-            "subj": "POLS",
-            "crse": "351",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Tocqueville, Mill, and Nietzsche on Individuality and Community in a Modern Democracy",
-            "cap": 18,
-            "act": 5,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Alec Arellano",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1725,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Introduction to Comparative Politics",
         "subj": "POLS",
         "crse": "120",
         "id": "POLS-120",
         "sections": [
+          {
+            "crn": 2911,
+            "subj": "POLS",
+            "crse": "120",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Comparative Politics",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Kyle Estes",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2498,
             "subj": "POLS",
@@ -22519,6 +22300,216 @@
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Gender and Politics in the Global South",
+        "subj": "POLS",
+        "crse": "321",
+        "id": "POLS-321",
+        "sections": [
+          {
+            "crn": 2509,
+            "subj": "POLS",
+            "crse": "321",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Gender and Politics in the Global South",
+            "cap": 18,
+            "act": 12,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jennifer M. Piscopo",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tocqueville, Mill, and Nietzsche on Individuality and Community in a Modern Democracy",
+        "subj": "POLS",
+        "crse": "351",
+        "id": "POLS-351",
+        "sections": [
+          {
+            "crn": 2511,
+            "subj": "POLS",
+            "crse": "351",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Tocqueville, Mill, and Nietzsche on Individuality and Community in a Modern Democracy",
+            "cap": 18,
+            "act": 5,
+            "rem": 13,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Alec Arellano",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Democratic Socialism, American Style",
+        "subj": "POLS",
+        "crse": "200",
+        "id": "POLS-200",
+        "sections": [
+          {
+            "crn": 2499,
+            "subj": "POLS",
+            "crse": "200",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Democratic Socialism, American Style",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Peter Dreier",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Contemporary Chinese Politics",
+        "subj": "POLS",
+        "crse": "226",
+        "id": "POLS-226",
+        "sections": [
+          {
+            "crn": 2501,
+            "subj": "POLS",
+            "crse": "226",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Contemporary Chinese Politics",
+            "cap": 25,
+            "act": 9,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Tsung Chi",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "American Intelligence and National Security",
+        "subj": "POLS",
+        "crse": "250",
+        "id": "POLS-250",
+        "sections": [
+          {
+            "crn": 2503,
+            "subj": "POLS",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "American Intelligence and National Security",
+            "cap": 25,
+            "act": 24,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mariano Bertucci",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Law Internship",
+        "subj": "POLS",
+        "crse": "260",
+        "id": "POLS-260",
+        "sections": [
+          {
+            "crn": 2505,
+            "subj": "POLS",
+            "crse": "260",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Community Law Internship",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Thalia N.C. Gonzalez",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

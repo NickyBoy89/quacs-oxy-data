@@ -13377,15 +13377,6 @@
       }
     }
   },
-  "2507": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2508": {
     "prerequisites": {
       "nested": [
@@ -19742,6 +19733,15 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2911": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

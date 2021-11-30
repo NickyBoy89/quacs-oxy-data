@@ -2687,19 +2687,19 @@
       "PHYS  320"
     ]
   },
+  "POLS 265": {
+    "title": "Community Planning and Politics Practicum",
+    "prereqs": [
+      "POLS  101",
+      "UEP  101"
+    ]
+  },
   "POLS 321": {
     "title": "Gender and Politics in the Global South",
     "prereqs": [
       "DWA  101",
       "POLS  101",
       "POLS  120"
-    ]
-  },
-  "POLS 265": {
-    "title": "Community Planning and Politics Practicum",
-    "prereqs": [
-      "POLS  101",
-      "UEP  101"
     ]
   },
   "PSYC 301": {

@@ -7851,100 +7851,6 @@
       }
     }
   },
-  "2317": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-120"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH  109",
-          "type": "course"
-        },
-        {
-          "course": "MATH  110",
-          "type": "course"
-        },
-        {
-          "course": "MATH  114",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "OXME",
-          "type": "course"
-        },
-        {
-          "course": "APAB",
-          "type": "course"
-        },
-        {
-          "course": "APCS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2318": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-120"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH  109",
-          "type": "course"
-        },
-        {
-          "course": "MATH  110",
-          "type": "course"
-        },
-        {
-          "course": "MATH  114",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "OXME",
-          "type": "course"
-        },
-        {
-          "course": "APAB",
-          "type": "course"
-        },
-        {
-          "course": "APCS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2319": {
     "prerequisites": {
       "nested": [
@@ -8022,36 +7928,6 @@
     }
   },
   "2322": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH  120",
-          "type": "course"
-        },
-        {
-          "course": "MATH  128",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "APBC",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2323": {
     "prerequisites": {
       "nested": [
         {

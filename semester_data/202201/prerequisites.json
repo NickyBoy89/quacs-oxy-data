@@ -5889,15 +5889,6 @@
       }
     }
   },
-  "2261": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2262": {
     "restrictions": {
       "classification": {
@@ -17415,7 +17406,7 @@
   "2742": {
     "reserved": [
       {
-        "max": 8,
+        "max": 7,
         "open": 0,
         "reservedFor": "Frosh"
       }

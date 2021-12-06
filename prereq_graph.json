@@ -2229,6 +2229,13 @@
       "GEO  305"
     ]
   },
+  "GERM 102": {
+    "title": "Elementary German II",
+    "prereqs": [
+      "GERM  101",
+      "OXGE"
+    ]
+  },
   "GERM 202": {
     "title": "German Stylistics",
     "prereqs": [
@@ -2237,84 +2244,6 @@
       "GL",
       "GM",
       "OXGE"
-    ]
-  },
-  "GERM 102": {
-    "title": "Elementary German II",
-    "prereqs": [
-      "GERM  101",
-      "OXGE"
-    ]
-  },
-  "HIST 348": {
-    "title": "The Chinese Cultural Revolution and the Global Sixties",
-    "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
     ]
   },
   "HIST 385": {
@@ -2396,11 +2325,75 @@
       "HIST  495"
     ]
   },
-  "JAPN 102": {
-    "title": "Elementary Japanese II",
+  "HIST 348": {
+    "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "JAPN  101",
-      "OXJA"
+      "HIST  101",
+      "HIST  102",
+      "HIST  116",
+      "HIST  121",
+      "HIST  122",
+      "HIST  141",
+      "HIST  150",
+      "HIST  151",
+      "HIST  182",
+      "HIST  200",
+      "HIST  205",
+      "HIST  206",
+      "HIST  208",
+      "HIST  209",
+      "HIST  210",
+      "HIST  211",
+      "HIST  212",
+      "HIST  213",
+      "HIST  216",
+      "HIST  220",
+      "HIST  223",
+      "HIST  224",
+      "HIST  226",
+      "HIST  230",
+      "HIST  234",
+      "HIST  235",
+      "HIST  236",
+      "HIST  237",
+      "HIST  242",
+      "HIST  243",
+      "HIST  245",
+      "HIST  246",
+      "HIST  247",
+      "HIST  248",
+      "HIST  249",
+      "HIST  251",
+      "HIST  252",
+      "HIST  253",
+      "HIST  258",
+      "HIST  271",
+      "HIST  274",
+      "HIST  277",
+      "HIST  278",
+      "HIST  282",
+      "HIST  283",
+      "HIST  295",
+      "HIST  304",
+      "HIST  306",
+      "HIST  307",
+      "HIST  309",
+      "HIST  312",
+      "HIST  328",
+      "HIST  330",
+      "HIST  335",
+      "HIST  336",
+      "HIST  337",
+      "HIST  344",
+      "HIST  345",
+      "HIST  353",
+      "HIST  354",
+      "HIST  355",
+      "HIST  357",
+      "HIST  359",
+      "HIST  376",
+      "HIST  385",
+      "HIST  390"
     ]
   },
   "JAPN 202": {
@@ -2419,11 +2412,11 @@
       "OXJA"
     ]
   },
-  "KINE 304": {
-    "title": "Human Physiology",
+  "JAPN 102": {
+    "title": "Elementary Japanese II",
     "prereqs": [
-      "BIO  115",
-      "KINE  301"
+      "JAPN  101",
+      "OXJA"
     ]
   },
   "KINE 302": {
@@ -2442,12 +2435,11 @@
       "KINE  304"
     ]
   },
-  "LATN 201": {
-    "title": "Topics in Classical Philology (Latin)",
+  "KINE 304": {
+    "title": "Human Physiology",
     "prereqs": [
-      "APLA",
-      "APLV",
-      "LATN  102"
+      "BIO  115",
+      "KINE  301"
     ]
   },
   "LATN 350": {
@@ -2455,6 +2447,14 @@
     "prereqs": [
       "LATN  201",
       "OLLA"
+    ]
+  },
+  "LATN 201": {
+    "title": "Topics in Classical Philology (Latin)",
+    "prereqs": [
+      "APLA",
+      "APLV",
+      "LATN  102"
     ]
   },
   "LLAS 202": {
@@ -2582,6 +2582,14 @@
       "FYS  9"
     ]
   },
+  "MATH 342": {
+    "title": "Partial Differential Equations",
+    "prereqs": [
+      "MATH  212",
+      "MATH  214",
+      "MATH  340"
+    ]
+  },
   "MATH 150": {
     "title": "Statistical Data Analysis",
     "prereqs": [
@@ -2600,14 +2608,6 @@
     "prereqs": [
       "MATH  212",
       "MATH  214"
-    ]
-  },
-  "MATH 342": {
-    "title": "Partial Differential Equations",
-    "prereqs": [
-      "MATH  212",
-      "MATH  214",
-      "MATH  340"
     ]
   },
   "MAC 390": {

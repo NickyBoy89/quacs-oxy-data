@@ -19603,5 +19603,133 @@
         ]
       }
     }
+  },
+  "2912": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2913": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2914": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GEO  105",
+          "type": "course"
+        },
+        {
+          "course": "GEO  106",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2915": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GEO  105",
+          "type": "course"
+        },
+        {
+          "course": "GEO  106",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2916": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GEO  105",
+          "type": "course"
+        },
+        {
+          "course": "GEO  106",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2917": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GEO  105",
+          "type": "course"
+        },
+        {
+          "course": "GEO  106",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2918": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GEO  105",
+          "type": "course"
+        },
+        {
+          "course": "GEO  106",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

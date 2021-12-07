@@ -12853,7 +12853,7 @@
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "T"
                 ],
                 "instructor": "Peter Julian Eusebio Reonisto",
                 "location": "",
@@ -13990,8 +13990,8 @@
             "subj": "MATH",
             "crse": "395",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 2,
+            "credMax": 2,
             "title": "Special Topics in Advanced Mathematics",
             "cap": 10,
             "act": 3,
@@ -26365,8 +26365,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -26400,8 +26400,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing",
             "cap": 16,
-            "act": 0,
-            "rem": 16,
+            "act": 1,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

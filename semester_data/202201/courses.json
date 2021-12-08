@@ -9433,8 +9433,8 @@
             "credMax": 4,
             "title": "Queer Fictions",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -22897,8 +22897,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 5,
-            "rem": 0,
+            "act": 6,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -23839,8 +23839,8 @@
             "credMax": 4,
             "title": "\"Cults\" and \"Sects\": New Religious Movements in the Americas",
             "cap": 30,
-            "act": 31,
-            "rem": -1,
+            "act": 32,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -23985,8 +23985,8 @@
             "credMax": 5,
             "title": "The Demonic in Eastern European Literature and Film",
             "cap": 18,
-            "act": 5,
-            "rem": 13,
+            "act": 4,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -24039,8 +24039,8 @@
             "credMax": 5,
             "title": "The Demonic in Eastern European Literature and Film",
             "cap": 2,
-            "act": 0,
-            "rem": 2,
+            "act": 1,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24050,8 +24050,8 @@
                 ],
                 "instructor": "Julia Yuliya Sushytska",
                 "location": "",
-                "timeStart": 1400,
-                "timeEnd": 1425,
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

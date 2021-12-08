@@ -19218,6 +19218,11 @@
         }
       ],
       "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
     }
   },
   "2878": {
@@ -19733,6 +19738,26 @@
     }
   },
   "2919": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "RUSN  201",
+          "type": "course"
+        },
+        {
+          "course": "OLRU",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
+    }
+  },
+  "2920": {
     "prerequisites": {
       "nested": [
         {

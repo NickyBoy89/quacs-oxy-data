@@ -9112,8 +9112,8 @@
             "credMax": 4,
             "title": "Conflict in Education",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -23985,8 +23985,8 @@
             "credMax": 5,
             "title": "The Demonic in Eastern European Literature and Film",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -23998,6 +23998,60 @@
                 "location": "",
                 "timeStart": 1015,
                 "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2920,
+            "subj": "RUSN",
+            "crse": "339",
+            "sec": "03",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "The Demonic in Eastern European Literature and Film",
+            "cap": 2,
+            "act": 1,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Julia Yuliya Sushytska",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2919,
+            "subj": "RUSN",
+            "crse": "339",
+            "sec": "02",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "The Demonic in Eastern European Literature and Film",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Julia Yuliya Sushytska",
+                "location": "",
+                "timeStart": 1400,
+                "timeEnd": 1425,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

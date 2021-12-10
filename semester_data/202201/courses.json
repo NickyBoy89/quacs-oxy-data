@@ -5277,8 +5277,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 9,
-            "act": 8,
-            "rem": 1,
+            "act": 10,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5329,8 +5329,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 9,
-            "act": 10,
-            "rem": -1,
+            "act": 11,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -5603,8 +5603,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 18,
-            "act": 22,
-            "rem": -4,
+            "act": 25,
+            "rem": -7,
             "attribute": "",
             "timeslots": [
               {
@@ -6442,8 +6442,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6617,8 +6617,8 @@
             "credMax": 4,
             "title": "Mathematical Foundations of Computer Science",
             "cap": 30,
-            "act": 31,
-            "rem": -1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6652,8 +6652,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12881,8 +12881,8 @@
             "credMax": 4,
             "title": "Exercise Physiology",
             "cap": 24,
-            "act": 13,
-            "rem": 11,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -13089,8 +13089,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 20,
-            "act": 10,
-            "rem": 10,
+            "act": 11,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

@@ -13887,8 +13887,8 @@
             "credMax": 2,
             "title": "Junior Colloquium",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -13993,19 +13993,20 @@
             "credMin": 2,
             "credMax": 2,
             "title": "Special Topics in Advanced Mathematics",
-            "cap": 10,
+            "cap": 6,
             "act": 6,
-            "rem": 4,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
+                  "T",
                   "R"
                 ],
                 "instructor": "Jeffrey S. Miller",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1150,
+                "timeEnd": 1315,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

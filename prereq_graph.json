@@ -1418,7 +1418,9 @@
     "title": "Special Topics in Sociology: Policing, Power, and Violence",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 304": {
@@ -2780,28 +2782,35 @@
     "title": "Gender and Society",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 306": {
     "title": "Qualitative Research Methods",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 361": {
     "title": "Sociology of Whiteness",
     "prereqs": [
       "SOC  101",
-      "SOC  102"
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 380": {
     "title": "Sociology of Disaster",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 205": {
@@ -2817,14 +2826,18 @@
     "title": "Deviance",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 305": {
     "title": "Quantitative Research Methods",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 330": {
@@ -2832,14 +2845,18 @@
     "prereqs": [
       "OXSO",
       "POLS  101",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SOC 365": {
     "title": "Mass Media and Consumer Society",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC  101",
+      "SOC  102",
+      "SOC  105"
     ]
   },
   "SPAN 152": {

@@ -18645,24 +18645,6 @@
       }
     }
   },
-  "2848": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC  151",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2849": {
     "corequisites": {
       "cross_list_courses": [

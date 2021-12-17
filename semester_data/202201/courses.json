@@ -869,8 +869,8 @@
             "credMax": 4,
             "title": "Photography Against the Grain",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -2151,8 +2151,8 @@
             "credMax": 1,
             "title": "Molecular Phylogenetics Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3154,8 +3154,8 @@
             "credMax": 4,
             "title": "Molecular Phylogenetics",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

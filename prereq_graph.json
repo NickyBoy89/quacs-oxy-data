@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Bio Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM  120",
       "CHEM  130",
@@ -1943,7 +1943,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
+    "title": "Special Topics in Critical Theory and Social Justice: Writing Trauma",
     "prereqs": [
       "CTSJ  100",
       "CTSJ  102",
@@ -2435,6 +2435,13 @@
     "prereqs": [
       "CHEM  120",
       "KINE  304"
+    ]
+  },
+  "KINE 398": {
+    "title": "Community Health and Fitness Research",
+    "prereqs": [
+      "KINE  298",
+      "KINE  307"
     ]
   },
   "KINE 304": {

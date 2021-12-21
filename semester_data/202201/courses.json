@@ -781,6 +781,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2018,
+            "subj": "ARTS",
+            "crse": "100",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "OxyArts Collaborate Workshop: Middle School",
+            "cap": 5,
+            "act": 5,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Patricia Yossen",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1800,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -1019,40 +1045,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "OxyArts Collaborate Workshop: Middle School",
-        "subj": "ARTS",
-        "crse": "100",
-        "id": "ARTS-100",
-        "sections": [
-          {
-            "crn": 2018,
-            "subj": "ARTS",
-            "crse": "100",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "OxyArts Collaborate Workshop: Middle School",
-            "cap": 5,
-            "act": 5,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Patricia Yossen",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1800,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -1482,6 +1474,33 @@
             ]
           },
           {
+            "crn": 2065,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Marine Biology",
+            "cap": 32,
+            "act": 32,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Amber D. Stubler",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2069,
             "subj": "BIO",
             "crse": "105",
@@ -1502,6 +1521,33 @@
                 "location": "",
                 "timeStart": 1630,
                 "timeEnd": 1925,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2064,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Marine Biology",
+            "cap": 32,
+            "act": 30,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Maria S. Adreani",
+                "location": "",
+                "timeStart": 1015,
+                "timeEnd": 1140,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -1562,68 +1608,6 @@
         ]
       },
       {
-        "title": "Marine Biology",
-        "subj": "BIO",
-        "crse": "105",
-        "id": "BIO-105",
-        "sections": [
-          {
-            "crn": 2065,
-            "subj": "BIO",
-            "crse": "105",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Marine Biology",
-            "cap": 32,
-            "act": 32,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Amber D. Stubler",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2064,
-            "subj": "BIO",
-            "crse": "105",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Marine Biology",
-            "cap": 32,
-            "act": 30,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Maria S. Adreani",
-                "location": "",
-                "timeStart": 1015,
-                "timeEnd": 1140,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Organisms on Earth Laboratory",
         "subj": "BIO",
         "crse": "110",
@@ -1650,6 +1634,32 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2070,
+            "subj": "BIO",
+            "crse": "110",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Organisms on Earth",
+            "cap": 32,
+            "act": 32,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Stephanie Sue Ling Birnbaum",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2225,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -1717,42 +1727,6 @@
               }
             ]
           },
-          {
-            "crn": 2074,
-            "subj": "BIO",
-            "crse": "130",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Cell and Molecular Biology",
-            "cap": 32,
-            "act": 30,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Kerry W Thompson",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intro/Cell/Molecular Bio Laboratory",
-        "subj": "BIO",
-        "crse": "130",
-        "id": "BIO-130",
-        "sections": [
           {
             "crn": 2076,
             "subj": "BIO",
@@ -1826,6 +1800,34 @@
                 "location": "",
                 "timeStart": 1515,
                 "timeEnd": 1810,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2074,
+            "subj": "BIO",
+            "crse": "130",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Cell and Molecular Biology",
+            "cap": 32,
+            "act": 30,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Kerry W Thompson",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -3070,40 +3072,6 @@
         ]
       },
       {
-        "title": "Organisms on Earth",
-        "subj": "BIO",
-        "crse": "110",
-        "id": "BIO-110",
-        "sections": [
-          {
-            "crn": 2070,
-            "subj": "BIO",
-            "crse": "110",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Organisms on Earth",
-            "cap": 32,
-            "act": 32,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Stephanie Sue Ling Birnbaum",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2225,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Cell Biology",
         "subj": "BIO",
         "crse": "226",
@@ -3804,182 +3772,6 @@
             ]
           },
           {
-            "crn": 2178,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 3,
-            "rem": 96,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jeff Scott Cannon",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2180,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "03",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 1,
-            "rem": 98,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2182,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "05",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Raul Navarro",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2184,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "07",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew K. Udit",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2194,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 1,
-            "rem": 98,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jeff Scott Cannon",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2196,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 1,
-            "rem": 98,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2198,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "05",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Raul Navarro",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2200,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "07",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew K. Udit",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2151,
             "subj": "CHEM",
             "crse": "195",
@@ -4061,138 +3853,6 @@
               {
                 "days": [],
                 "instructor": "Andrew K. Udit",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2179,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2181,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 2,
-            "rem": 97,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2183,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "06",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2195,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2197,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2199,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "06",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -4714,6 +4374,168 @@
         ]
       },
       {
+        "title": "Directed Research",
+        "subj": "CHEM",
+        "crse": "295",
+        "id": "CHEM-295",
+        "sections": [
+          {
+            "crn": 2178,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 3,
+            "rem": 96,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jeff Scott Cannon",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2180,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 1,
+            "rem": 98,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2182,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Raul Navarro",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2184,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "07",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2179,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2181,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 2,
+            "rem": 97,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2183,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "06",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Spectroscopy and Structure Laboratory",
         "subj": "CHEM",
         "crse": "305L",
@@ -4890,6 +4712,168 @@
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "CHEM",
+        "crse": "395",
+        "id": "CHEM-395",
+        "sections": [
+          {
+            "crn": 2194,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 1,
+            "rem": 98,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jeff Scott Cannon",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2196,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 1,
+            "rem": 98,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2198,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Raul Navarro",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2200,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "07",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2195,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2197,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2199,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "06",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
+                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5984,6 +5968,34 @@
             ]
           },
           {
+            "crn": 2215,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Fundamentals of Computer Science",
+            "cap": 30,
+            "act": 29,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sheldon Elias Schiffer",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2217,
             "subj": "COMP",
             "crse": "131",
@@ -6004,6 +6016,34 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2212,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Fundamentals of Computer Science",
+            "cap": 30,
+            "act": 24,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Hsing-Hau Chen",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -6064,70 +6104,6 @@
         ]
       },
       {
-        "title": "Fundamentals of Computer Science",
-        "subj": "COMP",
-        "crse": "131",
-        "id": "COMP-131",
-        "sections": [
-          {
-            "crn": 2215,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Fundamentals of Computer Science",
-            "cap": 30,
-            "act": 29,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Sheldon Elias Schiffer",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2212,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Fundamentals of Computer Science",
-            "cap": 30,
-            "act": 24,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Hsing-Hau Chen",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Statistics Laboratory",
         "subj": "COMP",
         "crse": "146",
@@ -6160,6 +6136,34 @@
             ]
           },
           {
+            "crn": 2221,
+            "subj": "COMP",
+            "crse": "146",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Statistics",
+            "cap": 30,
+            "act": 15,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alan P. Knoerr",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2223,
             "subj": "COMP",
             "crse": "146",
@@ -6180,6 +6184,34 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2218,
+            "subj": "COMP",
+            "crse": "146",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Statistics",
+            "cap": 30,
+            "act": 23,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Paul Alexander David",
+                "location": "",
+                "timeStart": 945,
+                "timeEnd": 1040,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -6232,70 +6264,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Statistics",
-        "subj": "COMP",
-        "crse": "146",
-        "id": "COMP-146",
-        "sections": [
-          {
-            "crn": 2221,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Statistics",
-            "cap": 30,
-            "act": 15,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2218,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Statistics",
-            "cap": 30,
-            "act": 23,
-            "rem": 7,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Paul Alexander David",
-                "location": "",
-                "timeStart": 945,
-                "timeEnd": 1040,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -7097,6 +7065,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2418,
+            "subj": "CTSJ",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
+            "cap": 16,
+            "act": 12,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "G. Elmer Griffin",
+                "location": "",
+                "timeStart": 1515,
+                "timeEnd": 1640,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -7233,41 +7228,6 @@
                 "location": "",
                 "timeStart": 1745,
                 "timeEnd": 1910,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
-        "subj": "CTSJ",
-        "crse": "395",
-        "id": "CTSJ-395",
-        "sections": [
-          {
-            "crn": 2418,
-            "subj": "CTSJ",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
-            "cap": 16,
-            "act": 12,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "G. Elmer Griffin",
-                "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -11085,42 +11045,6 @@
             ]
           },
           {
-            "crn": 2271,
-            "subj": "GEO",
-            "crse": "105",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Earth: Our Environment",
-            "cap": 24,
-            "act": 28,
-            "rem": -4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ann E. Blythe",
-                "location": "",
-                "timeStart": 1100,
-                "timeEnd": 1155,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Earth: Our Environment Lab",
-        "subj": "GEO",
-        "crse": "105",
-        "id": "GEO-105",
-        "sections": [
-          {
             "crn": 2270,
             "subj": "GEO",
             "crse": "105",
@@ -11193,6 +11117,34 @@
                 "location": "",
                 "timeStart": 930,
                 "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2271,
+            "subj": "GEO",
+            "crse": "105",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Earth: Our Environment",
+            "cap": 24,
+            "act": 28,
+            "rem": -4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ann E. Blythe",
+                "location": "",
+                "timeStart": 1100,
+                "timeEnd": 1155,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12625,28 +12577,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2474,
-            "subj": "KINE",
-            "crse": "398",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Health and Fitness Research",
-            "cap": 99,
-            "act": 1,
-            "rem": 98,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Marcella Ann Raney",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -12895,6 +12825,36 @@
                 "location": "",
                 "timeStart": 945,
                 "timeEnd": 1040,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Health and Fitness Research",
+        "subj": "KINE",
+        "crse": "398",
+        "id": "KINE-398",
+        "sections": [
+          {
+            "crn": 2474,
+            "subj": "KINE",
+            "crse": "398",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Health and Fitness Research",
+            "cap": 99,
+            "act": 1,
+            "rem": 98,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Marcella Ann Raney",
+                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22229,72 +22189,6 @@
             ]
           },
           {
-            "crn": 2597,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 5,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2599,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2761,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "05",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 2,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2587,
             "subj": "PSYC",
             "crse": "295",
@@ -22332,50 +22226,6 @@
               {
                 "days": [],
                 "instructor": "Brian Hahn Kim",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2598,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 1,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Nancy K. Dess",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2600,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 6,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew E. Shtulman",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -22482,6 +22332,124 @@
                 "location": "",
                 "timeStart": 1600,
                 "timeEnd": 1725,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "PSYC",
+        "crse": "395",
+        "id": "PSYC-395",
+        "sections": [
+          {
+            "crn": 2597,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 5,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2599,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2761,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 2,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2598,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 1,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Nancy K. Dess",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2600,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 6,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew E. Shtulman",
+                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25702,15 +25670,7 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
-        "subj": "WRD",
-        "crse": "201",
-        "id": "WRD-201",
-        "sections": [
+          },
           {
             "crn": 2574,
             "subj": "WRD",
@@ -25760,6 +25720,33 @@
                 "location": "",
                 "timeStart": 1015,
                 "timeEnd": 1140,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2912,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing",
+            "cap": 16,
+            "act": 2,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ara Corbett",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25863,41 +25850,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Art of Essay Writing",
-        "subj": "WRD",
-        "crse": "201",
-        "id": "WRD-201",
-        "sections": [
-          {
-            "crn": 2912,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing",
-            "cap": 16,
-            "act": 2,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ara Corbett",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -8149,7 +8149,7 @@
   "2333": {
     "reserved": [
       {
-        "max": 10,
+        "max": 9,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -9168,7 +9168,7 @@
     "reserved": [
       {
         "max": 6,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],

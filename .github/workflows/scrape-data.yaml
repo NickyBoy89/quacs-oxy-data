@@ -304,6 +304,7 @@ jobs:
           python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prereq_graph.json
           cp prereq_graph.json data
           ls
+        continue-on-error: true
       - name: Commit new data
         run: |
           current_semester=$(tail -n 1 semesters/semesters.json)

@@ -2187,8 +2187,8 @@
             "credMax": 4,
             "title": "Virology",
             "cap": 16,
-            "act": 22,
-            "rem": -6,
+            "act": 23,
+            "rem": -7,
             "attribute": "",
             "timeslots": [
               {
@@ -2249,8 +2249,8 @@
             "credMax": 1,
             "title": "Virology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

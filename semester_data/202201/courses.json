@@ -6821,8 +6821,8 @@
             "credMax": 4,
             "title": "Settler Colonialism Studies",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -7023,8 +7023,8 @@
             "credMax": 4,
             "title": "Resistance Movements and the Law",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -11062,8 +11062,8 @@
             "credMax": 4,
             "title": "Geographic Information Science I",
             "cap": 24,
-            "act": 14,
-            "rem": 10,
+            "act": 13,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11424,8 +11424,8 @@
             "credMax": 0,
             "title": "Geographic Information Science I Laboratory",
             "cap": 24,
-            "act": 14,
-            "rem": 10,
+            "act": 13,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -13829,7 +13829,6 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
                   "R"
                 ],
                 "instructor": "Jeffrey S. Miller",
@@ -21917,8 +21916,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

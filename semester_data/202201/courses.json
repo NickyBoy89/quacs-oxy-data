@@ -625,8 +625,8 @@
             "credMax": 4,
             "title": "History of Photography",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -5748,8 +5748,8 @@
             "credMax": 4,
             "title": "Nahuatl Language, Writing, and Culture",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6752,8 +6752,8 @@
             "credMax": 4,
             "title": "Introduction to Critical Theory",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7196,8 +7196,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -8365,8 +8365,8 @@
             "credMax": 4,
             "title": "Economics of Sustainable Development",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8595,8 +8595,8 @@
             "credMax": 4,
             "title": "Game Theory",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8949,8 +8949,8 @@
             "credMax": 4,
             "title": "Conflict in Education",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -9164,8 +9164,8 @@
             "credMax": 4,
             "title": "The American Experience in Literature",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -9270,8 +9270,8 @@
             "credMax": 4,
             "title": "Queer Fictions",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -10424,8 +10424,8 @@
             "credMax": 4,
             "title": "Dead Sea Scrolls: Their Significance in Early Judaism and Christianity",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10460,8 +10460,8 @@
             "credMax": 4,
             "title": "Ecomusicology",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -12174,8 +12174,8 @@
             "credMax": 4,
             "title": "Nahuatl Language, Writing, and Culture",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -13107,8 +13107,8 @@
             "credMax": 4,
             "title": "Introduction to Latina/o and Latin American Studies",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -13536,8 +13536,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 12,
-            "rem": 23,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -13564,8 +13564,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13592,8 +13592,8 @@
             "credMax": 0,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 12,
-            "rem": 23,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -13618,8 +13618,8 @@
             "credMax": 0,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14095,7 +14095,7 @@
         ]
       },
       {
-        "title": "Special Topics in Advanced Mathematics",
+        "title": "Special Topics in Advanced Mathematics: Advanced Differential Equations",
         "subj": "MATH",
         "crse": "395",
         "id": "MATH-395",
@@ -14107,7 +14107,7 @@
             "sec": "00",
             "credMin": 2,
             "credMax": 2,
-            "title": "Special Topics in Advanced Mathematics",
+            "title": "Special Topics in Advanced Mathematics: Advanced Differential Equations",
             "cap": 9,
             "act": 6,
             "rem": 3,
@@ -16331,8 +16331,8 @@
             "credMax": 1,
             "title": "Piano (One Hour)",
             "cap": 20,
-            "act": 7,
-            "rem": 13,
+            "act": 8,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -18219,8 +18219,8 @@
             "credMax": 1,
             "title": "Drum Set (One Hour)",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 6,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -18429,8 +18429,8 @@
             "credMax": 1,
             "title": "Jazz Saxophone (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -19033,8 +19033,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -21987,8 +21987,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 17,
-            "rem": 2,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22015,8 +22015,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 16,
-            "rem": 3,
+            "act": 17,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24274,8 +24274,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25614,8 +25614,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

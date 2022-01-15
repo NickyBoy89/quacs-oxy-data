@@ -896,8 +896,8 @@
             "credMax": 4,
             "title": "Intermediate Painting",
             "cap": 11,
-            "act": 11,
-            "rem": 0,
+            "act": 10,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1998,8 +1998,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3094,8 +3094,8 @@
             "credMax": 4,
             "title": "Ecology",
             "cap": 24,
-            "act": 26,
-            "rem": -2,
+            "act": 27,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -6390,8 +6390,8 @@
             "credMax": 4,
             "title": "Machine Learning",
             "cap": 24,
-            "act": 26,
-            "rem": -2,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

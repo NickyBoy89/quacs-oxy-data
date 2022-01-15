@@ -6605,8 +6605,8 @@
             "credMax": 4,
             "title": "Game Design",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15222,8 +15222,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 13,
-            "rem": 22,
+            "act": 14,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {

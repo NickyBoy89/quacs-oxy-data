@@ -22183,8 +22183,8 @@
             "credMax": 4,
             "title": "Perception",
             "cap": 19,
-            "act": 19,
-            "rem": 0,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22511,8 +22511,8 @@
             "credMax": 4,
             "title": "Developmental Psychology",
             "cap": 19,
-            "act": 21,
-            "rem": -2,
+            "act": 22,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {

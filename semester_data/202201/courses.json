@@ -6605,8 +6605,8 @@
             "credMax": 4,
             "title": "Game Design",
             "cap": 24,
-            "act": 25,
-            "rem": -1,
+            "act": 26,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -6752,8 +6752,8 @@
             "credMax": 4,
             "title": "Introduction to Critical Theory",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13688,8 +13688,8 @@
             "credMax": 4,
             "title": "Multivariable Calculus",
             "cap": 20,
-            "act": 13,
-            "rem": 7,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -22015,8 +22015,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 17,
-            "rem": 2,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25805,8 +25805,8 @@
             "credMax": 4,
             "title": "Principles of Journalism II: Narrative Nonfiction: True Stories Told Well",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

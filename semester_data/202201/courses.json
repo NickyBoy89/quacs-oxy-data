@@ -1938,8 +1938,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1964,8 +1964,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23547,8 +23547,8 @@
             "credMax": 4,
             "title": "Mass Media and Consumer Society",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

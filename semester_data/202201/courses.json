@@ -1475,8 +1475,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1554,8 +1554,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5022,8 +5022,8 @@
             "credMax": 5,
             "title": "Intermediate Chinese II",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -5497,8 +5497,8 @@
             "credMax": 2,
             "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
             "cap": 15,
-            "act": 1,
-            "rem": 14,
+            "act": 2,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -7881,8 +7881,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 28,
-            "rem": 4,
+            "act": 27,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8595,8 +8595,8 @@
             "credMax": 4,
             "title": "Game Theory",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -9752,8 +9752,8 @@
             "credMax": 4,
             "title": "Black Paris: Diasporic Connections in the City of Light",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10424,8 +10424,8 @@
             "credMax": 4,
             "title": "Dead Sea Scrolls: Their Significance in Early Judaism and Christianity",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10460,8 +10460,8 @@
             "credMax": 4,
             "title": "Ecomusicology",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -14485,8 +14485,8 @@
             "credMax": 4,
             "title": "Aesthetics of the Cinema",
             "cap": 20,
-            "act": 25,
-            "rem": -5,
+            "act": 24,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -19033,8 +19033,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

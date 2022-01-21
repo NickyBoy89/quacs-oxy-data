@@ -1475,8 +1475,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1554,8 +1554,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6856,8 +6856,8 @@
             "credMax": 4,
             "title": "Racialization of Space",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6952,8 +6952,8 @@
             "credMax": 4,
             "title": "Special Topics in Critical Theory and Social Justice: Whiteness",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25666,8 +25666,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

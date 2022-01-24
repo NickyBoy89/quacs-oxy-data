@@ -1842,8 +1842,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1868,8 +1868,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3028,8 +3028,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 6,
-            "rem": 3,
+            "act": 7,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3206,8 +3206,8 @@
             "credMax": 4,
             "title": "Topics in American Music",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 34,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3997,8 +3997,8 @@
             "credMax": 4,
             "title": "Organic Chemistry II",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -4061,8 +4061,8 @@
             "credMax": 0,
             "title": "Organic Chemistry II Laboratory",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -5392,8 +5392,8 @@
             "credMax": 4,
             "title": "Introduction to Cognitive Science",
             "cap": 45,
-            "act": 44,
-            "rem": 1,
+            "act": 45,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6675,8 +6675,8 @@
             "credMax": 4,
             "title": "Computer Science Junior Seminar",
             "cap": 24,
-            "act": 30,
-            "rem": -6,
+            "act": 31,
+            "rem": -7,
             "attribute": "",
             "timeslots": [
               {
@@ -8008,8 +8008,8 @@
             "credMax": 2,
             "title": "Sustainability Lab",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -11898,8 +11898,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12103,8 +12103,8 @@
             "credMax": 4,
             "title": "Humanities from Renaissance to the Present",
             "cap": 30,
-            "act": 8,
-            "rem": 22,
+            "act": 9,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -12286,8 +12286,8 @@
             "credMax": 4,
             "title": "Advanced Japanese II",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -12464,8 +12464,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12817,8 +12817,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 18,
-            "rem": 6,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13071,8 +13071,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13246,8 +13246,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13680,8 +13680,8 @@
             "credMax": 4,
             "title": "Linear Algebra",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14113,8 +14113,8 @@
             "credMax": 2,
             "title": "Introduction to Digital Design",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14698,8 +14698,8 @@
             "credMax": 4,
             "title": "Topics in American Music",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 34,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16133,8 +16133,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 0,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -16355,8 +16355,8 @@
             "credMax": 1,
             "title": "Collaborative Piano (One Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -16747,8 +16747,8 @@
             "credMax": 1,
             "title": "Flute (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -16881,8 +16881,8 @@
             "credMax": 1,
             "title": "Clarinet (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -18243,8 +18243,8 @@
             "credMax": 1,
             "title": "Ukulele Class",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -18857,8 +18857,8 @@
             "credMax": 4,
             "title": "Topics in the History of Philosophy: Medieval and Early Modern Philosophical Theology",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19523,8 +19523,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -20804,8 +20804,8 @@
             "credMax": 4,
             "title": "Waves and Thermal Physics",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -20866,8 +20866,8 @@
             "credMax": 0,
             "title": "Waves and Thermal Physics Laboratory",
             "cap": 14,
-            "act": 11,
-            "rem": 3,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23266,8 +23266,8 @@
             "credMax": 4,
             "title": "Elementary Russian I",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -24937,8 +24937,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

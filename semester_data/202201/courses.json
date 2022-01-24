@@ -418,8 +418,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 26,
-            "rem": -1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -965,8 +965,8 @@
             "credMax": 1,
             "title": "Practicum in Studio Art",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 8,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -1065,8 +1065,8 @@
             "credMax": 4,
             "title": "Digital Photography",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1475,8 +1475,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1527,8 +1527,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1754,8 +1754,8 @@
             "credMax": 4,
             "title": "Introduction to Cell and Molecular Biology",
             "cap": 32,
-            "act": 25,
-            "rem": 7,
+            "act": 26,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -1782,8 +1782,8 @@
             "credMax": 0,
             "title": "Intro/Cell/Molecular Bio Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -4341,8 +4341,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -5064,8 +5064,8 @@
             "credMax": 4,
             "title": "Animal Cognition",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -5100,8 +5100,8 @@
             "credMax": 4,
             "title": "Topic in Neuroscience: Deep Learning",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -5497,8 +5497,8 @@
             "credMax": 2,
             "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
             "cap": 15,
-            "act": 5,
-            "rem": 10,
+            "act": 6,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -5607,8 +5607,8 @@
             "credMax": 4,
             "title": "To Dwell or to Wander: Reading Confucius and Zhuangzi",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -6426,8 +6426,8 @@
             "credMax": 4,
             "title": "Databases",
             "cap": 24,
-            "act": 27,
-            "rem": -3,
+            "act": 26,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -6675,8 +6675,8 @@
             "credMax": 4,
             "title": "Computer Science Junior Seminar",
             "cap": 24,
-            "act": 31,
-            "rem": -7,
+            "act": 32,
+            "rem": -8,
             "attribute": "",
             "timeslots": [
               {
@@ -6987,8 +6987,8 @@
             "credMax": 4,
             "title": "Introduction to Postcolonial Studies",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -11898,8 +11898,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 22,
-            "rem": 8,
+            "act": 23,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12173,8 +12173,8 @@
             "credMax": 4,
             "title": "Remembering the Conquest of Mexico",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -12490,8 +12490,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 7,
-            "rem": 5,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -12817,8 +12817,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 19,
-            "rem": 5,
+            "act": 18,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -12918,8 +12918,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -13071,8 +13071,8 @@
             "credMax": 4,
             "title": "Modern Latin America",
             "cap": 30,
-            "act": 22,
-            "rem": 8,
+            "act": 23,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -13106,8 +13106,8 @@
             "credMax": 4,
             "title": "Remembering the Conquest of Mexico",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -13929,8 +13929,8 @@
             "credMax": 4,
             "title": "Multivariable Calculus",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -14554,8 +14554,8 @@
             "credMax": 4,
             "title": "Topics in Animation and Visual Effects: Animation Fundamentals",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14589,8 +14589,8 @@
             "credMax": 4,
             "title": "Topic in Media Theory and Practice: Media Activism through Participatory Video",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15181,8 +15181,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 36,
-            "rem": 24,
+            "act": 37,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -15721,8 +15721,8 @@
             "credMax": 4,
             "title": "European Vernacular Music",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 20,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -16073,8 +16073,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 2,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -18139,8 +18139,8 @@
             "credMax": 1,
             "title": "Drum Set (One Hour)",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -19523,8 +19523,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -20360,8 +20360,8 @@
             "credMax": 1,
             "title": "Intercollegiate Softball",
             "cap": 99,
-            "act": 14,
-            "rem": 85,
+            "act": 13,
+            "rem": 86,
             "attribute": "",
             "timeslots": [
               {
@@ -22719,8 +22719,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23136,8 +23136,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 26,
-            "rem": -1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25176,8 +25176,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25406,8 +25406,8 @@
             "credMax": 2,
             "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

@@ -731,8 +731,8 @@
             "credMax": 2,
             "title": "OxyArts Collaborate Workshop: Middle School",
             "cap": 5,
-            "act": 4,
-            "rem": 1,
+            "act": 5,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1135,8 +1135,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -1422,8 +1422,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1449,8 +1449,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8012,8 +8012,8 @@
             "credMax": 2,
             "title": "Sustainability Lab",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14824,8 +14824,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 6,
-            "rem": 0,
+            "act": 5,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15051,8 +15051,8 @@
             "credMax": 4,
             "title": "Why Music Matters",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -15185,8 +15185,8 @@
             "credMax": 0,
             "title": "Chamber Music",
             "cap": 40,
-            "act": 2,
-            "rem": 38,
+            "act": 3,
+            "rem": 37,
             "attribute": "",
             "timeslots": [
               {
@@ -19645,8 +19645,8 @@
             "credMax": 0,
             "title": "Beginning Yoga",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -20248,8 +20248,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Golf",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -20792,8 +20792,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Track and Field",
             "cap": 99,
-            "act": 9,
-            "rem": 90,
+            "act": 10,
+            "rem": 89,
             "attribute": "",
             "timeslots": [
               {

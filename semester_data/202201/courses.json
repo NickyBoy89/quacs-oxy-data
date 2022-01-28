@@ -589,8 +589,8 @@
             "credMax": 4,
             "title": "Arts of the Spanish Empire (1516-1700)",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3427,8 +3427,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 30,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3455,8 +3455,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 33,
-            "rem": -1,
+            "act": 34,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -15929,8 +15929,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 41,
-            "rem": 19,
+            "act": 42,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -17511,8 +17511,8 @@
             "credMax": 1,
             "title": "Violin (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -20142,8 +20142,8 @@
             "credMax": 0,
             "title": "Intercollegiate Men's Basketball",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -20452,8 +20452,8 @@
             "credMax": 1,
             "title": "Intercollegiate Softball",
             "cap": 99,
-            "act": 15,
-            "rem": 84,
+            "act": 16,
+            "rem": 83,
             "attribute": "",
             "timeslots": [
               {
@@ -20520,8 +20520,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Tennis",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -20792,8 +20792,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Track and Field",
             "cap": 99,
-            "act": 12,
-            "rem": 87,
+            "act": 13,
+            "rem": 86,
             "attribute": "",
             "timeslots": [
               {
@@ -22815,8 +22815,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

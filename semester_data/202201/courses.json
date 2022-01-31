@@ -2309,8 +2309,8 @@
             "credMax": 1,
             "title": "Oceanography Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2773,8 +2773,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 3,
-            "rem": 96,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -2795,8 +2795,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 7,
-            "rem": 92,
+            "act": 8,
+            "rem": 91,
             "attribute": "",
             "timeslots": [
               {
@@ -3169,8 +3169,8 @@
             "credMax": 4,
             "title": "Biological Oceanography",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -5541,8 +5541,8 @@
             "credMax": 4,
             "title": "The Demonic in Eastern European Literature and Film",
             "cap": 35,
-            "act": 24,
-            "rem": 11,
+            "act": 25,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -5829,8 +5829,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -5909,8 +5909,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Sci Lab",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -15307,8 +15307,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -15334,8 +15334,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21210,8 +21210,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 2,
-            "act": 1,
-            "rem": 1,
+            "act": 2,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

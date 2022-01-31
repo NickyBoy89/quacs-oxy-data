@@ -2153,8 +2153,8 @@
             "credMax": 1,
             "title": "Virology Laboratory",
             "cap": 8,
-            "act": 10,
-            "rem": -2,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2839,8 +2839,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -3133,8 +3133,8 @@
             "credMax": 4,
             "title": "Virology",
             "cap": 16,
-            "act": 24,
-            "rem": -8,
+            "act": 23,
+            "rem": -7,
             "attribute": "",
             "timeslots": [
               {
@@ -10856,8 +10856,8 @@
             "credMax": 4,
             "title": "Seminar in a Literary Theme.  French Feminism",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -15827,8 +15827,8 @@
             "credMax": 1,
             "title": "College Chorus",
             "cap": 99,
-            "act": 28,
-            "rem": 71,
+            "act": 29,
+            "rem": 70,
             "attribute": "",
             "timeslots": [
               {
@@ -18395,8 +18395,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -19564,8 +19564,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19591,8 +19591,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

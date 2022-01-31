@@ -2179,8 +2179,8 @@
             "credMax": 1,
             "title": "Virology Laboratory",
             "cap": 8,
-            "act": 14,
-            "rem": -6,
+            "act": 15,
+            "rem": -7,
             "attribute": "",
             "timeslots": [
               {
@@ -3133,8 +3133,8 @@
             "credMax": 4,
             "title": "Virology",
             "cap": 16,
-            "act": 23,
-            "rem": -7,
+            "act": 24,
+            "rem": -8,
             "attribute": "",
             "timeslots": [
               {
@@ -12468,8 +12468,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12821,8 +12821,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 17,
-            "rem": 7,
+            "act": 16,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {

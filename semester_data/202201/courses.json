@@ -5248,8 +5248,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 10,
-            "act": 0,
-            "rem": 10,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -6538,8 +6538,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 19,
-            "rem": 11,
+            "act": 18,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -8919,8 +8919,8 @@
             "credMax": 2,
             "title": "Spanish Language Community Literacy",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -10256,8 +10256,8 @@
             "credMax": 4,
             "title": "Immigration, Citizenship, and Political Community",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10284,8 +10284,8 @@
             "credMax": 4,
             "title": "Immigration, Citizenship, and Political Community",
             "cap": 16,
-            "act": 19,
-            "rem": -3,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15861,8 +15861,8 @@
             "credMax": 2,
             "title": "Glee Club (Tenors/Basses)",
             "cap": 35,
-            "act": 13,
-            "rem": 22,
+            "act": 14,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -16507,8 +16507,8 @@
             "credMax": 1,
             "title": "Voice (Half Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -16817,8 +16817,8 @@
             "credMax": 0,
             "title": "Jazz Voice (One Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -16847,8 +16847,8 @@
             "credMax": 1,
             "title": "Flute (Half Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {

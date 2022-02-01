@@ -4411,8 +4411,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -6228,8 +6228,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6538,8 +6538,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 17,
-            "rem": 13,
+            "act": 18,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -6679,8 +6679,8 @@
             "credMax": 4,
             "title": "Computer Science Junior Seminar",
             "cap": 24,
-            "act": 32,
-            "rem": -8,
+            "act": 33,
+            "rem": -9,
             "attribute": "",
             "timeslots": [
               {
@@ -7747,8 +7747,8 @@
             "credMax": 4,
             "title": "Junior Seminar: Human Rights and Trafficking in Persons",
             "cap": 15,
-            "act": 16,
-            "rem": -1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -20248,8 +20248,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Golf",
             "cap": 99,
-            "act": 11,
-            "rem": 88,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -23452,8 +23452,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23798,8 +23798,8 @@
             "credMax": 4,
             "title": "Political Sociology",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -25347,8 +25347,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

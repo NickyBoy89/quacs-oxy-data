@@ -1387,8 +1387,8 @@
             "credMax": 4,
             "title": "Topics in Biology: Ecological Enhancement and Restoration",
             "cap": 32,
-            "act": 12,
-            "rem": 20,
+            "act": 13,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -6359,8 +6359,8 @@
             "credMax": 8,
             "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
             "cap": 24,
-            "act": 9,
-            "rem": 15,
+            "act": 8,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -6720,8 +6720,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 45,
-            "rem": 54,
+            "act": 46,
+            "rem": 53,
             "attribute": "",
             "timeslots": [
               {
@@ -8012,8 +8012,8 @@
             "credMax": 2,
             "title": "Sustainability Lab",
             "cap": 20,
-            "act": 18,
-            "rem": 2,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14290,8 +14290,8 @@
             "credMax": 8,
             "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
             "cap": 24,
-            "act": 9,
-            "rem": 15,
+            "act": 8,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -17003,8 +17003,8 @@
             "credMax": 0,
             "title": "Clarinet (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -24094,8 +24094,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -24809,14 +24809,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T",
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Francisco Martinez",
                 "location": "",
-                "timeStart": 1515,
-                "timeEnd": 1640,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -2883,8 +2883,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -6051,8 +6051,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -6103,8 +6103,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 15,
-            "rem": 15,
+            "act": 16,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -11937,8 +11937,8 @@
             "credMax": 4,
             "title": "The Modern Middle East",
             "cap": 30,
-            "act": 9,
-            "rem": 21,
+            "act": 8,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -14041,8 +14041,8 @@
             "credMax": 4,
             "title": "Numerical Analysis",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14151,8 +14151,8 @@
             "credMax": 4,
             "title": "Aesthetics of the Cinema",
             "cap": 20,
-            "act": 25,
-            "rem": -5,
+            "act": 24,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -17407,8 +17407,8 @@
             "credMax": 1,
             "title": "Percussion (One Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19846,8 +19846,8 @@
             "credMax": 1,
             "title": "Zumba",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -20962,8 +20962,8 @@
             "credMax": 0,
             "title": "Waves and Thermal Physics Laboratory",
             "cap": 14,
-            "act": 11,
-            "rem": 3,
+            "act": 12,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -20988,8 +20988,8 @@
             "credMax": 0,
             "title": "Waves and Thermal Physics Laboratory",
             "cap": 14,
-            "act": 5,
-            "rem": 9,
+            "act": 4,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -25214,8 +25214,8 @@
             "credMax": 2,
             "title": "Intensive Performance Laboratory",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {

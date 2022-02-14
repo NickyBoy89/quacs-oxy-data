@@ -4561,8 +4561,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -25214,8 +25214,8 @@
             "credMax": 2,
             "title": "Intensive Performance Laboratory",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {

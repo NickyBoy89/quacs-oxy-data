@@ -2883,8 +2883,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -7200,8 +7200,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -14151,8 +14151,8 @@
             "credMax": 4,
             "title": "Aesthetics of the Cinema",
             "cap": 20,
-            "act": 24,
-            "rem": -4,
+            "act": 25,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {

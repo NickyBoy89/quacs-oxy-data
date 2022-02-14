@@ -4029,8 +4029,8 @@
             "credMax": 4,
             "title": "Organic Chemistry II",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -4117,8 +4117,8 @@
             "credMax": 0,
             "title": "Organic Chemistry II Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 13,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5829,8 +5829,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 24,
-            "rem": 6,
+            "act": 23,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -5857,8 +5857,8 @@
             "credMax": 0,
             "title": "Fundamentals/Computer Sci Lab",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13755,8 +13755,8 @@
             "credMax": 4,
             "title": "Algebra",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -24596,8 +24596,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 11,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -25076,8 +25076,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

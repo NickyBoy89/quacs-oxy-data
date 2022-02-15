@@ -14,8 +14,8 @@
   "BIO 130": {
     "title": "Intro/Cell/Molecular Bio Laboratory",
     "prereqs": [
-      "CHEM  120",
-      "CHEM  130",
+      "CHEM 120",
+      "CHEM 130",
       "OXCE"
     ]
   },
@@ -124,104 +124,104 @@
   "CHEM 120": {
     "title": "Foundations of General Chemistry",
     "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  29",
-      "CSP  3",
-      "CSP  30",
-      "CSP  31",
-      "CSP  32",
-      "CSP  33",
-      "CSP  34",
-      "CSP  35",
-      "CSP  36",
-      "CSP  37",
-      "CSP  38",
-      "CSP  39",
-      "CSP  4",
-      "CSP  40",
-      "CSP  41",
-      "CSP  42",
-      "CSP  43",
-      "CSP  44",
-      "CSP  45",
-      "CSP  46",
-      "CSP  47",
-      "CSP  48",
-      "CSP  49",
-      "CSP  5",
-      "CSP  6",
-      "CSP  7",
-      "CSP  8",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  29",
-      "FYS  3",
-      "FYS  30",
-      "FYS  31",
-      "FYS  32",
-      "FYS  33",
-      "FYS  34",
-      "FYS  35",
-      "FYS  36",
-      "FYS  37",
-      "FYS  38",
-      "FYS  39",
-      "FYS  4",
-      "FYS  40",
-      "FYS  41",
-      "FYS  42",
-      "FYS  43",
-      "FYS  44",
-      "FYS  45",
-      "FYS  46",
-      "FYS  47",
-      "FYS  48",
-      "FYS  49",
-      "FYS  5",
-      "FYS  6",
-      "FYS  7",
-      "FYS  8",
-      "FYS  9",
+      "CSP 1",
+      "CSP 10",
+      "CSP 11",
+      "CSP 12",
+      "CSP 13",
+      "CSP 14",
+      "CSP 15",
+      "CSP 16",
+      "CSP 17",
+      "CSP 18",
+      "CSP 19",
+      "CSP 2",
+      "CSP 20",
+      "CSP 21",
+      "CSP 22",
+      "CSP 23",
+      "CSP 24",
+      "CSP 25",
+      "CSP 26",
+      "CSP 27",
+      "CSP 28",
+      "CSP 29",
+      "CSP 3",
+      "CSP 30",
+      "CSP 31",
+      "CSP 32",
+      "CSP 33",
+      "CSP 34",
+      "CSP 35",
+      "CSP 36",
+      "CSP 37",
+      "CSP 38",
+      "CSP 39",
+      "CSP 4",
+      "CSP 40",
+      "CSP 41",
+      "CSP 42",
+      "CSP 43",
+      "CSP 44",
+      "CSP 45",
+      "CSP 46",
+      "CSP 47",
+      "CSP 48",
+      "CSP 49",
+      "CSP 5",
+      "CSP 6",
+      "CSP 7",
+      "CSP 8",
+      "CSP 9",
+      "FYS 1",
+      "FYS 10",
+      "FYS 11",
+      "FYS 12",
+      "FYS 13",
+      "FYS 14",
+      "FYS 15",
+      "FYS 16",
+      "FYS 17",
+      "FYS 18",
+      "FYS 19",
+      "FYS 2",
+      "FYS 20",
+      "FYS 21",
+      "FYS 22",
+      "FYS 23",
+      "FYS 24",
+      "FYS 25",
+      "FYS 26",
+      "FYS 27",
+      "FYS 28",
+      "FYS 29",
+      "FYS 3",
+      "FYS 30",
+      "FYS 31",
+      "FYS 32",
+      "FYS 33",
+      "FYS 34",
+      "FYS 35",
+      "FYS 36",
+      "FYS 37",
+      "FYS 38",
+      "FYS 39",
+      "FYS 4",
+      "FYS 40",
+      "FYS 41",
+      "FYS 42",
+      "FYS 43",
+      "FYS 44",
+      "FYS 45",
+      "FYS 46",
+      "FYS 47",
+      "FYS 48",
+      "FYS 49",
+      "FYS 5",
+      "FYS 6",
+      "FYS 7",
+      "FYS 8",
+      "FYS 9",
       "OXCP"
     ]
   },
@@ -235,16 +235,16 @@
   "CHEM 220": {
     "title": "Organic Chemistry I",
     "prereqs": [
-      "CHEM  120",
-      "CHEM  130",
+      "CHEM 120",
+      "CHEM 130",
       "OXCE"
     ]
   },
   "CHEM 240": {
     "title": "Integrated Concepts in General Chemistry",
     "prereqs": [
-      "CHEM  120",
-      "CHEM  130"
+      "CHEM 120",
+      "CHEM 130"
     ]
   },
   "CHEM 300": {
@@ -321,8 +321,8 @@
   "COGS 390": {
     "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
     "prereqs": [
-      "COGS  101",
-      "COGS  201"
+      "COGS 101",
+      "COGS 201"
     ]
   },
   "CSLC 300": {
@@ -379,9 +379,9 @@
     "title": "Data Structures",
     "prereqs": [
       "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211"
+      "COMP 127",
+      "COMP 131",
+      "COMP 211"
     ]
   },
   "COMP 379": {
@@ -408,8 +408,8 @@
   "DWA 103": {
     "title": "Introduction to Global Political Economy",
     "prereqs": [
-      "DWA  101",
-      "ECON  101"
+      "DWA 101",
+      "ECON 101"
     ]
   },
   "ECON 102": {
@@ -417,7 +417,7 @@
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON  101"
+      "ECON 101"
     ]
   },
   "ECON 250": {
@@ -427,13 +427,13 @@
       "APCS",
       "APEA",
       "APEI",
-      "ECON  102",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "MATH  120",
-      "MATH  128",
-      "MATH  212",
+      "ECON 102",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
+      "MATH 120",
+      "MATH 128",
+      "MATH 212",
       "OXMA",
       "OXME"
     ]
@@ -445,13 +445,13 @@
       "APCS",
       "APEA",
       "APEI",
-      "ECON  102",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "MATH  120",
-      "MATH  128",
-      "MATH  212",
+      "ECON 102",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
+      "MATH 120",
+      "MATH 128",
+      "MATH 212",
       "OXMA",
       "OXME"
     ]
@@ -464,54 +464,54 @@
       "APEA",
       "APEI",
       "APST",
-      "COMP  146",
-      "ECON  102",
-      "ECON  151",
-      "ECON  197",
-      "ECON  215",
-      "ECON  233",
-      "ECON  250",
-      "ECON  251",
-      "ECON  297",
-      "ECON  301",
-      "ECON  302",
-      "ECON  304",
-      "ECON  305",
-      "ECON  306",
-      "ECON  308",
-      "ECON  309",
-      "ECON  311",
-      "ECON  314",
-      "ECON  315",
-      "ECON  319",
-      "ECON  320",
-      "ECON  321",
-      "ECON  322",
-      "ECON  323",
-      "ECON  324",
-      "ECON  325",
-      "ECON  326",
-      "ECON  327",
-      "ECON  328",
-      "ECON  329",
-      "ECON  331",
-      "ECON  337",
-      "ECON  340",
-      "ECON  350",
-      "ECON  351",
-      "ECON  361",
-      "ECON  395",
-      "ECON  397",
-      "ECON  495",
-      "ECON  498",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "MATH  120",
-      "MATH  128",
-      "MATH  146",
-      "MATH  150",
-      "MATH  212",
+      "COMP 146",
+      "ECON 102",
+      "ECON 151",
+      "ECON 197",
+      "ECON 215",
+      "ECON 233",
+      "ECON 250",
+      "ECON 251",
+      "ECON 297",
+      "ECON 301",
+      "ECON 302",
+      "ECON 304",
+      "ECON 305",
+      "ECON 306",
+      "ECON 308",
+      "ECON 309",
+      "ECON 311",
+      "ECON 314",
+      "ECON 315",
+      "ECON 319",
+      "ECON 320",
+      "ECON 321",
+      "ECON 322",
+      "ECON 323",
+      "ECON 324",
+      "ECON 325",
+      "ECON 326",
+      "ECON 327",
+      "ECON 328",
+      "ECON 329",
+      "ECON 331",
+      "ECON 337",
+      "ECON 340",
+      "ECON 350",
+      "ECON 351",
+      "ECON 361",
+      "ECON 395",
+      "ECON 397",
+      "ECON 495",
+      "ECON 498",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
+      "MATH 120",
+      "MATH 128",
+      "MATH 146",
+      "MATH 150",
+      "MATH 212",
       "OXMA",
       "OXME"
     ]
@@ -546,134 +546,134 @@
   "EDUC 300": {
     "title": "Community Engagement in Education",
     "prereqs": [
-      "EDUC  201",
-      "EDUC  207"
+      "EDUC 201",
+      "EDUC 207"
     ]
   },
   "ENGL 280": {
     "title": "Creative Writing: Introduction to Fiction Writing",
     "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  3",
-      "CSP  4",
-      "CSP  5",
-      "CSP  50",
-      "CSP  50S",
-      "CSP  51",
-      "CSP  52",
-      "CSP  53",
-      "CSP  54",
-      "CSP  55",
-      "CSP  56",
-      "CSP  57",
-      "CSP  58",
-      "CSP  59",
-      "CSP  6",
-      "CSP  60",
-      "CSP  61",
-      "CSP  62",
-      "CSP  63",
-      "CSP  64",
-      "CSP  65",
-      "CSP  66",
-      "CSP  67",
-      "CSP  68",
-      "CSP  69",
-      "CSP  7",
-      "CSP  70",
-      "CSP  71",
-      "CSP  72",
-      "CSP  73",
-      "CSP  74",
-      "CSP  75",
-      "CSP  76",
-      "CSP  77",
-      "CSP  78",
-      "CSP  79",
-      "CSP  8",
-      "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9",
-      "WRD  201"
+      "CSP 1",
+      "CSP 10",
+      "CSP 11",
+      "CSP 12",
+      "CSP 13",
+      "CSP 14",
+      "CSP 15",
+      "CSP 16",
+      "CSP 17",
+      "CSP 18",
+      "CSP 19",
+      "CSP 2",
+      "CSP 20",
+      "CSP 21",
+      "CSP 22",
+      "CSP 23",
+      "CSP 24",
+      "CSP 25",
+      "CSP 26",
+      "CSP 27",
+      "CSP 28",
+      "CSP 3",
+      "CSP 4",
+      "CSP 5",
+      "CSP 50",
+      "CSP 50S",
+      "CSP 51",
+      "CSP 52",
+      "CSP 53",
+      "CSP 54",
+      "CSP 55",
+      "CSP 56",
+      "CSP 57",
+      "CSP 58",
+      "CSP 59",
+      "CSP 6",
+      "CSP 60",
+      "CSP 61",
+      "CSP 62",
+      "CSP 63",
+      "CSP 64",
+      "CSP 65",
+      "CSP 66",
+      "CSP 67",
+      "CSP 68",
+      "CSP 69",
+      "CSP 7",
+      "CSP 70",
+      "CSP 71",
+      "CSP 72",
+      "CSP 73",
+      "CSP 74",
+      "CSP 75",
+      "CSP 76",
+      "CSP 77",
+      "CSP 78",
+      "CSP 79",
+      "CSP 8",
+      "CSP 80",
+      "CSP 9",
+      "FYS 1",
+      "FYS 10",
+      "FYS 11",
+      "FYS 12",
+      "FYS 13",
+      "FYS 14",
+      "FYS 15",
+      "FYS 16",
+      "FYS 17",
+      "FYS 18",
+      "FYS 19",
+      "FYS 2",
+      "FYS 20",
+      "FYS 21",
+      "FYS 22",
+      "FYS 23",
+      "FYS 24",
+      "FYS 25",
+      "FYS 26",
+      "FYS 27",
+      "FYS 28",
+      "FYS 3",
+      "FYS 4",
+      "FYS 5",
+      "FYS 50",
+      "FYS 50S",
+      "FYS 51",
+      "FYS 52",
+      "FYS 53",
+      "FYS 54",
+      "FYS 55",
+      "FYS 56",
+      "FYS 57",
+      "FYS 58",
+      "FYS 59",
+      "FYS 6",
+      "FYS 60",
+      "FYS 61",
+      "FYS 62",
+      "FYS 63",
+      "FYS 64",
+      "FYS 65",
+      "FYS 66",
+      "FYS 67",
+      "FYS 68",
+      "FYS 69",
+      "FYS 7",
+      "FYS 70",
+      "FYS 71",
+      "FYS 72",
+      "FYS 73",
+      "FYS 74",
+      "FYS 75",
+      "FYS 76",
+      "FYS 77",
+      "FYS 78",
+      "FYS 79",
+      "FYS 8",
+      "FYS 80",
+      "FYS 9",
+      "WRD 201"
     ]
   },
   "ENGL 370": {
@@ -771,7 +771,7 @@
   "FREN 102": {
     "title": "Beginning French II",
     "prereqs": [
-      "FREN  101",
+      "FREN 101",
       "OXFR"
     ]
   },
@@ -781,7 +781,7 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  102",
+      "FREN 102",
       "OXFR"
     ]
   },
@@ -822,8 +822,8 @@
   "GEO 395": {
     "title": "Directed Research",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "GEO 105",
+      "GEO 106"
     ]
   },
   "GERM 201": {
@@ -839,80 +839,80 @@
   "HIST 300": {
     "title": "History Colloquium: Writing World History",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  121",
-      "HIST  122",
-      "HIST  125",
-      "HIST  141",
-      "HIST  142",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  183",
-      "HIST  190",
-      "HIST  191",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  215",
-      "HIST  216",
-      "HIST  220",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  307",
-      "HIST  309",
-      "HIST  311",
-      "HIST  312",
-      "HIST  316",
-      "HIST  328",
-      "HIST  330",
-      "HIST  336",
-      "HIST  344",
-      "HIST  345",
-      "HIST  346",
-      "HIST  348",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390",
-      "HIST  395",
-      "HIST  397",
-      "HIST  490",
-      "HIST  495"
+      "HIST 101",
+      "HIST 102",
+      "HIST 121",
+      "HIST 122",
+      "HIST 125",
+      "HIST 141",
+      "HIST 142",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 183",
+      "HIST 190",
+      "HIST 191",
+      "HIST 200",
+      "HIST 205",
+      "HIST 206",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 211",
+      "HIST 212",
+      "HIST 213",
+      "HIST 215",
+      "HIST 216",
+      "HIST 220",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 234",
+      "HIST 235",
+      "HIST 236",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 251",
+      "HIST 252",
+      "HIST 253",
+      "HIST 258",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 304",
+      "HIST 307",
+      "HIST 309",
+      "HIST 311",
+      "HIST 312",
+      "HIST 316",
+      "HIST 328",
+      "HIST 330",
+      "HIST 336",
+      "HIST 344",
+      "HIST 345",
+      "HIST 346",
+      "HIST 348",
+      "HIST 354",
+      "HIST 355",
+      "HIST 357",
+      "HIST 359",
+      "HIST 376",
+      "HIST 385",
+      "HIST 390",
+      "HIST 395",
+      "HIST 397",
+      "HIST 490",
+      "HIST 495"
     ]
   },
   "JAPN 460": {
@@ -967,19 +967,19 @@
       "APGE",
       "APJL",
       "APSP",
-      "ARAB  102",
-      "CHIN  102",
+      "ARAB 102",
+      "CHIN 102",
       "CL",
       "FL",
       "FR",
-      "FREN  102",
-      "GERM  102",
+      "FREN 102",
+      "GERM 102",
       "GL",
       "GM",
-      "GRK  102",
-      "JAPN  102",
+      "GRK 102",
+      "JAPN 102",
       "JL",
-      "LATN  102",
+      "LATN 102",
       "LT",
       "OXAR",
       "OXCH",
@@ -989,10 +989,10 @@
       "OXLA",
       "OXRU",
       "OXSP",
-      "RUSN  102",
+      "RUSN 102",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "MATH 108": {
@@ -1026,9 +1026,9 @@
     "prereqs": [
       "APAB",
       "APCS",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
       "OXMA",
       "OXME"
     ]
@@ -1037,8 +1037,8 @@
     "title": "Discrete Mathematics",
     "prereqs": [
       "APBC",
-      "MATH  120",
-      "MATH  128",
+      "MATH 120",
+      "MATH 128",
       "OXMA"
     ]
   },
@@ -1046,8 +1046,8 @@
     "title": "Multivariable Calculus",
     "prereqs": [
       "APBC",
-      "MATH  120",
-      "MATH  128",
+      "MATH 120",
+      "MATH 128",
       "OXMA"
     ]
   },
@@ -1055,8 +1055,8 @@
     "title": "Linear Algebra",
     "prereqs": [
       "APBC",
-      "MATH  120",
-      "MATH  128",
+      "MATH 120",
+      "MATH 128",
       "OXMA"
     ]
   },
@@ -1077,9 +1077,9 @@
   "MAC 240": {
     "title": "Introduction to Media Practices",
     "prereqs": [
-      "MAC  143",
-      "MAC  145",
-      "MAC  146"
+      "MAC 143",
+      "MAC 145",
+      "MAC 146"
     ]
   },
   "MAC 491": {
@@ -1099,13 +1099,13 @@
   "MUSA 208": {
     "title": "Collaborative Piano (One Hour)",
     "prereqs": [
-      "MUSA  102",
-      "MUSA  201",
-      "MUSA  202",
-      "MUSA  203",
-      "MUSA  204",
-      "MUSA  205",
-      "MUSA  206"
+      "MUSA 102",
+      "MUSA 201",
+      "MUSA 202",
+      "MUSA 203",
+      "MUSA 204",
+      "MUSA 205",
+      "MUSA 206"
     ]
   },
   "PHIL 395": {
@@ -1207,9 +1207,9 @@
     "title": "General Physics I",
     "prereqs": [
       "APBC",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
       "OXMA"
     ]
   },
@@ -1282,16 +1282,16 @@
     "title": "Methods in Psychological Science",
     "prereqs": [
       "APPS",
-      "PSYC  101",
-      "PSYC  102"
+      "PSYC 101",
+      "PSYC 102"
     ]
   },
   "PSYC 295": {
     "title": "Directed Research",
     "prereqs": [
       "APPS",
-      "PSYC  101",
-      "PSYC  102"
+      "PSYC 101",
+      "PSYC 102"
     ]
   },
   "PSYC 306": {
@@ -1306,7 +1306,7 @@
     "title": "Developmental Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "PSYC 322L": {
@@ -1320,7 +1320,7 @@
     "title": "Social Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "PSYC 340": {
@@ -1344,11 +1344,11 @@
     "title": "Theories of Personality",
     "prereqs": [
       "APPS",
-      "PSYC  101",
-      "PSYC  102",
-      "PSYC  321",
-      "PSYC  323",
-      "PSYC  330"
+      "PSYC 101",
+      "PSYC 102",
+      "PSYC 321",
+      "PSYC 323",
+      "PSYC 330"
     ]
   },
   "PSYC 310": {
@@ -1368,8 +1368,8 @@
   "PSYC 428": {
     "title": "Adolescence",
     "prereqs": [
-      "PSYC  200",
-      "PSYC  321"
+      "PSYC 200",
+      "PSYC 321"
     ]
   },
   "PUBH 301": {
@@ -1418,9 +1418,9 @@
     "title": "Special Topics in Sociology: Policing, Power, and Violence",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 304": {
@@ -1448,7 +1448,7 @@
     "title": "Beginning Spanish II",
     "prereqs": [
       "OXSP",
-      "SPAN  101"
+      "SPAN 101"
     ]
   },
   "SPAN 151": {
@@ -1468,7 +1468,7 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "SPAN 202": {
@@ -1478,7 +1478,7 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  201"
+      "SPAN 201"
     ]
   },
   "SPAN 251": {
@@ -1532,297 +1532,297 @@
   "AMST 202": {
     "title": "Latina/o Cultural and Intellectual History",
     "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  3",
-      "CSP  4",
-      "CSP  5",
-      "CSP  50",
-      "CSP  50S",
-      "CSP  51",
-      "CSP  52",
-      "CSP  53",
-      "CSP  54",
-      "CSP  55",
-      "CSP  56",
-      "CSP  57",
-      "CSP  58",
-      "CSP  59",
-      "CSP  6",
-      "CSP  60",
-      "CSP  61",
-      "CSP  62",
-      "CSP  63",
-      "CSP  64",
-      "CSP  65",
-      "CSP  66",
-      "CSP  67",
-      "CSP  68",
-      "CSP  69",
-      "CSP  7",
-      "CSP  70",
-      "CSP  71",
-      "CSP  72",
-      "CSP  73",
-      "CSP  74",
-      "CSP  75",
-      "CSP  76",
-      "CSP  77",
-      "CSP  78",
-      "CSP  79",
-      "CSP  8",
-      "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9"
+      "CSP 1",
+      "CSP 10",
+      "CSP 11",
+      "CSP 12",
+      "CSP 13",
+      "CSP 14",
+      "CSP 15",
+      "CSP 16",
+      "CSP 17",
+      "CSP 18",
+      "CSP 19",
+      "CSP 2",
+      "CSP 20",
+      "CSP 21",
+      "CSP 22",
+      "CSP 23",
+      "CSP 24",
+      "CSP 25",
+      "CSP 26",
+      "CSP 27",
+      "CSP 28",
+      "CSP 3",
+      "CSP 4",
+      "CSP 5",
+      "CSP 50",
+      "CSP 50S",
+      "CSP 51",
+      "CSP 52",
+      "CSP 53",
+      "CSP 54",
+      "CSP 55",
+      "CSP 56",
+      "CSP 57",
+      "CSP 58",
+      "CSP 59",
+      "CSP 6",
+      "CSP 60",
+      "CSP 61",
+      "CSP 62",
+      "CSP 63",
+      "CSP 64",
+      "CSP 65",
+      "CSP 66",
+      "CSP 67",
+      "CSP 68",
+      "CSP 69",
+      "CSP 7",
+      "CSP 70",
+      "CSP 71",
+      "CSP 72",
+      "CSP 73",
+      "CSP 74",
+      "CSP 75",
+      "CSP 76",
+      "CSP 77",
+      "CSP 78",
+      "CSP 79",
+      "CSP 8",
+      "CSP 80",
+      "CSP 9",
+      "FYS 1",
+      "FYS 10",
+      "FYS 11",
+      "FYS 12",
+      "FYS 13",
+      "FYS 14",
+      "FYS 15",
+      "FYS 16",
+      "FYS 17",
+      "FYS 18",
+      "FYS 19",
+      "FYS 2",
+      "FYS 20",
+      "FYS 21",
+      "FYS 22",
+      "FYS 23",
+      "FYS 24",
+      "FYS 25",
+      "FYS 26",
+      "FYS 27",
+      "FYS 28",
+      "FYS 3",
+      "FYS 4",
+      "FYS 5",
+      "FYS 50",
+      "FYS 50S",
+      "FYS 51",
+      "FYS 52",
+      "FYS 53",
+      "FYS 54",
+      "FYS 55",
+      "FYS 56",
+      "FYS 57",
+      "FYS 58",
+      "FYS 59",
+      "FYS 6",
+      "FYS 60",
+      "FYS 61",
+      "FYS 62",
+      "FYS 63",
+      "FYS 64",
+      "FYS 65",
+      "FYS 66",
+      "FYS 67",
+      "FYS 68",
+      "FYS 69",
+      "FYS 7",
+      "FYS 70",
+      "FYS 71",
+      "FYS 72",
+      "FYS 73",
+      "FYS 74",
+      "FYS 75",
+      "FYS 76",
+      "FYS 77",
+      "FYS 78",
+      "FYS 79",
+      "FYS 8",
+      "FYS 80",
+      "FYS 9"
     ]
   },
   "ARTH 390": {
     "title": "Seminar in Art History: Performance, Embodiment and the Dematerialization of Contemporary Art",
     "prereqs": [
-      "ARTH  150",
-      "ARTH  160",
-      "ARTH  170",
-      "ARTH  180",
-      "ARTH  257",
-      "ARTH  266",
-      "ARTH  268",
-      "ARTH  270",
-      "ARTH  272",
-      "ARTH  274",
-      "ARTH  275",
-      "ARTH  280",
-      "ARTH  283",
-      "ARTH  285",
-      "ARTH  287",
-      "ARTH  288",
-      "ARTH  289",
-      "ARTH  295"
+      "ARTH 150",
+      "ARTH 160",
+      "ARTH 170",
+      "ARTH 180",
+      "ARTH 257",
+      "ARTH 266",
+      "ARTH 268",
+      "ARTH 270",
+      "ARTH 272",
+      "ARTH 274",
+      "ARTH 275",
+      "ARTH 280",
+      "ARTH 283",
+      "ARTH 285",
+      "ARTH 287",
+      "ARTH 288",
+      "ARTH 289",
+      "ARTH 295"
     ]
   },
   "ARTS 210": {
     "title": "Intermediate Painting",
     "prereqs": [
-      "ARTS  102",
+      "ARTS 102",
       "OXAS"
     ]
   },
   "ARTS 310": {
     "title": "Advanced Projects in Painting and Drawing",
     "prereqs": [
-      "ARTS  102",
-      "ARTS  210",
+      "ARTS 102",
+      "ARTS 210",
       "OXAS"
     ]
   },
   "BIO 350": {
     "title": "Microbial Symbiosis",
     "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 373": {
     "title": "Computational Biology",
     "prereqs": [
       "APCA",
-      "BIO  268",
-      "COGS  255",
-      "COMP  131",
-      "GEO  255",
-      "MATH  150",
-      "PSYC  201"
+      "BIO 268",
+      "COGS 255",
+      "COMP 131",
+      "GEO 255",
+      "MATH 150",
+      "PSYC 201"
     ]
   },
   "BIO 221": {
     "title": "Molecular Biology",
     "prereqs": [
-      "BIO  130",
-      "CHEM  220"
+      "BIO 130",
+      "CHEM 220"
     ]
   },
   "BIO 270": {
     "title": "Ecology",
     "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 345": {
     "title": "Virology",
     "prereqs": [
-      "BIO  130",
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
     ]
   },
   "BIO 369": {
     "title": "Biological Oceanography",
     "prereqs": [
-      "BIO  260",
-      "BIO  270"
+      "BIO 260",
+      "BIO 270"
     ]
   },
   "BLST 320": {
     "title": "Critical Race Theory in Education",
     "prereqs": [
-      "EDUC  201",
-      "EDUC  205",
-      "EDUC  207",
-      "EDUC  213",
-      "EDUC  215",
-      "EDUC  217",
-      "EDUC  219",
-      "EDUC  281",
-      "EDUC  283"
+      "EDUC 201",
+      "EDUC 205",
+      "EDUC 207",
+      "EDUC 213",
+      "EDUC 215",
+      "EDUC 217",
+      "EDUC 219",
+      "EDUC 281",
+      "EDUC 283"
     ]
   },
   "CHEM 150": {
     "title": "Molecular Symmetry and Structure",
     "prereqs": [
-      "CHEM  100",
-      "CHEM  120",
+      "CHEM 100",
+      "CHEM 120",
       "OXCE"
     ]
   },
   "CHEM 350": {
     "title": "Biochemistry",
     "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
+      "CHEM 221",
+      "CHEM 240"
     ]
   },
   "CHEM 350L": {
     "title": "Biochemistry Laboratory",
     "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
+      "CHEM 221",
+      "CHEM 240"
     ]
   },
   "CHEM 305": {
     "title": "Physical Chemistry II",
     "prereqs": [
       "APPE",
-      "CHEM  130",
-      "CHEM  150",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
-      "PHYS  120",
-      "PHYS  125"
+      "CHEM 130",
+      "CHEM 150",
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
+      "PHYS 120",
+      "PHYS 125"
     ]
   },
   "CHEM 315": {
     "title": "Physical Chemistry III",
     "prereqs": [
       "APPE",
-      "MATH  120",
-      "PHYS  120"
+      "MATH 120",
+      "PHYS 120"
     ]
   },
   "CHEM 380": {
     "title": "Organic Synthesis",
     "prereqs": [
-      "CHEM  221",
-      "CHEM  240"
+      "CHEM 221",
+      "CHEM 240"
     ]
   },
   "CHIN 102": {
     "title": "Elementary Chinese II",
     "prereqs": [
-      "CHIN  101",
+      "CHIN 101",
       "OXCH"
     ]
   },
   "CHIN 350": {
     "title": "Classical Chinese Texts",
     "prereqs": [
-      "CHIN  301",
+      "CHIN 301",
       "OXCH"
     ]
   },
@@ -1830,7 +1830,7 @@
     "title": "Intermediate Chinese II",
     "prereqs": [
       "APCL",
-      "CHIN  201",
+      "CHIN 201",
       "CL",
       "OXCH"
     ]
@@ -1838,126 +1838,126 @@
   "COGS 303": {
     "title": "Topic in Neuroscience: Deep Learning",
     "prereqs": [
-      "BIO  268",
-      "COGS  201",
-      "PSYC  200"
+      "BIO 268",
+      "COGS 201",
+      "PSYC 200"
     ]
   },
   "COGS 292": {
     "title": "Brain Plasticity",
     "prereqs": [
-      "COGS  101",
-      "COGS  104"
+      "COGS 101",
+      "COGS 104"
     ]
   },
   "COGS 320": {
     "title": "Cognitive Neuroscience",
     "prereqs": [
-      "BIO  268",
-      "COGS  201",
-      "PSYC  200"
+      "BIO 268",
+      "COGS 201",
+      "PSYC 200"
     ]
   },
   "COMP 347": {
     "title": "Machine Learning",
     "prereqs": [
-      "COMP  146",
-      "COMP  149",
-      "COMP  229",
-      "MATH  146",
-      "MATH  150",
-      "MATH  210",
-      "MATH  214"
+      "COMP 146",
+      "COMP 149",
+      "COMP 229",
+      "MATH 146",
+      "MATH 150",
+      "MATH 210",
+      "MATH 214"
     ]
   },
   "COMP 373": {
     "title": "Databases",
     "prereqs": [
-      "COMP  229",
-      "COMP  239"
+      "COMP 229",
+      "COMP 239"
     ]
   },
   "COMP 395": {
     "title": "Special Topics in Computer Science",
     "prereqs": [
       "APCA",
-      "COMP  127",
-      "COMP  131",
-      "COMP  211",
-      "COMP  229"
+      "COMP 127",
+      "COMP 131",
+      "COMP 211",
+      "COMP 229"
     ]
   },
   "COMP 277": {
     "title": "Game Design",
     "prereqs": [
       "APCA",
-      "COMP  131"
+      "COMP 131"
     ]
   },
   "COMP 390": {
     "title": "Computer Science Junior Seminar",
     "prereqs": [
-      "COMP  229",
-      "COMP  311",
-      "COMP  313",
-      "COMP  317",
-      "COMP  319",
-      "COMP  325",
-      "COMP  331",
-      "COMP  337",
-      "COMP  340",
-      "COMP  347",
-      "COMP  349",
-      "COMP  352",
-      "COMP  353",
-      "COMP  355",
-      "COMP  357",
-      "COMP  367",
-      "COMP  371",
-      "COMP  373",
-      "COMP  379",
-      "COMP  383",
-      "COMP  389",
-      "COMP  395",
-      "COMP  397",
-      "MATH  352"
+      "COMP 229",
+      "COMP 311",
+      "COMP 313",
+      "COMP 317",
+      "COMP 319",
+      "COMP 325",
+      "COMP 331",
+      "COMP 337",
+      "COMP 340",
+      "COMP 347",
+      "COMP 349",
+      "COMP 352",
+      "COMP 353",
+      "COMP 355",
+      "COMP 357",
+      "COMP 367",
+      "COMP 371",
+      "COMP 373",
+      "COMP 379",
+      "COMP 383",
+      "COMP 389",
+      "COMP 395",
+      "COMP 397",
+      "MATH 352"
     ]
   },
   "CTSJ 395": {
     "title": "Special Topics in Critical Theory and Social Justice: Writing Trauma",
     "prereqs": [
-      "CTSJ  100",
-      "CTSJ  102",
-      "CTSJ  104",
-      "CTSJ  105",
-      "CTSJ  107",
-      "CTSJ  108",
-      "CTSJ  115",
-      "CTSJ  120",
-      "CTSJ  140",
-      "CTSJ  160",
-      "CTSJ  180",
-      "CTSJ  195"
+      "CTSJ 100",
+      "CTSJ 102",
+      "CTSJ 104",
+      "CTSJ 105",
+      "CTSJ 107",
+      "CTSJ 108",
+      "CTSJ 115",
+      "CTSJ 120",
+      "CTSJ 140",
+      "CTSJ 160",
+      "CTSJ 180",
+      "CTSJ 195"
     ]
   },
   "CTSJ 295": {
     "title": "Topics in Critical Theory - Social Justice: Critical Theory and Psychopathology",
     "prereqs": [
-      "CTSJ  100",
-      "CTSJ  105",
-      "CTSJ  106",
-      "CTSJ  107",
-      "CTSJ  140",
-      "CTSJ  160",
-      "CTSJ  180",
-      "CTSJ  195"
+      "CTSJ 100",
+      "CTSJ 105",
+      "CTSJ 106",
+      "CTSJ 107",
+      "CTSJ 140",
+      "CTSJ 160",
+      "CTSJ 180",
+      "CTSJ 195"
     ]
   },
   "DWA 283": {
     "title": "Soft Power: How Nations Interact Without War",
     "prereqs": [
-      "DWA  101",
-      "POLS  101"
+      "DWA 101",
+      "POLS 101"
     ]
   },
   "ECON 301": {
@@ -1965,8 +1965,8 @@
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON  101",
-      "ECON  102"
+      "ECON 101",
+      "ECON 102"
     ]
   },
   "ECON 311": {
@@ -1974,183 +1974,183 @@
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON  102"
+      "ECON 102"
     ]
   },
   "ECON 498": {
     "title": "Research Seminar",
     "prereqs": [
-      "ECON  250",
-      "ECON  251",
-      "ECON  272"
+      "ECON 250",
+      "ECON 251",
+      "ECON 272"
     ]
   },
   "EDUC 320": {
     "title": "Critical Race Theory in Education",
     "prereqs": [
-      "EDUC  201",
-      "EDUC  205",
-      "EDUC  207",
-      "EDUC  213",
-      "EDUC  215",
-      "EDUC  219",
-      "EDUC  283"
+      "EDUC 201",
+      "EDUC 205",
+      "EDUC 207",
+      "EDUC 213",
+      "EDUC 215",
+      "EDUC 219",
+      "EDUC 283"
     ]
   },
   "ENGL 332": {
     "title": "Eighteenth Century Literature: 1730-1800",
     "prereqs": [
-      "ECLS  109",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  267",
-      "ENGL  280",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
+      "ECLS 109",
+      "ECLS 186",
+      "ECLS 187",
+      "ECLS 188",
+      "ECLS 189",
+      "ECLS 205",
+      "ECLS 220",
+      "ECLS 241",
+      "ECLS 253",
+      "ECLS 255",
+      "ECLS 279",
+      "ECLS 286",
+      "ECLS 287",
+      "ECLS 288",
+      "ECLS 289",
+      "ECLS 290",
+      "ENGL 106",
+      "ENGL 189",
+      "ENGL 220",
+      "ENGL 267",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
     ]
   },
   "ENGL 290": {
     "title": "Introduction to Literary Methods",
     "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  3",
-      "CSP  4",
-      "CSP  5",
-      "CSP  50",
-      "CSP  50S",
-      "CSP  51",
-      "CSP  52",
-      "CSP  53",
-      "CSP  54",
-      "CSP  55",
-      "CSP  56",
-      "CSP  57",
-      "CSP  58",
-      "CSP  59",
-      "CSP  6",
-      "CSP  60",
-      "CSP  61",
-      "CSP  62",
-      "CSP  63",
-      "CSP  64",
-      "CSP  65",
-      "CSP  66",
-      "CSP  67",
-      "CSP  68",
-      "CSP  69",
-      "CSP  7",
-      "CSP  70",
-      "CSP  71",
-      "CSP  72",
-      "CSP  73",
-      "CSP  74",
-      "CSP  75",
-      "CSP  76",
-      "CSP  77",
-      "CSP  78",
-      "CSP  79",
-      "CSP  8",
-      "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9",
-      "WRD  201"
+      "CSP 1",
+      "CSP 10",
+      "CSP 11",
+      "CSP 12",
+      "CSP 13",
+      "CSP 14",
+      "CSP 15",
+      "CSP 16",
+      "CSP 17",
+      "CSP 18",
+      "CSP 19",
+      "CSP 2",
+      "CSP 20",
+      "CSP 21",
+      "CSP 22",
+      "CSP 23",
+      "CSP 24",
+      "CSP 25",
+      "CSP 26",
+      "CSP 27",
+      "CSP 28",
+      "CSP 3",
+      "CSP 4",
+      "CSP 5",
+      "CSP 50",
+      "CSP 50S",
+      "CSP 51",
+      "CSP 52",
+      "CSP 53",
+      "CSP 54",
+      "CSP 55",
+      "CSP 56",
+      "CSP 57",
+      "CSP 58",
+      "CSP 59",
+      "CSP 6",
+      "CSP 60",
+      "CSP 61",
+      "CSP 62",
+      "CSP 63",
+      "CSP 64",
+      "CSP 65",
+      "CSP 66",
+      "CSP 67",
+      "CSP 68",
+      "CSP 69",
+      "CSP 7",
+      "CSP 70",
+      "CSP 71",
+      "CSP 72",
+      "CSP 73",
+      "CSP 74",
+      "CSP 75",
+      "CSP 76",
+      "CSP 77",
+      "CSP 78",
+      "CSP 79",
+      "CSP 8",
+      "CSP 80",
+      "CSP 9",
+      "FYS 1",
+      "FYS 10",
+      "FYS 11",
+      "FYS 12",
+      "FYS 13",
+      "FYS 14",
+      "FYS 15",
+      "FYS 16",
+      "FYS 17",
+      "FYS 18",
+      "FYS 19",
+      "FYS 2",
+      "FYS 20",
+      "FYS 21",
+      "FYS 22",
+      "FYS 23",
+      "FYS 24",
+      "FYS 25",
+      "FYS 26",
+      "FYS 27",
+      "FYS 28",
+      "FYS 3",
+      "FYS 4",
+      "FYS 5",
+      "FYS 50",
+      "FYS 50S",
+      "FYS 51",
+      "FYS 52",
+      "FYS 53",
+      "FYS 54",
+      "FYS 55",
+      "FYS 56",
+      "FYS 57",
+      "FYS 58",
+      "FYS 59",
+      "FYS 6",
+      "FYS 60",
+      "FYS 61",
+      "FYS 62",
+      "FYS 63",
+      "FYS 64",
+      "FYS 65",
+      "FYS 66",
+      "FYS 67",
+      "FYS 68",
+      "FYS 69",
+      "FYS 7",
+      "FYS 70",
+      "FYS 71",
+      "FYS 72",
+      "FYS 73",
+      "FYS 74",
+      "FYS 75",
+      "FYS 76",
+      "FYS 77",
+      "FYS 78",
+      "FYS 79",
+      "FYS 8",
+      "FYS 80",
+      "FYS 9",
+      "WRD 201"
     ]
   },
   "FREN 252": {
@@ -2159,7 +2159,7 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  102",
+      "FREN 102",
       "OXFR"
     ]
   },
@@ -2169,7 +2169,7 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  102",
+      "FREN 102",
       "OXFR"
     ]
   },
@@ -2179,43 +2179,43 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  201",
+      "FREN 201",
       "OXFR"
     ]
   },
   "GEO 215": {
     "title": "Evolution of the Earth",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "GEO 105",
+      "GEO 106"
     ]
   },
   "GEO 220": {
     "title": "Earth Materials",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "GEO 105",
+      "GEO 106"
     ]
   },
   "GEO 255": {
     "title": "Remote Exploration of Earth",
     "prereqs": [
-      "GEO  105",
-      "GEO  106",
-      "GEO  150"
+      "GEO 105",
+      "GEO 106",
+      "GEO 150"
     ]
   },
   "GEO 324": {
     "title": "Advanced Field Mapping",
     "prereqs": [
-      "GEO  225",
-      "GEO  305"
+      "GEO 225",
+      "GEO 305"
     ]
   },
   "GERM 102": {
     "title": "Elementary German II",
     "prereqs": [
-      "GERM  101",
+      "GERM 101",
       "OXGE"
     ]
   },
@@ -2223,7 +2223,7 @@
     "title": "German Stylistics",
     "prereqs": [
       "APGE",
-      "GERM  201",
+      "GERM 201",
       "GL",
       "GM",
       "OXGE"
@@ -2232,158 +2232,158 @@
   "HIST 385": {
     "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  121",
-      "HIST  122",
-      "HIST  125",
-      "HIST  141",
-      "HIST  142",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  183",
-      "HIST  190",
-      "HIST  191",
-      "HIST  200",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  215",
-      "HIST  216",
-      "HIST  220",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  300",
-      "HIST  304",
-      "HIST  309",
-      "HIST  311",
-      "HIST  312",
-      "HIST  316",
-      "HIST  328",
-      "HIST  330",
-      "HIST  336",
-      "HIST  338",
-      "HIST  344",
-      "HIST  345",
-      "HIST  346",
-      "HIST  348",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  358",
-      "HIST  359",
-      "HIST  376",
-      "HIST  390",
-      "HIST  395",
-      "HIST  397",
-      "HIST  490",
-      "HIST  495"
+      "HIST 101",
+      "HIST 102",
+      "HIST 121",
+      "HIST 122",
+      "HIST 125",
+      "HIST 141",
+      "HIST 142",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 183",
+      "HIST 190",
+      "HIST 191",
+      "HIST 200",
+      "HIST 206",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 211",
+      "HIST 212",
+      "HIST 213",
+      "HIST 215",
+      "HIST 216",
+      "HIST 220",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 234",
+      "HIST 235",
+      "HIST 236",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 251",
+      "HIST 252",
+      "HIST 253",
+      "HIST 258",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 300",
+      "HIST 304",
+      "HIST 309",
+      "HIST 311",
+      "HIST 312",
+      "HIST 316",
+      "HIST 328",
+      "HIST 330",
+      "HIST 336",
+      "HIST 338",
+      "HIST 344",
+      "HIST 345",
+      "HIST 346",
+      "HIST 348",
+      "HIST 354",
+      "HIST 355",
+      "HIST 357",
+      "HIST 358",
+      "HIST 359",
+      "HIST 376",
+      "HIST 390",
+      "HIST 395",
+      "HIST 397",
+      "HIST 490",
+      "HIST 495"
     ]
   },
   "HIST 348": {
     "title": "The Chinese Cultural Revolution and the Global Sixties",
     "prereqs": [
-      "HIST  101",
-      "HIST  102",
-      "HIST  116",
-      "HIST  121",
-      "HIST  122",
-      "HIST  141",
-      "HIST  150",
-      "HIST  151",
-      "HIST  182",
-      "HIST  200",
-      "HIST  205",
-      "HIST  206",
-      "HIST  208",
-      "HIST  209",
-      "HIST  210",
-      "HIST  211",
-      "HIST  212",
-      "HIST  213",
-      "HIST  216",
-      "HIST  220",
-      "HIST  223",
-      "HIST  224",
-      "HIST  226",
-      "HIST  230",
-      "HIST  234",
-      "HIST  235",
-      "HIST  236",
-      "HIST  237",
-      "HIST  242",
-      "HIST  243",
-      "HIST  245",
-      "HIST  246",
-      "HIST  247",
-      "HIST  248",
-      "HIST  249",
-      "HIST  251",
-      "HIST  252",
-      "HIST  253",
-      "HIST  258",
-      "HIST  271",
-      "HIST  274",
-      "HIST  277",
-      "HIST  278",
-      "HIST  282",
-      "HIST  283",
-      "HIST  295",
-      "HIST  304",
-      "HIST  306",
-      "HIST  307",
-      "HIST  309",
-      "HIST  312",
-      "HIST  328",
-      "HIST  330",
-      "HIST  335",
-      "HIST  336",
-      "HIST  337",
-      "HIST  344",
-      "HIST  345",
-      "HIST  353",
-      "HIST  354",
-      "HIST  355",
-      "HIST  357",
-      "HIST  359",
-      "HIST  376",
-      "HIST  385",
-      "HIST  390"
+      "HIST 101",
+      "HIST 102",
+      "HIST 116",
+      "HIST 121",
+      "HIST 122",
+      "HIST 141",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 200",
+      "HIST 205",
+      "HIST 206",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 211",
+      "HIST 212",
+      "HIST 213",
+      "HIST 216",
+      "HIST 220",
+      "HIST 223",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 234",
+      "HIST 235",
+      "HIST 236",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 251",
+      "HIST 252",
+      "HIST 253",
+      "HIST 258",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 304",
+      "HIST 306",
+      "HIST 307",
+      "HIST 309",
+      "HIST 312",
+      "HIST 328",
+      "HIST 330",
+      "HIST 335",
+      "HIST 336",
+      "HIST 337",
+      "HIST 344",
+      "HIST 345",
+      "HIST 353",
+      "HIST 354",
+      "HIST 355",
+      "HIST 357",
+      "HIST 359",
+      "HIST 376",
+      "HIST 385",
+      "HIST 390"
     ]
   },
   "JAPN 202": {
     "title": "Intermediate Japanese II",
     "prereqs": [
       "APJL",
-      "JAPN  201",
+      "JAPN 201",
       "JL",
       "OXJA"
     ]
@@ -2391,14 +2391,14 @@
   "JAPN 302": {
     "title": "Advanced Japanese II",
     "prereqs": [
-      "JAPN  301",
+      "JAPN 301",
       "OXJA"
     ]
   },
   "JAPN 102": {
     "title": "Elementary Japanese II",
     "prereqs": [
-      "JAPN  101",
+      "JAPN 101",
       "OXJA"
     ]
   },
@@ -2406,36 +2406,36 @@
     "title": "Biomechanics",
     "prereqs": [
       "APPM",
-      "KINE  300",
-      "PHYS  110",
-      "PHYS  115"
+      "KINE 300",
+      "PHYS 110",
+      "PHYS 115"
     ]
   },
   "KINE 305": {
     "title": "Exercise Physiology",
     "prereqs": [
-      "CHEM  120",
-      "KINE  304"
+      "CHEM 120",
+      "KINE 304"
     ]
   },
   "KINE 398": {
     "title": "Community Health and Fitness Research",
     "prereqs": [
-      "KINE  298",
-      "KINE  307"
+      "KINE 298",
+      "KINE 307"
     ]
   },
   "KINE 304": {
     "title": "Human Physiology",
     "prereqs": [
-      "BIO  115",
-      "KINE  301"
+      "BIO 115",
+      "KINE 301"
     ]
   },
   "LATN 350": {
     "title": "Passages: African American writers and Greco-Roman Literature",
     "prereqs": [
-      "LATN  201",
+      "LATN 201",
       "OLLA"
     ]
   },
@@ -2444,147 +2444,147 @@
     "prereqs": [
       "APLA",
       "APLV",
-      "LATN  102"
+      "LATN 102"
     ]
   },
   "LLAS 202": {
     "title": "Latina/o Cultural and Intellectual History",
     "prereqs": [
-      "CSP  1",
-      "CSP  10",
-      "CSP  11",
-      "CSP  12",
-      "CSP  13",
-      "CSP  14",
-      "CSP  15",
-      "CSP  16",
-      "CSP  17",
-      "CSP  18",
-      "CSP  19",
-      "CSP  2",
-      "CSP  20",
-      "CSP  21",
-      "CSP  22",
-      "CSP  23",
-      "CSP  24",
-      "CSP  25",
-      "CSP  26",
-      "CSP  27",
-      "CSP  28",
-      "CSP  3",
-      "CSP  4",
-      "CSP  5",
-      "CSP  50",
-      "CSP  50S",
-      "CSP  51",
-      "CSP  52",
-      "CSP  53",
-      "CSP  54",
-      "CSP  55",
-      "CSP  56",
-      "CSP  57",
-      "CSP  58",
-      "CSP  59",
-      "CSP  6",
-      "CSP  60",
-      "CSP  61",
-      "CSP  62",
-      "CSP  63",
-      "CSP  64",
-      "CSP  65",
-      "CSP  66",
-      "CSP  67",
-      "CSP  68",
-      "CSP  69",
-      "CSP  7",
-      "CSP  70",
-      "CSP  71",
-      "CSP  72",
-      "CSP  73",
-      "CSP  74",
-      "CSP  75",
-      "CSP  76",
-      "CSP  77",
-      "CSP  78",
-      "CSP  79",
-      "CSP  8",
-      "CSP  80",
-      "CSP  9",
-      "FYS  1",
-      "FYS  10",
-      "FYS  11",
-      "FYS  12",
-      "FYS  13",
-      "FYS  14",
-      "FYS  15",
-      "FYS  16",
-      "FYS  17",
-      "FYS  18",
-      "FYS  19",
-      "FYS  2",
-      "FYS  20",
-      "FYS  21",
-      "FYS  22",
-      "FYS  23",
-      "FYS  24",
-      "FYS  25",
-      "FYS  26",
-      "FYS  27",
-      "FYS  28",
-      "FYS  3",
-      "FYS  4",
-      "FYS  5",
-      "FYS  50",
-      "FYS  50S",
-      "FYS  51",
-      "FYS  52",
-      "FYS  53",
-      "FYS  54",
-      "FYS  55",
-      "FYS  56",
-      "FYS  57",
-      "FYS  58",
-      "FYS  59",
-      "FYS  6",
-      "FYS  60",
-      "FYS  61",
-      "FYS  62",
-      "FYS  63",
-      "FYS  64",
-      "FYS  65",
-      "FYS  66",
-      "FYS  67",
-      "FYS  68",
-      "FYS  69",
-      "FYS  7",
-      "FYS  70",
-      "FYS  71",
-      "FYS  72",
-      "FYS  73",
-      "FYS  74",
-      "FYS  75",
-      "FYS  76",
-      "FYS  77",
-      "FYS  78",
-      "FYS  79",
-      "FYS  8",
-      "FYS  80",
-      "FYS  9"
+      "CSP 1",
+      "CSP 10",
+      "CSP 11",
+      "CSP 12",
+      "CSP 13",
+      "CSP 14",
+      "CSP 15",
+      "CSP 16",
+      "CSP 17",
+      "CSP 18",
+      "CSP 19",
+      "CSP 2",
+      "CSP 20",
+      "CSP 21",
+      "CSP 22",
+      "CSP 23",
+      "CSP 24",
+      "CSP 25",
+      "CSP 26",
+      "CSP 27",
+      "CSP 28",
+      "CSP 3",
+      "CSP 4",
+      "CSP 5",
+      "CSP 50",
+      "CSP 50S",
+      "CSP 51",
+      "CSP 52",
+      "CSP 53",
+      "CSP 54",
+      "CSP 55",
+      "CSP 56",
+      "CSP 57",
+      "CSP 58",
+      "CSP 59",
+      "CSP 6",
+      "CSP 60",
+      "CSP 61",
+      "CSP 62",
+      "CSP 63",
+      "CSP 64",
+      "CSP 65",
+      "CSP 66",
+      "CSP 67",
+      "CSP 68",
+      "CSP 69",
+      "CSP 7",
+      "CSP 70",
+      "CSP 71",
+      "CSP 72",
+      "CSP 73",
+      "CSP 74",
+      "CSP 75",
+      "CSP 76",
+      "CSP 77",
+      "CSP 78",
+      "CSP 79",
+      "CSP 8",
+      "CSP 80",
+      "CSP 9",
+      "FYS 1",
+      "FYS 10",
+      "FYS 11",
+      "FYS 12",
+      "FYS 13",
+      "FYS 14",
+      "FYS 15",
+      "FYS 16",
+      "FYS 17",
+      "FYS 18",
+      "FYS 19",
+      "FYS 2",
+      "FYS 20",
+      "FYS 21",
+      "FYS 22",
+      "FYS 23",
+      "FYS 24",
+      "FYS 25",
+      "FYS 26",
+      "FYS 27",
+      "FYS 28",
+      "FYS 3",
+      "FYS 4",
+      "FYS 5",
+      "FYS 50",
+      "FYS 50S",
+      "FYS 51",
+      "FYS 52",
+      "FYS 53",
+      "FYS 54",
+      "FYS 55",
+      "FYS 56",
+      "FYS 57",
+      "FYS 58",
+      "FYS 59",
+      "FYS 6",
+      "FYS 60",
+      "FYS 61",
+      "FYS 62",
+      "FYS 63",
+      "FYS 64",
+      "FYS 65",
+      "FYS 66",
+      "FYS 67",
+      "FYS 68",
+      "FYS 69",
+      "FYS 7",
+      "FYS 70",
+      "FYS 71",
+      "FYS 72",
+      "FYS 73",
+      "FYS 74",
+      "FYS 75",
+      "FYS 76",
+      "FYS 77",
+      "FYS 78",
+      "FYS 79",
+      "FYS 8",
+      "FYS 80",
+      "FYS 9"
     ]
   },
   "MATH 342": {
     "title": "Partial Differential Equations",
     "prereqs": [
-      "MATH  212",
-      "MATH  214",
-      "MATH  340"
+      "MATH 212",
+      "MATH 214",
+      "MATH 340"
     ]
   },
   "MATH 395": {
     "title": "Special Topics in Advanced Mathematics: Advanced Differential Equations",
     "prereqs": [
-      "MATH  340",
-      "MATH  342"
+      "MATH 340",
+      "MATH 342"
     ]
   },
   "MATH 150": {
@@ -2592,10 +2592,10 @@
     "prereqs": [
       "APAB",
       "APCS",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "MATH  128",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
+      "MATH 128",
       "OXMA",
       "OXME"
     ]
@@ -2603,29 +2603,29 @@
   "MATH 370": {
     "title": "Numerical Analysis",
     "prereqs": [
-      "MATH  212",
-      "MATH  214"
+      "MATH 212",
+      "MATH 214"
     ]
   },
   "MAC 390": {
     "title": "Junior Seminar in Media Theory and Criticism",
     "prereqs": [
-      "MAC  143",
-      "MAC  145",
-      "MAC  146"
+      "MAC 143",
+      "MAC 145",
+      "MAC 146"
     ]
   },
   "MUSC 113": {
     "title": "Learning to Compose",
     "prereqs": [
-      "MUSC  101",
+      "MUSC 101",
       "OXMT"
     ]
   },
   "MUSC 151": {
     "title": "Music Theory II",
     "prereqs": [
-      "MUSC  101",
+      "MUSC 101",
       "OXMT"
     ]
   },
@@ -2634,20 +2634,20 @@
     "prereqs": [
       "APBC",
       "APPM",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
       "OXMA",
       "OXPE",
-      "PHYS  110",
-      "PHYS  115"
+      "PHYS 110",
+      "PHYS 115"
     ]
   },
   "PHYS 491": {
     "title": "Senior Physics Seminar II",
     "prereqs": [
-      "PHYS  240",
-      "PHYS  320"
+      "PHYS 240",
+      "PHYS 320"
     ]
   },
   "PHYS 117": {
@@ -2655,11 +2655,11 @@
     "prereqs": [
       "APBC",
       "APPM",
-      "MATH  120",
-      "MATH  128",
+      "MATH 120",
+      "MATH 128",
       "OXMA",
-      "PHYS  110",
-      "PHYS  115"
+      "PHYS 110",
+      "PHYS 115"
     ]
   },
   "PHYS 240": {
@@ -2668,190 +2668,190 @@
       "APPE",
       "APPM",
       "OXPE",
-      "PHYS  110",
-      "PHYS  115",
-      "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS 110",
+      "PHYS 115",
+      "PHYS 117",
+      "PHYS 120",
+      "PHYS 230"
     ]
   },
   "PHYS 340": {
     "title": "Quantum Mechanics",
     "prereqs": [
-      "CHEM  305",
-      "PHYS  240",
-      "PHYS  310",
-      "PHYS  320"
+      "CHEM 305",
+      "PHYS 240",
+      "PHYS 310",
+      "PHYS 320"
     ]
   },
   "POLS 265": {
     "title": "Community Planning and Politics Practicum",
     "prereqs": [
-      "POLS  101",
-      "UEP  101"
+      "POLS 101",
+      "UEP 101"
     ]
   },
   "POLS 321": {
     "title": "Gender and Politics in the Global South",
     "prereqs": [
-      "DWA  101",
-      "POLS  101",
-      "POLS  120"
+      "DWA 101",
+      "POLS 101",
+      "POLS 120"
     ]
   },
   "PSYC 301": {
     "title": "Learning",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "PSYC 336": {
     "title": "Evolutionary Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101",
-      "PSYC  102"
+      "PSYC 101",
+      "PSYC 102"
     ]
   },
   "PSYC 444": {
     "title": "Thinking and Reasoning",
     "prereqs": [
-      "PSYC  200",
-      "PSYC  301",
-      "PSYC  302",
-      "PSYC  306"
+      "PSYC 200",
+      "PSYC 301",
+      "PSYC 302",
+      "PSYC 306"
     ]
   },
   "PSYC 302": {
     "title": "Perception",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "PSYC 431": {
     "title": "Clinical Psychology",
     "prereqs": [
-      "PSYC  200",
-      "PSYC  330"
+      "PSYC 200",
+      "PSYC 330"
     ]
   },
   "PUBH 307": {
     "title": "Public Health Practicum",
     "prereqs": [
-      "PUBH  203",
-      "UEP  203"
+      "PUBH 203",
+      "UEP 203"
     ]
   },
   "PUBH 238": {
     "title": "Epidemiology",
     "prereqs": [
       "APST",
-      "BIO  268",
-      "COMP  146",
-      "MATH  150",
-      "PSYC  201",
-      "PUBH  203",
-      "UEP  203",
-      "UEP  305"
+      "BIO 268",
+      "COMP 146",
+      "MATH 150",
+      "PSYC 201",
+      "PUBH 203",
+      "UEP 203",
+      "UEP 305"
     ]
   },
   "RUSN 339": {
     "title": "The Demonic in Eastern European Literature and Film",
     "prereqs": [
       "OLRU",
-      "RUSN  201"
+      "RUSN 201"
     ]
   },
   "SOC 225": {
     "title": "Masculinities",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 265": {
     "title": "Gender and Society",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 306": {
     "title": "Qualitative Research Methods",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 361": {
     "title": "Sociology of Whiteness",
     "prereqs": [
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 380": {
     "title": "Sociology of Disaster",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 205": {
     "title": "Contemporary Sociological Theory",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 260": {
     "title": "Deviance",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 305": {
     "title": "Quantitative Research Methods",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 330": {
     "title": "Political Sociology",
     "prereqs": [
       "OXSO",
-      "POLS  101",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 365": {
     "title": "Mass Media and Consumer Society",
     "prereqs": [
       "OXSO",
-      "SOC  101",
-      "SOC  102",
-      "SOC  105"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 152": {
@@ -2861,7 +2861,7 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "SPAN 211": {
@@ -2882,59 +2882,59 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "SPAN 312": {
     "title": "Spanish Film and Culture",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 371": {
     "title": "Culture, Resistance, and the Politics of Human Rights in the Americas",
     "prereqs": [
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 301": {
     "title": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 341": {
     "title": "History of the Spanish Language",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 410": {
     "title": "Directing",
     "prereqs": [
-      "THEA  120",
-      "THEA  310"
+      "THEA 120",
+      "THEA 310"
     ]
   },
   "UEP 265": {
     "title": "Community Planning and Politics Practicum",
     "prereqs": [
-      "POLS  101",
-      "UEP  101"
+      "POLS 101",
+      "UEP 101"
     ]
   },
   "WRD 301": {
     "title": "Creative Nonfiction",
     "prereqs": [
       "OXWF",
-      "WRD  201"
+      "WRD 201"
     ]
   }
 }

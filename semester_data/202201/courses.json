@@ -2707,8 +2707,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -2971,8 +2971,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 6,
-            "rem": 93,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -8599,8 +8599,8 @@
             "credMax": 4,
             "title": "Game Theory",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -22726,8 +22726,8 @@
             "credMax": 4,
             "title": "Health Psychology",
             "cap": 19,
-            "act": 20,
-            "rem": -1,
+            "act": 19,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

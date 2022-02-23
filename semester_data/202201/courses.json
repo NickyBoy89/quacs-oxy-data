@@ -700,9 +700,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "M"
+                ],
                 "instructor": "Yurika Wakamatsu",
                 "location": "",
+                "timeStart": 1730,
+                "timeEnd": 1900,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

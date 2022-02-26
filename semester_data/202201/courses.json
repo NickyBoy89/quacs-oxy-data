@@ -2469,8 +2469,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 0,
+            "rem": 99,
             "attribute": "",
             "timeslots": [
               {
@@ -2733,8 +2733,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -3633,8 +3633,8 @@
             "credMax": 1,
             "title": "Molecular Symmetry and Structure",
             "cap": 32,
-            "act": 6,
-            "rem": 26,
+            "act": 5,
+            "rem": 27,
             "attribute": "",
             "timeslots": [
               {
@@ -6724,8 +6724,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 47,
-            "rem": 52,
+            "act": 48,
+            "rem": 51,
             "attribute": "",
             "timeslots": [
               {
@@ -15125,8 +15125,8 @@
             "credMax": 1,
             "title": "Afro-Cuban Drumming",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15933,8 +15933,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 41,
-            "rem": 19,
+            "act": 40,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -19568,8 +19568,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

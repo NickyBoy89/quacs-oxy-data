@@ -4033,8 +4033,8 @@
             "credMax": 4,
             "title": "Organic Chemistry II",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4069,8 +4069,8 @@
             "credMax": 0,
             "title": "Organic Chemistry II Laboratory",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6760,8 +6760,8 @@
             "credMax": 4,
             "title": "Introduction to Critical Theory",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10654,8 +10654,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -10682,8 +10682,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13392,8 +13392,8 @@
             "credMax": 0,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 13,
-            "rem": 22,
+            "act": 12,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -13444,8 +13444,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -14932,8 +14932,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 5,
-            "rem": 1,
+            "act": 4,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -15899,8 +15899,8 @@
             "credMax": 1,
             "title": "Jazz Ensemble",
             "cap": 40,
-            "act": 11,
-            "rem": 29,
+            "act": 12,
+            "rem": 28,
             "attribute": "",
             "timeslots": [
               {
@@ -24600,8 +24600,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 10,
-            "act": 11,
-            "rem": -1,
+            "act": 12,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

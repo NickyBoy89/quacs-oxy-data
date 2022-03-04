@@ -2219,6 +2219,16 @@
       "OXGE"
     ]
   },
+  "GERM 202": {
+    "title": "German Stylistics",
+    "prereqs": [
+      "APGE",
+      "GERM 201",
+      "GL",
+      "GM",
+      "OXGE"
+    ]
+  },
   "HIST 385": {
     "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
     "prereqs": [

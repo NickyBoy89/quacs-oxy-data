@@ -95,7 +95,40 @@
       }
     }
   },
-  "2005": {},
+  "2005": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GERM 201",
+          "type": "course"
+        },
+        {
+          "course": "GM",
+          "type": "course"
+        },
+        {
+          "course": "GL",
+          "type": "course"
+        },
+        {
+          "course": "OXGE",
+          "type": "course"
+        },
+        {
+          "course": "APGE",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "2006": {
     "restrictions": {
       "classification": {

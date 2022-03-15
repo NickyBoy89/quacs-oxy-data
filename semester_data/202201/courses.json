@@ -3755,8 +3755,8 @@
             "credMax": 1,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -6724,8 +6724,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 51,
-            "rem": 48,
+            "act": 52,
+            "rem": 47,
             "attribute": "",
             "timeslots": [
               {
@@ -14854,8 +14854,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 6,
-            "rem": 0,
+            "act": 7,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

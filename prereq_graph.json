@@ -2,17 +2,17 @@
   "ARTS 490": {
     "title": "Studio Senior Seminar",
     "prereqs": [
-      "ARTS  102",
-      "ARTS  103",
-      "ARTS  105",
-      "ARTS  203",
-      "ARTS  210",
-      "ARTS  216",
-      "ARTS  217"
+      "ARTS 102",
+      "ARTS 103",
+      "ARTS 105",
+      "ARTS 203",
+      "ARTS 210",
+      "ARTS 216",
+      "ARTS 217"
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Bio Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -22,52 +22,52 @@
   "BIO 224": {
     "title": "Genetic Analysis",
     "prereqs": [
-      "BIO  130",
-      "CHEM  120",
-      "CHEM  130",
+      "BIO 130",
+      "CHEM 120",
+      "CHEM 130",
       "OXCE"
     ]
   },
   "BIO 260": {
     "title": "Biodiversity and Organization of Marine Ecosystems",
     "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115"
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115"
     ]
   },
   "BIO 280": {
     "title": "Evolutionary Biology",
     "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 333": {
     "title": "Neurobiology",
     "prereqs": [
-      "BIO  130",
-      "BIO  226",
-      "BIO  240"
+      "BIO 130",
+      "BIO 226",
+      "BIO 240"
     ]
   },
   "BIO 349": {
     "title": "Biochemistry I",
     "prereqs": [
-      "BIO  130",
-      "CHEM  220"
+      "BIO 130",
+      "CHEM 220"
     ]
   },
   "BIO 370L": {
     "title": "Field Ecology Laboratory",
     "prereqs": [
-      "BIO  260",
-      "BIO  270"
+      "BIO 260",
+      "BIO 270"
     ]
   },
   "BIO 250": {
@@ -94,8 +94,8 @@
   "BIO 322": {
     "title": "Principles of Biochemistry",
     "prereqs": [
-      "BIO  130",
-      "CHEM  220"
+      "BIO 130",
+      "CHEM 220"
     ]
   },
   "BIO 336": {
@@ -109,16 +109,16 @@
   "BIO 370": {
     "title": "Field Ecology",
     "prereqs": [
-      "BIO  260",
-      "BIO  270",
-      "GEO  225"
+      "BIO 260",
+      "BIO 270",
+      "GEO 225"
     ]
   },
   "BLST 352": {
     "title": "Black Political Thought",
     "prereqs": [
-      "BLST  110",
-      "POLS  101"
+      "BLST 110",
+      "POLS 101"
     ]
   },
   "CHEM 120": {
@@ -173,55 +173,6 @@
       "CSP 7",
       "CSP 8",
       "CSP 9",
-      "FYS 1",
-      "FYS 10",
-      "FYS 11",
-      "FYS 12",
-      "FYS 13",
-      "FYS 14",
-      "FYS 15",
-      "FYS 16",
-      "FYS 17",
-      "FYS 18",
-      "FYS 19",
-      "FYS 2",
-      "FYS 20",
-      "FYS 21",
-      "FYS 22",
-      "FYS 23",
-      "FYS 24",
-      "FYS 25",
-      "FYS 26",
-      "FYS 27",
-      "FYS 28",
-      "FYS 29",
-      "FYS 3",
-      "FYS 30",
-      "FYS 31",
-      "FYS 32",
-      "FYS 33",
-      "FYS 34",
-      "FYS 35",
-      "FYS 36",
-      "FYS 37",
-      "FYS 38",
-      "FYS 39",
-      "FYS 4",
-      "FYS 40",
-      "FYS 41",
-      "FYS 42",
-      "FYS 43",
-      "FYS 44",
-      "FYS 45",
-      "FYS 46",
-      "FYS 47",
-      "FYS 48",
-      "FYS 49",
-      "FYS 5",
-      "FYS 6",
-      "FYS 7",
-      "FYS 8",
-      "FYS 9",
       "OXCP"
     ]
   },
@@ -252,12 +203,12 @@
     "prereqs": [
       "APBC",
       "APPE",
-      "MATH  120",
-      "MATH  124",
-      "MATH  128",
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
       "OXMA",
-      "PHYS  120",
-      "PHYS  125"
+      "PHYS 120",
+      "PHYS 125"
     ]
   },
   "CHEM 301": {
@@ -265,25 +216,25 @@
     "prereqs": [
       "APBC",
       "APPM",
-      "CHEM  221",
-      "MATH  120",
-      "MATH  128",
+      "CHEM 221",
+      "MATH 120",
+      "MATH 128",
       "OXMA",
-      "PHYS  115"
+      "PHYS 115"
     ]
   },
   "CHEM 340": {
     "title": "Inorganic Chemistry",
     "prereqs": [
-      "CHEM  130",
-      "CHEM  150",
-      "CHEM  240"
+      "CHEM 130",
+      "CHEM 150",
+      "CHEM 240"
     ]
   },
   "CHIN 301": {
     "title": "Expository Essays and Short Narratives I",
     "prereqs": [
-      "CHIN  202",
+      "CHIN 202",
       "OXCH"
     ]
   },
@@ -291,7 +242,7 @@
     "title": "Intermediate Chinese I",
     "prereqs": [
       "APCL",
-      "CHIN  102",
+      "CHIN 102",
       "CL",
       "OXCH"
     ]
@@ -306,16 +257,16 @@
   "COGS 242": {
     "title": "Computational Approaches to Cognition",
     "prereqs": [
-      "COGS  101",
-      "COMP  157",
-      "COMP  161",
-      "COMP  165",
-      "COMP  211",
-      "MATH  186",
-      "MATH  210",
-      "MATH  214",
-      "MATH  252",
-      "PHIL  225"
+      "COGS 101",
+      "COMP 157",
+      "COMP 161",
+      "COMP 165",
+      "COMP 211",
+      "MATH 186",
+      "MATH 210",
+      "MATH 214",
+      "MATH 252",
+      "PHIL 225"
     ]
   },
   "COGS 390": {
@@ -328,51 +279,51 @@
   "CSLC 300": {
     "title": "Contemporary Theory and Literature",
     "prereqs": [
-      "CSLC  107",
-      "CSLC  108",
-      "CSLC  109",
-      "CSLC  112",
-      "CSLC  114",
-      "CSLC  115",
-      "CSLC  120",
-      "CSLC  131",
-      "CSLC  134",
-      "CSLC  135",
-      "CSLC  140",
-      "CSLC  142",
-      "CSLC  145",
-      "CSLC  150",
-      "CSLC  181",
-      "CSLC  182",
-      "CSLC  186",
-      "CSLC  187",
-      "CSLC  188",
-      "CSLC  200",
-      "CSLC  202",
-      "CSLC  204",
-      "CSLC  205",
-      "CSLC  210",
-      "CSLC  211",
-      "CSLC  220",
-      "CSLC  222",
-      "CSLC  223",
-      "CSLC  225",
-      "CSLC  226",
-      "CSLC  232",
-      "CSLC  233",
-      "CSLC  241",
-      "CSLC  246",
-      "CSLC  247",
-      "CSLC  251",
-      "CSLC  252",
-      "CSLC  280",
-      "CSLC  281",
-      "CSLC  282",
-      "CSLC  283",
-      "CSLC  284",
-      "CSLC  286",
-      "CSLC  295",
-      "CSLC  303"
+      "CSLC 107",
+      "CSLC 108",
+      "CSLC 109",
+      "CSLC 112",
+      "CSLC 114",
+      "CSLC 115",
+      "CSLC 120",
+      "CSLC 131",
+      "CSLC 134",
+      "CSLC 135",
+      "CSLC 140",
+      "CSLC 142",
+      "CSLC 145",
+      "CSLC 150",
+      "CSLC 181",
+      "CSLC 182",
+      "CSLC 186",
+      "CSLC 187",
+      "CSLC 188",
+      "CSLC 200",
+      "CSLC 202",
+      "CSLC 204",
+      "CSLC 205",
+      "CSLC 210",
+      "CSLC 211",
+      "CSLC 220",
+      "CSLC 222",
+      "CSLC 223",
+      "CSLC 225",
+      "CSLC 226",
+      "CSLC 232",
+      "CSLC 233",
+      "CSLC 241",
+      "CSLC 246",
+      "CSLC 247",
+      "CSLC 251",
+      "CSLC 252",
+      "CSLC 280",
+      "CSLC 281",
+      "CSLC 282",
+      "CSLC 283",
+      "CSLC 284",
+      "CSLC 286",
+      "CSLC 295",
+      "CSLC 303"
     ]
   },
   "COMP 229": {
@@ -401,8 +352,8 @@
   "CTSJ 300": {
     "title": "Research Methods and Critical Inquiry",
     "prereqs": [
-      "CTSJ  100",
-      "CTSJ  186"
+      "CTSJ 100",
+      "CTSJ 186"
     ]
   },
   "DWA 103": {
@@ -530,17 +481,17 @@
       "APEA",
       "APEI",
       "APST",
-      "COMP  146",
-      "ECON  102",
-      "MATH  146",
-      "UEP  305"
+      "COMP 146",
+      "ECON 102",
+      "MATH 146",
+      "UEP 305"
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Firm-Level International Trade and Investment",
+    "title": "Senior Seminar: Macroeconomic Policy since the Great Depression",
     "prereqs": [
-      "ECON  250",
-      "ECON  272"
+      "ECON 251",
+      "ECON 272"
     ]
   },
   "EDUC 300": {
@@ -613,66 +564,6 @@
       "CSP 8",
       "CSP 80",
       "CSP 9",
-      "FYS 1",
-      "FYS 10",
-      "FYS 11",
-      "FYS 12",
-      "FYS 13",
-      "FYS 14",
-      "FYS 15",
-      "FYS 16",
-      "FYS 17",
-      "FYS 18",
-      "FYS 19",
-      "FYS 2",
-      "FYS 20",
-      "FYS 21",
-      "FYS 22",
-      "FYS 23",
-      "FYS 24",
-      "FYS 25",
-      "FYS 26",
-      "FYS 27",
-      "FYS 28",
-      "FYS 3",
-      "FYS 4",
-      "FYS 5",
-      "FYS 50",
-      "FYS 50S",
-      "FYS 51",
-      "FYS 52",
-      "FYS 53",
-      "FYS 54",
-      "FYS 55",
-      "FYS 56",
-      "FYS 57",
-      "FYS 58",
-      "FYS 59",
-      "FYS 6",
-      "FYS 60",
-      "FYS 61",
-      "FYS 62",
-      "FYS 63",
-      "FYS 64",
-      "FYS 65",
-      "FYS 66",
-      "FYS 67",
-      "FYS 68",
-      "FYS 69",
-      "FYS 7",
-      "FYS 70",
-      "FYS 71",
-      "FYS 72",
-      "FYS 73",
-      "FYS 74",
-      "FYS 75",
-      "FYS 76",
-      "FYS 77",
-      "FYS 78",
-      "FYS 79",
-      "FYS 8",
-      "FYS 80",
-      "FYS 9",
       "WRD 201"
     ]
   },
@@ -791,7 +682,7 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  102",
+      "FREN 102",
       "OXFR"
     ]
   },
@@ -801,22 +692,22 @@
       "APFR",
       "FL",
       "FR",
-      "FREN  102",
+      "FREN 102",
       "OXFR"
     ]
   },
   "GEO 225": {
     "title": "Earth: A field perspective",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "GEO 105",
+      "GEO 106"
     ]
   },
   "GEO 245": {
     "title": "Earth's Climate: Past and Future",
     "prereqs": [
-      "GEO  105",
-      "GEO  106"
+      "GEO 105",
+      "GEO 106"
     ]
   },
   "GEO 395": {
@@ -830,14 +721,14 @@
     "title": "Intermediate German",
     "prereqs": [
       "APGE",
-      "GERM  102",
+      "GERM 102",
       "GL",
       "GM",
       "OXGE"
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium: Writing World History",
+    "title": "History Colloquium:Christianity and Politics in America since 1945",
     "prereqs": [
       "HIST 101",
       "HIST 102",
@@ -926,7 +817,7 @@
     "title": "Intermediate Japanese I",
     "prereqs": [
       "APJL",
-      "JAPN  102",
+      "JAPN 102",
       "JL",
       "OXJA"
     ]
@@ -934,7 +825,7 @@
   "JAPN 301": {
     "title": "Advanced Japanese I",
     "prereqs": [
-      "JAPN  202",
+      "JAPN 202",
       "OXJA"
     ]
   },
@@ -942,13 +833,13 @@
     "title": "Sport and Exercise Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "LATN 102": {
     "title": "Elementary and Intermediate Latin",
     "prereqs": [
-      "LATN  101",
+      "LATN 101",
       "OXLA"
     ]
   },
@@ -1005,7 +896,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -1014,7 +905,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -1022,7 +913,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1063,15 +954,15 @@
   "MATH 340": {
     "title": "Ordinary Differential Equations",
     "prereqs": [
-      "MATH  212",
-      "MATH  214"
+      "MATH 212",
+      "MATH 214"
     ]
   },
   "MATH 330": {
     "title": "Probability",
     "prereqs": [
-      "MATH  212",
-      "MATH  214"
+      "MATH 212",
+      "MATH 214"
     ]
   },
   "MAC 240": {
@@ -1085,15 +976,15 @@
   "MAC 491": {
     "title": "Senior Seminar in Media Production",
     "prereqs": [
-      "MAC  355",
-      "MAC  390"
+      "MAC 355",
+      "MAC 390"
     ]
   },
   "MUSC 249": {
     "title": "Recording Techniques",
     "prereqs": [
-      "MUSC  148",
-      "MUSC  247"
+      "MUSC 148",
+      "MUSC 247"
     ]
   },
   "MUSA 208": {
@@ -1109,71 +1000,71 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar: Philosophy of Food",
+    "title": "Philosophy Seminar",
     "prereqs": [
-      "PHIL  101",
-      "PHIL  150",
-      "PHIL  199",
-      "PHIL  205",
-      "PHIL  210",
-      "PHIL  211",
-      "PHIL  212",
-      "PHIL  215",
-      "PHIL  220",
-      "PHIL  221",
-      "PHIL  222",
-      "PHIL  223",
-      "PHIL  225",
-      "PHIL  230",
-      "PHIL  231",
-      "PHIL  232",
-      "PHIL  233",
-      "PHIL  235",
-      "PHIL  240",
-      "PHIL  241",
-      "PHIL  242",
-      "PHIL  243",
-      "PHIL  245",
-      "PHIL  250",
-      "PHIL  251",
-      "PHIL  255",
-      "PHIL  275",
-      "PHIL  285",
-      "PHIL  290",
-      "PHIL  295",
-      "PHIL  299",
-      "PHIL  300",
-      "PHIL  305",
-      "PHIL  308",
-      "PHIL  310",
-      "PHIL  311",
-      "PHIL  315",
-      "PHIL  317",
-      "PHIL  320",
-      "PHIL  321",
-      "PHIL  325",
-      "PHIL  330",
-      "PHIL  331",
-      "PHIL  333",
-      "PHIL  335",
-      "PHIL  340",
-      "PHIL  341",
-      "PHIL  342",
-      "PHIL  343",
-      "PHIL  344",
-      "PHIL  345",
-      "PHIL  346",
-      "PHIL  350",
-      "PHIL  353",
-      "PHIL  355",
-      "PHIL  360",
-      "PHIL  361",
-      "PHIL  365",
-      "PHIL  370",
-      "PHIL  375",
-      "PHIL  376",
-      "PHIL  380",
-      "PHIL  385"
+      "PHIL 101",
+      "PHIL 150",
+      "PHIL 199",
+      "PHIL 205",
+      "PHIL 210",
+      "PHIL 211",
+      "PHIL 212",
+      "PHIL 215",
+      "PHIL 220",
+      "PHIL 221",
+      "PHIL 222",
+      "PHIL 223",
+      "PHIL 225",
+      "PHIL 230",
+      "PHIL 231",
+      "PHIL 232",
+      "PHIL 233",
+      "PHIL 235",
+      "PHIL 240",
+      "PHIL 241",
+      "PHIL 242",
+      "PHIL 243",
+      "PHIL 245",
+      "PHIL 250",
+      "PHIL 251",
+      "PHIL 255",
+      "PHIL 275",
+      "PHIL 285",
+      "PHIL 290",
+      "PHIL 295",
+      "PHIL 299",
+      "PHIL 300",
+      "PHIL 305",
+      "PHIL 308",
+      "PHIL 310",
+      "PHIL 311",
+      "PHIL 315",
+      "PHIL 317",
+      "PHIL 320",
+      "PHIL 321",
+      "PHIL 325",
+      "PHIL 330",
+      "PHIL 331",
+      "PHIL 333",
+      "PHIL 335",
+      "PHIL 340",
+      "PHIL 341",
+      "PHIL 342",
+      "PHIL 343",
+      "PHIL 344",
+      "PHIL 345",
+      "PHIL 346",
+      "PHIL 350",
+      "PHIL 353",
+      "PHIL 355",
+      "PHIL 360",
+      "PHIL 361",
+      "PHIL 365",
+      "PHIL 370",
+      "PHIL 375",
+      "PHIL 376",
+      "PHIL 380",
+      "PHIL 385"
     ]
   },
   "PHYS 110": {
@@ -1181,10 +1072,10 @@
     "prereqs": [
       "APAB",
       "APCS",
-      "MATH  109",
-      "MATH  110",
-      "MATH  114",
-      "MATH  128",
+      "MATH 109",
+      "MATH 110",
+      "MATH 114",
+      "MATH 128",
       "OXMA",
       "OXME"
     ]
@@ -1192,15 +1083,15 @@
   "PHYS 350": {
     "title": "Statistical Physics",
     "prereqs": [
-      "PHYS  240",
-      "PHYS  310"
+      "PHYS 240",
+      "PHYS 310"
     ]
   },
   "PHYS 490": {
     "title": "Senior Physics Seminar I",
     "prereqs": [
-      "PHYS  240",
-      "PHYS  320"
+      "PHYS 240",
+      "PHYS 320"
     ]
   },
   "PHYS 115": {
@@ -1218,33 +1109,33 @@
     "prereqs": [
       "APBC",
       "APPM",
-      "MATH  120",
-      "MATH  128",
+      "MATH 120",
+      "MATH 128",
       "OXMA",
-      "PHYS  110",
-      "PHYS  115"
+      "PHYS 110",
+      "PHYS 115"
     ]
   },
   "PHYS 310": {
     "title": "Mathematical Methods in Physics",
     "prereqs": [
       "APPE",
-      "MATH  214",
+      "MATH 214",
       "OXPE",
-      "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS 117",
+      "PHYS 120",
+      "PHYS 230"
     ]
   },
   "PHYS 320": {
     "title": "Analytical Dynamics",
     "prereqs": [
       "APPE",
-      "MATH  214",
+      "MATH 214",
       "OXPE",
-      "PHYS  117",
-      "PHYS  120",
-      "PHYS  230"
+      "PHYS 117",
+      "PHYS 120",
+      "PHYS 230"
     ]
   },
   "PHYS 370": {
@@ -1267,15 +1158,15 @@
   "POLS 352": {
     "title": "Black Political Thought",
     "prereqs": [
-      "BLST  110",
-      "POLS  101"
+      "BLST 110",
+      "POLS 101"
     ]
   },
   "POLS 235": {
     "title": "United States Foreign Relations",
     "prereqs": [
-      "DWA  101",
-      "POLS  101"
+      "DWA 101",
+      "POLS 101"
     ]
   },
   "PSYC 200": {
@@ -1298,8 +1189,8 @@
     "title": "Cognitive Psychology",
     "prereqs": [
       "APPS",
-      "COGS  101",
-      "PSYC  101"
+      "COGS 101",
+      "PSYC 101"
     ]
   },
   "PSYC 321": {
@@ -1334,10 +1225,10 @@
   "PSYC 420": {
     "title": "Psychology of Addiction",
     "prereqs": [
-      "PSYC  200",
-      "PSYC  322",
-      "PSYC  330",
-      "PSYC  334"
+      "PSYC 200",
+      "PSYC 322",
+      "PSYC 330",
+      "PSYC 334"
     ]
   },
   "PSYC 448": {
@@ -1362,7 +1253,7 @@
     "title": "Physiological Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "PSYC 428": {
@@ -1375,22 +1266,24 @@
   "PUBH 301": {
     "title": "Women's Health",
     "prereqs": [
-      "PUBH  203",
-      "UEP  203"
+      "PUBH 203",
+      "UEP 203"
     ]
   },
   "RUSN 102": {
     "title": "Elementary Russian II",
     "prereqs": [
       "OXRU",
-      "RUSN  101"
+      "RUSN 101"
     ]
   },
   "SOC 250": {
     "title": "Race and Ethnicity in American Society",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 315": {
@@ -1427,7 +1320,9 @@
     "title": "Sociological Inquiry",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 321": {
@@ -1458,7 +1353,7 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "SPAN 201": {
@@ -1488,7 +1383,7 @@
       "OXSP",
       "SL",
       "SP",
-      "SPAN  102"
+      "SPAN 102"
     ]
   },
   "SPAN 304": {
@@ -1924,7 +1819,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Writing Trauma",
+    "title": "Special Topics in Critical Theory and Social Justice",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -2090,66 +1985,6 @@
       "CSP 8",
       "CSP 80",
       "CSP 9",
-      "FYS 1",
-      "FYS 10",
-      "FYS 11",
-      "FYS 12",
-      "FYS 13",
-      "FYS 14",
-      "FYS 15",
-      "FYS 16",
-      "FYS 17",
-      "FYS 18",
-      "FYS 19",
-      "FYS 2",
-      "FYS 20",
-      "FYS 21",
-      "FYS 22",
-      "FYS 23",
-      "FYS 24",
-      "FYS 25",
-      "FYS 26",
-      "FYS 27",
-      "FYS 28",
-      "FYS 3",
-      "FYS 4",
-      "FYS 5",
-      "FYS 50",
-      "FYS 50S",
-      "FYS 51",
-      "FYS 52",
-      "FYS 53",
-      "FYS 54",
-      "FYS 55",
-      "FYS 56",
-      "FYS 57",
-      "FYS 58",
-      "FYS 59",
-      "FYS 6",
-      "FYS 60",
-      "FYS 61",
-      "FYS 62",
-      "FYS 63",
-      "FYS 64",
-      "FYS 65",
-      "FYS 66",
-      "FYS 67",
-      "FYS 68",
-      "FYS 69",
-      "FYS 7",
-      "FYS 70",
-      "FYS 71",
-      "FYS 72",
-      "FYS 73",
-      "FYS 74",
-      "FYS 75",
-      "FYS 76",
-      "FYS 77",
-      "FYS 78",
-      "FYS 79",
-      "FYS 8",
-      "FYS 80",
-      "FYS 9",
       "WRD 201"
     ]
   },
@@ -2227,85 +2062,6 @@
       "GL",
       "GM",
       "OXGE"
-    ]
-  },
-  "HIST 385": {
-    "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
-    "prereqs": [
-      "HIST 101",
-      "HIST 102",
-      "HIST 121",
-      "HIST 122",
-      "HIST 125",
-      "HIST 141",
-      "HIST 142",
-      "HIST 150",
-      "HIST 151",
-      "HIST 182",
-      "HIST 183",
-      "HIST 190",
-      "HIST 191",
-      "HIST 200",
-      "HIST 206",
-      "HIST 208",
-      "HIST 209",
-      "HIST 210",
-      "HIST 211",
-      "HIST 212",
-      "HIST 213",
-      "HIST 215",
-      "HIST 216",
-      "HIST 220",
-      "HIST 224",
-      "HIST 226",
-      "HIST 230",
-      "HIST 234",
-      "HIST 235",
-      "HIST 236",
-      "HIST 237",
-      "HIST 242",
-      "HIST 243",
-      "HIST 245",
-      "HIST 246",
-      "HIST 247",
-      "HIST 248",
-      "HIST 249",
-      "HIST 251",
-      "HIST 252",
-      "HIST 253",
-      "HIST 258",
-      "HIST 271",
-      "HIST 274",
-      "HIST 277",
-      "HIST 278",
-      "HIST 282",
-      "HIST 283",
-      "HIST 295",
-      "HIST 300",
-      "HIST 304",
-      "HIST 309",
-      "HIST 311",
-      "HIST 312",
-      "HIST 316",
-      "HIST 328",
-      "HIST 330",
-      "HIST 336",
-      "HIST 338",
-      "HIST 344",
-      "HIST 345",
-      "HIST 346",
-      "HIST 348",
-      "HIST 354",
-      "HIST 355",
-      "HIST 357",
-      "HIST 358",
-      "HIST 359",
-      "HIST 376",
-      "HIST 390",
-      "HIST 395",
-      "HIST 397",
-      "HIST 490",
-      "HIST 495"
     ]
   },
   "HIST 348": {
@@ -2777,9 +2533,7 @@
     "title": "Gender and Society",
     "prereqs": [
       "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "SOC 101"
     ]
   },
   "SOC 306": {
@@ -2935,6 +2689,311 @@
     "prereqs": [
       "OXWF",
       "WRD 201"
+    ]
+  },
+  "AMST 320": {
+    "title": "Graphic Narratives: From Pulp Fiction to Comix Literature",
+    "prereqs": [
+      "AMST 101",
+      "AMST 111",
+      "AMST 215",
+      "AMST 240",
+      "AMST 242",
+      "AMST 246",
+      "AMST 260",
+      "AMST 270",
+      "AMST 272",
+      "AMST 280",
+      "AMST 290",
+      "AMST 295",
+      "AMST 310",
+      "AMST 346",
+      "AMST 375",
+      "AMST 390",
+      "AMST 490",
+      "DWA 246"
+    ]
+  },
+  "ARAB 102": {
+    "title": "Elementary Arabic II",
+    "prereqs": [
+      "ARAB 101",
+      "OXAR"
+    ]
+  },
+  "ARTH 391": {
+    "title": "Curatorial Seminar in Art History",
+    "prereqs": [
+      "ARTH 150",
+      "ARTH 160",
+      "ARTH 170",
+      "ARTH 180",
+      "ARTH 257",
+      "ARTH 266",
+      "ARTH 268",
+      "ARTH 275",
+      "ARTH 283",
+      "ARTH 285",
+      "ARTH 287",
+      "ARTH 288",
+      "ARTH 289",
+      "ARTH 295"
+    ]
+  },
+  "BIO 240": {
+    "title": "Vertebrate Physiology",
+    "prereqs": [
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
+  "BIO 330": {
+    "title": "Immunology",
+    "prereqs": [
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "COMP 352": {
+    "title": "Computability and Complexity",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210"
+    ]
+  },
+  "COMP 325": {
+    "title": "Topics in Artificial Intelligence",
+    "prereqs": [
+      "COMP 131",
+      "COMP 181",
+      "COMP 229"
+    ]
+  },
+  "COMP 353": {
+    "title": "Information Theory",
+    "prereqs": [
+      "COMP 149",
+      "MATH 214"
+    ]
+  },
+  "ECON 309": {
+    "title": "Free Market Economics: The Austrian Perspective",
+    "prereqs": [
+      "APEA",
+      "APEI",
+      "ECON 102"
+    ]
+  },
+  "ENGL 341": {
+    "title": "Race, Law, and Literature",
+    "prereqs": [
+      "ECLS 106",
+      "ECLS 186",
+      "ECLS 187",
+      "ECLS 188",
+      "ECLS 189",
+      "ECLS 205",
+      "ECLS 220",
+      "ECLS 241",
+      "ECLS 253",
+      "ECLS 255",
+      "ECLS 279",
+      "ECLS 286",
+      "ECLS 287",
+      "ECLS 288",
+      "ECLS 289",
+      "ECLS 290",
+      "ENGL 106",
+      "ENGL 189",
+      "ENGL 220",
+      "ENGL 267",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
+    ]
+  },
+  "ENGL 311": {
+    "title": "The Literature of Error: Romance and Genre",
+    "prereqs": [
+      "ENGL 189",
+      "ENGL 241",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
+    ]
+  },
+  "HIST 358": {
+    "title": "Food and Drink in Mexican History",
+    "prereqs": [
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "SOC 240",
+      "UEP 101"
+    ]
+  },
+  "LLAS 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101",
+      "SOC 101"
+    ]
+  },
+  "LLAS 358": {
+    "title": "Food and Drink in Mexican History",
+    "prereqs": [
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "SOC 240",
+      "UEP 101"
+    ]
+  },
+  "MATH 295": {
+    "title": "Topics in Mathematics",
+    "prereqs": [
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
+      "OXMA"
+    ]
+  },
+  "MATH 128": {
+    "title": "Calculus 2 (Advanced Placement)",
+    "prereqs": [
+      "APAB",
+      "APCS",
+      "OXMA"
+    ]
+  },
+  "MATH 362": {
+    "title": "Topology",
+    "prereqs": [
+      "MATH 210",
+      "MATH 212",
+      "MATH 214"
+    ]
+  },
+  "MUSC 261": {
+    "title": "Western Music and Culture: 1580-1829",
+    "prereqs": [
+      "MUSC 101",
+      "OXMT"
+    ]
+  },
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
+    "prereqs": [
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
+  "SOC 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 230": {
+    "title": "Marriage and Family",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 281": {
+    "title": "Criminology",
+    "prereqs": [
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 320": {
+    "title": "Health and Illness",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 240": {
+    "title": "Sociology of Food",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 370": {
+    "title": "The Jungle in Modern Latin American Literature",
+    "prereqs": [
+      "SPAN 301",
+      "SPAN 302",
+      "SPAN 303",
+      "SPAN 304",
+      "SPAN 309",
+      "SPAN 312",
+      "SPAN 313",
+      "SPAN 314",
+      "SPAN 316",
+      "SPAN 320",
+      "SPAN 340",
+      "SPAN 341",
+      "SPAN 342",
+      "SPAN 343",
+      "SPAN 351",
+      "SPAN 353",
+      "SPAN 362",
+      "SPAN 363",
+      "SPAN 377",
+      "SPAN 378",
+      "SPAN 379",
+      "SPAN 382",
+      "SPAN 383"
+    ]
+  },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "THEA 290": {
+    "title": "Topics in Performance: Generating Independent Theater",
+    "prereqs": [
+      "THEA 210",
+      "THEA 330",
+      "THEA 380"
+    ]
+  },
+  "THEA 325": {
+    "title": "Lighting Design",
+    "prereqs": [
+      "THEA 120",
+      "THEA 175"
     ]
   }
 }

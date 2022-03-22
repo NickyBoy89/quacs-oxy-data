@@ -5234,8 +5234,8 @@
                 ],
                 "instructor": "Carmel A Levitan",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 830,
+                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -5256,12 +5256,12 @@
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "W"
                 ],
                 "instructor": "Carmel A Levitan",
                 "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
+                "timeStart": 1330,
+                "timeEnd": 1650,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7058,71 +7058,11 @@
         ]
       },
       {
-        "title": "Special Topics in Critical Theory and Social Justice",
-        "subj": "CTSJ",
-        "crse": "395",
-        "id": "CTSJ-395",
-        "sections": [
-          {
-            "crn": 1761,
-            "subj": "CTSJ",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Critical Theory and Social Justice",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Roxane Gay",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Senior Seminar in Critical Theory - Social Justice",
         "subj": "CTSJ",
         "crse": "490",
         "id": "CTSJ-490",
         "sections": [
-          {
-            "crn": 1103,
-            "subj": "CTSJ",
-            "crse": "490",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Critical Theory - Social Justice",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1102,
             "subj": "CTSJ",
@@ -7141,6 +7081,32 @@
                   "T"
                 ],
                 "instructor": "Malek Moazzam-Doulat",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1103,
+            "subj": "CTSJ",
+            "crse": "490",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Critical Theory - Social Justice",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1915,
                 "timeEnd": 2210,
@@ -7303,33 +7269,6 @@
         "id": "DWA-101",
         "sections": [
           {
-            "crn": 1105,
-            "subj": "DWA",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Relations: The Changing Rules of the Game",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Igor Olegovich Logvinenko",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
             "crn": 1104,
             "subj": "DWA",
             "crse": "101",
@@ -7382,23 +7321,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "International Organizations",
-        "subj": "DWA",
-        "crse": "102",
-        "id": "DWA-102",
-        "sections": [
+          },
           {
-            "crn": 1107,
+            "crn": 1105,
             "subj": "DWA",
-            "crse": "102",
-            "sec": "00",
+            "crse": "101",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "International Organizations",
+            "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -7409,243 +7340,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Laura Hebert",
+                "instructor": "Igor Olegovich Logvinenko",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "International Development",
-        "subj": "DWA",
-        "crse": "221",
-        "id": "DWA-221",
-        "sections": [
-          {
-            "crn": 1756,
-            "subj": "DWA",
-            "crse": "221",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Development",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Southern African Politics",
-        "subj": "DWA",
-        "crse": "234",
-        "id": "DWA-234",
-        "sections": [
-          {
-            "crn": 1118,
-            "subj": "DWA",
-            "crse": "234",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Southern African Politics",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Movindri Reddy",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Social Movements in Comparative and Transnational Perspective",
-        "subj": "DWA",
-        "crse": "257",
-        "id": "DWA-257",
-        "sections": [
-          {
-            "crn": 1719,
-            "subj": "DWA",
-            "crse": "257",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Social Movements in Comparative and Transnational Perspective",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Claire Crawford",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Independent Study",
-        "subj": "DWA",
-        "crse": "297",
-        "id": "DWA-297",
-        "sections": [
-          {
-            "crn": 1720,
-            "subj": "DWA",
-            "crse": "297",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Independent Study",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Anthony Chase",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Junior Seminar: Human Rights and Trafficking in Persons",
-        "subj": "DWA",
-        "crse": "329",
-        "id": "DWA-329",
-        "sections": [
-          {
-            "crn": 1722,
-            "subj": "DWA",
-            "crse": "329",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Junior Seminar: Human Rights and Trafficking in Persons",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Laura Hebert",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics at the United Nations",
-        "subj": "DWA",
-        "crse": "401",
-        "id": "DWA-401",
-        "sections": [
-          {
-            "crn": 1126,
-            "subj": "DWA",
-            "crse": "401",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics at the United Nations",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Cynthia L. Rothschild",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The United Nations Experience",
-        "subj": "DWA",
-        "crse": "403",
-        "id": "DWA-403",
-        "sections": [
-          {
-            "crn": 1132,
-            "subj": "DWA",
-            "crse": "403",
-            "sec": "00",
-            "credMin": 8,
-            "credMax": 8,
-            "title": "The United Nations Experience",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jacques F Fomerand",
-                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7929,6 +7627,274 @@
             ]
           }
         ]
+      },
+      {
+        "title": "International Organizations",
+        "subj": "DWA",
+        "crse": "102",
+        "id": "DWA-102",
+        "sections": [
+          {
+            "crn": 1107,
+            "subj": "DWA",
+            "crse": "102",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Organizations",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Laura Hebert",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "International Development",
+        "subj": "DWA",
+        "crse": "221",
+        "id": "DWA-221",
+        "sections": [
+          {
+            "crn": 1756,
+            "subj": "DWA",
+            "crse": "221",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Development",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1650,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Southern African Politics",
+        "subj": "DWA",
+        "crse": "234",
+        "id": "DWA-234",
+        "sections": [
+          {
+            "crn": 1118,
+            "subj": "DWA",
+            "crse": "234",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Southern African Politics",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Movindri Reddy",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Social Movements in Comparative and Transnational Perspective",
+        "subj": "DWA",
+        "crse": "257",
+        "id": "DWA-257",
+        "sections": [
+          {
+            "crn": 1719,
+            "subj": "DWA",
+            "crse": "257",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Social Movements in Comparative and Transnational Perspective",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Claire Crawford",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Independent Study",
+        "subj": "DWA",
+        "crse": "297",
+        "id": "DWA-297",
+        "sections": [
+          {
+            "crn": 1720,
+            "subj": "DWA",
+            "crse": "297",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Independent Study",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Anthony Chase",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Junior Seminar: Human Rights and Trafficking in Persons",
+        "subj": "DWA",
+        "crse": "329",
+        "id": "DWA-329",
+        "sections": [
+          {
+            "crn": 1722,
+            "subj": "DWA",
+            "crse": "329",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Junior Seminar: Human Rights and Trafficking in Persons",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Laura Hebert",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Special Topics at the United Nations",
+        "subj": "DWA",
+        "crse": "401",
+        "id": "DWA-401",
+        "sections": [
+          {
+            "crn": 1126,
+            "subj": "DWA",
+            "crse": "401",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics at the United Nations",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Cynthia L. Rothschild",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The United Nations Experience",
+        "subj": "DWA",
+        "crse": "403",
+        "id": "DWA-403",
+        "sections": [
+          {
+            "crn": 1132,
+            "subj": "DWA",
+            "crse": "403",
+            "sec": "00",
+            "credMin": 8,
+            "credMax": 8,
+            "title": "The United Nations Experience",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jacques F Fomerand",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -7942,6 +7908,62 @@
         "crse": "101",
         "id": "ECON-101",
         "sections": [
+          {
+            "crn": 1136,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1140,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1135,
             "subj": "ECON",
@@ -8021,89 +8043,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1136,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 32,
-            "act": 0,
-            "rem": 32,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Victoria I. Umanskaya",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1140,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 32,
-            "act": 0,
-            "rem": 32,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Victoria I. Umanskaya",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1143,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "06",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 32,
-            "act": 0,
-            "rem": 32,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Bevin Meredith Ashenmiller",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13630,53 +13569,19 @@
         ]
       },
       {
-        "title": "Introduction to Media Practices",
+        "title": "Creating and Writing Television/Streaming Series",
         "subj": "MAC",
-        "crse": "240",
-        "id": "MAC-240",
+        "crse": "222",
+        "id": "MAC-222",
         "sections": [
           {
-            "crn": 1738,
+            "crn": 1810,
             "subj": "MAC",
-            "crse": "240",
+            "crse": "222",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Media Practices",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Vivian Wenli Lin",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Projects in Documentary Media",
-        "subj": "MAC",
-        "crse": "242",
-        "id": "MAC-242",
-        "sections": [
-          {
-            "crn": 1774,
-            "subj": "MAC",
-            "crse": "242",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Projects in Documentary Media",
+            "title": "Creating and Writing Television/Streaming Series",
             "cap": 14,
             "act": 0,
             "rem": 14,
@@ -13687,10 +13592,107 @@
                   "M",
                   "W"
                 ],
+                "instructor": "Aleem Hossain",
+                "location": "",
+                "timeStart": 800,
+                "timeEnd": 915,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Politics and Poetics of Documentary",
+        "subj": "MAC",
+        "crse": "241",
+        "id": "MAC-241",
+        "sections": [
+          {
+            "crn": 1739,
+            "subj": "MAC",
+            "crse": "241",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Politics and Poetics of Documentary",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Broderick B. Fox",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in Media Representation",
+        "subj": "MAC",
+        "crse": "244",
+        "id": "MAC-244",
+        "sections": [
+          {
+            "crn": 1811,
+            "subj": "MAC",
+            "crse": "244",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Media Representation",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Allison de Fren",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1740,
+            "subj": "MAC",
+            "crse": "244",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic in Media Representation: The Female in Japanese Film and Media",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
                 "instructor": "Vivian Wenli Lin",
                 "location": "",
-                "timeStart": 940,
-                "timeEnd": 1135,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13900,33 +13902,32 @@
         ]
       },
       {
-        "title": "The Politics and Poetics of Documentary",
+        "title": "Introduction to Media Practices",
         "subj": "MAC",
-        "crse": "241",
-        "id": "MAC-241",
+        "crse": "240",
+        "id": "MAC-240",
         "sections": [
           {
-            "crn": 1739,
+            "crn": 1738,
             "subj": "MAC",
-            "crse": "241",
+            "crse": "240",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "The Politics and Poetics of Documentary",
-            "cap": 20,
+            "title": "Introduction to Media Practices",
+            "cap": 14,
             "act": 0,
-            "rem": 20,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "T"
                 ],
-                "instructor": "Broderick B. Fox",
+                "instructor": "Vivian Wenli Lin",
                 "location": "",
                 "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13935,33 +13936,33 @@
         ]
       },
       {
-        "title": "Topic in Media Representation: The Female in Japanese Film and Media",
+        "title": "Projects in Documentary Media",
         "subj": "MAC",
-        "crse": "244",
-        "id": "MAC-244",
+        "crse": "242",
+        "id": "MAC-242",
         "sections": [
           {
-            "crn": 1740,
+            "crn": 1774,
             "subj": "MAC",
-            "crse": "244",
-            "sec": "02",
+            "crse": "242",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic in Media Representation: The Female in Japanese Film and Media",
-            "cap": 20,
+            "title": "Projects in Documentary Media",
+            "cap": 14,
             "act": 0,
-            "rem": 20,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Vivian Wenli Lin",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 940,
+                "timeEnd": 1135,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -18757,8 +18758,8 @@
             "subj": "PHYS",
             "crse": "269",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 2,
+            "credMax": 2,
             "title": "Special Topics in Physics I",
             "cap": 18,
             "act": 0,
@@ -19018,6 +19019,366 @@
         ]
       },
       {
+        "title": "The Politics of Crisis:  Pandemics and Other Disasters",
+        "subj": "POLS",
+        "crse": "220",
+        "id": "POLS-220",
+        "sections": [
+          {
+            "crn": 1812,
+            "subj": "POLS",
+            "crse": "220",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Politics of Crisis:  Pandemics and Other Disasters",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jennifer M. Piscopo",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "United States Foreign Relations",
+        "subj": "POLS",
+        "crse": "235",
+        "id": "POLS-235",
+        "sections": [
+          {
+            "crn": 1348,
+            "subj": "POLS",
+            "crse": "235",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "United States Foreign Relations",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mariano Bertucci",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Campaign Fieldwork Internship",
+        "subj": "POLS",
+        "crse": "270",
+        "id": "POLS-270",
+        "sections": [
+          {
+            "crn": 1351,
+            "subj": "POLS",
+            "crse": "270",
+            "sec": "00",
+            "credMin": 8,
+            "credMax": 8,
+            "title": "Campaign Fieldwork Internship",
+            "cap": 60,
+            "act": 0,
+            "rem": 60,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Peter Dreier",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Independent Study on Political Campaigns",
+        "subj": "POLS",
+        "crse": "272",
+        "id": "POLS-272",
+        "sections": [
+          {
+            "crn": 1355,
+            "subj": "POLS",
+            "crse": "272",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Independent Study on Political Campaigns",
+            "cap": 60,
+            "act": 0,
+            "rem": 60,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Peter Dreier",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Seminar in Political Leadership",
+        "subj": "POLS",
+        "crse": "281",
+        "id": "POLS-281",
+        "sections": [
+          {
+            "crn": 1791,
+            "subj": "POLS",
+            "crse": "281",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Seminar in Political Leadership",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Seminar in Washington Politics: Global Public Health Policy",
+        "subj": "POLS",
+        "crse": "283",
+        "id": "POLS-283",
+        "sections": [
+          {
+            "crn": 1793,
+            "subj": "POLS",
+            "crse": "283",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Seminar in Washington Politics: Global Public Health Policy",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+        "subj": "POLS",
+        "crse": "285",
+        "id": "POLS-285",
+        "sections": [
+          {
+            "crn": 1795,
+            "subj": "POLS",
+            "crse": "285",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topic in Politics: Mass Incarceration, Race, and Health Justice",
+        "subj": "POLS",
+        "crse": "295",
+        "id": "POLS-295",
+        "sections": [
+          {
+            "crn": 1356,
+            "subj": "POLS",
+            "crse": "295",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic in Politics: Mass Incarceration, Race, and Health Justice",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Thalia N.C. Gonzalez",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Black Political Thought",
+        "subj": "POLS",
+        "crse": "352",
+        "id": "POLS-352",
+        "sections": [
+          {
+            "crn": 1358,
+            "subj": "POLS",
+            "crse": "352",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Black Political Thought",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Regina Freer",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Political Theory",
+        "subj": "POLS",
+        "crse": "150",
+        "id": "POLS-150",
+        "sections": [
+          {
+            "crn": 1342,
+            "subj": "POLS",
+            "crse": "150",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Political Theory",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Alec Arellano",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Los Angeles Politics",
+        "subj": "POLS",
+        "crse": "207",
+        "id": "POLS-207",
+        "sections": [
+          {
+            "crn": 1346,
+            "subj": "POLS",
+            "crse": "207",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Los Angeles Politics",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Regina Freer",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Contemporary Chinese Politics",
         "subj": "POLS",
         "crse": "226",
@@ -19221,358 +19582,6 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Seminar in Washington Politics: International and Foreign Policy Studies",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Politics",
-        "subj": "POLS",
-        "crse": "295",
-        "id": "POLS-295",
-        "sections": [
-          {
-            "crn": 1746,
-            "subj": "POLS",
-            "crse": "295",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Politics",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jennifer M. Piscopo",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1356,
-            "subj": "POLS",
-            "crse": "295",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topic in Politics: Mass Incarceration, Race, and Health Justice",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Thalia N.C. Gonzalez",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Black Political Thought",
-        "subj": "POLS",
-        "crse": "352",
-        "id": "POLS-352",
-        "sections": [
-          {
-            "crn": 1358,
-            "subj": "POLS",
-            "crse": "352",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Black Political Thought",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Regina Freer",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Political Theory",
-        "subj": "POLS",
-        "crse": "150",
-        "id": "POLS-150",
-        "sections": [
-          {
-            "crn": 1342,
-            "subj": "POLS",
-            "crse": "150",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Political Theory",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Alec Arellano",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Los Angeles Politics",
-        "subj": "POLS",
-        "crse": "207",
-        "id": "POLS-207",
-        "sections": [
-          {
-            "crn": 1346,
-            "subj": "POLS",
-            "crse": "207",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Los Angeles Politics",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Regina Freer",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "United States Foreign Relations",
-        "subj": "POLS",
-        "crse": "235",
-        "id": "POLS-235",
-        "sections": [
-          {
-            "crn": 1348,
-            "subj": "POLS",
-            "crse": "235",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "United States Foreign Relations",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mariano Bertucci",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Campaign Fieldwork Internship",
-        "subj": "POLS",
-        "crse": "270",
-        "id": "POLS-270",
-        "sections": [
-          {
-            "crn": 1351,
-            "subj": "POLS",
-            "crse": "270",
-            "sec": "00",
-            "credMin": 8,
-            "credMax": 8,
-            "title": "Campaign Fieldwork Internship",
-            "cap": 60,
-            "act": 0,
-            "rem": 60,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Peter Dreier",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Independent Study on Political Campaigns",
-        "subj": "POLS",
-        "crse": "272",
-        "id": "POLS-272",
-        "sections": [
-          {
-            "crn": 1355,
-            "subj": "POLS",
-            "crse": "272",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Independent Study on Political Campaigns",
-            "cap": 60,
-            "act": 0,
-            "rem": 60,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Peter Dreier",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Seminar in Political Leadership",
-        "subj": "POLS",
-        "crse": "281",
-        "id": "POLS-281",
-        "sections": [
-          {
-            "crn": 1791,
-            "subj": "POLS",
-            "crse": "281",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Seminar in Political Leadership",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Seminar in Washington Politics: Global Public Health Policy",
-        "subj": "POLS",
-        "crse": "283",
-        "id": "POLS-283",
-        "sections": [
-          {
-            "crn": 1793,
-            "subj": "POLS",
-            "crse": "283",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Seminar in Washington Politics: Global Public Health Policy",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
-        "subj": "POLS",
-        "crse": "285",
-        "id": "POLS-285",
-        "sections": [
-          {
-            "crn": 1795,
-            "subj": "POLS",
-            "crse": "285",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
             "cap": 16,
             "act": 0,
             "rem": 16,

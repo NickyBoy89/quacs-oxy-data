@@ -2323,22 +2323,6 @@
       }
     }
   },
-  "1143": {
-    "reserved": [
-      {
-        "max": 17,
-        "open": 17,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1144": {
     "prerequisites": {
       "nested": [
@@ -16276,15 +16260,6 @@
       }
     }
   },
-  "1746": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1750": {
     "restrictions": {
       "classification": {
@@ -16420,68 +16395,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "1761": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ 100",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 102",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 104",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 105",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 107",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 108",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 115",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 120",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 140",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 160",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 180",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 195",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -17304,6 +17217,43 @@
         "max": 5,
         "open": 5,
         "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1810": {
+    "reserved": [
+      {
+        "max": 8,
+        "open": 8,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1811": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 8,
+        "open": 8,
+        "reservedFor": "Major"
       }
     ],
     "restrictions": {

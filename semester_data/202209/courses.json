@@ -6987,56 +6987,22 @@
         ]
       },
       {
-        "title": "Inequity and the Law",
+        "title": "Stupidity",
         "subj": "CTSJ",
-        "crse": "221",
-        "id": "CTSJ-221",
+        "crse": "180",
+        "id": "CTSJ-180",
         "sections": [
           {
-            "crn": 1098,
+            "crn": 1097,
             "subj": "CTSJ",
-            "crse": "221",
+            "crse": "180",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Inequity and the Law",
-            "cap": 20,
+            "title": "Stupidity",
+            "cap": 25,
             "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Marisol Leon",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Bataille",
-        "subj": "CTSJ",
-        "crse": "384",
-        "id": "CTSJ-384",
-        "sections": [
-          {
-            "crn": 1101,
-            "subj": "CTSJ",
-            "crse": "384",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Bataille",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -7046,8 +7012,77 @@
                 ],
                 "instructor": "G. Elmer Griffin",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Research Methods and Critical Inquiry",
+        "subj": "CTSJ",
+        "crse": "300",
+        "id": "CTSJ-300",
+        "sections": [
+          {
+            "crn": 1100,
+            "subj": "CTSJ",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Research Methods and Critical Inquiry",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Special Topics in Critical Theory and Social Justice",
+        "subj": "CTSJ",
+        "crse": "395",
+        "id": "CTSJ-395",
+        "sections": [
+          {
+            "crn": 1838,
+            "subj": "CTSJ",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in Critical Theory and Social Justice",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Claire Crawford",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7152,22 +7187,90 @@
         ]
       },
       {
-        "title": "Stupidity",
+        "title": "Power and Politics",
         "subj": "CTSJ",
-        "crse": "180",
-        "id": "CTSJ-180",
+        "crse": "120",
+        "id": "CTSJ-120",
         "sections": [
           {
-            "crn": 1097,
+            "crn": 1837,
             "subj": "CTSJ",
-            "crse": "180",
+            "crse": "120",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Stupidity",
+            "title": "Power and Politics",
             "cap": 25,
             "act": 0,
             "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Claire Crawford",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Inequity and the Law",
+        "subj": "CTSJ",
+        "crse": "221",
+        "id": "CTSJ-221",
+        "sections": [
+          {
+            "crn": 1098,
+            "subj": "CTSJ",
+            "crse": "221",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Inequity and the Law",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Marisol Leon",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bataille",
+        "subj": "CTSJ",
+        "crse": "384",
+        "id": "CTSJ-384",
+        "sections": [
+          {
+            "crn": 1101,
+            "subj": "CTSJ",
+            "crse": "384",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Bataille",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -7177,43 +7280,8 @@
                 ],
                 "instructor": "G. Elmer Griffin",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Research Methods and Critical Inquiry",
-        "subj": "CTSJ",
-        "crse": "300",
-        "id": "CTSJ-300",
-        "sections": [
-          {
-            "crn": 1100,
-            "subj": "CTSJ",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Research Methods and Critical Inquiry",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7913,7 +7981,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Daron O. Djerdjian",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
@@ -9307,8 +9375,8 @@
                 ],
                 "instructor": "Ross B. Lerner",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -12162,32 +12230,33 @@
         ]
       },
       {
-        "title": "Senior Seminar",
+        "title": "Food and Drink in Mexican History",
         "subj": "LLAS",
-        "crse": "490",
-        "id": "LLAS-490",
+        "crse": "358",
+        "id": "LLAS-358",
         "sections": [
           {
-            "crn": 1253,
+            "crn": 1252,
             "subj": "LLAS",
-            "crse": "490",
+            "crse": "358",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Senior Seminar",
-            "cap": 25,
+            "title": "Food and Drink in Mexican History",
+            "cap": 16,
             "act": 0,
-            "rem": 25,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Dolores Trevizo",
+                "instructor": "Alexandra M. Puerto",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -12336,33 +12405,67 @@
         ]
       },
       {
-        "title": "Food and Drink in Mexican History",
+        "title": "Human Rights in Colombia: Comparative Perspectives",
         "subj": "LLAS",
-        "crse": "358",
-        "id": "LLAS-358",
+        "crse": "261",
+        "id": "LLAS-261",
         "sections": [
           {
-            "crn": 1252,
+            "crn": 1839,
             "subj": "LLAS",
-            "crse": "358",
+            "crse": "261",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Food and Drink in Mexican History",
-            "cap": 16,
+            "title": "Human Rights in Colombia: Comparative Perspectives",
+            "cap": 25,
             "act": 0,
-            "rem": 16,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "instructor": "Alexandra M. Puerto",
+                "instructor": "Anthony Chase",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar",
+        "subj": "LLAS",
+        "crse": "490",
+        "id": "LLAS-490",
+        "sections": [
+          {
+            "crn": 1253,
+            "subj": "LLAS",
+            "crse": "490",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Dolores Trevizo",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -12382,34 +12485,6 @@
         "crse": "301",
         "id": "LING-301",
         "sections": [
-          {
-            "crn": 1245,
-            "subj": "LING",
-            "crse": "301",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Linguistics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mariska A Bolyanatz Brown",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1244,
             "subj": "LING",
@@ -12437,6 +12512,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1245,
+            "subj": "LING",
+            "crse": "301",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Linguistics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mariska A Bolyanatz Brown",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       }
@@ -12447,22 +12550,22 @@
     "code": "MATH",
     "courses": [
       {
-        "title": "Unified Precalculus and Calculus 1-A",
+        "title": "Mathematics as a Liberal Art",
         "subj": "MATH",
-        "crse": "108",
-        "id": "MATH-108",
+        "crse": "105",
+        "id": "MATH-105",
         "sections": [
           {
-            "crn": 1591,
+            "crn": 1590,
             "subj": "MATH",
-            "crse": "108",
-            "sec": "01",
+            "crse": "105",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Unified Precalculus and Calculus 1-A",
-            "cap": 35,
+            "title": "Mathematics as a Liberal Art",
+            "cap": 25,
             "act": 0,
-            "rem": 35,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -12471,7 +12574,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Nishu Lal",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
@@ -12479,7 +12582,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Unified Precalculus and Calculus 1-A",
+        "subj": "MATH",
+        "crse": "108",
+        "id": "MATH-108",
+        "sections": [
           {
             "crn": 1592,
             "subj": "MATH",
@@ -12507,6 +12618,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1591,
+            "subj": "MATH",
+            "crse": "108",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Unified Precalculus and Calculus 1-A",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -12516,32 +12655,6 @@
         "crse": "108A",
         "id": "MATH-108A",
         "sections": [
-          {
-            "crn": 1593,
-            "subj": "MATH",
-            "crse": "108A",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Unified Precalculus and Calculus 1-A Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Nishu Lal",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1594,
             "subj": "MATH",
@@ -12567,15 +12680,93 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1593,
+            "subj": "MATH",
+            "crse": "108A",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Unified Precalculus and Calculus 1-A Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Calculus 1",
+        "title": "Calculus 1 Laboratory",
         "subj": "MATH",
         "crse": "110",
         "id": "MATH-110",
         "sections": [
+          {
+            "crn": 1596,
+            "subj": "MATH",
+            "crse": "110",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 1 Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "James L. Brown",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1598,
+            "subj": "MATH",
+            "crse": "110",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 1 Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1595,
             "subj": "MATH",
@@ -12631,41 +12822,23 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Calculus 1 (Advanced) Laboratory",
+        "subj": "MATH",
+        "crse": "114",
+        "id": "MATH-114",
+        "sections": [
           {
-            "crn": 1596,
+            "crn": 1600,
             "subj": "MATH",
-            "crse": "110",
+            "crse": "114",
             "sec": "1-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Calculus 1 Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "James L. Brown",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1598,
-            "subj": "MATH",
-            "crse": "110",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1 Laboratory",
+            "title": "Calculus 1 (Advanced) Laboratory",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12675,7 +12848,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Ramin Naimi",
+                "instructor": "Jeffrey S. Miller",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -12683,15 +12856,7 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 1 (Advanced)",
-        "subj": "MATH",
-        "crse": "114",
-        "id": "MATH-114",
-        "sections": [
+          },
           {
             "crn": 1599,
             "subj": "MATH",
@@ -12719,97 +12884,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
-          {
-            "crn": 1600,
-            "subj": "MATH",
-            "crse": "114",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1 (Advanced) Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
           }
         ]
       },
       {
-        "title": "Calculus 2",
+        "title": "Calculus 2 Laboratory",
         "subj": "MATH",
         "crse": "120",
         "id": "MATH-120",
         "sections": [
-          {
-            "crn": 1601,
-            "subj": "MATH",
-            "crse": "120",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Calculus 2",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1603,
-            "subj": "MATH",
-            "crse": "120",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Calculus 2",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1602,
             "subj": "MATH",
@@ -12861,23 +12944,43 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 2 (Advanced Placement)",
-        "subj": "MATH",
-        "crse": "128",
-        "id": "MATH-128",
-        "sections": [
+          },
           {
-            "crn": 1605,
+            "crn": 1601,
             "subj": "MATH",
-            "crse": "128",
+            "crse": "120",
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Calculus 2 (Advanced Placement)",
+            "title": "Calculus 2",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1603,
+            "subj": "MATH",
+            "crse": "120",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 2",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12893,282 +12996,6 @@
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Creative Problem-Solving",
-        "subj": "MATH",
-        "crse": "160",
-        "id": "MATH-160",
-        "sections": [
-          {
-            "crn": 1607,
-            "subj": "MATH",
-            "crse": "160",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Creative Problem-Solving",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Tamas Lengyel",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Multivariable Calculus",
-        "subj": "MATH",
-        "crse": "212",
-        "id": "MATH-212",
-        "sections": [
-          {
-            "crn": 1609,
-            "subj": "MATH",
-            "crse": "212",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Multivariable Calculus",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Tamas Lengyel",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Linear Algebra",
-        "subj": "MATH",
-        "crse": "214",
-        "id": "MATH-214",
-        "sections": [
-          {
-            "crn": 1611,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1610,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Treena Basu",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Junior Colloquium",
-        "subj": "MATH",
-        "crse": "300",
-        "id": "MATH-300",
-        "sections": [
-          {
-            "crn": 1613,
-            "subj": "MATH",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Junior Colloquium",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "James L. Brown",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Probability",
-        "subj": "MATH",
-        "crse": "330",
-        "id": "MATH-330",
-        "sections": [
-          {
-            "crn": 1615,
-            "subj": "MATH",
-            "crse": "330",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Probability",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Tamas Lengyel",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topology",
-        "subj": "MATH",
-        "crse": "362",
-        "id": "MATH-362",
-        "sections": [
-          {
-            "crn": 1617,
-            "subj": "MATH",
-            "crse": "362",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topology",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ramin Naimi",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Mathematics as a Liberal Art",
-        "subj": "MATH",
-        "crse": "105",
-        "id": "MATH-105",
-        "sections": [
-          {
-            "crn": 1590,
-            "subj": "MATH",
-            "crse": "105",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Mathematics as a Liberal Art",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13239,6 +13066,70 @@
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Linear Algebra",
+        "subj": "MATH",
+        "crse": "214",
+        "id": "MATH-214",
+        "sections": [
+          {
+            "crn": 1610,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Treena Basu",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1611,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeffrey S. Miller",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13387,6 +13278,218 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Calculus 2 (Advanced Placement)",
+        "subj": "MATH",
+        "crse": "128",
+        "id": "MATH-128",
+        "sections": [
+          {
+            "crn": 1605,
+            "subj": "MATH",
+            "crse": "128",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 2 (Advanced Placement)",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creative Problem-Solving",
+        "subj": "MATH",
+        "crse": "160",
+        "id": "MATH-160",
+        "sections": [
+          {
+            "crn": 1607,
+            "subj": "MATH",
+            "crse": "160",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Creative Problem-Solving",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Tamas Lengyel",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Multivariable Calculus",
+        "subj": "MATH",
+        "crse": "212",
+        "id": "MATH-212",
+        "sections": [
+          {
+            "crn": 1609,
+            "subj": "MATH",
+            "crse": "212",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Multivariable Calculus",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Tamas Lengyel",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Junior Colloquium",
+        "subj": "MATH",
+        "crse": "300",
+        "id": "MATH-300",
+        "sections": [
+          {
+            "crn": 1613,
+            "subj": "MATH",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Junior Colloquium",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "James L. Brown",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Probability",
+        "subj": "MATH",
+        "crse": "330",
+        "id": "MATH-330",
+        "sections": [
+          {
+            "crn": 1615,
+            "subj": "MATH",
+            "crse": "330",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Probability",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Tamas Lengyel",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topology",
+        "subj": "MATH",
+        "crse": "362",
+        "id": "MATH-362",
+        "sections": [
+          {
+            "crn": 1617,
+            "subj": "MATH",
+            "crse": "362",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topology",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -13394,6 +13497,339 @@
     "name": "Media Arts and Culture",
     "code": "MAC",
     "courses": [
+      {
+        "title": "Introduction to Visual and Critical Studies",
+        "subj": "MAC",
+        "crse": "143",
+        "id": "MAC-143",
+        "sections": [
+          {
+            "crn": 1734,
+            "subj": "MAC",
+            "crse": "143",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Visual and Critical Studies",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Katarzyna Marciniak",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Motion Design",
+        "subj": "MAC",
+        "crse": "210",
+        "id": "MAC-210",
+        "sections": [
+          {
+            "crn": 1736,
+            "subj": "MAC",
+            "crse": "210",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Motion Design",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Diana Lee Keeler",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creating and Writing Television/Streaming Series",
+        "subj": "MAC",
+        "crse": "222",
+        "id": "MAC-222",
+        "sections": [
+          {
+            "crn": 1810,
+            "subj": "MAC",
+            "crse": "222",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Creating and Writing Television/Streaming Series",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Aleem Hossain",
+                "location": "",
+                "timeStart": 800,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Politics and Poetics of Documentary",
+        "subj": "MAC",
+        "crse": "241",
+        "id": "MAC-241",
+        "sections": [
+          {
+            "crn": 1739,
+            "subj": "MAC",
+            "crse": "241",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Politics and Poetics of Documentary",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Broderick B. Fox",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topic in Media Representation - From Cyborgs to Siri: Gender, Technology and Media",
+        "subj": "MAC",
+        "crse": "244",
+        "id": "MAC-244",
+        "sections": [
+          {
+            "crn": 1811,
+            "subj": "MAC",
+            "crse": "244",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic in Media Representation - From Cyborgs to Siri: Gender, Technology and Media",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Allison de Fren",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1740,
+            "subj": "MAC",
+            "crse": "244",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic in Media Representation - The Female in Japanese Film and Media",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Vivian Wenli Lin",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topic:Hlth/Illness/Wellb/Story",
+        "subj": "MAC",
+        "crse": "247",
+        "id": "MAC-247",
+        "sections": [
+          {
+            "crn": 1840,
+            "subj": "MAC",
+            "crse": "247",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic:Hlth/Illness/Wellb/Story",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Amanda Ann Tasse",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar in Critical Media",
+        "subj": "MAC",
+        "crse": "490",
+        "id": "MAC-490",
+        "sections": [
+          {
+            "crn": 1742,
+            "subj": "MAC",
+            "crse": "490",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Critical Media",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Katarzyna Marciniak",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar in Media Production",
+        "subj": "MAC",
+        "crse": "491",
+        "id": "MAC-491",
+        "sections": [
+          {
+            "crn": 1776,
+            "subj": "MAC",
+            "crse": "491",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Media Production",
+            "cap": 9,
+            "act": 0,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Amanda Ann Tasse",
+                "location": "",
+                "timeStart": 930,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1775,
+            "subj": "MAC",
+            "crse": "491",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Media Production",
+            "cap": 9,
+            "act": 0,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Broderick B. Fox",
+                "location": "",
+                "timeStart": 930,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Introduction to Digital Design",
         "subj": "MAC",
@@ -13560,304 +13996,6 @@
                 "location": "",
                 "timeStart": 940,
                 "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topic in Media Representation - The Female in Japanese Film and Media",
-        "subj": "MAC",
-        "crse": "244",
-        "id": "MAC-244",
-        "sections": [
-          {
-            "crn": 1740,
-            "subj": "MAC",
-            "crse": "244",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topic in Media Representation - The Female in Japanese Film and Media",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Vivian Wenli Lin",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1811,
-            "subj": "MAC",
-            "crse": "244",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topic in Media Representation - From Cyborgs to Siri: Gender, Technology and Media",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Allison de Fren",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1700,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Senior Seminar in Critical Media",
-        "subj": "MAC",
-        "crse": "490",
-        "id": "MAC-490",
-        "sections": [
-          {
-            "crn": 1742,
-            "subj": "MAC",
-            "crse": "490",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Critical Media",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Katarzyna Marciniak",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Senior Seminar in Media Production",
-        "subj": "MAC",
-        "crse": "491",
-        "id": "MAC-491",
-        "sections": [
-          {
-            "crn": 1776,
-            "subj": "MAC",
-            "crse": "491",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Media Production",
-            "cap": 9,
-            "act": 0,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Amanda Ann Tasse",
-                "location": "",
-                "timeStart": 930,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1775,
-            "subj": "MAC",
-            "crse": "491",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Media Production",
-            "cap": 9,
-            "act": 0,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Broderick B. Fox",
-                "location": "",
-                "timeStart": 930,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Visual and Critical Studies",
-        "subj": "MAC",
-        "crse": "143",
-        "id": "MAC-143",
-        "sections": [
-          {
-            "crn": 1734,
-            "subj": "MAC",
-            "crse": "143",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Visual and Critical Studies",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Katarzyna Marciniak",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Motion Design",
-        "subj": "MAC",
-        "crse": "210",
-        "id": "MAC-210",
-        "sections": [
-          {
-            "crn": 1736,
-            "subj": "MAC",
-            "crse": "210",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Introduction to Motion Design",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Diana Lee Keeler",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Creating and Writing Television/Streaming Series",
-        "subj": "MAC",
-        "crse": "222",
-        "id": "MAC-222",
-        "sections": [
-          {
-            "crn": 1810,
-            "subj": "MAC",
-            "crse": "222",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Creating and Writing Television/Streaming Series",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Aleem Hossain",
-                "location": "",
-                "timeStart": 800,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Politics and Poetics of Documentary",
-        "subj": "MAC",
-        "crse": "241",
-        "id": "MAC-241",
-        "sections": [
-          {
-            "crn": 1739,
-            "subj": "MAC",
-            "crse": "241",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Politics and Poetics of Documentary",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Broderick B. Fox",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -18495,8 +18633,8 @@
                 ],
                 "instructor": "Alec J. Schramm",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 830,
+                "timeEnd": 955,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

@@ -2323,6 +2323,15 @@
       }
     }
   },
+  "1143": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "1144": {
     "prerequisites": {
       "nested": [
@@ -3736,37 +3745,6 @@
         }
       ],
       "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1159": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "APEI",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "ECON 102",
-              "type": "course"
-            },
-            {
-              "course": "APEA",
-              "type": "course"
-            }
-          ],
-          "type": "or"
-        }
-      ],
-      "type": "and"
     },
     "restrictions": {
       "classification": {
@@ -6166,22 +6144,6 @@
       {
         "max": 5,
         "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1232": {
-    "reserved": [
-      {
-        "max": 10,
-        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -10058,24 +10020,6 @@
       }
     }
   },
-  "1365": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "OXRU",
-          "type": "course"
-        }
-      ],
-      "type": ""
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1366": {
     "reserved": [
       {
@@ -10928,44 +10872,6 @@
         ],
         "must_be": [
           "Senior"
-        ]
-      }
-    }
-  },
-  "1400": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 340",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "PSYC 201",
-              "type": "course"
-            },
-            {
-              "course": "PSYC 321",
-              "type": "course"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -15939,15 +15845,6 @@
       }
     }
   },
-  "1720": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1721": {
     "restrictions": {
       "classification": {
@@ -16086,15 +15983,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "1732": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -17302,6 +17190,93 @@
     }
   },
   "1812": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1837": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1838": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "CTSJ 100",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 102",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 104",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 105",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 107",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 108",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 115",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 120",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 140",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 160",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 180",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 195",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1839": {
     "restrictions": {
       "classification": {
         "may_not_be": [

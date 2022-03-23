@@ -5260,7 +5260,7 @@
                 ],
                 "instructor": "Carmel A Levitan",
                 "location": "",
-                "timeStart": 1330,
+                "timeStart": 1355,
                 "timeEnd": 1650,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -17896,9 +17896,15 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
                 "instructor": "Carolyn J. Brighouse",
                 "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

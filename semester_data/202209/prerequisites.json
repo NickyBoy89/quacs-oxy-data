@@ -14743,6 +14743,12 @@
     }
   },
   "1658": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146",
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -14752,6 +14758,12 @@
     }
   },
   "1659": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146",
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15803,6 +15815,11 @@
     }
   },
   "1709": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15812,6 +15829,11 @@
     }
   },
   "1710": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15821,6 +15843,11 @@
     }
   },
   "1711": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15830,6 +15857,11 @@
     }
   },
   "1712": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COMP-146"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

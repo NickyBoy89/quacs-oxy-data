@@ -13699,7 +13699,7 @@
         ]
       },
       {
-        "title": "Topic:Hlth/Illness/Wellb/Story",
+        "title": "Topic in Animation & Visual Effects: Representing Health, Illness, & Well-being Through Storytelling",
         "subj": "MAC",
         "crse": "247",
         "id": "MAC-247",
@@ -13711,7 +13711,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic:Hlth/Illness/Wellb/Story",
+            "title": "Topic in Animation & Visual Effects: Representing Health, Illness, & Well-being Through Storytelling",
             "cap": 16,
             "act": 0,
             "rem": 16,
@@ -18255,6 +18255,312 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Physical Activities",
+    "code": "PHAC",
+    "courses": [
+      {
+        "title": "Dance Team",
+        "subj": "PHAC",
+        "crse": "125",
+        "id": "PHAC-125",
+        "sections": [
+          {
+            "crn": 1842,
+            "subj": "PHAC",
+            "crse": "125",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Dance Team",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Cori K. Vallembois",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1841,
+            "subj": "PHAC",
+            "crse": "125",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Dance Team",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Cori K. Vallembois",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Spin Class I",
+        "subj": "PHAC",
+        "crse": "128",
+        "id": "PHAC-128",
+        "sections": [
+          {
+            "crn": 1844,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Spin Class I",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1843,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Spin Class I",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Beginning Yoga",
+        "subj": "PHAC",
+        "crse": "134",
+        "id": "PHAC-134",
+        "sections": [
+          {
+            "crn": 1846,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Beginning Yoga",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1000,
+                "timeEnd": 1055,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1848,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Beginning Yoga",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1300,
+                "timeEnd": 1355,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1845,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Beginning Yoga",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1000,
+                "timeEnd": 1055,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1847,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Beginning Yoga",
+            "cap": 22,
+            "act": 0,
+            "rem": 22,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1300,
+                "timeEnd": 1355,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Karate",
+        "subj": "PHAC",
+        "crse": "149",
+        "id": "PHAC-149",
+        "sections": [
+          {
+            "crn": 1850,
+            "subj": "PHAC",
+            "crse": "149",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Karate",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Victor Chico",
+                "location": "",
+                "timeStart": 1710,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1849,
+            "subj": "PHAC",
+            "crse": "149",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Karate",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Victor Chico",
+                "location": "",
+                "timeStart": 1710,
+                "timeEnd": 1825,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

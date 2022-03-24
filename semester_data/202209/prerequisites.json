@@ -15265,32 +15265,6 @@
       }
     }
   },
-  "1695": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 2,
-        "open": 2,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1697": {
     "prerequisites": {
       "nested": [
@@ -17533,6 +17507,108 @@
         "reservedFor": "Major"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1867": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1868": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1869": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310L"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior",
+          "Junior"
+        ]
+      }
+    }
+  },
+  "1870": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1871": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1872": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "OXRU",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

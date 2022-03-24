@@ -896,7 +896,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -905,7 +905,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -913,7 +913,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1218,8 +1218,8 @@
     "title": "Organizational Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101",
-      "PSYC  102"
+      "PSYC 101",
+      "PSYC 102"
     ]
   },
   "PSYC 420": {
@@ -1819,7 +1819,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Writing Trauma",
+    "title": "Special Topics in Critical Theory and Social Justice",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -2818,14 +2818,6 @@
       "UEP 101"
     ]
   },
-  "LLAS 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "POLS 101",
-      "SOC 101"
-    ]
-  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -2834,6 +2826,23 @@
       "LLAS 101",
       "SOC 240",
       "UEP 101"
+    ]
+  },
+  "LLAS 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101",
+      "SOC 101"
+    ]
+  },
+  "MATH 295": {
+    "title": "Topics in Mathematics",
+    "prereqs": [
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
+      "OXMA"
     ]
   },
   "MATH 128": {
@@ -2852,20 +2861,20 @@
       "MATH 214"
     ]
   },
-  "MATH 295": {
-    "title": "Topics in Mathematics",
-    "prereqs": [
-      "MATH 120",
-      "MATH 124",
-      "MATH 128",
-      "OXMA"
-    ]
-  },
   "MUSC 261": {
     "title": "Western Music and Culture: 1580-1829",
     "prereqs": [
       "MUSC 101",
       "OXMT"
+    ]
+  },
+  "SOC 240": {
+    "title": "Sociology of Food",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 210": {
@@ -2905,13 +2914,12 @@
       "SOC 105"
     ]
   },
-  "SOC 240": {
-    "title": "Sociology of Food",
+  "SPAN 342": {
+    "title": "Spanish in the United States",
     "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 370": {
@@ -2940,14 +2948,6 @@
       "SPAN 379",
       "SPAN 382",
       "SPAN 383"
-    ]
-  },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
     ]
   },
   "THEA 290": {

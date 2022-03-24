@@ -16254,15 +16254,6 @@
       }
     }
   },
-  "1754": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1755": {
     "restrictions": {
       "classification": {
@@ -16320,6 +16311,68 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "1761": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "CTSJ 100",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 102",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 104",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 105",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 107",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 108",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 115",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 120",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 140",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 160",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 180",
+          "type": "course"
+        },
+        {
+          "course": "CTSJ 195",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }
@@ -17214,68 +17267,6 @@
       }
     }
   },
-  "1838": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ 100",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 102",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 104",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 105",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 107",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 108",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 115",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 120",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 140",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 160",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 180",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 195",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1839": {
     "restrictions": {
       "classification": {
@@ -17351,6 +17342,201 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "1847": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1848": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1849": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1850": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1851": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1852": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1853": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1854": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1855": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1856": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1857": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1858": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1859": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1860": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1861": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1862": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1864": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1865": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1866": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 7,
+        "open": 7,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

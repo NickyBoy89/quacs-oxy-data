@@ -17643,5 +17643,39 @@
         ]
       }
     }
+  },
+  "1878": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 127",
+          "type": "course"
+        },
+        {
+          "course": "COMP 131",
+          "type": "course"
+        },
+        {
+          "course": "COMP 211",
+          "type": "course"
+        },
+        {
+          "course": "COMP 229",
+          "type": "course"
+        },
+        {
+          "course": "APCA",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

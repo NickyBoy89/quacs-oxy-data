@@ -488,9 +488,9 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Industrial Organization",
+    "title": "Senior Seminar: Macroeconomic Policy since the Great Depression",
     "prereqs": [
-      "ECON 250",
+      "ECON 251",
       "ECON 272"
     ]
   },
@@ -896,7 +896,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -905,7 +905,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -913,7 +913,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1000,7 +1000,7 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar",
+    "title": "Sem:InBetween/Outside/USRace",
     "prereqs": [
       "PHIL 101",
       "PHIL 150",
@@ -2761,13 +2761,6 @@
       "BIO 226"
     ]
   },
-  "COMP 352": {
-    "title": "Computability and Complexity",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210"
-    ]
-  },
   "COMP 325": {
     "title": "Topics in Artificial Intelligence",
     "prereqs": [
@@ -2783,24 +2776,19 @@
       "MATH 214"
     ]
   },
+  "COMP 352": {
+    "title": "Computability and Complexity",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210"
+    ]
+  },
   "ECON 309": {
     "title": "Free Market Economics: The Austrian Perspective",
     "prereqs": [
       "APEA",
       "APEI",
       "ECON 102"
-    ]
-  },
-  "ENGL 311": {
-    "title": "The Literature of Error: Romance and Genre",
-    "prereqs": [
-      "ENGL 189",
-      "ENGL 241",
-      "ENGL 280",
-      "ENGL 287",
-      "ENGL 288",
-      "ENGL 289",
-      "ENGL 290"
     ]
   },
   "ENGL 341": {
@@ -2833,7 +2821,29 @@
       "ENGL 290"
     ]
   },
+  "ENGL 311": {
+    "title": "The Literature of Error: Romance and Genre",
+    "prereqs": [
+      "ENGL 189",
+      "ENGL 241",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
+    ]
+  },
   "HIST 358": {
+    "title": "Food and Drink in Mexican History",
+    "prereqs": [
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "SOC 240",
+      "UEP 101"
+    ]
+  },
+  "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
       "HIST 150",
@@ -2851,14 +2861,13 @@
       "SOC 101"
     ]
   },
-  "LLAS 358": {
-    "title": "Food and Drink in Mexican History",
+  "MATH 295": {
+    "title": "Topics in Mathematics",
     "prereqs": [
-      "HIST 150",
-      "HIST 151",
-      "LLAS 101",
-      "SOC 240",
-      "UEP 101"
+      "MATH 120",
+      "MATH 124",
+      "MATH 128",
+      "OXMA"
     ]
   },
   "MATH 128": {
@@ -2877,29 +2886,11 @@
       "MATH 214"
     ]
   },
-  "MATH 295": {
-    "title": "Topics in Mathematics",
-    "prereqs": [
-      "MATH 120",
-      "MATH 124",
-      "MATH 128",
-      "OXMA"
-    ]
-  },
   "MUSC 261": {
     "title": "Western Music and Culture: 1580-1829",
     "prereqs": [
       "MUSC 101",
       "OXMT"
-    ]
-  },
-  "SOC 240": {
-    "title": "Sociology of Food",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
     ]
   },
   "SOC 210": {
@@ -2939,12 +2930,13 @@
       "SOC 105"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
+  "SOC 240": {
+    "title": "Sociology of Food",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 321": {
@@ -2980,6 +2972,14 @@
       "SPAN 379",
       "SPAN 382",
       "SPAN 383"
+    ]
+  },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 290": {

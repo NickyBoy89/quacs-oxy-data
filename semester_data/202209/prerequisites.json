@@ -17379,22 +17379,6 @@
       }
     }
   },
-  "1867": {
-    "reserved": [
-      {
-        "max": 10,
-        "open": 10,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1868": {
     "restrictions": {
       "classification": {
@@ -17636,6 +17620,22 @@
       ],
       "type": "or"
     },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1877": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

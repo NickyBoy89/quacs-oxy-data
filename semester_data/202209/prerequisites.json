@@ -205,8 +205,8 @@
   "1017": {
     "reserved": [
       {
-        "max": 7,
-        "open": 7,
+        "max": 22,
+        "open": 22,
         "reservedFor": "Frosh"
       }
     ],
@@ -1153,91 +1153,6 @@
       }
     }
   },
-  "1061": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-370L"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "BIO 260",
-          "type": "course"
-        },
-        {
-          "course": "BIO 270",
-          "type": "course"
-        },
-        {
-          "course": "GEO 225",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1062": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-370"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "BIO 260",
-          "type": "course"
-        },
-        {
-          "course": "BIO 270",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1063": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-370"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "BIO 260",
-          "type": "course"
-        },
-        {
-          "course": "BIO 270",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1064": {
     "restrictions": {
       "classification": {
@@ -1782,22 +1697,6 @@
     }
   },
   "1111": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1114": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -9632,32 +9531,6 @@
       }
     }
   },
-  "1344": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SPAN 202",
-          "type": "course"
-        },
-        {
-          "course": "SPAN 211",
-          "type": "course"
-        },
-        {
-          "course": "OXSE",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1346": {
     "restrictions": {
       "classification": {
@@ -9892,15 +9765,6 @@
         "POLS-271"
       ]
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1356": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -17613,6 +17477,169 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1873": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ARTS 210",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "ARTS 102",
+              "type": "course"
+            },
+            {
+              "course": "OXAS",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1874": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 221",
+          "type": "course"
+        },
+        {
+          "course": "BIO 224",
+          "type": "course"
+        },
+        {
+          "course": "BIO 240",
+          "type": "course"
+        },
+        {
+          "course": "BIO 250",
+          "type": "course"
+        },
+        {
+          "course": "BIO 260",
+          "type": "course"
+        },
+        {
+          "course": "BIO 279",
+          "type": "course"
+        },
+        {
+          "course": "BIO 320",
+          "type": "course"
+        },
+        {
+          "course": "BIO 322",
+          "type": "course"
+        },
+        {
+          "course": "BIO 323",
+          "type": "course"
+        },
+        {
+          "course": "BIO 325",
+          "type": "course"
+        },
+        {
+          "course": "BIO 326",
+          "type": "course"
+        },
+        {
+          "course": "BIO 330",
+          "type": "course"
+        },
+        {
+          "course": "BIO 333",
+          "type": "course"
+        },
+        {
+          "course": "BIO 340",
+          "type": "course"
+        },
+        {
+          "course": "BIO 344",
+          "type": "course"
+        },
+        {
+          "course": "BIO 356",
+          "type": "course"
+        },
+        {
+          "course": "BIO 368",
+          "type": "course"
+        },
+        {
+          "course": "BIO 369",
+          "type": "course"
+        },
+        {
+          "course": "BIO 377",
+          "type": "course"
+        },
+        {
+          "course": "BIO 380",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1875": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1876": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN 202",
+          "type": "course"
+        },
+        {
+          "course": "SPAN 211",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

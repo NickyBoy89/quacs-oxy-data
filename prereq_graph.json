@@ -66,8 +66,8 @@
   "BIO 370L": {
     "title": "Field Ecology Laboratory",
     "prereqs": [
-      "BIO 260",
-      "BIO 270"
+      "BIO  260",
+      "BIO  270"
     ]
   },
   "BIO 250": {
@@ -109,9 +109,9 @@
   "BIO 370": {
     "title": "Field Ecology",
     "prereqs": [
-      "BIO 260",
-      "BIO 270",
-      "GEO 225"
+      "BIO  260",
+      "BIO  270",
+      "GEO  225"
     ]
   },
   "BLST 352": {
@@ -2717,6 +2717,31 @@
       "ARTH 295"
     ]
   },
+  "BIO 390": {
+    "title": "Special Topics in Biology",
+    "prereqs": [
+      "BIO 221",
+      "BIO 224",
+      "BIO 240",
+      "BIO 250",
+      "BIO 260",
+      "BIO 279",
+      "BIO 320",
+      "BIO 322",
+      "BIO 323",
+      "BIO 325",
+      "BIO 326",
+      "BIO 330",
+      "BIO 333",
+      "BIO 340",
+      "BIO 344",
+      "BIO 356",
+      "BIO 368",
+      "BIO 369",
+      "BIO 377",
+      "BIO 380"
+    ]
+  },
   "BIO 240": {
     "title": "Vertebrate Physiology",
     "prereqs": [
@@ -2736,6 +2761,13 @@
       "BIO 226"
     ]
   },
+  "COMP 352": {
+    "title": "Computability and Complexity",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210"
+    ]
+  },
   "COMP 325": {
     "title": "Topics in Artificial Intelligence",
     "prereqs": [
@@ -2749,13 +2781,6 @@
     "prereqs": [
       "COMP 149",
       "MATH 214"
-    ]
-  },
-  "COMP 352": {
-    "title": "Computability and Complexity",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210"
     ]
   },
   "ECON 309": {
@@ -2868,6 +2893,15 @@
       "OXMT"
     ]
   },
+  "SOC 240": {
+    "title": "Sociology of Food",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
   "SOC 210": {
     "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
@@ -2905,13 +2939,19 @@
       "SOC 105"
     ]
   },
-  "SOC 240": {
-    "title": "Sociology of Food",
+  "SPAN 342": {
+    "title": "Spanish in the United States",
     "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 321": {
+    "title": "Spanish Culture during Francoism",
+    "prereqs": [
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 370": {
@@ -2940,14 +2980,6 @@
       "SPAN 379",
       "SPAN 382",
       "SPAN 383"
-    ]
-  },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
     ]
   },
   "THEA 290": {

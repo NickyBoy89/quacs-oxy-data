@@ -2869,14 +2869,6 @@
       "OXMA"
     ]
   },
-  "MATH 362": {
-    "title": "Topology",
-    "prereqs": [
-      "MATH 210",
-      "MATH 212",
-      "MATH 214"
-    ]
-  },
   "MATH 295": {
     "title": "Topics in Mathematics",
     "prereqs": [
@@ -2886,20 +2878,19 @@
       "OXMA"
     ]
   },
+  "MATH 362": {
+    "title": "Topology",
+    "prereqs": [
+      "MATH 210",
+      "MATH 212",
+      "MATH 214"
+    ]
+  },
   "MUSC 261": {
     "title": "Western Music and Culture: 1580-1829",
     "prereqs": [
       "MUSC 101",
       "OXMT"
-    ]
-  },
-  "SOC 240": {
-    "title": "Sociology of Food",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
     ]
   },
   "SOC 210": {
@@ -2939,12 +2930,13 @@
       "SOC 105"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
+  "SOC 240": {
+    "title": "Sociology of Food",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 321": {
@@ -2980,6 +2972,14 @@
       "SPAN 379",
       "SPAN 382",
       "SPAN 383"
+    ]
+  },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 290": {

@@ -896,7 +896,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -905,7 +905,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -913,7 +913,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -2843,14 +2843,6 @@
       "UEP 101"
     ]
   },
-  "LLAS 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "POLS 101",
-      "SOC 101"
-    ]
-  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -2861,20 +2853,19 @@
       "UEP 101"
     ]
   },
+  "LLAS 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101",
+      "SOC 101"
+    ]
+  },
   "MATH 128": {
     "title": "Calculus 2 (Advanced Placement)",
     "prereqs": [
       "APAB",
       "APCS",
-      "OXMA"
-    ]
-  },
-  "MATH 295": {
-    "title": "Topics in Mathematics",
-    "prereqs": [
-      "MATH 120",
-      "MATH 124",
-      "MATH 128",
       "OXMA"
     ]
   },

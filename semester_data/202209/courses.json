@@ -686,33 +686,6 @@
         "id": "ARTS-102",
         "sections": [
           {
-            "crn": 1116,
-            "subj": "ARTS",
-            "crse": "102",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Painting Fundamentals",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Susanna Maing",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
             "crn": 1117,
             "subj": "ARTS",
             "crse": "102",
@@ -738,6 +711,33 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1116,
+            "subj": "ARTS",
+            "crse": "102",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Painting Fundamentals",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Susanna Maing",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -747,33 +747,6 @@
         "crse": "103",
         "id": "ARTS-103",
         "sections": [
-          {
-            "crn": 1119,
-            "subj": "ARTS",
-            "crse": "103",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sculpture Fundamentals",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mary Beth Heffernan",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1121,
             "subj": "ARTS",
@@ -800,6 +773,33 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1119,
+            "subj": "ARTS",
+            "crse": "103",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sculpture Fundamentals",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mary Beth Heffernan",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -809,33 +809,6 @@
         "crse": "105",
         "id": "ARTS-105",
         "sections": [
-          {
-            "crn": 1124,
-            "subj": "ARTS",
-            "crse": "105",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Printmaking Fundamentals: Relief and Intaglio",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Camilla Taylor",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1125,
             "subj": "ARTS",
@@ -862,23 +835,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Digital Photography",
-        "subj": "ARTS",
-        "crse": "107",
-        "id": "ARTS-107",
-        "sections": [
+          },
           {
-            "crn": 1127,
+            "crn": 1124,
             "subj": "ARTS",
-            "crse": "107",
+            "crse": "105",
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Digital Photography",
+            "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -886,40 +851,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "instructor": "David K. Weldzius",
+                "instructor": "Camilla Taylor",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1128,
-            "subj": "ARTS",
-            "crse": "107",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Digital Photography",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "David K. Weldzius",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1555,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -1031,33 +969,33 @@
         ]
       },
       {
-        "title": "OxyArts Collaborate Workshop",
+        "title": "Digital Photography",
         "subj": "ARTS",
-        "crse": "100",
-        "id": "ARTS-100",
+        "crse": "107",
+        "id": "ARTS-107",
         "sections": [
           {
-            "crn": 1111,
+            "crn": 1127,
             "subj": "ARTS",
-            "crse": "100",
-            "sec": "00",
+            "crse": "107",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "OxyArts Collaborate Workshop",
-            "cap": 12,
+            "title": "Digital Photography",
+            "cap": 18,
             "act": 0,
-            "rem": 12,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Patricia Yossen",
+                "instructor": "David K. Weldzius",
                 "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1800,
+                "timeStart": 900,
+                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -3198,57 +3136,22 @@
         ]
       },
       {
-        "title": "Topics in Black Studies",
+        "title": "Black Political Thought",
         "subj": "BLST",
-        "crse": "295",
-        "id": "BLST-295",
+        "crse": "352",
+        "id": "BLST-352",
         "sections": [
           {
-            "crn": 1011,
+            "crn": 1012,
             "subj": "BLST",
-            "crse": "295",
+            "crse": "352",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Black Studies",
-            "cap": 25,
+            "title": "Black Political Thought",
+            "cap": 18,
             "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in Black Studies",
-        "subj": "BLST",
-        "crse": "395",
-        "id": "BLST-395",
-        "sections": [
-          {
-            "crn": 1013,
-            "subj": "BLST",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Black Studies",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -3256,10 +3159,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Regina Freer",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -3331,41 +3234,6 @@
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Black Political Thought",
-        "subj": "BLST",
-        "crse": "352",
-        "id": "BLST-352",
-        "sections": [
-          {
-            "crn": 1012,
-            "subj": "BLST",
-            "crse": "352",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Black Political Thought",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Regina Freer",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -10481,41 +10349,6 @@
         ]
       },
       {
-        "title": "Rage, Rave, and Revolution: German Literature and Philosophy Post-1945",
-        "subj": "GERM",
-        "crse": "322",
-        "id": "GERM-322",
-        "sections": [
-          {
-            "crn": 1241,
-            "subj": "GERM",
-            "crse": "322",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Rage, Rave, and Revolution: German Literature and Philosophy Post-1945",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Stephen Klemm",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Elementary German I",
         "subj": "GERM",
         "crse": "101",
@@ -10594,41 +10427,6 @@
     "code": "GRK",
     "courses": [
       {
-        "title": "Love's Song: A Poetic Philosophic History",
-        "subj": "GRK",
-        "crse": "382",
-        "id": "GRK-382",
-        "sections": [
-          {
-            "crn": 1797,
-            "subj": "GRK",
-            "crse": "382",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Love's Song: A Poetic Philosophic History",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Sydney Keiko Mitsunaga-Whitten",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Elementary Greek",
         "subj": "GRK",
         "crse": "102",
@@ -10663,6 +10461,41 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Love's Song: A Poetic Philosophic History",
+        "subj": "GRK",
+        "crse": "382",
+        "id": "GRK-382",
+        "sections": [
+          {
+            "crn": 1797,
+            "subj": "GRK",
+            "crse": "382",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Love's Song: A Poetic Philosophic History",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Sydney Keiko Mitsunaga-Whitten",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -10676,33 +10509,6 @@
         "crse": "121",
         "id": "HIST-121",
         "sections": [
-          {
-            "crn": 1269,
-            "subj": "HIST",
-            "crse": "121",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Antiquity to 1700: Europe and the Middle East",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Maryanne Horowitz",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1212,
             "subj": "HIST",
@@ -10729,6 +10535,33 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1269,
+            "subj": "HIST",
+            "crse": "121",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Antiquity to 1700: Europe and the Middle East",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Maryanne Horowitz",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -10738,34 +10571,6 @@
         "crse": "141",
         "id": "HIST-141",
         "sections": [
-          {
-            "crn": 1271,
-            "subj": "HIST",
-            "crse": "141",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "East Asian Survey",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alexander F. Day",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1270,
             "subj": "HIST",
@@ -10793,6 +10598,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1271,
+            "subj": "HIST",
+            "crse": "141",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "East Asian Survey",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -10802,33 +10635,6 @@
         "crse": "150",
         "id": "HIST-150",
         "sections": [
-          {
-            "crn": 1273,
-            "subj": "HIST",
-            "crse": "150",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Colonial Latin America",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lisa Sousa",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1272,
             "subj": "HIST",
@@ -10855,195 +10661,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "The United States in the World Since 1900",
-        "subj": "HIST",
-        "crse": "209",
-        "id": "HIST-209",
-        "sections": [
+          },
           {
-            "crn": 1275,
+            "crn": 1273,
             "subj": "HIST",
-            "crse": "209",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The United States in the World Since 1900",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jane H. Hong",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Resistance and the Politics of Style: U.S. Counter-Culture of the 1960s",
-        "subj": "HIST",
-        "crse": "217",
-        "id": "HIST-217",
-        "sections": [
-          {
-            "crn": 1726,
-            "subj": "HIST",
-            "crse": "217",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Resistance and the Politics of Style: U.S. Counter-Culture of the 1960s",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Jonathan A. Veitch",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Health on the Move: Immigrant and Refugee Resilience",
-        "subj": "HIST",
-        "crse": "259",
-        "id": "HIST-259",
-        "sections": [
-          {
-            "crn": 1727,
-            "subj": "HIST",
-            "crse": "259",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health on the Move: Immigrant and Refugee Resilience",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Alexandra M. Puerto",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Medicine and Disease in Western Society",
-        "subj": "HIST",
-        "crse": "274",
-        "id": "HIST-274",
-        "sections": [
-          {
-            "crn": 1279,
-            "subj": "HIST",
-            "crse": "274",
+            "crse": "150",
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Medicine and Disease in Western Society",
-            "cap": 25,
+            "title": "Colonial Latin America",
+            "cap": 30,
             "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Nina R. Gelbart",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1278,
-            "subj": "HIST",
-            "crse": "274",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Medicine and Disease in Western Society",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Nina R. Gelbart",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "History Colloquium:Christianity and Politics in America since 1945",
-        "subj": "HIST",
-        "crse": "300",
-        "id": "HIST-300",
-        "sections": [
-          {
-            "crn": 1280,
-            "subj": "HIST",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "History Colloquium:Christianity and Politics in America since 1945",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
+            "rem": 30,
             "attribute": "",
             "timeslots": [
               {
@@ -11051,45 +10680,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Jane H. Hong",
+                "instructor": "Lisa Sousa",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
-        "subj": "HIST",
-        "crse": "385",
-        "id": "HIST-385",
-        "sections": [
-          {
-            "crn": 1282,
-            "subj": "HIST",
-            "crse": "385",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Michael E. Gasper",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -11204,6 +10798,70 @@
         ]
       },
       {
+        "title": "Medicine and Disease in Western Society",
+        "subj": "HIST",
+        "crse": "274",
+        "id": "HIST-274",
+        "sections": [
+          {
+            "crn": 1278,
+            "subj": "HIST",
+            "crse": "274",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Medicine and Disease in Western Society",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nina R. Gelbart",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1279,
+            "subj": "HIST",
+            "crse": "274",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Medicine and Disease in Western Society",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nina R. Gelbart",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Topics in History",
         "subj": "HIST",
         "crse": "295",
@@ -11307,6 +10965,181 @@
             ]
           }
         ]
+      },
+      {
+        "title": "The United States in the World Since 1900",
+        "subj": "HIST",
+        "crse": "209",
+        "id": "HIST-209",
+        "sections": [
+          {
+            "crn": 1275,
+            "subj": "HIST",
+            "crse": "209",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The United States in the World Since 1900",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jane H. Hong",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Resistance and the Politics of Style: U.S. Counter-Culture of the 1960s",
+        "subj": "HIST",
+        "crse": "217",
+        "id": "HIST-217",
+        "sections": [
+          {
+            "crn": 1726,
+            "subj": "HIST",
+            "crse": "217",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Resistance and the Politics of Style: U.S. Counter-Culture of the 1960s",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Jonathan A. Veitch",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health on the Move: Immigrant and Refugee Resilience",
+        "subj": "HIST",
+        "crse": "259",
+        "id": "HIST-259",
+        "sections": [
+          {
+            "crn": 1727,
+            "subj": "HIST",
+            "crse": "259",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health on the Move: Immigrant and Refugee Resilience",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Alexandra M. Puerto",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "History Colloquium:Christianity and Politics in America since 1945",
+        "subj": "HIST",
+        "crse": "300",
+        "id": "HIST-300",
+        "sections": [
+          {
+            "crn": 1280,
+            "subj": "HIST",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "History Colloquium:Christianity and Politics in America since 1945",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jane H. Hong",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
+        "subj": "HIST",
+        "crse": "385",
+        "id": "HIST-385",
+        "sections": [
+          {
+            "crn": 1282,
+            "subj": "HIST",
+            "crse": "385",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Michael E. Gasper",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11314,78 +11147,6 @@
     "name": "Japanese",
     "code": "JAPN",
     "courses": [
-      {
-        "title": "Elementary Japanese I",
-        "subj": "JAPN",
-        "crse": "101",
-        "id": "JAPN-101",
-        "sections": [
-          {
-            "crn": 1265,
-            "subj": "JAPN",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Elementary Japanese I",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mia Lewis",
-                "location": "",
-                "timeStart": 905,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Japanese I",
-        "subj": "JAPN",
-        "crse": "301",
-        "id": "JAPN-301",
-        "sections": [
-          {
-            "crn": 1267,
-            "subj": "JAPN",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Japanese I",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Yuki Taylor",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Intermediate Japanese I",
         "subj": "JAPN",
@@ -11457,6 +11218,78 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Elementary Japanese I",
+        "subj": "JAPN",
+        "crse": "101",
+        "id": "JAPN-101",
+        "sections": [
+          {
+            "crn": 1265,
+            "subj": "JAPN",
+            "crse": "101",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Elementary Japanese I",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mia Lewis",
+                "location": "",
+                "timeStart": 905,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Japanese I",
+        "subj": "JAPN",
+        "crse": "301",
+        "id": "JAPN-301",
+        "sections": [
+          {
+            "crn": 1267,
+            "subj": "JAPN",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Japanese I",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Yuki Taylor",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11464,6 +11297,317 @@
     "name": "Kinesiology",
     "code": "KINE",
     "courses": [
+      {
+        "title": "Community Health and Fitness Research",
+        "subj": "KINE",
+        "crse": "298",
+        "id": "KINE-298",
+        "sections": [
+          {
+            "crn": 1433,
+            "subj": "KINE",
+            "crse": "298",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Health and Fitness Research",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Marcella Ann Raney",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Human Anatomy I Laboratory",
+        "subj": "KINE",
+        "crse": "300L",
+        "id": "KINE-300L",
+        "sections": [
+          {
+            "crn": 1435,
+            "subj": "KINE",
+            "crse": "300L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy I Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Stuart G. Rugg",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1436,
+            "subj": "KINE",
+            "crse": "300L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy I Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Stuart G. Rugg",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Human Anatomy II",
+        "subj": "KINE",
+        "crse": "301",
+        "id": "KINE-301",
+        "sections": [
+          {
+            "crn": 1437,
+            "subj": "KINE",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Human Anatomy II",
+            "cap": 28,
+            "act": 0,
+            "rem": 28,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Marcella Ann Raney",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Human Anatomy II Laboratory",
+        "subj": "KINE",
+        "crse": "301L",
+        "id": "KINE-301L",
+        "sections": [
+          {
+            "crn": 1439,
+            "subj": "KINE",
+            "crse": "301L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy II Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1438,
+            "subj": "KINE",
+            "crse": "301L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Human Anatomy II Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Motor Learning and Control",
+        "subj": "KINE",
+        "crse": "310",
+        "id": "KINE-310",
+        "sections": [
+          {
+            "crn": 1441,
+            "subj": "KINE",
+            "crse": "310",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Motor Learning and Control",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Melinda Houston",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Motor Learning and Control Laboratory",
+        "subj": "KINE",
+        "crse": "310L",
+        "id": "KINE-310L",
+        "sections": [
+          {
+            "crn": 1443,
+            "subj": "KINE",
+            "crse": "310L",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Motor Learning and Control Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Melinda Houston",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1650,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1442,
+            "subj": "KINE",
+            "crse": "310L",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Motor Learning and Control Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Melinda Houston",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1650,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Internship",
+        "subj": "KINE",
+        "crse": "396",
+        "id": "KINE-396",
+        "sections": [
+          {
+            "crn": 1445,
+            "subj": "KINE",
+            "crse": "396",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Internship",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Kirk Richard Bentzen",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Introduction to Kinesiology",
         "subj": "KINE",
@@ -11536,126 +11680,6 @@
         ]
       },
       {
-        "title": "Human Anatomy I Laboratory",
-        "subj": "KINE",
-        "crse": "300L",
-        "id": "KINE-300L",
-        "sections": [
-          {
-            "crn": 1436,
-            "subj": "KINE",
-            "crse": "300L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy I Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Stuart G. Rugg",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1435,
-            "subj": "KINE",
-            "crse": "300L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy I Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Stuart G. Rugg",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Human Anatomy II Laboratory",
-        "subj": "KINE",
-        "crse": "301L",
-        "id": "KINE-301L",
-        "sections": [
-          {
-            "crn": 1438,
-            "subj": "KINE",
-            "crse": "301L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy II Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1439,
-            "subj": "KINE",
-            "crse": "301L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Human Anatomy II Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Exercise Physiology",
         "subj": "KINE",
         "crse": "305",
@@ -11684,66 +11708,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Motor Learning and Control Laboratory",
-        "subj": "KINE",
-        "crse": "310L",
-        "id": "KINE-310L",
-        "sections": [
-          {
-            "crn": 1442,
-            "subj": "KINE",
-            "crse": "310L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Motor Learning and Control Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Melinda Houston",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1443,
-            "subj": "KINE",
-            "crse": "310L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Motor Learning and Control Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Melinda Houston",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -11815,137 +11779,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Community Health and Fitness Research",
-        "subj": "KINE",
-        "crse": "298",
-        "id": "KINE-298",
-        "sections": [
-          {
-            "crn": 1433,
-            "subj": "KINE",
-            "crse": "298",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Health and Fitness Research",
-            "cap": 6,
-            "act": 0,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Marcella Ann Raney",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Human Anatomy II",
-        "subj": "KINE",
-        "crse": "301",
-        "id": "KINE-301",
-        "sections": [
-          {
-            "crn": 1437,
-            "subj": "KINE",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Human Anatomy II",
-            "cap": 28,
-            "act": 0,
-            "rem": 28,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Marcella Ann Raney",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Motor Learning and Control",
-        "subj": "KINE",
-        "crse": "310",
-        "id": "KINE-310",
-        "sections": [
-          {
-            "crn": 1441,
-            "subj": "KINE",
-            "crse": "310",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Motor Learning and Control",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Melinda Houston",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Internship",
-        "subj": "KINE",
-        "crse": "396",
-        "id": "KINE-396",
-        "sections": [
-          {
-            "crn": 1445,
-            "subj": "KINE",
-            "crse": "396",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Internship",
-            "cap": 6,
-            "act": 0,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Kirk Richard Bentzen",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -11953,41 +11786,6 @@
     "name": "Latin",
     "code": "LATN",
     "courses": [
-      {
-        "title": "Love's Song: A Philosophic-Poetic History",
-        "subj": "LATN",
-        "crse": "382",
-        "id": "LATN-382",
-        "sections": [
-          {
-            "crn": 1798,
-            "subj": "LATN",
-            "crse": "382",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Love's Song: A Philosophic-Poetic History",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Damian Alexander Stocking",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Elementary and Intermediate Latin",
         "subj": "LATN",
@@ -12023,6 +11821,41 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Love's Song: A Philosophic-Poetic History",
+        "subj": "LATN",
+        "crse": "382",
+        "id": "LATN-382",
+        "sections": [
+          {
+            "crn": 1798,
+            "subj": "LATN",
+            "crse": "382",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Love's Song: A Philosophic-Poetic History",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Damian Alexander Stocking",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -12031,11 +11864,74 @@
     "code": "LLAS",
     "courses": [
       {
+        "title": "Music of Latin America",
+        "subj": "LLAS",
+        "crse": "102",
+        "id": "LLAS-102",
+        "sections": [
+          {
+            "crn": 1246,
+            "subj": "LLAS",
+            "crse": "102",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music of Latin America",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Simeon Pillich",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Colonial Latin America",
         "subj": "LLAS",
         "crse": "150",
         "id": "LLAS-150",
         "sections": [
+          {
+            "crn": 1248,
+            "subj": "LLAS",
+            "crse": "150",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Colonial Latin America",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Lisa Sousa",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1247,
             "subj": "LLAS",
@@ -12062,18 +11958,130 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "The Politics and Pedagogy of First and Second Language Acquisition",
+        "subj": "LLAS",
+        "crse": "206",
+        "id": "LLAS-206",
+        "sections": [
           {
-            "crn": 1248,
+            "crn": 1729,
             "subj": "LLAS",
-            "crse": "150",
-            "sec": "02",
+            "crse": "206",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Colonial Latin America",
-            "cap": 30,
+            "title": "The Politics and Pedagogy of First and Second Language Acquisition",
+            "cap": 25,
             "act": 0,
-            "rem": 30,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Benjamin Qing Wang",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2040,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Representing Violence in Contemporary Mexico",
+        "subj": "LLAS",
+        "crse": "211",
+        "id": "LLAS-211",
+        "sections": [
+          {
+            "crn": 1730,
+            "subj": "LLAS",
+            "crse": "211",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Representing Violence in Contemporary Mexico",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Dolores Trevizo",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Religion, Liberation, and Latin American Social Movements",
+        "subj": "LLAS",
+        "crse": "228",
+        "id": "LLAS-228",
+        "sections": [
+          {
+            "crn": 1805,
+            "subj": "LLAS",
+            "crse": "228",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Religion, Liberation, and Latin American Social Movements",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health on the Move: Immigrant and Refugee Resilience",
+        "subj": "LLAS",
+        "crse": "259",
+        "id": "LLAS-259",
+        "sections": [
+          {
+            "crn": 1251,
+            "subj": "LLAS",
+            "crse": "259",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health on the Move: Immigrant and Refugee Resilience",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -12081,10 +12089,45 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Lisa Sousa",
+                "instructor": "Alexandra M. Puerto",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Food and Drink in Mexican History",
+        "subj": "LLAS",
+        "crse": "358",
+        "id": "LLAS-358",
+        "sections": [
+          {
+            "crn": 1252,
+            "subj": "LLAS",
+            "crse": "358",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Food and Drink in Mexican History",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Alexandra M. Puerto",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -12300,216 +12343,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Music of Latin America",
-        "subj": "LLAS",
-        "crse": "102",
-        "id": "LLAS-102",
-        "sections": [
-          {
-            "crn": 1246,
-            "subj": "LLAS",
-            "crse": "102",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Music of Latin America",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Simeon Pillich",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Politics and Pedagogy of First and Second Language Acquisition",
-        "subj": "LLAS",
-        "crse": "206",
-        "id": "LLAS-206",
-        "sections": [
-          {
-            "crn": 1729,
-            "subj": "LLAS",
-            "crse": "206",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Politics and Pedagogy of First and Second Language Acquisition",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Benjamin Qing Wang",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2040,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Representing Violence in Contemporary Mexico",
-        "subj": "LLAS",
-        "crse": "211",
-        "id": "LLAS-211",
-        "sections": [
-          {
-            "crn": 1730,
-            "subj": "LLAS",
-            "crse": "211",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Representing Violence in Contemporary Mexico",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Dolores Trevizo",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Religion, Liberation, and Latin American Social Movements",
-        "subj": "LLAS",
-        "crse": "228",
-        "id": "LLAS-228",
-        "sections": [
-          {
-            "crn": 1805,
-            "subj": "LLAS",
-            "crse": "228",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Religion, Liberation, and Latin American Social Movements",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Health on the Move: Immigrant and Refugee Resilience",
-        "subj": "LLAS",
-        "crse": "259",
-        "id": "LLAS-259",
-        "sections": [
-          {
-            "crn": 1251,
-            "subj": "LLAS",
-            "crse": "259",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health on the Move: Immigrant and Refugee Resilience",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Alexandra M. Puerto",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Food and Drink in Mexican History",
-        "subj": "LLAS",
-        "crse": "358",
-        "id": "LLAS-358",
-        "sections": [
-          {
-            "crn": 1252,
-            "subj": "LLAS",
-            "crse": "358",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Food and Drink in Mexican History",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Alexandra M. Puerto",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -12523,34 +12356,6 @@
         "crse": "301",
         "id": "LING-301",
         "sections": [
-          {
-            "crn": 1245,
-            "subj": "LING",
-            "crse": "301",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Linguistics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Mariska A Bolyanatz Brown",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1244,
             "subj": "LING",
@@ -12578,6 +12383,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1245,
+            "subj": "LING",
+            "crse": "301",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Linguistics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mariska A Bolyanatz Brown",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       }
@@ -12588,22 +12421,22 @@
     "code": "MATH",
     "courses": [
       {
-        "title": "Unified Precalculus and Calculus 1-A",
+        "title": "Mathematics as a Liberal Art",
         "subj": "MATH",
-        "crse": "108",
-        "id": "MATH-108",
+        "crse": "105",
+        "id": "MATH-105",
         "sections": [
           {
-            "crn": 1591,
+            "crn": 1590,
             "subj": "MATH",
-            "crse": "108",
-            "sec": "01",
+            "crse": "105",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Unified Precalculus and Calculus 1-A",
-            "cap": 35,
+            "title": "Mathematics as a Liberal Art",
+            "cap": 25,
             "act": 0,
-            "rem": 35,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -12612,7 +12445,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Nishu Lal",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
@@ -12620,7 +12453,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Unified Precalculus and Calculus 1-A",
+        "subj": "MATH",
+        "crse": "108",
+        "id": "MATH-108",
+        "sections": [
           {
             "crn": 1592,
             "subj": "MATH",
@@ -12648,6 +12489,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1591,
+            "subj": "MATH",
+            "crse": "108",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Unified Precalculus and Calculus 1-A",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -12657,32 +12526,6 @@
         "crse": "108A",
         "id": "MATH-108A",
         "sections": [
-          {
-            "crn": 1593,
-            "subj": "MATH",
-            "crse": "108A",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Unified Precalculus and Calculus 1-A Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Nishu Lal",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1594,
             "subj": "MATH",
@@ -12708,15 +12551,93 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1593,
+            "subj": "MATH",
+            "crse": "108A",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Unified Precalculus and Calculus 1-A Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Nishu Lal",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Calculus 1",
+        "title": "Calculus 1 Laboratory",
         "subj": "MATH",
         "crse": "110",
         "id": "MATH-110",
         "sections": [
+          {
+            "crn": 1596,
+            "subj": "MATH",
+            "crse": "110",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 1 Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "James L. Brown",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1598,
+            "subj": "MATH",
+            "crse": "110",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Calculus 1 Laboratory",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1595,
             "subj": "MATH",
@@ -12772,41 +12693,23 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Calculus 1 (Advanced) Laboratory",
+        "subj": "MATH",
+        "crse": "114",
+        "id": "MATH-114",
+        "sections": [
           {
-            "crn": 1596,
+            "crn": 1600,
             "subj": "MATH",
-            "crse": "110",
+            "crse": "114",
             "sec": "1-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Calculus 1 Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "James L. Brown",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1598,
-            "subj": "MATH",
-            "crse": "110",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1 Laboratory",
+            "title": "Calculus 1 (Advanced) Laboratory",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -12816,7 +12719,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Ramin Naimi",
+                "instructor": "Jeffrey S. Miller",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -12824,15 +12727,7 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 1 (Advanced)",
-        "subj": "MATH",
-        "crse": "114",
-        "id": "MATH-114",
-        "sections": [
+          },
           {
             "crn": 1599,
             "subj": "MATH",
@@ -12860,97 +12755,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
-          {
-            "crn": 1600,
-            "subj": "MATH",
-            "crse": "114",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Calculus 1 (Advanced) Laboratory",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
           }
         ]
       },
       {
-        "title": "Calculus 2",
+        "title": "Calculus 2 Laboratory",
         "subj": "MATH",
         "crse": "120",
         "id": "MATH-120",
         "sections": [
-          {
-            "crn": 1601,
-            "subj": "MATH",
-            "crse": "120",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Calculus 2",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1603,
-            "subj": "MATH",
-            "crse": "120",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Calculus 2",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1602,
             "subj": "MATH",
@@ -13002,23 +12815,43 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Calculus 2 (Advanced Placement)",
-        "subj": "MATH",
-        "crse": "128",
-        "id": "MATH-128",
-        "sections": [
+          },
           {
-            "crn": 1605,
+            "crn": 1601,
             "subj": "MATH",
-            "crse": "128",
+            "crse": "120",
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Calculus 2 (Advanced Placement)",
+            "title": "Calculus 2",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1603,
+            "subj": "MATH",
+            "crse": "120",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 2",
             "cap": 35,
             "act": 0,
             "rem": 35,
@@ -13034,318 +12867,6 @@
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Creative Problem-Solving",
-        "subj": "MATH",
-        "crse": "160",
-        "id": "MATH-160",
-        "sections": [
-          {
-            "crn": 1607,
-            "subj": "MATH",
-            "crse": "160",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Creative Problem-Solving",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Tamas Lengyel",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Discrete Mathematics Through Cryptography",
-        "subj": "MATH",
-        "crse": "211",
-        "id": "MATH-211",
-        "sections": [
-          {
-            "crn": 1879,
-            "subj": "MATH",
-            "crse": "211",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Discrete Mathematics Through Cryptography",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "James L. Brown",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Linear Algebra",
-        "subj": "MATH",
-        "crse": "214",
-        "id": "MATH-214",
-        "sections": [
-          {
-            "crn": 1610,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Treena Basu",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1611,
-            "subj": "MATH",
-            "crse": "214",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linear Algebra",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Mathematics",
-        "subj": "MATH",
-        "crse": "295",
-        "id": "MATH-295",
-        "sections": [
-          {
-            "crn": 1612,
-            "subj": "MATH",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Mathematics",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "James L. Brown",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Real Analysis",
-        "subj": "MATH",
-        "crse": "310",
-        "id": "MATH-310",
-        "sections": [
-          {
-            "crn": 1614,
-            "subj": "MATH",
-            "crse": "310",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Real Analysis",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Donald D Lawrence",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Ordinary Differential Equations",
-        "subj": "MATH",
-        "crse": "340",
-        "id": "MATH-340",
-        "sections": [
-          {
-            "crn": 1616,
-            "subj": "MATH",
-            "crse": "340",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Ordinary Differential Equations",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Treena Basu",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Senior Colloquium: Introduction to Knot Theory",
-        "subj": "MATH",
-        "crse": "400",
-        "id": "MATH-400",
-        "sections": [
-          {
-            "crn": 1618,
-            "subj": "MATH",
-            "crse": "400",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Senior Colloquium: Introduction to Knot Theory",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Ramin Naimi",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Mathematics as a Liberal Art",
-        "subj": "MATH",
-        "crse": "105",
-        "id": "MATH-105",
-        "sections": [
-          {
-            "crn": 1590,
-            "subj": "MATH",
-            "crse": "105",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Mathematics as a Liberal Art",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -13452,6 +12973,282 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Linear Algebra",
+        "subj": "MATH",
+        "crse": "214",
+        "id": "MATH-214",
+        "sections": [
+          {
+            "crn": 1611,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeffrey S. Miller",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1610,
+            "subj": "MATH",
+            "crse": "214",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linear Algebra",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Treena Basu",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Real Analysis",
+        "subj": "MATH",
+        "crse": "310",
+        "id": "MATH-310",
+        "sections": [
+          {
+            "crn": 1614,
+            "subj": "MATH",
+            "crse": "310",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Real Analysis",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Donald D Lawrence",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ordinary Differential Equations",
+        "subj": "MATH",
+        "crse": "340",
+        "id": "MATH-340",
+        "sections": [
+          {
+            "crn": 1616,
+            "subj": "MATH",
+            "crse": "340",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Ordinary Differential Equations",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Treena Basu",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Colloquium: Mathematical Applications of Linear Algebra",
+        "subj": "MATH",
+        "crse": "400",
+        "id": "MATH-400",
+        "sections": [
+          {
+            "crn": 1618,
+            "subj": "MATH",
+            "crse": "400",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Senior Colloquium: Mathematical Applications of Linear Algebra",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Ramin Naimi",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Calculus 2 (Advanced Placement)",
+        "subj": "MATH",
+        "crse": "128",
+        "id": "MATH-128",
+        "sections": [
+          {
+            "crn": 1605,
+            "subj": "MATH",
+            "crse": "128",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Calculus 2 (Advanced Placement)",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creative Problem-Solving",
+        "subj": "MATH",
+        "crse": "160",
+        "id": "MATH-160",
+        "sections": [
+          {
+            "crn": 1607,
+            "subj": "MATH",
+            "crse": "160",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Creative Problem-Solving",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Tamas Lengyel",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Discrete Mathematics Through Cryptography",
+        "subj": "MATH",
+        "crse": "211",
+        "id": "MATH-211",
+        "sections": [
+          {
+            "crn": 1879,
+            "subj": "MATH",
+            "crse": "211",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Discrete Mathematics Through Cryptography",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "James L. Brown",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

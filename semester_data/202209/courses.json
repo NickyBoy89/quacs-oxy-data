@@ -6838,14 +6838,14 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Experiencing the Arts",
-            "cap": 0,
+            "cap": 99,
             "act": 0,
-            "rem": 0,
+            "rem": 99,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Instructor-TBD",
+                "instructor": "Edmond T. Johnson",
                 "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"

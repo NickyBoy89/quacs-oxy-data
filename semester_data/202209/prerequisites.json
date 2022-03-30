@@ -17652,15 +17652,6 @@
       }
     }
   },
-  "1883": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1884": {
     "restrictions": {
       "classification": {
@@ -17693,6 +17684,15 @@
     }
   },
   "1886": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1887": {
     "restrictions": {
       "classification": {
         "may_not_be": [

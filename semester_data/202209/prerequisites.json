@@ -113,15 +113,6 @@
       }
     }
   },
-  "1011": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1012": {
     "prerequisites": {
       "nested": [
@@ -136,15 +127,6 @@
       ],
       "type": "or"
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1013": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1696,15 +1678,6 @@
       }
     }
   },
-  "1111": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1116": {
     "reserved": [
       {
@@ -1899,32 +1872,6 @@
       {
         "max": 5,
         "open": 5,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 3,
-        "open": 3,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1128": {
-    "reserved": [
-      {
-        "max": 2,
-        "open": 2,
         "reservedFor": "Frosh"
       },
       {
@@ -6379,15 +6326,6 @@
       ],
       "type": ""
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1241": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -13713,36 +13651,6 @@
       }
     }
   },
-  "1612": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 120",
-          "type": "course"
-        },
-        {
-          "course": "MATH 124",
-          "type": "course"
-        },
-        {
-          "course": "MATH 128",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1613": {
     "restrictions": {
       "classification": {
@@ -17686,6 +17594,105 @@
     }
   },
   "1879": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1880": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1881": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ARTS 107",
+          "type": "course"
+        }
+      ],
+      "type": ""
+    },
+    "reserved": [
+      {
+        "max": 6,
+        "open": 6,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1882": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1883": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1884": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1885": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1886": {
     "restrictions": {
       "classification": {
         "may_not_be": [

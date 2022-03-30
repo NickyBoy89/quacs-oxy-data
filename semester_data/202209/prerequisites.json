@@ -1678,6 +1678,15 @@
       }
     }
   },
+  "1111": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
   "1116": {
     "reserved": [
       {

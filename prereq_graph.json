@@ -2891,15 +2891,6 @@
       "PSYC 101"
     ]
   },
-  "SOC 240": {
-    "title": "Sociology of Food",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
   "SOC 210": {
     "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
@@ -2937,12 +2928,13 @@
       "SOC 105"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
+  "SOC 240": {
+    "title": "Sociology of Food",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 321": {
@@ -2978,6 +2970,14 @@
       "SPAN 379",
       "SPAN 382",
       "SPAN 383"
+    ]
+  },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 290": {

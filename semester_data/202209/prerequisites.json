@@ -6744,8 +6744,8 @@
   "1251": {
     "reserved": [
       {
-        "max": 15,
-        "open": 15,
+        "max": 17,
+        "open": 17,
         "reservedFor": "Frosh"
       }
     ],
@@ -7256,15 +7256,6 @@
       ],
       "type": "or"
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1268": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15693,8 +15684,8 @@
   "1727": {
     "reserved": [
       {
-        "max": 15,
-        "open": 15,
+        "max": 18,
+        "open": 18,
         "reservedFor": "Frosh"
       }
     ],
@@ -17715,6 +17706,32 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1889": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "JAPN 302",
+          "type": "course"
+        },
+        {
+          "course": "OLJA",
+          "type": "course"
+        },
+        {
+          "course": "OXJA",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

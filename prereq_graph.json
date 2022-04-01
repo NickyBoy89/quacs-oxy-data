@@ -2843,6 +2843,14 @@
       "UEP 101"
     ]
   },
+  "JAPN 303": {
+    "title": "Advanced Japanese Readings",
+    "prereqs": [
+      "JAPN 302",
+      "OLJA",
+      "OXJA"
+    ]
+  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [

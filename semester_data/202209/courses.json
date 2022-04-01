@@ -5142,12 +5142,12 @@
             "timeslots": [
               {
                 "days": [
-                  "W"
+                  "R"
                 ],
                 "instructor": "Carmel A Levitan",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -10023,9 +10023,9 @@
             "credMin": 0,
             "credMax": 0,
             "title": "Earth's Climate: Past and Future Laboratory",
-            "cap": 18,
+            "cap": 16,
             "act": 0,
-            "rem": 18,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -10381,9 +10381,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Earth's Climate: Past and Future",
-            "cap": 18,
+            "cap": 16,
             "act": 0,
-            "rem": 18,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -11389,19 +11389,19 @@
         ]
       },
       {
-        "title": "Special Topics in Japanese Studies",
+        "title": "Advanced Japanese Readings",
         "subj": "JAPN",
-        "crse": "395",
-        "id": "JAPN-395",
+        "crse": "303",
+        "id": "JAPN-303",
         "sections": [
           {
-            "crn": 1268,
+            "crn": 1889,
             "subj": "JAPN",
-            "crse": "395",
+            "crse": "303",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Special Topics in Japanese Studies",
+            "title": "Advanced Japanese Readings",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -13587,9 +13587,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Introduction to Visual and Critical Studies",
-            "cap": 25,
+            "cap": 20,
             "act": 0,
-            "rem": 25,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -13954,9 +13954,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Introduction to Digital Media and Culture",
-            "cap": 25,
+            "cap": 20,
             "act": 0,
-            "rem": 25,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -19753,8 +19753,8 @@
             "subj": "PHYS",
             "crse": "395",
             "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
+            "credMin": 4,
+            "credMax": 4,
             "title": "Research",
             "cap": 1,
             "act": 0,

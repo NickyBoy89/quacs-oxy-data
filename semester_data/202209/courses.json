@@ -89,8 +89,8 @@
             "credMax": 4,
             "title": "Asian American Literature",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -552,8 +552,8 @@
             "credMax": 4,
             "title": "Introduction to East Asian Art",
             "cap": 30,
-            "act": 15,
-            "rem": 15,
+            "act": 16,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -658,8 +658,8 @@
             "credMax": 1,
             "title": "Practicum in Art History",
             "cap": 8,
-            "act": 2,
-            "rem": 6,
+            "act": 3,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -852,8 +852,8 @@
             "credMax": 4,
             "title": "Sculpture Fundamentals",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -949,8 +949,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -1475,8 +1475,8 @@
             "credMax": 4,
             "title": "General Zoology",
             "cap": 28,
-            "act": 16,
-            "rem": 12,
+            "act": 17,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -1555,8 +1555,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -1790,8 +1790,8 @@
             "credMax": 4,
             "title": "Vertebrate Physiology",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -1825,8 +1825,8 @@
             "credMax": 0,
             "title": "Vertebrate Physiology Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -1911,8 +1911,8 @@
             "credMax": 0,
             "title": "Biodiversity and Organization of Marine Ecosystems Laboratory",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 3,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -1945,8 +1945,8 @@
             "credMax": 4,
             "title": "Evolutionary Biology",
             "cap": 24,
-            "act": 5,
-            "rem": 19,
+            "act": 6,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -2099,8 +2099,8 @@
             "credMax": 4,
             "title": "Immunology",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -2161,8 +2161,8 @@
             "credMax": 1,
             "title": "Immunology Laboratory",
             "cap": 8,
-            "act": 4,
-            "rem": 4,
+            "act": 5,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -2967,8 +2967,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 2,
-            "rem": 7,
+            "act": 1,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -3072,8 +3072,8 @@
             "credMax": 4,
             "title": "Biodiversity and Organization of Marine Ecosystems",
             "cap": 24,
-            "act": 13,
-            "rem": 11,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -3360,8 +3360,8 @@
             "credMax": 4,
             "title": "Toni Morrison",
             "cap": 16,
-            "act": 2,
-            "rem": 14,
+            "act": 3,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -3501,8 +3501,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 35,
-            "act": 3,
-            "rem": 32,
+            "act": 4,
+            "rem": 31,
             "attribute": "",
             "timeslots": [
               {
@@ -3671,8 +3671,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 0,
-            "rem": 12,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6533,8 +6533,8 @@
             "credMax": 4,
             "title": "Information Theory",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -6766,8 +6766,8 @@
             "credMax": 4,
             "title": "Computer Graphics",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6802,8 +6802,8 @@
             "credMax": 4,
             "title": "Computability and Complexity",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -7848,8 +7848,8 @@
             "credMax": 4,
             "title": "Social Movements in Comparative and Transnational Perspective",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -7986,8 +7986,8 @@
             "credMax": 4,
             "title": "Task Force in Diplomacy and World Affairs",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -8425,8 +8425,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -8487,8 +8487,8 @@
             "credMax": 4,
             "title": "Industrial Organization",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8620,8 +8620,8 @@
             "credMax": 4,
             "title": "Senior Seminar: Industrial Organization",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -8728,8 +8728,8 @@
             "credMax": 4,
             "title": "Senior Seminar: Health Economics",
             "cap": 15,
-            "act": 12,
-            "rem": 3,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8944,8 +8944,8 @@
             "credMax": 4,
             "title": "The Politics and Pedagogy of First and Second Language Acquisition",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -8979,8 +8979,8 @@
             "credMax": 4,
             "title": "Chicano Education",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -9187,8 +9187,8 @@
             "credMax": 4,
             "title": "The School-to-Prison Pipeline",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -9228,8 +9228,8 @@
             "credMax": 4,
             "title": "Shakespeare and Film",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -9272,7 +9272,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Chekwube Olivia Danladi",
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
@@ -9404,8 +9404,8 @@
             "credMax": 4,
             "title": "Creative Writing: Introduction to Fiction Writing",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -9413,7 +9413,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Chekwube Olivia Danladi",
                 "location": "",
                 "timeStart": 1740,
                 "timeEnd": 1905,
@@ -9872,8 +9872,8 @@
             "credMax": 4,
             "title": "Earth: Our Environment",
             "cap": 24,
-            "act": 11,
-            "rem": 13,
+            "act": 12,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -9900,8 +9900,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 5,
-            "rem": 7,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -10785,8 +10785,8 @@
             "credMax": 4,
             "title": "East Asian Survey",
             "cap": 30,
-            "act": 4,
-            "rem": 26,
+            "act": 7,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -11186,8 +11186,8 @@
             "credMax": 4,
             "title": "The United States in the World Since 1900",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -11326,8 +11326,8 @@
             "credMax": 4,
             "title": "Identity Formation in the Middle East: Sectarianism, Identity and Civil War in Lebanon 1975-1990",
             "cap": 16,
-            "act": 3,
-            "rem": 13,
+            "act": 4,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -11547,8 +11547,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 14,
-            "act": 2,
-            "rem": 12,
+            "act": 3,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11703,8 +11703,8 @@
             "credMax": 4,
             "title": "Motor Learning and Control",
             "cap": 24,
-            "act": 8,
-            "rem": 16,
+            "act": 10,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -11738,8 +11738,8 @@
             "credMax": 1,
             "title": "Motor Learning and Control Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -11764,8 +11764,8 @@
             "credMax": 1,
             "title": "Motor Learning and Control Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -11863,8 +11863,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 28,
-            "act": 3,
-            "rem": 25,
+            "act": 4,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -11899,8 +11899,8 @@
             "credMax": 4,
             "title": "Exercise Physiology",
             "cap": 24,
-            "act": 3,
-            "rem": 21,
+            "act": 5,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -12181,8 +12181,8 @@
             "credMax": 4,
             "title": "The Politics and Pedagogy of First and Second Language Acquisition",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -12216,8 +12216,8 @@
             "credMax": 2,
             "title": "Representing Violence in Contemporary Mexico",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -12355,8 +12355,8 @@
             "credMax": 4,
             "title": "Latino/a Politics",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -12390,8 +12390,8 @@
             "credMax": 4,
             "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -12425,8 +12425,8 @@
             "credMax": 4,
             "title": "Chicano Education",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -12978,8 +12978,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 35,
-            "act": 5,
-            "rem": 30,
+            "act": 6,
+            "rem": 29,
             "attribute": "",
             "timeslots": [
               {
@@ -13030,8 +13030,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 5,
-            "rem": 30,
+            "act": 6,
+            "rem": 29,
             "attribute": "",
             "timeslots": [
               {
@@ -13264,8 +13264,8 @@
             "credMax": 4,
             "title": "Real Analysis",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -13406,8 +13406,8 @@
             "credMax": 2,
             "title": "Creative Problem-Solving",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -13692,8 +13692,8 @@
             "credMax": 4,
             "title": "The Politics and Poetics of Documentary",
             "cap": 20,
-            "act": 4,
-            "rem": 16,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -13754,8 +13754,8 @@
             "credMax": 4,
             "title": "Topic in Media Representation - The Female in Japanese Film and Media",
             "cap": 20,
-            "act": 8,
-            "rem": 12,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -13886,8 +13886,8 @@
             "credMax": 2,
             "title": "Introduction to Digital Design",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -14024,8 +14024,8 @@
             "credMax": 4,
             "title": "Projects in Documentary Media",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14189,8 +14189,8 @@
             "credMax": 1,
             "title": "Voice Class I",
             "cap": 12,
-            "act": 3,
-            "rem": 9,
+            "act": 4,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -14283,8 +14283,8 @@
             "credMax": 1,
             "title": "College Chorus",
             "cap": 60,
-            "act": 8,
-            "rem": 52,
+            "act": 9,
+            "rem": 51,
             "attribute": "",
             "timeslots": [
               {
@@ -14385,8 +14385,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 1,
-            "rem": 34,
+            "act": 2,
+            "rem": 33,
             "attribute": "",
             "timeslots": [
               {
@@ -18178,8 +18178,8 @@
             "credMax": 4,
             "title": "Existentialist Philosophy",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -20209,8 +20209,8 @@
             "credMax": 4,
             "title": "Latino/a Politics",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -20624,8 +20624,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 1,
-            "rem": 18,
+            "act": 2,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -20792,8 +20792,8 @@
             "credMax": 4,
             "title": "Cognitive Psychology",
             "cap": 19,
-            "act": 17,
-            "rem": 2,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20827,8 +20827,8 @@
             "credMax": 1,
             "title": "Motor Learning and Control Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -20853,8 +20853,8 @@
             "credMax": 1,
             "title": "Motor Learning and Control Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -20922,8 +20922,8 @@
             "credMax": 4,
             "title": "Physiological Psychology",
             "cap": 19,
-            "act": 6,
-            "rem": 13,
+            "act": 5,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -20993,8 +20993,8 @@
             "credMax": 4,
             "title": "Evolutionary Psychology",
             "cap": 19,
-            "act": 18,
-            "rem": 1,
+            "act": 19,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21230,8 +21230,8 @@
             "credMax": 4,
             "title": "Motor Learning and Control",
             "cap": 24,
-            "act": 8,
-            "rem": 16,
+            "act": 10,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -21337,8 +21337,8 @@
             "credMax": 4,
             "title": "Health Psychology",
             "cap": 19,
-            "act": 3,
-            "rem": 16,
+            "act": 4,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -21692,8 +21692,8 @@
             "credMax": 4,
             "title": "Holy Sh*t!: Engaging the Materiality of Religion",
             "cap": 18,
-            "act": 3,
-            "rem": 15,
+            "act": 4,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -21986,8 +21986,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 20,
-            "rem": 10,
+            "act": 21,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -22077,8 +22077,8 @@
             "credMax": 2,
             "title": "Representing Violence in Contemporary Mexico",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -22254,8 +22254,8 @@
             "credMax": 4,
             "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -22359,8 +22359,8 @@
             "credMax": 4,
             "title": "Criminology",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -22893,8 +22893,8 @@
             "credMax": 1,
             "title": "Advanced Conversation I",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -23035,8 +23035,8 @@
             "credMax": 4,
             "title": "The Jungle in Modern Latin American Literature",
             "cap": 18,
-            "act": 2,
-            "rem": 16,
+            "act": 3,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -23281,8 +23281,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -23765,8 +23765,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -23869,8 +23869,8 @@
             "credMax": 2,
             "title": "Costume Construction",
             "cap": 14,
-            "act": 5,
-            "rem": 9,
+            "act": 7,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -24406,8 +24406,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: White Privilege and Working Class Grievance--Can We Talk about Class?",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -24488,8 +24488,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: White Privilege and Working Class Grievance--Can We Talk about Class?",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

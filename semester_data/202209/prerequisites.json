@@ -1762,7 +1762,7 @@
       },
       {
         "max": 2,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10971,7 +10971,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Major"
       },
       {
@@ -11034,7 +11034,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 2,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -11334,6 +11334,13 @@
     }
   },
   "1402": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11343,6 +11350,13 @@
     }
   },
   "1403": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11352,6 +11366,13 @@
     }
   },
   "1404": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -11361,6 +11382,13 @@
     }
   },
   "1405": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15315,6 +15343,10 @@
         {
           "nested": [
             {
+              "course": "MATH 210",
+              "type": "course"
+            },
+            {
               "course": "MATH 214",
               "type": "course"
             }
@@ -16596,7 +16628,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 7,
+        "open": 8,
         "reservedFor": "Major"
       },
       {

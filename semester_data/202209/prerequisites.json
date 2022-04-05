@@ -1890,7 +1890,7 @@
       },
       {
         "max": 3,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -1985,7 +1985,7 @@
       },
       {
         "max": 3,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -7584,7 +7584,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -10408,7 +10408,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -11034,7 +11034,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -11113,7 +11113,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -11679,7 +11679,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -13388,13 +13388,6 @@
     }
   },
   "1566": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -13404,13 +13397,6 @@
     }
   },
   "1567": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -13627,7 +13613,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -17144,7 +17130,7 @@
       },
       {
         "max": 6,
-        "open": 2,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -17169,7 +17155,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -17750,7 +17736,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],

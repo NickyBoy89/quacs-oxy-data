@@ -117,6 +117,7 @@
   "BLST 352": {
     "title": "Black Political Thought",
     "prereqs": [
+      "BLST 101",
       "BLST 110",
       "POLS 101"
     ]
@@ -1237,6 +1238,7 @@
   "POLS 352": {
     "title": "Black Political Thought",
     "prereqs": [
+      "BLST 101",
       "BLST 110",
       "POLS 101"
     ]
@@ -2890,6 +2892,13 @@
       "BIO 369",
       "BIO 377",
       "BIO 380"
+    ]
+  },
+  "BLST 490": {
+    "title": "Black Studies Senior Seminar",
+    "prereqs": [
+      "BLST 101",
+      "BLST 110"
     ]
   },
   "COMP 325": {

@@ -121,6 +121,10 @@
           "type": "course"
         },
         {
+          "course": "BLST 101",
+          "type": "course"
+        },
+        {
           "course": "BLST 110",
           "type": "course"
         }
@@ -139,11 +143,15 @@
     "prerequisites": {
       "nested": [
         {
+          "course": "BLST 101",
+          "type": "course"
+        },
+        {
           "course": "BLST 110",
           "type": "course"
         }
       ],
-      "type": ""
+      "type": "or"
     },
     "restrictions": {
       "classification": {
@@ -7564,7 +7572,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
@@ -10381,6 +10389,10 @@
       "nested": [
         {
           "course": "POLS 101",
+          "type": "course"
+        },
+        {
+          "course": "BLST 101",
           "type": "course"
         },
         {

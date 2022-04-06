@@ -1698,18 +1698,13 @@
   "1116": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 4,
+        "open": 4,
         "reservedFor": "Frosh"
       },
       {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 3,
-        "open": 3,
+        "max": 2,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -1724,14 +1719,9 @@
   "1117": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 4,
+        "open": 4,
         "reservedFor": "Frosh"
-      },
-      {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
       },
       {
         "max": 2,
@@ -1796,14 +1786,9 @@
   "1124": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 4,
+        "open": 4,
         "reservedFor": "Frosh"
-      },
-      {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
       },
       {
         "max": 3,
@@ -1824,16 +1809,11 @@
       {
         "max": 1,
         "open": 1,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 2,
-        "open": 2,
         "reservedFor": "Major"
       },
       {
-        "max": 5,
-        "open": 5,
+        "max": 4,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -1872,8 +1852,8 @@
   "1127": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 4,
+        "open": 4,
         "reservedFor": "Frosh"
       },
       {
@@ -1882,8 +1862,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 3,
-        "open": 2,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -2059,8 +2039,8 @@
   "1138": {
     "reserved": [
       {
-        "max": 6,
-        "open": 3,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10797,7 +10777,7 @@
     "reserved": [
       {
         "max": 11,
-        "open": 3,
+        "open": 4,
         "reservedFor": "Major"
       },
       {
@@ -13609,8 +13589,8 @@
   "1588": {
     "reserved": [
       {
-        "max": 10,
-        "open": 1,
+        "max": 9,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -18037,7 +18017,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],

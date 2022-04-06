@@ -9959,9 +9959,9 @@
             "credMin": 0,
             "credMax": 0,
             "title": "Geographic Information Science I Laboratory",
-            "cap": 24,
+            "cap": 16,
             "act": 17,
-            "rem": 7,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -10311,9 +10311,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Geographic Information Science I",
-            "cap": 24,
+            "cap": 16,
             "act": 17,
-            "rem": 7,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -21199,8 +21199,8 @@
             "credMax": 4,
             "title": "Perception",
             "cap": 19,
-            "act": 8,
-            "rem": 11,
+            "act": 9,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -23255,8 +23255,8 @@
             "credMax": 2,
             "title": "Intensive Production Laboratory",
             "cap": 6,
-            "act": 0,
-            "rem": 6,
+            "act": 1,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

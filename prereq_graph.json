@@ -2824,6 +2824,12 @@
       "WRD 201"
     ]
   },
+  "AMST 490": {
+    "title": "Senior Seminar",
+    "prereqs": [
+      "AMST 390"
+    ]
+  },
   "ARAB 102": {
     "title": "Elementary Arabic II",
     "prereqs": [
@@ -2848,6 +2854,12 @@
       "ARTH 288",
       "ARTH 289",
       "ARTH 295"
+    ]
+  },
+  "ARTS 287": {
+    "title": "Social Documentary Photography: A New Civil Contract",
+    "prereqs": [
+      "ARTS 107"
     ]
   },
   "BIO 240": {
@@ -2901,6 +2913,54 @@
       "BLST 110"
     ]
   },
+  "CHEM 100": {
+    "title": "Introduction to Chemistry",
+    "prereqs": [
+      "OXCP"
+    ]
+  },
+  "CHEM 221": {
+    "title": "Organic Chemistry II",
+    "prereqs": [
+      "CHEM 220"
+    ]
+  },
+  "CHIN 460": {
+    "title": "Translating Chinese I",
+    "prereqs": [
+      "CHIN 301"
+    ]
+  },
+  "COGS 395": {
+    "title": "Directed Research",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COGS 490": {
+    "title": "Senior Seminar in Cognitive Science",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COGS 201": {
+    "title": "Empirical Methods in Cognitive Science",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COGS 262": {
+    "title": "Culture, Identity, and Cognition",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COMP 239": {
+    "title": "Computer Organization",
+    "prereqs": [
+      "COMP 131"
+    ]
+  },
   "COMP 325": {
     "title": "Topics in Artificial Intelligence",
     "prereqs": [
@@ -2917,11 +2977,77 @@
       "MATH 214"
     ]
   },
+  "COMP 490": {
+    "title": "Computer Science Senior Seminar",
+    "prereqs": [
+      "COMP 390"
+    ]
+  },
+  "COMP 181": {
+    "title": "Advanced Programming",
+    "prereqs": [
+      "COMP 131"
+    ]
+  },
+  "COMP 313": {
+    "title": "Computer Graphics",
+    "prereqs": [
+      "COMP 229"
+    ]
+  },
   "COMP 352": {
     "title": "Computability and Complexity",
     "prereqs": [
       "COMP 149",
       "MATH 210"
+    ]
+  },
+  "DWA 329": {
+    "title": "Junior Seminar: Human Rights and Trafficking in Persons",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 401": {
+    "title": "Special Topics at the United Nations",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "DWA 403": {
+    "title": "The United Nations Experience",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "DWA 102": {
+    "title": "International Organizations",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 355": {
+    "title": "Junior Seminar: Economic and Social Human Rights",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 402": {
+    "title": "United Nations and Conflict Prevention: Actors and Architecture",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "DWA 410": {
+    "title": "Task Force in Diplomacy and World Affairs",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "ECON 302": {
+    "title": "Industrial Organization",
+    "prereqs": [
+      "ECON 250"
     ]
   },
   "ECON 309": {
@@ -2930,6 +3056,12 @@
       "APEA",
       "APEI",
       "ECON 102"
+    ]
+  },
+  "ECON 306": {
+    "title": "Advanced Econometrics",
+    "prereqs": [
+      "ECON 272"
     ]
   },
   "ENGL 341": {
@@ -2974,6 +3106,36 @@
       "ENGL 290"
     ]
   },
+  "GEO 342": {
+    "title": "Geomorphology",
+    "prereqs": [
+      "GEO 225"
+    ]
+  },
+  "GEO 345": {
+    "title": "Petrology",
+    "prereqs": [
+      "GEO 305"
+    ]
+  },
+  "GERM 301": {
+    "title": "Advanced German: Topics in German Literature",
+    "prereqs": [
+      "GERM 202"
+    ]
+  },
+  "GRK 102": {
+    "title": "Elementary Greek",
+    "prereqs": [
+      "GRK 101"
+    ]
+  },
+  "GRK 382": {
+    "title": "Love's Song: A Poetic Philosophic History",
+    "prereqs": [
+      "GRK 102"
+    ]
+  },
   "HIST 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -2990,6 +3152,18 @@
       "JAPN 302",
       "OLJA",
       "OXJA"
+    ]
+  },
+  "KINE 310": {
+    "title": "Motor Learning and Control",
+    "prereqs": [
+      "PSYC 101"
+    ]
+  },
+  "LATN 382": {
+    "title": "Love's Song: A Philosophic-Poetic History",
+    "prereqs": [
+      "LATN 201"
     ]
   },
   "LLAS 358": {
@@ -3010,6 +3184,12 @@
       "SOC 101"
     ]
   },
+  "MATH 310": {
+    "title": "Real Analysis",
+    "prereqs": [
+      "MATH 210"
+    ]
+  },
   "MATH 128": {
     "title": "Calculus 2 (Advanced Placement)",
     "prereqs": [
@@ -3026,6 +3206,54 @@
       "MATH 214"
     ]
   },
+  "MAC 210": {
+    "title": "Introduction to Motion Design",
+    "prereqs": [
+      "MAC 110"
+    ]
+  },
+  "MAC 490": {
+    "title": "Senior Seminar in Critical Media",
+    "prereqs": [
+      "MAC 390"
+    ]
+  },
+  "MUSC 231": {
+    "title": "Piano Proficiency I",
+    "prereqs": [
+      "MUSC 101"
+    ]
+  },
+  "MUSC 247": {
+    "title": "Pro Tools Fundamentals",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 251": {
+    "title": "Music Theory III",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 258": {
+    "title": "Introduction to Film Scoring",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 272": {
+    "title": "Instrumental Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 257": {
+    "title": "Composition Seminar",
+    "prereqs": [
+      "MUSC 113"
+    ]
+  },
   "MUSC 261": {
     "title": "Western Music and Culture: 1580-1829",
     "prereqs": [
@@ -3033,11 +3261,107 @@
       "OXMT"
     ]
   },
+  "MUSA 104": {
+    "title": "Classical Guitar Class (Intermediate)",
+    "prereqs": [
+      "MUSA 103"
+    ]
+  },
+  "PHYS 315": {
+    "title": "Advanced Laboratory I",
+    "prereqs": [
+      "PHYS 240"
+    ]
+  },
+  "POLS 281": {
+    "title": "Seminar in Political Leadership",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 283": {
+    "title": "Seminar in Washington Politics: Global Public Health Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 285": {
+    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 300": {
+    "title": "Research Methods in Politics and Public Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 244": {
+    "title": "Constitutional Law",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 280": {
+    "title": "Washington, D.C. Internship",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 282": {
+    "title": "Seminar in Washington Politics: Environmental Law and Policy Studies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 284": {
+    "title": "Seminar in Washington Politics: Global Women's Leadership Development",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 286": {
+    "title": "Seminar in Washington Politics: International and Foreign Policy Studies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "PSYC 334": {
+    "title": "Health Psychology",
+    "prereqs": [
+      "PSYC 200"
+    ]
+  },
+  "PSYC 395": {
+    "title": "Directed Research",
+    "prereqs": [
+      "PSYC 200"
+    ]
+  },
+  "PSYC 201": {
+    "title": "Statistics in Psychological Science",
+    "prereqs": [
+      "PSYC 200"
+    ]
+  },
   "PSYC 311": {
     "title": "Sport and Exercise Psychology",
     "prereqs": [
       "APPS",
       "PSYC 101"
+    ]
+  },
+  "PSYC 330": {
+    "title": "Abnormal Psychology",
+    "prereqs": [
+      "PSYC 200"
+    ]
+  },
+  "RUSN 395": {
+    "title": "Special Topic in Russian - To be: Ukranian",
+    "prereqs": [
+      "OXRU"
     ]
   },
   "SOC 210": {
@@ -3129,6 +3453,24 @@
       "SPAN 211"
     ]
   },
+  "THEA 121": {
+    "title": "Production Laboratory",
+    "prereqs": [
+      "THEA 120"
+    ]
+  },
+  "THEA 210": {
+    "title": "Acting 1",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 234": {
+    "title": "Intermediate Ballet",
+    "prereqs": [
+      "THEA 134"
+    ]
+  },
   "THEA 290": {
     "title": "Topics in Performance: Generating Independent Theater",
     "prereqs": [
@@ -3142,6 +3484,36 @@
     "prereqs": [
       "THEA 120",
       "THEA 175"
+    ]
+  },
+  "THEA 215": {
+    "title": "Acting for the Camera",
+    "prereqs": [
+      "THEA 210"
+    ]
+  },
+  "THEA 261": {
+    "title": "Children's Theater, 5th Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 301": {
+    "title": "Topics in Theater History",
+    "prereqs": [
+      "THEA 101"
+    ]
+  },
+  "UEP 306": {
+    "title": "Food and the Environment",
+    "prereqs": [
+      "UEP 101"
+    ]
+  },
+  "UEP 230": {
+    "title": "Climate Justice: Theory and Practice",
+    "prereqs": [
+      "UEP 101"
     ]
   }
 }

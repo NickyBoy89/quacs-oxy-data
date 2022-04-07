@@ -58,13 +58,8 @@
   },
   "1005": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "AMST 390",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "AMST 390",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -1658,13 +1653,8 @@
   },
   "1107": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -1857,13 +1847,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 102",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 102",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -1907,13 +1892,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 102",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 102",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -1952,13 +1932,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 102",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 102",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -1996,13 +1971,8 @@
   },
   "1134": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 102",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 102",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -3520,13 +3490,8 @@
   },
   "1155": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "ECON 250",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "ECON 250",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -3590,13 +3555,8 @@
   },
   "1158": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "ECON 272",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "ECON 272",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -6972,13 +6932,8 @@
   },
   "1240": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "GERM 202",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "GERM 202",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -6990,13 +6945,8 @@
   },
   "1242": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "GRK 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "GRK 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -9544,13 +9494,8 @@
   },
   "1317": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PHYS 240",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PHYS 240",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -9562,13 +9507,8 @@
   },
   "1318": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "CHIN 301",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "CHIN 301",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -9726,13 +9666,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -10163,13 +10098,8 @@
   },
   "1350": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -10365,13 +10295,8 @@
   },
   "1357": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -10573,13 +10498,8 @@
   },
   "1371": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "UEP 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "UEP 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -10790,13 +10710,8 @@
   },
   "1380": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "reserved": [
       {
@@ -11006,7 +10921,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -11035,7 +10950,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -11078,13 +10993,8 @@
   },
   "1390": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "reserved": [
       {
@@ -11103,13 +11013,8 @@
   },
   "1391": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "reserved": [
       {
@@ -11161,13 +11066,8 @@
   },
   "1393": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11179,13 +11079,8 @@
   },
   "1394": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11197,13 +11092,8 @@
   },
   "1395": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11215,13 +11105,8 @@
   },
   "1396": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 200",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11525,13 +11410,8 @@
   },
   "1415": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11543,13 +11423,8 @@
   },
   "1416": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11561,13 +11436,8 @@
   },
   "1417": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11579,13 +11449,8 @@
   },
   "1418": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11597,13 +11462,8 @@
   },
   "1419": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11615,13 +11475,8 @@
   },
   "1420": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11633,13 +11488,8 @@
   },
   "1421": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11651,13 +11501,8 @@
   },
   "1422": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -11669,13 +11514,8 @@
   },
   "1423": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -11697,13 +11537,8 @@
   },
   "1424": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -11725,13 +11560,8 @@
   },
   "1425": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -12007,13 +11837,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "PSYC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -12126,13 +11951,8 @@
   },
   "1448": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSA 103",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSA 103",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -12692,13 +12512,8 @@
   },
   "1500": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "GEO 225",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "GEO 225",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -12774,13 +12589,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "GEO 305",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "GEO 305",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -13485,13 +13295,8 @@
   },
   "1582": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 148",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 148",
+      "type": "course"
     },
     "reserved": [
       {
@@ -13544,13 +13349,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 151",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 151",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -13576,13 +13376,8 @@
   },
   "1586": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 113",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 113",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -13594,13 +13389,8 @@
   },
   "1587": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 148",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 148",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -14329,13 +14119,8 @@
   },
   "1614": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 210",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MATH 210",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -14505,13 +14290,8 @@
   },
   "1623": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 120",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 120",
+      "type": "course"
     },
     "reserved": [
       {
@@ -14530,13 +14310,8 @@
   },
   "1624": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 120",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 120",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -14548,13 +14323,8 @@
   },
   "1625": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 120",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 120",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -14664,13 +14434,8 @@
   },
   "1633": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 110",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 110",
+      "type": "course"
     },
     "reserved": [
       {
@@ -14707,13 +14472,8 @@
   },
   "1636": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 210",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 210",
+      "type": "course"
     },
     "reserved": [
       {
@@ -14737,13 +14497,8 @@
   },
   "1637": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 134",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 134",
+      "type": "course"
     },
     "reserved": [
       {
@@ -14780,13 +14535,8 @@
   },
   "1640": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 110",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 110",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -14836,13 +14586,8 @@
   },
   "1642": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "THEA 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -15127,13 +14872,8 @@
   },
   "1660": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 131",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COMP 131",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -15210,18 +14950,13 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 131",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COMP 131",
+      "type": "course"
     },
     "reserved": [
       {
         "max": 20,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -15235,13 +14970,8 @@
   },
   "1664": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 229",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COMP 229",
+      "type": "course"
     },
     "reserved": [
       {
@@ -15346,7 +15076,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -15401,18 +15131,13 @@
   },
   "1669": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 390",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COMP 390",
+      "type": "course"
     },
     "reserved": [
       {
         "max": 20,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15426,13 +15151,8 @@
   },
   "1670": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 390",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COMP 390",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -15713,13 +15433,8 @@
   },
   "1697": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "OXCP",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "OXCP",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -15731,13 +15446,8 @@
   },
   "1698": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "OXCP",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "OXCP",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -16102,13 +15812,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 220",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "CHEM 220",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -16384,13 +16089,8 @@
   },
   "1722": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -16413,13 +16113,8 @@
   },
   "1723": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "DWA 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -16560,13 +16255,8 @@
   },
   "1736": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MAC 110",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MAC 110",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -16676,13 +16366,8 @@
   },
   "1742": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MAC 390",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MAC 390",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -16827,13 +16512,8 @@
   },
   "1760": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "UEP 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "UEP 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -16939,13 +16619,8 @@
   },
   "1764": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 148",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 148",
+      "type": "course"
     },
     "reserved": [
       {
@@ -17001,13 +16676,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 151",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 151",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17048,13 +16718,8 @@
   },
   "1768": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 151",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 151",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17220,13 +16885,8 @@
   },
   "1777": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17238,13 +16898,8 @@
   },
   "1778": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17256,13 +16911,8 @@
   },
   "1779": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17274,13 +16924,8 @@
   },
   "1780": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17292,13 +16937,8 @@
   },
   "1781": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17310,13 +16950,8 @@
   },
   "1782": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "MUSC 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "MUSC 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17402,13 +17037,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17425,13 +17055,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17449,13 +17074,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17473,13 +17093,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17497,13 +17112,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17521,13 +17131,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17545,13 +17150,8 @@
       ]
     },
     "prerequisites": {
-      "nested": [
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "POLS 101",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17563,13 +17163,8 @@
   },
   "1797": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "GRK 102",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "GRK 102",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17581,13 +17176,8 @@
   },
   "1798": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "LATN 201",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "LATN 201",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -17694,13 +17284,8 @@
   },
   "1804": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "COGS 101",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "COGS 101",
+      "type": "course"
     },
     "reserved": [
       {
@@ -17737,7 +17322,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -18123,13 +17708,8 @@
   },
   "1872": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "OXRU",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "OXRU",
+      "type": "course"
     },
     "restrictions": {
       "classification": {
@@ -18379,13 +17959,8 @@
   },
   "1881": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "ARTS 107",
-          "type": "course"
-        }
-      ],
-      "type": ""
+      "course": "ARTS 107",
+      "type": "course"
     },
     "reserved": [
       {

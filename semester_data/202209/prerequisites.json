@@ -531,6 +531,18 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 1,
+        "open": 1,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -562,6 +574,18 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 1,
+        "open": 1,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1958,7 +1982,7 @@
       },
       {
         "max": 3,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10982,7 +11006,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -11684,7 +11708,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -15388,7 +15412,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -18463,6 +18487,38 @@
       ],
       "type": "or"
     },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1890": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1891": {
+    "corequisites": {
+      "cross_list_courses": [
+        "GEO-150"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1892": {
     "restrictions": {
       "classification": {
         "may_not_be": [

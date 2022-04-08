@@ -2195,8 +2195,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2221,8 +2221,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2319,8 +2319,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2345,8 +2345,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5712,8 +5712,8 @@
             "credMax": 4,
             "title": "Love's Song: A Poetic-Philosophic History",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -5809,8 +5809,8 @@
             "credMax": 2,
             "title": "Senior Seminar",
             "cap": 15,
-            "act": 17,
-            "rem": -2,
+            "act": 18,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -5975,8 +5975,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -6081,8 +6081,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 14,
-            "rem": 16,
+            "act": 13,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -7008,8 +7008,8 @@
             "credMax": 4,
             "title": "Power and Politics",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -7510,8 +7510,8 @@
             "credMax": 4,
             "title": "Human Rights in Colombia: Comparative Perspectives",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -7545,8 +7545,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -10665,8 +10665,8 @@
             "credMax": 4,
             "title": "Advanced German: Topics in German Literature",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -12556,8 +12556,8 @@
             "credMax": 4,
             "title": "Human Rights in Colombia: Comparative Perspectives",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -21862,8 +21862,8 @@
             "credMax": 4,
             "title": "Queering Religion",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 17,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

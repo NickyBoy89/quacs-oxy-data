@@ -1805,8 +1805,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 3,
-        "open": 0,
+        "max": 1,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],
@@ -1957,7 +1957,7 @@
       },
       {
         "max": 3,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -2033,8 +2033,8 @@
   "1138": {
     "reserved": [
       {
-        "max": 3,
-        "open": 0,
+        "max": 2,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -3862,11 +3862,6 @@
         "max": 2,
         "open": 2,
         "reservedFor": "Transfer"
-      },
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
       }
     ],
     "restrictions": {
@@ -4451,8 +4446,8 @@
     },
     "reserved": [
       {
-        "max": 4,
-        "open": 1,
+        "max": 1,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],
@@ -10999,7 +10994,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -16790,8 +16785,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 0,
+        "max": 1,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],

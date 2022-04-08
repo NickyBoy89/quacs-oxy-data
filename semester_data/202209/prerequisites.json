@@ -17595,39 +17595,6 @@
       }
     }
   },
-  "1866": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 101",
-          "type": "course"
-        },
-        {
-          "course": "PSYC 102",
-          "type": "course"
-        },
-        {
-          "course": "APPS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 7,
-        "open": 7,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1868": {
     "restrictions": {
       "classification": {

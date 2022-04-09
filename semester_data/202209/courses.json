@@ -2099,8 +2099,8 @@
             "credMax": 4,
             "title": "Immunology",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2161,8 +2161,8 @@
             "credMax": 1,
             "title": "Immunology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5635,8 +5635,8 @@
             "credMax": 4,
             "title": "Culture, Identity, and Cognition",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 15,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -7615,8 +7615,8 @@
             "credMax": 4,
             "title": "Junior Seminar: Human Rights and Trafficking in Persons",
             "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "act": 5,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -10629,8 +10629,8 @@
             "credMax": 4,
             "title": "Elementary German I",
             "cap": 35,
-            "act": 18,
-            "rem": 17,
+            "act": 19,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -11008,8 +11008,8 @@
             "credMax": 4,
             "title": "Pandora's Box: 9/11, Iraq, Afghanistan, and the United States",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12631,8 +12631,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14513,8 +14513,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 8,
-            "rem": 52,
+            "act": 9,
+            "rem": 51,
             "attribute": "",
             "timeslots": [
               {
@@ -20633,8 +20633,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22992,8 +22992,8 @@
             "credMax": 4,
             "title": "Spanish in the United States",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -23099,8 +23099,8 @@
             "credMax": 4,
             "title": "The Jungle in Modern Latin American Literature",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23689,8 +23689,8 @@
             "credMax": 4,
             "title": "Playwriting",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

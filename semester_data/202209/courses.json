@@ -6401,8 +6401,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6463,8 +6463,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 14,
-            "act": 15,
-            "rem": -1,
+            "act": 16,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

@@ -17909,26 +17909,6 @@
       }
     }
   },
-  "1881": {
-    "prerequisites": {
-      "course": "ARTS 107",
-      "type": "course"
-    },
-    "reserved": [
-      {
-        "max": 2,
-        "open": 2,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1882": {
     "restrictions": {
       "classification": {
@@ -18046,6 +18026,15 @@
     }
   },
   "1892": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1893": {
     "restrictions": {
       "classification": {
         "may_not_be": [

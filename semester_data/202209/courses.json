@@ -935,56 +935,22 @@
         ]
       },
       {
-        "title": "Introduction to Letterpress Printing",
+        "title": "Silkscreen Printmaking",
         "subj": "ARTS",
-        "crse": "227",
-        "id": "ARTS-227",
+        "crse": "215",
+        "id": "ARTS-215",
         "sections": [
           {
-            "crn": 1131,
+            "crn": 1893,
             "subj": "ARTS",
-            "crse": "227",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Introduction to Letterpress Printing",
-            "cap": 18,
-            "act": 12,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Social Documentary Photography: A New Civil Contract",
-        "subj": "ARTS",
-        "crse": "287",
-        "id": "ARTS-287",
-        "sections": [
-          {
-            "crn": 1881,
-            "subj": "ARTS",
-            "crse": "287",
+            "crse": "215",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Social Documentary Photography: A New Civil Contract",
+            "title": "Silkscreen Printmaking",
             "cap": 18,
-            "act": 3,
-            "rem": 15,
+            "act": 0,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -996,6 +962,41 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Interdisciplinary Arts: Visualizing Sound",
+        "subj": "ARTS",
+        "crse": "230",
+        "id": "ARTS-230",
+        "sections": [
+          {
+            "crn": 1133,
+            "subj": "ARTS",
+            "crse": "230",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Interdisciplinary Arts: Visualizing Sound",
+            "cap": 18,
+            "act": 8,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Dustin Nolan Gray Delaney",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -1103,30 +1104,29 @@
         ]
       },
       {
-        "title": "Interdisciplinary Arts: Visualizing Sound",
+        "title": "Introduction to Letterpress Printing",
         "subj": "ARTS",
-        "crse": "230",
-        "id": "ARTS-230",
+        "crse": "227",
+        "id": "ARTS-227",
         "sections": [
           {
-            "crn": 1133,
+            "crn": 1131,
             "subj": "ARTS",
-            "crse": "230",
+            "crse": "227",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Interdisciplinary Arts: Visualizing Sound",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Letterpress Printing",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T"
                 ],
-                "instructor": "Dustin Nolan Gray Delaney",
+                "instructor": "Jocelyn Webb Pedersen",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 1125,
@@ -4259,7 +4259,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Sierra J. Hunter",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -4285,7 +4285,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Sierra J. Hunter",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -8585,8 +8585,8 @@
             "credMax": 4,
             "title": "Urban Economics",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -20239,8 +20239,8 @@
             "credMax": 4,
             "title": "Research Methods in Politics and Public Policy",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {

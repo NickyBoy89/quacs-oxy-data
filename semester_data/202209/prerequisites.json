@@ -17311,8 +17311,8 @@
   "1810": {
     "reserved": [
       {
-        "max": 8,
-        "open": 1,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -18035,6 +18035,13 @@
     }
   },
   "1893": {
+    "reserved": [
+      {
+        "max": 8,
+        "open": 8,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

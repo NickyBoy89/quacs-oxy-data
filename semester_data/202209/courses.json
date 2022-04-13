@@ -2039,8 +2039,8 @@
             "credMax": 1,
             "title": "Principles of Biochemistry Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2065,8 +2065,8 @@
             "credMax": 1,
             "title": "Principles of Biochemistry Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 10,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2283,8 +2283,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -2345,8 +2345,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 6,
-            "rem": 2,
+            "act": 5,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3107,8 +3107,8 @@
             "credMax": 4,
             "title": "Principles of Biochemistry",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 19,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -21645,8 +21645,8 @@
             "credMax": 4,
             "title": "Public Health Practicum",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 3,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -22564,8 +22564,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

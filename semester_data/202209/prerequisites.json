@@ -7521,7 +7521,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       },
       {
@@ -11515,7 +11515,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],

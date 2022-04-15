@@ -4095,8 +4095,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 7,
-            "rem": 5,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -4121,8 +4121,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6802,8 +6802,8 @@
             "credMax": 4,
             "title": "Computability and Complexity",
             "cap": 20,
-            "act": 22,
-            "rem": -2,
+            "act": 23,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {

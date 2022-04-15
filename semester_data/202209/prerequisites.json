@@ -1906,14 +1906,9 @@
   "1131": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 3,
+        "open": 3,
         "reservedFor": "Frosh"
-      },
-      {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
       }
     ],
     "restrictions": {
@@ -15033,7 +15028,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],

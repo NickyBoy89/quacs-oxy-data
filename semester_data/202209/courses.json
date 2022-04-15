@@ -3179,8 +3179,8 @@
             "credMax": 4,
             "title": "Special Topics in Biology",
             "cap": 16,
-            "act": 10,
-            "rem": 6,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -5144,7 +5144,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Carmel A Levitan",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -5170,7 +5170,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Carmel A Levitan",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -9651,8 +9651,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -9679,8 +9679,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11151,7 +11151,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Thomas John Balcerski",
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,

@@ -16933,19 +16933,6 @@
       }
     }
   },
-  "1782": {
-    "prerequisites": {
-      "course": "MUSC 101",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1783": {
     "reserved": [
       {
@@ -18037,6 +18024,63 @@
         "reservedFor": "Frosh"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1894": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COGS-201L"
+      ]
+    },
+    "prerequisites": {
+      "course": "COGS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1895": {
+    "corequisites": {
+      "cross_list_courses": [
+        "COGS-201"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1896": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1897": {
     "restrictions": {
       "classification": {
         "may_not_be": [

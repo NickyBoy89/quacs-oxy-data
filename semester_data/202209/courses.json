@@ -2405,8 +2405,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -4961,8 +4961,8 @@
             "credMax": 5,
             "title": "Intermediate Chinese I",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -6551,8 +6551,8 @@
             "credMax": 4,
             "title": "Topics in Artificial Intelligence",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6623,8 +6623,8 @@
             "credMax": 4,
             "title": "Special Topics in Computer Science",
             "cap": 20,
-            "act": 7,
-            "rem": 13,
+            "act": 6,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -8674,8 +8674,8 @@
             "credMax": 4,
             "title": "Senior Seminar: Industrial Organization",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8728,8 +8728,8 @@
             "credMax": 4,
             "title": "Senior Seminar: Macroeconomic Policy since the Great Depression",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -21343,8 +21343,8 @@
             "credMax": 4,
             "title": "Perception",
             "cap": 19,
-            "act": 19,
-            "rem": 0,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

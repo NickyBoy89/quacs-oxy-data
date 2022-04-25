@@ -1730,8 +1730,8 @@
             "credMax": 0,
             "title": "Genetic Analysis Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3036,8 +3036,8 @@
             "credMax": 4,
             "title": "Genetic Analysis",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6419,8 +6419,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 13,
-            "rem": 11,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -12497,8 +12497,8 @@
             "credMax": 4,
             "title": "Music of Latin America",
             "cap": 35,
-            "act": 31,
-            "rem": 4,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -15168,8 +15168,8 @@
             "credMax": 4,
             "title": "Music of Latin America",
             "cap": 35,
-            "act": 31,
-            "rem": 4,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

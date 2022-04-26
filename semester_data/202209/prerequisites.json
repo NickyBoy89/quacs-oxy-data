@@ -11226,13 +11226,6 @@
     }
   },
   "1403": {
-    "reserved": [
-      {
-        "max": 1,
-        "open": 1,
-        "reservedFor": "Transfer"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16757,13 +16750,6 @@
     }
   },
   "1771": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

@@ -21520,8 +21520,8 @@
             "credMax": 4,
             "title": "Psychology of Addiction",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -21555,8 +21555,8 @@
             "credMax": 4,
             "title": "Clinical Psychology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

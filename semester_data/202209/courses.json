@@ -3206,7 +3206,7 @@
     "code": "BLST",
     "courses": [
       {
-        "title": "African American History",
+        "title": "African American History I: Black Americans and the Making of the Nation",
         "subj": "BLST",
         "crse": "207",
         "id": "BLST-207",
@@ -3218,7 +3218,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "African American History",
+            "title": "African American History I: Black Americans and the Making of the Nation",
             "cap": 25,
             "act": 19,
             "rem": 6,
@@ -11012,7 +11012,7 @@
         ]
       },
       {
-        "title": "African American History",
+        "title": "African American History I: Black Americans and the Making of the Nation",
         "subj": "HIST",
         "crse": "207",
         "id": "HIST-207",
@@ -11024,7 +11024,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "African American History",
+            "title": "African American History I: Black Americans and the Making of the Nation",
             "cap": 25,
             "act": 19,
             "rem": 6,
@@ -21520,8 +21520,8 @@
             "credMax": 4,
             "title": "Psychology of Addiction",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

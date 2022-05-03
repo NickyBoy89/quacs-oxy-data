@@ -6455,8 +6455,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6517,8 +6517,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 14,
-            "act": 16,
-            "rem": -2,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -18119,8 +18119,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 22,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {

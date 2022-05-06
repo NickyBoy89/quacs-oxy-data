@@ -4215,8 +4215,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -4251,8 +4251,8 @@
             "credMax": 0,
             "title": "Integrated Concepts in General Chemistry Laboratory",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 11,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

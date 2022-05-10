@@ -2195,8 +2195,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3143,8 +3143,8 @@
             "credMax": 4,
             "title": "Neurobiology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19563,8 +19563,8 @@
             "credMax": 0,
             "title": "General Physics II Laboratory",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -19795,8 +19795,8 @@
             "credMax": 4,
             "title": "General Physics II",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {

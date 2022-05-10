@@ -2221,8 +2221,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3143,8 +3143,8 @@
             "credMax": 4,
             "title": "Neurobiology",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8506,8 +8506,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -15381,8 +15381,8 @@
             "credMax": 1,
             "title": "Chamber Jazz and Improvisation",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -19563,8 +19563,8 @@
             "credMax": 0,
             "title": "General Physics II Laboratory",
             "cap": 14,
-            "act": 8,
-            "rem": 6,
+            "act": 7,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -19795,8 +19795,8 @@
             "credMax": 4,
             "title": "General Physics II",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -22983,8 +22983,8 @@
             "credMax": 4,
             "title": "Advanced Spanish",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

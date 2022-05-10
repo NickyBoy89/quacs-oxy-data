@@ -3200,16 +3200,16 @@
       "MATH 210"
     ]
   },
-  "MAC 210": {
-    "title": "Introduction to Motion Design",
-    "prereqs": [
-      "MAC 110"
-    ]
-  },
   "MAC 490": {
     "title": "Senior Seminar in Critical Media",
     "prereqs": [
       "MAC 390"
+    ]
+  },
+  "MAC 210": {
+    "title": "Introduction to Motion Design",
+    "prereqs": [
+      "MAC 110"
     ]
   },
   "MUSC 231": {
@@ -3230,6 +3230,18 @@
       "MUSC 151"
     ]
   },
+  "MUSC 258": {
+    "title": "Introduction to Film Scoring",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 272": {
+    "title": "Instrumental Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
   "MUSC 257": {
     "title": "Composition Seminar",
     "prereqs": [
@@ -3243,18 +3255,6 @@
       "OXMT"
     ]
   },
-  "MUSC 258": {
-    "title": "Introduction to Film Scoring",
-    "prereqs": [
-      "MUSC 148"
-    ]
-  },
-  "MUSC 272": {
-    "title": "Instrumental Conducting",
-    "prereqs": [
-      "MUSC 151"
-    ]
-  },
   "MUSA 104": {
     "title": "Classical Guitar Class (Intermediate)",
     "prereqs": [
@@ -3265,6 +3265,30 @@
     "title": "Advanced Laboratory I",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "POLS 281": {
+    "title": "Seminar in Political Leadership",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 283": {
+    "title": "Seminar in Washington Politics: Global Public Health Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 285": {
+    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 300": {
+    "title": "Research Methods in Politics and Public Policy",
+    "prereqs": [
+      "POLS 101"
     ]
   },
   "POLS 244": {
@@ -3297,28 +3321,16 @@
       "POLS 101"
     ]
   },
-  "POLS 281": {
-    "title": "Seminar in Political Leadership",
+  "PSYC 334": {
+    "title": "Health Psychology",
     "prereqs": [
-      "POLS 101"
+      "PSYC 200"
     ]
   },
-  "POLS 283": {
-    "title": "Seminar in Washington Politics: Global Public Health Policy",
+  "PSYC 395": {
+    "title": "Directed Research",
     "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 285": {
-    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 300": {
-    "title": "Research Methods in Politics and Public Policy",
-    "prereqs": [
-      "POLS 101"
+      "PSYC 200"
     ]
   },
   "PSYC 201": {
@@ -3340,22 +3352,19 @@
       "PSYC 200"
     ]
   },
-  "PSYC 395": {
-    "title": "Directed Research",
-    "prereqs": [
-      "PSYC 200"
-    ]
-  },
-  "PSYC 334": {
-    "title": "Health Psychology",
-    "prereqs": [
-      "PSYC 200"
-    ]
-  },
   "RUSN 395": {
     "title": "Special Topic in Russian - To be: Ukranian",
     "prereqs": [
       "OXRU"
+    ]
+  },
+  "SOC 240": {
+    "title": "Sociology of Food",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 210": {
@@ -3395,13 +3404,12 @@
       "SOC 105"
     ]
   },
-  "SOC 240": {
-    "title": "Sociology of Food",
+  "SPAN 342": {
+    "title": "Spanish in the United States",
     "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 321": {
@@ -3439,18 +3447,28 @@
       "SPAN 383"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
-    ]
-  },
   "THEA 121": {
     "title": "Production Laboratory",
     "prereqs": [
       "THEA 120"
+    ]
+  },
+  "THEA 215": {
+    "title": "Acting for the Camera",
+    "prereqs": [
+      "THEA 210"
+    ]
+  },
+  "THEA 261": {
+    "title": "Children's Theater, 5th Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 301": {
+    "title": "Topics in Theater History",
+    "prereqs": [
+      "THEA 101"
     ]
   },
   "THEA 210": {
@@ -3480,32 +3498,14 @@
       "THEA 175"
     ]
   },
-  "THEA 215": {
-    "title": "Acting for the Camera",
-    "prereqs": [
-      "THEA 210"
-    ]
-  },
-  "THEA 261": {
-    "title": "Children's Theater, 5th Grade",
-    "prereqs": [
-      "THEA 110"
-    ]
-  },
-  "THEA 301": {
-    "title": "Topics in Theater History",
-    "prereqs": [
-      "THEA 101"
-    ]
-  },
-  "UEP 306": {
-    "title": "Food and the Environment",
+  "UEP 230": {
+    "title": "Climate Justice: Theory and Practice",
     "prereqs": [
       "UEP 101"
     ]
   },
-  "UEP 230": {
-    "title": "Climate Justice: Theory and Practice",
+  "UEP 306": {
+    "title": "Food and the Environment",
     "prereqs": [
       "UEP 101"
     ]

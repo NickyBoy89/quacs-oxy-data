@@ -8898,36 +8898,6 @@
       }
     }
   },
-  "1296": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SOC 101",
-          "type": "course"
-        },
-        {
-          "course": "SOC 102",
-          "type": "course"
-        },
-        {
-          "course": "SOC 105",
-          "type": "course"
-        },
-        {
-          "course": "OXSO",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1297": {
     "prerequisites": {
       "nested": [
@@ -18087,6 +18057,24 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "1898": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1899": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

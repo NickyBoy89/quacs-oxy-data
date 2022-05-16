@@ -6520,8 +6520,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6556,8 +6556,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -6652,8 +6652,8 @@
             "credMax": 4,
             "title": "Information Theory",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14967,9 +14967,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Pro Tools Fundamentals",
-            "cap": 16,
+            "cap": 10,
             "act": 2,
-            "rem": 14,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -14994,9 +14994,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Pro Tools Fundamentals",
-            "cap": 16,
+            "cap": 10,
             "act": 0,
-            "rem": 16,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

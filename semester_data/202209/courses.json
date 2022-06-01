@@ -4288,8 +4288,8 @@
             "credMax": 0,
             "title": "Integrated Concepts in General Chemistry Laboratory",
             "cap": 10,
-            "act": 11,
-            "rem": -1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -4810,8 +4810,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -9692,7 +9692,7 @@
     "code": "FYS",
     "courses": [
       {
-        "title": "First Year Seminar",
+        "title": "FYS:Envisio/EnactHealthJustice",
         "subj": "FYS",
         "crse": "2",
         "id": "FYS-2",
@@ -9704,7 +9704,7 @@
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar",
+            "title": "FYS:Envisio/EnactHealthJustice",
             "cap": 14,
             "act": 0,
             "rem": 14,
@@ -9732,7 +9732,7 @@
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar",
+            "title": "FYS:Envisio/EnactHealthJustice",
             "cap": 14,
             "act": 0,
             "rem": 14,
@@ -10618,7 +10618,7 @@
         ]
       },
       {
-        "title": "First Year Seminar",
+        "title": "First Year Seminar: (Im)migrant Communities of California",
         "subj": "FYS",
         "crse": "1",
         "id": "FYS-1",
@@ -10630,7 +10630,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar",
+            "title": "First Year Seminar: (Im)migrant Communities of California",
             "cap": 32,
             "act": 0,
             "rem": 32,

@@ -18395,5 +18395,117 @@
         ]
       }
     }
+  },
+  "1937": {
+    "corequisites": {
+      "cross_list_courses": [
+        "FYS-2"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 12,
+        "open": 12,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1938": {
+    "corequisites": {
+      "cross_list_courses": [
+        "FYS-2"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 24,
+        "open": 24,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1939": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1940": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1941": {
+    "corequisites": {
+      "cross_list_courses": [
+        "GEO-105",
+        "GEO-105"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1942": {
+    "corequisites": {
+      "cross_list_courses": [
+        "GEO-105"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1943": {
+    "corequisites": {
+      "cross_list_courses": [
+        "GEO-105"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

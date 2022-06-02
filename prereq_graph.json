@@ -976,7 +976,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1 Laboratory",
+    "title": "Calculus 1",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced) Laboratory",
+    "title": "Calculus 1 (Advanced)",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -993,7 +993,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2 Laboratory",
+    "title": "Calculus 2",
     "prereqs": [
       "APAB",
       "APCS",
@@ -3116,16 +3116,16 @@
       "GERM 202"
     ]
   },
-  "GRK 382": {
-    "title": "Love's Song: A Poetic Philosophic History",
-    "prereqs": [
-      "GRK 102"
-    ]
-  },
   "GRK 102": {
     "title": "Elementary Greek",
     "prereqs": [
       "GRK 101"
+    ]
+  },
+  "GRK 382": {
+    "title": "Love's Song: A Poetic Philosophic History",
+    "prereqs": [
+      "GRK 102"
     ]
   },
   "HIST 358": {
@@ -3158,16 +3158,6 @@
       "LATN 201"
     ]
   },
-  "LLAS 358": {
-    "title": "Food and Drink in Mexican History",
-    "prereqs": [
-      "HIST 150",
-      "HIST 151",
-      "LLAS 101",
-      "SOC 240",
-      "UEP 101"
-    ]
-  },
   "LLAS 210": {
     "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
@@ -3176,10 +3166,14 @@
       "SOC 101"
     ]
   },
-  "MATH 310": {
-    "title": "Real Analysis",
+  "LLAS 358": {
+    "title": "Food and Drink in Mexican History",
     "prereqs": [
-      "MATH 210"
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "SOC 240",
+      "UEP 101"
     ]
   },
   "MATH 128": {
@@ -3198,16 +3192,22 @@
       "MATH 214"
     ]
   },
-  "MAC 210": {
-    "title": "Introduction to Motion Design",
+  "MATH 310": {
+    "title": "Real Analysis",
     "prereqs": [
-      "MAC 110"
+      "MATH 210"
     ]
   },
   "MAC 490": {
     "title": "Senior Seminar in Critical Media",
     "prereqs": [
       "MAC 390"
+    ]
+  },
+  "MAC 210": {
+    "title": "Introduction to Motion Design",
+    "prereqs": [
+      "MAC 110"
     ]
   },
   "MUSC 231": {
@@ -3228,6 +3228,18 @@
       "MUSC 151"
     ]
   },
+  "MUSC 258": {
+    "title": "Introduction to Film Scoring",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 272": {
+    "title": "Instrumental Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
   "MUSC 257": {
     "title": "Composition Seminar",
     "prereqs": [
@@ -3239,18 +3251,6 @@
     "prereqs": [
       "MUSC 101",
       "OXMT"
-    ]
-  },
-  "MUSC 258": {
-    "title": "Introduction to Film Scoring",
-    "prereqs": [
-      "MUSC 148"
-    ]
-  },
-  "MUSC 272": {
-    "title": "Instrumental Conducting",
-    "prereqs": [
-      "MUSC 151"
     ]
   },
   "MUSA 104": {
@@ -3356,26 +3356,6 @@
       "OXRU"
     ]
   },
-  "SOC 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "OXSO",
-      "POLS 101",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 230": {
-    "title": "Marriage and Family",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
   "SOC 240": {
     "title": "Sociology of Food",
     "prereqs": [
@@ -3402,12 +3382,24 @@
       "SOC 105"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
+  "SOC 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "DWA 101",
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 230": {
+    "title": "Marriage and Family",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 321": {
@@ -3445,28 +3437,18 @@
       "SPAN 383"
     ]
   },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
   "THEA 121": {
     "title": "Production Laboratory",
     "prereqs": [
       "THEA 120"
-    ]
-  },
-  "THEA 215": {
-    "title": "Acting for the Camera",
-    "prereqs": [
-      "THEA 210"
-    ]
-  },
-  "THEA 261": {
-    "title": "Children's Theater, 5th Grade",
-    "prereqs": [
-      "THEA 110"
-    ]
-  },
-  "THEA 301": {
-    "title": "Topics in Theater History",
-    "prereqs": [
-      "THEA 101"
     ]
   },
   "THEA 210": {
@@ -3496,14 +3478,32 @@
       "THEA 175"
     ]
   },
-  "UEP 230": {
-    "title": "Climate Justice: Theory and Practice",
+  "THEA 215": {
+    "title": "Acting for the Camera",
     "prereqs": [
-      "UEP 101"
+      "THEA 210"
+    ]
+  },
+  "THEA 261": {
+    "title": "Children's Theater, 5th Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 301": {
+    "title": "Topics in Theater History",
+    "prereqs": [
+      "THEA 101"
     ]
   },
   "UEP 306": {
     "title": "Food and the Environment",
+    "prereqs": [
+      "UEP 101"
+    ]
+  },
+  "UEP 230": {
+    "title": "Climate Justice: Theory and Practice",
     "prereqs": [
       "UEP 101"
     ]

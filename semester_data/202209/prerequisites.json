@@ -18088,8 +18088,20 @@
       }
     }
   },
-  "1901": {},
-  "1902": {},
+  "1901": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
+    }
+  },
+  "1902": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
+    }
+  },
   "1903": {
     "restrictions": {
       "classification": {
@@ -18412,7 +18424,7 @@
     "restrictions": {
       "classification": {
         "may_not_be": [
-          "Frosh"
+          "Graduate"
         ]
       }
     }
@@ -18425,15 +18437,15 @@
     },
     "reserved": [
       {
-        "max": 24,
-        "open": 24,
+        "max": 12,
+        "open": 12,
         "reservedFor": "Frosh"
       }
     ],
     "restrictions": {
       "classification": {
         "may_not_be": [
-          "Frosh"
+          "Graduate"
         ]
       }
     }

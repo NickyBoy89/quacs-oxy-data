@@ -17249,8 +17249,8 @@
   "1810": {
     "reserved": [
       {
-        "max": 7,
-        "open": -1,
+        "max": 8,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -18237,7 +18237,6 @@
       }
     }
   },
-  "1918": {},
   "1919": {
     "restrictions": {
       "classification": {

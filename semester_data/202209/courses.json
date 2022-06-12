@@ -1790,8 +1790,8 @@
             "credMax": 4,
             "title": "Vertebrate Physiology",
             "cap": 24,
-            "act": 25,
-            "rem": -1,
+            "act": 26,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1825,8 +1825,8 @@
             "credMax": 0,
             "title": "Vertebrate Physiology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2195,8 +2195,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2221,8 +2221,8 @@
             "credMax": 1,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 9,
-            "rem": -1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

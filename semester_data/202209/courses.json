@@ -6885,8 +6885,8 @@
             "credMax": 4,
             "title": "Computer Graphics",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7038,7 +7038,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Malek Moazzam-Doulat",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1740,
                 "timeEnd": 1905,
@@ -10087,7 +10087,7 @@
         ]
       },
       {
-        "title": "First Year Seminar: Histories of Incarcerated Youth",
+        "title": "Histories of Incarcerated Youth",
         "subj": "FYS",
         "crse": "11",
         "id": "FYS-11",
@@ -10099,7 +10099,7 @@
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar: Histories of Incarcerated Youth",
+            "title": "Histories of Incarcerated Youth",
             "cap": 15,
             "act": 0,
             "rem": 15,
@@ -10113,8 +10113,8 @@
                 ],
                 "instructor": "Anna-Christine Elizabeth Grant",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1250,
+                "timeEnd": 1345,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -10127,7 +10127,7 @@
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar: Histories of Incarcerated Youth",
+            "title": "Histories of Incarcerated Youth",
             "cap": 15,
             "act": 0,
             "rem": 15,

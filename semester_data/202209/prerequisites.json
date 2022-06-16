@@ -1462,9 +1462,9 @@
   "1095": {
     "corequisites": {
       "cross_list_courses": [
-        "CSP-1",
-        "DWA-282",
-        "SOC-105"
+        "FYS-1",
+        "SOC-105",
+        "SPAN-105"
       ]
     }
   },
@@ -17679,6 +17679,11 @@
     }
   },
   "1900": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CTSJ-105"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

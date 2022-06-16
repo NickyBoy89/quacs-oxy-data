@@ -3356,26 +3356,6 @@
       "OXRU"
     ]
   },
-  "SOC 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "OXSO",
-      "POLS 101",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 230": {
-    "title": "Marriage and Family",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
   "SOC 240": {
     "title": "Sociology of Food",
     "prereqs": [
@@ -3395,6 +3375,26 @@
   },
   "SOC 320": {
     "title": "Health and Illness",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 230": {
+    "title": "Marriage and Family",
     "prereqs": [
       "OXSO",
       "SOC 101",

@@ -1466,7 +1466,14 @@
         "SOC-105",
         "SPAN-105"
       ]
-    }
+    },
+    "reserved": [
+      {
+        "max": 32,
+        "open": 32,
+        "reservedFor": "Frosh"
+      }
+    ]
   },
   "1096": {
     "reserved": [
@@ -18114,5 +18121,44 @@
         ]
       }
     }
+  },
+  "1944": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CTSJ-105",
+        "FYS-1",
+        "SPAN-105"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 32,
+        "open": 32,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1945": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CTSJ-105",
+        "FYS-1",
+        "SOC-105"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 32,
+        "open": 32,
+        "reservedFor": "Frosh"
+      }
+    ]
   }
 }

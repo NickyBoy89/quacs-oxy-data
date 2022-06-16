@@ -89,8 +89,8 @@
             "credMax": 4,
             "title": "Asian American Literature",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -7090,9 +7090,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Immigration and Education",
-            "cap": 12,
+            "cap": 32,
             "act": 0,
-            "rem": 12,
+            "rem": 32,
             "attribute": "",
             "timeslots": [
               {
@@ -8349,8 +8349,8 @@
             "credMax": 4,
             "title": "Intermediate Microeconomic Theory",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -8413,8 +8413,8 @@
             "credMax": 4,
             "title": "Intermediate Macroeconomic Theory",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -8475,8 +8475,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -12965,8 +12965,8 @@
             "credMax": 5,
             "title": "Elementary Japanese I",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -21880,8 +21880,8 @@
             "credMax": 4,
             "title": "Contemporary Chinese Politics",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -23697,6 +23697,183 @@
         ]
       },
       {
+        "title": "Immigrant Youth and Youth Cultures",
+        "subj": "SOC",
+        "crse": "105",
+        "id": "SOC-105",
+        "sections": [
+          {
+            "crn": 1944,
+            "subj": "SOC",
+            "crse": "105",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Immigrant Youth and Youth Cultures",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Richard Mora",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Representing Violence in Contemporary Mexico",
+        "subj": "SOC",
+        "crse": "211",
+        "id": "SOC-211",
+        "sections": [
+          {
+            "crn": 1750,
+            "subj": "SOC",
+            "crse": "211",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Representing Violence in Contemporary Mexico",
+            "cap": 25,
+            "act": 7,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Dolores Trevizo",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sociology of Food",
+        "subj": "SOC",
+        "crse": "240",
+        "id": "SOC-240",
+        "sections": [
+          {
+            "crn": 1295,
+            "subj": "SOC",
+            "crse": "240",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sociology of Food",
+            "cap": 25,
+            "act": 25,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "John T. Lang",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Criminology",
+        "subj": "SOC",
+        "crse": "281",
+        "id": "SOC-281",
+        "sections": [
+          {
+            "crn": 1802,
+            "subj": "SOC",
+            "crse": "281",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Criminology",
+            "cap": 25,
+            "act": 23,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mai Thai",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health and Illness",
+        "subj": "SOC",
+        "crse": "320",
+        "id": "SOC-320",
+        "sections": [
+          {
+            "crn": 1752,
+            "subj": "SOC",
+            "crse": "320",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health and Illness",
+            "cap": 18,
+            "act": 9,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "April Joy Hovav",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
         "subj": "SOC",
         "crse": "210",
@@ -23872,147 +24049,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Representing Violence in Contemporary Mexico",
-        "subj": "SOC",
-        "crse": "211",
-        "id": "SOC-211",
-        "sections": [
-          {
-            "crn": 1750,
-            "subj": "SOC",
-            "crse": "211",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Representing Violence in Contemporary Mexico",
-            "cap": 25,
-            "act": 7,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Dolores Trevizo",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sociology of Food",
-        "subj": "SOC",
-        "crse": "240",
-        "id": "SOC-240",
-        "sections": [
-          {
-            "crn": 1295,
-            "subj": "SOC",
-            "crse": "240",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sociology of Food",
-            "cap": 25,
-            "act": 25,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "John T. Lang",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Criminology",
-        "subj": "SOC",
-        "crse": "281",
-        "id": "SOC-281",
-        "sections": [
-          {
-            "crn": 1802,
-            "subj": "SOC",
-            "crse": "281",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Criminology",
-            "cap": 25,
-            "act": 23,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mai Thai",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Health and Illness",
-        "subj": "SOC",
-        "crse": "320",
-        "id": "SOC-320",
-        "sections": [
-          {
-            "crn": 1752,
-            "subj": "SOC",
-            "crse": "320",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health and Illness",
-            "cap": 18,
-            "act": 9,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "April Joy Hovav",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -24026,34 +24062,6 @@
         "crse": "101",
         "id": "SPAN-101",
         "sections": [
-          {
-            "crn": 1300,
-            "subj": "SPAN",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish I",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Karina Rincon",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1299,
             "subj": "SPAN",
@@ -24081,51 +24089,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Beginning Spanish II",
-        "subj": "SPAN",
-        "crse": "102",
-        "id": "SPAN-102",
-        "sections": [
+          },
           {
-            "crn": 1302,
+            "crn": 1300,
             "subj": "SPAN",
-            "crse": "102",
+            "crse": "101",
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 8,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alejandra Castellanos",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1304,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
+            "title": "Beginning Spanish I",
             "cap": 18,
             "act": 13,
             "rem": 5,
@@ -24137,15 +24109,23 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Gloria Luz Orozco Allan",
+                "instructor": "Karina Rincon",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
+                "timeStart": 1500,
+                "timeEnd": 1555,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Beginning Spanish II",
+        "subj": "SPAN",
+        "crse": "102",
+        "id": "SPAN-102",
+        "sections": [
           {
             "crn": 1301,
             "subj": "SPAN",
@@ -24225,6 +24205,62 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1302,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 8,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alejandra Castellanos",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1304,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Gloria Luz Orozco Allan",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -24576,6 +24612,41 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rancho Hollywood: Los Angeles Migrations Stories",
+        "subj": "SPAN",
+        "crse": "105",
+        "id": "SPAN-105",
+        "sections": [
+          {
+            "crn": 1945,
+            "subj": "SPAN",
+            "crse": "105",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Rancho Hollywood: Los Angeles Migrations Stories",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Viviana Beatriz MacManus",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

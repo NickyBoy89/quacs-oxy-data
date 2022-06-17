@@ -1473,7 +1473,12 @@
         "open": 32,
         "reservedFor": "Frosh"
       }
-    ]
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
+    }
   },
   "1096": {
     "reserved": [
@@ -18161,6 +18166,11 @@
         "open": 32,
         "reservedFor": "Frosh"
       }
-    ]
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": []
+      }
+    }
   }
 }

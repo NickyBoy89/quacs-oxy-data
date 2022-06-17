@@ -17688,7 +17688,9 @@
   "1900": {
     "corequisites": {
       "cross_list_courses": [
-        "CTSJ-105"
+        "CTSJ-105",
+        "SOC-105",
+        "SPAN-105"
       ]
     },
     "restrictions": {

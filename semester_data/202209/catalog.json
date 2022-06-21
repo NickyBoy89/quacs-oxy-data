@@ -11,17 +11,17 @@
     "name": "Dis/ability Theory",
     "description": "This course provides an introduction to American Studies through a critical engagement with theories and cultural histories of \u201cdebility\u201d and \u201ccapacity\u201d in the U.S.\u2019s mythos of \u201cexceptionalism.\u201d\u00a0\u00a0We will discover how various cultural iterations of \u201cdisability\u201d have intersected with social constructions of race, gender, class, and sexuality in the U.S., from the colonial period to the present. In doing so, we will ask/trace/analyze how specific national renderings of disability/different-abledness came to be constituted as an affirmative identity category. We will examine how disability activism joined other 1960/70s freedom movements to yield recent academic critical-theory formations in the U.S., including Dis/ability Studies, DisCrit (Dis/ability Critical Race Studies), and Crip/Queer Critique."
   },
-  "AMST-193": {
-    "subj": "AMST",
-    "crse": "193",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
-  },
   "AMST-195": {
     "subj": "AMST",
     "crse": "195",
     "name": "Topics in American Studies",
     "description": "Topics vary semester to semester. Specific topics may satisfy different Core Program requirements.\u00a0"
+  },
+  "AMST-193": {
+    "subj": "AMST",
+    "crse": "193",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "AMST-197": {
     "subj": "AMST",
@@ -59,17 +59,17 @@
     "name": "Race, Gender, and Sexuality in American Film and Media",
     "description": "This course introduces students to the theoretical and analytical frameworks necessary to critically understand representations of race, gender, and sexuality (among other topics in American culture) in contemporary American film and media. Using critical theory, historical analyses, and theories of analyzing film and media, we will explore central concepts in American studies such as race, gender, sexuality, class, family and nation, and private and public space."
   },
-  "AMST-233": {
-    "subj": "AMST",
-    "crse": "233",
-    "name": "American Queer Novel",
-    "description": "This course introduces students to literary questions of queerness, canonization, and nation, in the context of the United States' 20th century discourses about homosexuality. Students will analyze the production of ideas about the nation through literature and examine the limits and capacities of the novel genre for cultural expressions of LGBTQ life in America.\u00a0"
-  },
   "AMST-246": {
     "subj": "AMST",
     "crse": "246",
     "name": "The African American Literary Tradition",
     "description": "A socio-historical analysis of narratives and novels by African American writers. The course will examine the intellectual, political, and cultural influences on writers such as Frederick Douglass, Harriet Jacobs, Charles Chesnutt, Nella Larsen, Zora Neale Hurston, Ann Petry, James Baldwin, Toni Morrison, and Charles Johnson."
+  },
+  "AMST-233": {
+    "subj": "AMST",
+    "crse": "233",
+    "name": "American Queer Novel",
+    "description": "This course introduces students to literary questions of queerness, canonization, and nation, in the context of the United States' 20th century discourses about homosexuality. Students will analyze the production of ideas about the nation through literature and examine the limits and capacities of the novel genre for cultural expressions of LGBTQ life in America.\u00a0"
   },
   "AMST-256": {
     "subj": "AMST",
@@ -179,17 +179,17 @@
     "name": "Special Topics in Amer Studies",
     "description": "Topics vary semester to semester. Specific topics may satisfy different Core Program requirements."
   },
-  "AMST-397": {
-    "subj": "AMST",
-    "crse": "397",
-    "name": "Advanced Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "AMST-490": {
     "subj": "AMST",
     "crse": "490",
     "name": "Senior Seminar",
     "description": "This course is designed to assist students with the completion of research papers on topics that reflect selected areas of emphasis in American Studies. It will provide an opportunity for seniors to synthesize their area of specialization with an analysis of critical issues in the study of American culture and society. Offered only in fall semester (following AMST 390 in the spring).\u00a0"
+  },
+  "AMST-397": {
+    "subj": "AMST",
+    "crse": "397",
+    "name": "Advanced Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "AMST-497": {
     "subj": "AMST",
@@ -203,17 +203,17 @@
     "name": "Honors",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "ARAB-101": {
-    "subj": "ARAB",
-    "crse": "101",
-    "name": "Elementary Arabic I",
-    "description": "Introduction to Modern Standard Arabic and pronunciation, alphabet, simple oral communication, reading simple prose, and other basic language skills. Instruction in the fundamentals of Arabic grammar. May not be taken for credit by those with more than one year of previous high school study (grades 10, 11, 12) in Arabic or one semester of college study in Arabic. Consult instructor for details."
-  },
   "ARAB-102": {
     "subj": "ARAB",
     "crse": "102",
     "name": "Elementary Arabic II",
     "description": "Continuation of ARAB 101."
+  },
+  "ARAB-101": {
+    "subj": "ARAB",
+    "crse": "101",
+    "name": "Elementary Arabic I",
+    "description": "Introduction to Modern Standard Arabic and pronunciation, alphabet, simple oral communication, reading simple prose, and other basic language skills. Instruction in the fundamentals of Arabic grammar. May not be taken for credit by those with more than one year of previous high school study (grades 10, 11, 12) in Arabic or one semester of college study in Arabic. Consult instructor for details."
   },
   "ARAB-151": {
     "subj": "ARAB",
@@ -317,23 +317,17 @@
     "name": "Independent Study",
     "description": ""
   },
-  "ARTH-160": {
-    "subj": "ARTH",
-    "crse": "160",
-    "name": "Introduction to East Asian Art",
-    "description": "This course introduces East Asian art from ancient times to the present. Although the framework of the course is loosely chronological, each week will focus on in-depth analysis of a different type of object that addresses a particular problem or concept. We will explore topics such as metaphorical uses of amorphous ink in calligraphy and painting, the deconstruction of artistic hierarchies in the tea ceremony, and gender and the politics of contemporary performance art. In addition to developing the foundational skills of close looking, critical thinking, and self-reflective writing, students will ultimately gain an understanding of the diversity, complexity, and conceptual excitement of East Asian art.\u00a0\u00a0\n"
-  },
   "ARTH-150": {
     "subj": "ARTH",
     "crse": "150",
     "name": "History of Urban Design",
     "description": ""
   },
-  "ARTH-180": {
+  "ARTH-160": {
     "subj": "ARTH",
-    "crse": "180",
-    "name": "Introduction to Later European and American Art",
-    "description": "A selective survey of European and American painting and sculpture from the Renaissance to the mid-20th century. Coursework introduces students to the fundamental art historical practices of visual description and visual analysis. Readings, lectures, discussions and writing assignments focus on key artistic and visual conventions of the Euro-American tradition, from the invention of one-point perspective and illusionist models of art, to modernist critiques of those models in the 19th and 20th centuries. Major themes of the course will include changing approaches to visual narrative and description; the shifting status of the artist in Euro-American cultures; patronage, audience, art criticism and exhibition culture; issues of race, gender, identity and power in visual representation; abstraction and the rise of the avant-garde. Museum visit required."
+    "crse": "160",
+    "name": "Introduction to East Asian Art",
+    "description": "This course introduces East Asian art from ancient times to the present. Although the framework of the course is loosely chronological, each week will focus on in-depth analysis of a different type of object that addresses a particular problem or concept. We will explore topics such as metaphorical uses of amorphous ink in calligraphy and painting, the deconstruction of artistic hierarchies in the tea ceremony, and gender and the politics of contemporary performance art. In addition to developing the foundational skills of close looking, critical thinking, and self-reflective writing, students will ultimately gain an understanding of the diversity, complexity, and conceptual excitement of East Asian art.\u00a0\u00a0\n"
   },
   "ARTH-170": {
     "subj": "ARTH",
@@ -341,17 +335,23 @@
     "name": "Introduction to the Arts of the Early Mediterranean World",
     "description": "What makes art\u00a0 \u201cEuropean\u201d? This fundamental question accompanies our survey of the different artistic traditions that emerged around the Mediterranean for more than 40,000 years of history, from prehistoric times through antiquity to the end of the medieval era. Rather than looking at art as the product of different monolithic \u201ccivilizations,\u201d progressing through time in isolation from another, we will consider how a diversity of artistic cultures emerged through constant exchange and borrowing from one another.\u00a0 Readings, lectures, assignments and discussion will encompass artworks from the realm of painting, sculpture, architecture and material culture from a \u201cEurope\u201d with constantly fluid and shifting borders. The course will develop skills of visual analysis in style, iconography and technique. Issues of gender, race, colonization and trade in the art of the ancient and medieval eras will also be addressed. In addition, we will explore how the art of the past has constantly been reimagined to fulfill more recent artistic and political ideologies."
   },
-  "ARTH-195": {
+  "ARTH-180": {
     "subj": "ARTH",
-    "crse": "195",
-    "name": "Topics in Art History",
-    "description": "Topics vary semester to semester. Specific topics may satisfy different Core Program requirements.\u00a0"
+    "crse": "180",
+    "name": "Introduction to Later European and American Art",
+    "description": "A selective survey of European and American painting and sculpture from the Renaissance to the mid-20th century. Coursework introduces students to the fundamental art historical practices of visual description and visual analysis. Readings, lectures, discussions and writing assignments focus on key artistic and visual conventions of the Euro-American tradition, from the invention of one-point perspective and illusionist models of art, to modernist critiques of those models in the 19th and 20th centuries. Major themes of the course will include changing approaches to visual narrative and description; the shifting status of the artist in Euro-American cultures; patronage, audience, art criticism and exhibition culture; issues of race, gender, identity and power in visual representation; abstraction and the rise of the avant-garde. Museum visit required."
   },
   "ARTH-193": {
     "subj": "ARTH",
     "crse": "193",
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
+  },
+  "ARTH-195": {
+    "subj": "ARTH",
+    "crse": "195",
+    "name": "Topics in Art History",
+    "description": "Topics vary semester to semester. Specific topics may satisfy different Core Program requirements.\u00a0"
   },
   "ARTH-197": {
     "subj": "ARTH",
@@ -365,17 +365,17 @@
     "name": "Oxy Arts Internship",
     "description": "This course provides opportunities for students to engage in community-based work with arts organizations. Each student will work with a community-based partner or artist for approximately 6-7 hours each week. This in-the-field experience will be paired with reflective exercises and relevant readings, and will be facilitated by a faculty member in the department."
   },
-  "ARTH-240": {
-    "subj": "ARTH",
-    "crse": "240",
-    "name": "The Traveling Object: 1492-1820",
-    "description": "Trade, economic migration, and violent displacement caused an unprecedented number of people and things to travel across the early modern globe. This seminar explores the portable objects that were created within, and impacted by, the global mercantilismes and colonialism\u2019s of the Spanish and Portuguese empires. We will follow a series of moving items that defy the traditional categories of singular authors or cultures. Their travels span distant points in the colonial maritime world, such as Goa, Manila, Mexico City, Nagasaki, Antwerp, Lisbon, and Potosi. Each class will center around 1-2 select \u201cObjects in Focus.\u201d Ranging from the high-end to the everyday, these works will include ivories, feather mosaics, silver work, lacquer, ceramics, paintings, prints, textiles, and more. They will intersect with a series of discussions on appropriation, reuse, display intent, theft, copying, gifting, erasure, fashion, labor and race. The paths of things past offer a more nuanced view of our own current systems of globalized capitalism and its reflection in artistic production and display to this day."
-  },
   "ARTH-201": {
     "subj": "ARTH",
     "crse": "201",
     "name": "Ways of Looking and Making",
     "description": "This course will enable students to learn the methods of visual and cultural analysis, critical practices of looking, varied modes of making, and the historical and theoretical frameworks that form the foundation for deeper study of visual arts, architecture, and material culture. Guest lectures from faculty in the studio art and art history program will\u00a0enhance the interdisciplinary and transcultural nature of the course, and student work will include opportunities to conduct research, write about, and create visual images and objects as a means putting these foundational concepts into practice. Classes will\u00a0focus on the analysis of specific objects (paintings, photographs, prints, sculptures, buildings, and other objects of visual interest) and also the materials and techniques used to make those images and objects. By the end of this course, students will be equipped with the methods\u00a0of analysis, research, and interpretation essential to looking at and making visual art in the twenty-first century."
+  },
+  "ARTH-240": {
+    "subj": "ARTH",
+    "crse": "240",
+    "name": "The Traveling Object: 1492-1820",
+    "description": "Trade, economic migration, and violent displacement caused an unprecedented number of people and things to travel across the early modern globe. This seminar explores the portable objects that were created within, and impacted by, the global mercantilismes and colonialism\u2019s of the Spanish and Portuguese empires. We will follow a series of moving items that defy the traditional categories of singular authors or cultures. Their travels span distant points in the colonial maritime world, such as Goa, Manila, Mexico City, Nagasaki, Antwerp, Lisbon, and Potosi. Each class will center around 1-2 select \u201cObjects in Focus.\u201d Ranging from the high-end to the everyday, these works will include ivories, feather mosaics, silver work, lacquer, ceramics, paintings, prints, textiles, and more. They will intersect with a series of discussions on appropriation, reuse, display intent, theft, copying, gifting, erasure, fashion, labor and race. The paths of things past offer a more nuanced view of our own current systems of globalized capitalism and its reflection in artistic production and display to this day."
   },
   "ARTH-256": {
     "subj": "ARTH",
@@ -593,17 +593,17 @@
     "name": "Honors Research",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "ARTS-100": {
-    "subj": "ARTS",
-    "crse": "100",
-    "name": "OxyArts Collaborate Workshop",
-    "description": "The Oxy Arts Collaborate Workshop will bring a teaching artist, Oxy students, and youth from the neighboring Highland Park school district together in creative collaboration. Permission of Director of Oxy Arts required."
-  },
   "ARTS-101": {
     "subj": "ARTS",
     "crse": "101",
     "name": "Drawing Fundamentals",
     "description": "Working with a variety of drawing materials - charcoal, pencil, ink, gouache, and acrylic paint - students investigate a fundamental aesthetic and visual vocabulary. Beginning with exercises in mark-making, then working through a formal study of basic visual elements and simple subject matter, students develop a working understanding of two-dimensional composition."
+  },
+  "ARTS-100": {
+    "subj": "ARTS",
+    "crse": "100",
+    "name": "OxyArts Collaborate Workshop",
+    "description": "The Oxy Arts Collaborate Workshop will bring a teaching artist, Oxy students, and youth from the neighboring Highland Park school district together in creative collaboration. Permission of Director of Oxy Arts required."
   },
   "ARTS-102": {
     "subj": "ARTS",
@@ -713,29 +713,29 @@
     "name": "Art, Ethics, Medicine: The PPE Portrait Project",
     "description": "Art, Ethics and Medicine: The PPE Portrait Project is a four-credit class focused on the tenets of the PPE Portrait Project. The\u00a0PPE Portrait Project\u00a0is an interdisciplinary social practice art project that is transforming best medical practice. The project humanizes anonymous masked healthcare workers with wearable portraits affixed to the outside of their hazmat suits. Created in 2014 by Occidental College professor Mary Beth Heffernan in response to the Ebola epidemic, the PPE Portrait Project is now supporting COVID care at USC-Keck Hospital, Stanford Medical School, UMASS, Mass General and advising nearly a dozen other hospitals across the US and beyond.\u00a0\u00a0At the heart of the PPE Portrait Project is the\u00a0centrality of the image, and the role of the face in generating empathy, compassion and ethical behavior.\u00a0"
   },
-  "ARTS-280": {
-    "subj": "ARTS",
-    "crse": "280",
-    "name": "Transdisciplinary Studio: Oxy and the Art Center",
-    "description": "A team-taught course pairing an Occidental and an Art Center College of Design faculty member in project-based work integrating the history, theory, and practice of the visual arts. Not open to first year students."
-  },
   "ARTS-275": {
     "subj": "ARTS",
     "crse": "275",
     "name": "Art, Ethics and Medicine: The PPE Portrait Project in Action",
     "description": "In this course, students will activate their own project site of the PPE Portrait Project. The\u00a0PPE Portrait Project\u00a0is an interdisciplinary social practice art project that is transforming best medical practice.\u00a0\u00a0Created in 2014 by Occidental College professor Mary Beth Heffernan in response to the Ebola epidemic, the PPE Portrait Project is now supporting COVID care across the US and beyond.\u00a0\u00a0The project humanizes anonymous masked healthcare workers with wearable portraits affixed to the outside of their hazmat suits. Students will be encouraged to implement the project in a group with whom they have a meaningful connection, including schools, community groups; any group who would benefit from an enhanced human connection at a time of masked distancing, anonymity and faceless interaction.\u00a0"
   },
-  "ARTS-290": {
+  "ARTS-280": {
     "subj": "ARTS",
-    "crse": "290",
-    "name": "Art Outside the Bounds: Wanlass Artist in Residence",
-    "description": "In Praise of Shadows"
+    "crse": "280",
+    "name": "Transdisciplinary Studio: Oxy and the Art Center",
+    "description": "A team-taught course pairing an Occidental and an Art Center College of Design faculty member in project-based work integrating the history, theory, and practice of the visual arts. Not open to first year students."
   },
   "ARTS-287": {
     "subj": "ARTS",
     "crse": "287",
     "name": "Social Documentary Photography: A New Civil Contract",
     "description": "In this course, we will examine historical and contemporary approaches to social documentary photography\u2014visual anthropology, citizen journalism, and agitprop, among other forms\u2014and consider the efficacy of photographic images in both garnering awareness and persuading actors to enact sociopolitical change. We will draw consensus on our understandings of \u201cthe real\" in contemporary art and the broader media landscape\u2014in tandem to and opposition with staged, scripted, and/or verisimilar depiction modes\u2014while examining the ethics of capturing another's likeness. Over the course of the semester, we will delve into critical writings by Allan Sekula, Ariella Azoulay, Sarah Lewis and\u00a0Walter Benn Michaels, and works by Forensic Architecture, Atlas Group, Hito Steyerl, and Latoya Ruby Frasier, among others\u2014documentarians/collectives that bring the (neo-)liberal humanist documentary model into complex new territories. Students will focus on a community, situation, or environment\u00a0of their own choosing, using pictures and words to examine the unique situations unfolding in front of their cameras. Together, we will confront our role as image-makers, our ethical relationship to our subjects, and ruminate on the civic value of the social documentary form today."
+  },
+  "ARTS-290": {
+    "subj": "ARTS",
+    "crse": "290",
+    "name": "Art Outside the Bounds: Wanlass Artist in Residence",
+    "description": "In Praise of Shadows"
   },
   "ARTS-293": {
     "subj": "ARTS",
@@ -833,23 +833,17 @@
     "name": "Honors Research",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "ASN-161": {
-    "subj": "ASN",
-    "crse": "161",
-    "name": "Modern Japanese Literature",
-    "description": "This course introduces students to key literary texts from Japan\u2019s modern era (1868-present). During this period, Japanese literature and the Japanese written language were reinvented alongside rapid socioeconomic, political, and cultural changes. As Japan experienced the industrialization, economic success, wars, natural disasters, and technological breakthroughs that characterize this period, literature played a key role in forming the national consciousness. Authors examined in this course may include Higuchi Ichiy\u014d, Natsume S\u014dseki, Kawabata Yasunari, Tanizaki Jun'ichir\u014d, \u014ce Kenzabur\u014d, Tawada Y\u014dko, and Murakami Haruki. We will consider works of Japanese literature within their linguistic, cultural, and historical contexts. Through essays, reading responses, and class discussions, students will explore how literature transforms the human experience into words and in doing so transforms the human experience. The course is given in English, but those whose language proficiency permits may choose to reference the texts in the original Japanese."
-  },
   "ASN-150": {
     "subj": "ASN",
     "crse": "150",
     "name": "The Literary Mind and the Carving of Dragons: Masterpieces of Classical Chinese Literature",
     "description": "The Literary Mind and the Carving of Dragons\u00a0is a highly influential work on Chinese literary aesthetics, and its title also suggests two important constituents of the literary composition process by pre-modern Chinese authors: ideas and craftsmanship. By providing an introduction to classical Chinese literature through readings in translation, this course will integrate aesthetic appreciations and cultural understandings of the classical Chinese literature, and help students grasp the conceptions, styles and creative skills of different Chinese authors. The time range will cover the period from The Classic of Poetry (Shijing)\u00a0through the Qing dynasty. Throughout the course, students will have a basic historical knowledge of the Chinese literary tradition, as well as a sense of how to go about interpreting Chinese literary texts. Classes follow a lecture-discussion format, so students must finish all assigned readings in advance and prepare to actively participate in class discussion. No knowledge of the Chinese language or of Chinese history is required (or assumed)."
   },
-  "ASN-193": {
+  "ASN-161": {
     "subj": "ASN",
-    "crse": "193",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
+    "crse": "161",
+    "name": "Modern Japanese Literature",
+    "description": "This course introduces students to key literary texts from Japan\u2019s modern era (1868-present). During this period, Japanese literature and the Japanese written language were reinvented alongside rapid socioeconomic, political, and cultural changes. As Japan experienced the industrialization, economic success, wars, natural disasters, and technological breakthroughs that characterize this period, literature played a key role in forming the national consciousness. Authors examined in this course may include Higuchi Ichiy\u014d, Natsume S\u014dseki, Kawabata Yasunari, Tanizaki Jun'ichir\u014d, \u014ce Kenzabur\u014d, Tawada Y\u014dko, and Murakami Haruki. We will consider works of Japanese literature within their linguistic, cultural, and historical contexts. Through essays, reading responses, and class discussions, students will explore how literature transforms the human experience into words and in doing so transforms the human experience. The course is given in English, but those whose language proficiency permits may choose to reference the texts in the original Japanese."
   },
   "ASN-195": {
     "subj": "ASN",
@@ -857,17 +851,23 @@
     "name": "Topics in Asian Studies",
     "description": "Topics vary semester to semester. Specific topics may satisfy different Core Program requirements.\u00a0"
   },
-  "ASN-197": {
+  "ASN-193": {
     "subj": "ASN",
-    "crse": "197",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
+    "crse": "193",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "ASN-252": {
     "subj": "ASN",
     "crse": "252",
     "name": "To Dwell or to Wander: Reading Confucius and Zhuangzi",
     "description": "This course will focus on two foundational texts of Chinese civilization: The Analects and the Zhuangzi. The Analects is an ancient Chinese book composed of a collection of sayings\u00a0attributed to Confucius and his disciples, and is traditionally regarded as one of the central texts of Confucianism. Zhuangzi, named for its traditional author, \u201cMaster Zhuang\u201d (Zhuangzi), is one of the most important Daoist writings. When the Analects emphasizes that people should reconcile their desires via rituals, and fulfill moral and personal duties in order to ensure the welfare of the society, Zhuangzi promotes carefree wandering and following one\u2019s own nature. By reading and comparing these two texts, this course will help students understand and grasp their central concerns, philosophies, and substantial influences on Chinese and East Asian thought and values throughout history. Classes follow a lecture-discussion format, so students must finish all assigned readings in advance and prepare to actively participate in class discussion. No knowledge of the Chinese language or of Chinese history is required (or assumed)."
+  },
+  "ASN-197": {
+    "subj": "ASN",
+    "crse": "197",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "ASN-253": {
     "subj": "ASN",
@@ -929,17 +929,17 @@
     "name": "Honors",
     "description": "Honors independent study in Asian Studies.\u00a0 Prerequisite:\u00a0 permission of department."
   },
-  "BICH-393": {
-    "subj": "BICH",
-    "crse": "393",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
-  },
   "BICH-395": {
     "subj": "BICH",
     "crse": "395",
     "name": "Special Topics in Biochemistry",
     "description": ""
+  },
+  "BICH-393": {
+    "subj": "BICH",
+    "crse": "393",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "BICH-397": {
     "subj": "BICH",
@@ -971,23 +971,17 @@
     "name": "Introduction to the Biology of Stem Cell Therapeutics",
     "description": "An introduction to the basic research of stem cells, potential sources, stem cell characterization, and stem cell development for therapeutic applications. Students will also gain an understanding in aspects of developmental biology and the progression of translational research from basic science to clinical utility. Designed for non-science majors."
   },
-  "BIO-105": {
-    "subj": "BIO",
-    "crse": "105",
-    "name": "Marine Biology",
-    "description": "This course will be an introductory survey of marine organisms and their environment. It will cover fishes, invertebrates, mammals, reptiles, and algae. Included will be an investigation of behavior, ecology, adaptations, and environmental relationships to humans. An emphasis will be placed on forms common to California. Includes one three-hour lab period per week; field trips will be included during the laboratory period. (Labs may take longer than the scheduled laboratory period to accommodate field trips.)"
-  },
   "BIO-106": {
     "subj": "BIO",
     "crse": "106",
     "name": "Biology of California",
     "description": "A component of the California Environmental Science Semester. Enrollment limited to first-year students enrolled in the California Environmental Science Semester."
   },
-  "BIO-115": {
+  "BIO-105": {
     "subj": "BIO",
-    "crse": "115",
-    "name": "General Zoology",
-    "description": "An introduction to the diversity, comparative anatomy, and physiology of animals. Emphasis is placed on the classification of animals, how animals are adapted to the environment, and the evolutionary relationships between the phyla. This class is designed for science majors. Includes one three-hour laboratory per week."
+    "crse": "105",
+    "name": "Marine Biology",
+    "description": "This course will be an introductory survey of marine organisms and their environment. It will cover fishes, invertebrates, mammals, reptiles, and algae. Included will be an investigation of behavior, ecology, adaptations, and environmental relationships to humans. An emphasis will be placed on forms common to California. Includes one three-hour lab period per week; field trips will be included during the laboratory period. (Labs may take longer than the scheduled laboratory period to accommodate field trips.)"
   },
   "BIO-110": {
     "subj": "BIO",
@@ -995,17 +989,23 @@
     "name": "Organisms on Earth",
     "description": "Principles and concepts of organismal structure and function, diversity, evolution, and ecology examined through case studies of organisms and their interactions with their environments. Emphasis will be placed on how organisms, from distinct biological groups, meet environmental challenges, such as: obtaining energy and nutrients, maintaining water and osmotic balances, reproducing, and finding a place to live. Students will learn to recognize and frame hypotheses about biological organisms and phenomena that can be tested (or falsified) by acquiring and analyzing appropriate evidence. Students will learn to acquire, analyze, and evaluate biological data through observation and experimentation in the laboratory and in the field. This course is designed for science majors and pre-health students; seniors may enroll by permission of instructor only.\u00a0Includes one three-hour laboratory per week."
   },
-  "BIO-193": {
+  "BIO-115": {
     "subj": "BIO",
-    "crse": "193",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
+    "crse": "115",
+    "name": "General Zoology",
+    "description": "An introduction to the diversity, comparative anatomy, and physiology of animals. Emphasis is placed on the classification of animals, how animals are adapted to the environment, and the evolutionary relationships between the phyla. This class is designed for science majors. Includes one three-hour laboratory per week."
   },
   "BIO-130": {
     "subj": "BIO",
     "crse": "130",
     "name": "Introduction to Cell and Molecular Biology",
     "description": "A concept-driven survey course designed to provide broad introduction to the biochemistry, physiology, and molecular biology of prokaryotic and eukaryotic cells. Topics include: structure/function; relationships of biological macromolecules; the roles of such molecules in cellular metabolism and membrane biology; molecular biology of DNA, RNA, and protein synthesis; the cell cycle; elementary genetics; and cellular communication.\u00a0Includes one three-hour laboratory per week.\u00a0Prerequisites may be taken concurrently with this course."
+  },
+  "BIO-193": {
+    "subj": "BIO",
+    "crse": "193",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "BIO-197": {
     "subj": "BIO",
@@ -1019,17 +1019,17 @@
     "name": "Conservation Corps Internship",
     "description": "Complementing their Oxy Immersive Semester coursework for the California Environment and Conservation Corps, students in the program will engage in service-learning. Students will be matched with Southern California environmental organizations. The hours spent in service (which will be completed virtually) would be scaffolded with reflective reading and writing centered around concepts of environmental stewardship."
   },
-  "BIO-224": {
-    "subj": "BIO",
-    "crse": "224",
-    "name": "Genetic Analysis",
-    "description": "Intensive concept-driven exploration of genetic information transfer between generations. Topics include: Mendelian principles, allelic and genetic interactions at the phenotypic level, complex traits, genetic mapping, DNA repair and genome maintenance, epigenetics, and principles of gene regulation. Includes one three-hour laboratory session per week, plus 1-2 hours arranged."
-  },
   "BIO-221": {
     "subj": "BIO",
     "crse": "221",
     "name": "Molecular Biology",
     "description": "This course focuses on understanding the processes in a cell, at a molecular level, that transfer information from genetic information through the expression of functional proteins. Topics include: basic structure of DNA, RNA, and proteins; gene structure; chromosomal organization; genomic structure and organization; DNA replication; transcription, translation, and processing of gene products; molecular regulation of gene expression, mechanisms in prokaryotes and eukaryotes; regulatory and catalytic RNA, including siRNA and miRNA; and the techniques to study these processes. Includes one three-hour laboratory per week, plus two hours arranged."
+  },
+  "BIO-224": {
+    "subj": "BIO",
+    "crse": "224",
+    "name": "Genetic Analysis",
+    "description": "Intensive concept-driven exploration of genetic information transfer between generations. Topics include: Mendelian principles, allelic and genetic interactions at the phenotypic level, complex traits, genetic mapping, DNA repair and genome maintenance, epigenetics, and principles of gene regulation. Includes one three-hour laboratory session per week, plus 1-2 hours arranged."
   },
   "BIO-226": {
     "subj": "BIO",
@@ -1211,23 +1211,17 @@
     "name": "Microbial Pathogenesis Laboratory",
     "description": "Laboratory includes techniques used in clinical microbiology labs, including culture and identification techniques, as well as cell biology techniques. Graded on a Credit/No Credit basis."
   },
-  "BIO-340": {
-    "subj": "BIO",
-    "crse": "340",
-    "name": "Sensory Biology and Neurophysiology",
-    "description": "Dynamic physiological properties will be examined in single cells, tissues, and whole organisms. Emphasis will be placed on sensory physiology\u00a0and neuroethology (study of the\u00a0neural basis of natural animal behaviors). Laboratories will utilize advanced recording techniques, including microelectrodes, isometric tension measurements, semi-intact preparations, and modern electronics."
-  },
   "BIO-340L": {
     "subj": "BIO",
     "crse": "40L",
     "name": "Sensory Biology and Neurophysiology Laboratory",
     "description": "Fundamental physiological processes will be investigated using advanced recording techniques, including microelectrodes, isometric tension measurements, semi-intact preparations, and modern electronics.\u00a0Graded on a Credit/No Credit basis only."
   },
-  "BIO-344": {
+  "BIO-340": {
     "subj": "BIO",
-    "crse": "344",
-    "name": "Invertebrate Morphology and Physiology",
-    "description": "The structure and functional organization of animal-like protists and invertebrates are examined as adaptations to life in specific habitats. The current use of these organisms in applied systems, such as aquaculture, and as models to study basic biological processes is discussed. Marine organisms and parasites are emphasized. The phylogenetic relationships between taxa are also debated. Includes one three-hour laboratory per week, plus two hours arranged."
+    "crse": "340",
+    "name": "Sensory Biology and Neurophysiology",
+    "description": "Dynamic physiological properties will be examined in single cells, tissues, and whole organisms. Emphasis will be placed on sensory physiology\u00a0and neuroethology (study of the\u00a0neural basis of natural animal behaviors). Laboratories will utilize advanced recording techniques, including microelectrodes, isometric tension measurements, semi-intact preparations, and modern electronics."
   },
   "BIO-344L": {
     "subj": "BIO",
@@ -1235,17 +1229,23 @@
     "name": "Invertebrate Morphology and Physiology Laboratory",
     "description": "Field and laboratory exercises designed to: (1) further expose students to invertebrate diversity; (2) examine and experiment with physiological processes such as locomotion, nutrient allocation, excretion, sensory function, and reproduction; (3) introduce parasite life cycles and parasite-host interactions; and (4) understand animal relationships based on morphological and molecular evidence.\u00a0Graded on a Credit/No Credit basis only."
   },
-  "BIO-345": {
+  "BIO-344": {
     "subj": "BIO",
-    "crse": "345",
-    "name": "Virology",
-    "description": "This course will survey the diversity among major classes of viruses in genomic material, replication, and host cell interaction.\u00a0 We will discuss aspects of antiviral strategies by the host immune response as well as ongoing research in medical antiviral therapies.\u00a0 In addition, we will cover various ways that viruses have been harnessed as useful tools in the laboratory as sources of unique enzymes, vectors for introducing exogenous material into cells, and in various other applications such as phage display."
+    "crse": "344",
+    "name": "Invertebrate Morphology and Physiology",
+    "description": "The structure and functional organization of animal-like protists and invertebrates are examined as adaptations to life in specific habitats. The current use of these organisms in applied systems, such as aquaculture, and as models to study basic biological processes is discussed. Marine organisms and parasites are emphasized. The phylogenetic relationships between taxa are also debated. Includes one three-hour laboratory per week, plus two hours arranged."
   },
   "BIO-345L": {
     "subj": "BIO",
     "crse": "45L",
     "name": "Virology Laboratory",
     "description": ""
+  },
+  "BIO-345": {
+    "subj": "BIO",
+    "crse": "345",
+    "name": "Virology",
+    "description": "This course will survey the diversity among major classes of viruses in genomic material, replication, and host cell interaction.\u00a0 We will discuss aspects of antiviral strategies by the host immune response as well as ongoing research in medical antiviral therapies.\u00a0 In addition, we will cover various ways that viruses have been harnessed as useful tools in the laboratory as sources of unique enzymes, vectors for introducing exogenous material into cells, and in various other applications such as phage display."
   },
   "BIO-349": {
     "subj": "BIO",
@@ -1433,17 +1433,17 @@
     "name": "Continuing Thesis Research",
     "description": "Continuing work on Master's thesis. May be repeated once for credit."
   },
-  "BLST-104": {
-    "subj": "BLST",
-    "crse": "104",
-    "name": "Music of Africa and the Middle East",
-    "description": "This course surveys the musical styles and genres of the African continent and the Middle Eastern world. Within an ethno-historical framework established at the beginning of the course emphasis is placed on 1) the region's important musical genres their social function and musical characteristics and 2) the instruments used in performing these musical genres. While knowledge of music theory and performance skills are not necessary it is essential that students be prepared for intensive music listening in and out of class."
-  },
   "BLST-101": {
     "subj": "BLST",
     "crse": "101",
     "name": "Introduction to Black Studies",
     "description": "This course introduces students to the history and methods of the discipline known as Black Studies. Readings will focus on the\u00a0origins and institutionalization of Black Studies as a field of academic inquiry. Students will learn about the philosophical and political debates that laid the intellectual foundation for Black Studies and examine the\u00a0social\u00a0movements that resulted in the field of Black Studies in the present. Topics include\u00a0the foundational academic work of W.E.B. DuBois, the San Francisco State student revolt of 1968, Mellon and Ford Foundation funding of programs and departments, and the recent student demands at University of Missouri and elsewhere.\u00a0"
+  },
+  "BLST-104": {
+    "subj": "BLST",
+    "crse": "104",
+    "name": "Music of Africa and the Middle East",
+    "description": "This course surveys the musical styles and genres of the African continent and the Middle Eastern world. Within an ethno-historical framework established at the beginning of the course emphasis is placed on 1) the region's important musical genres their social function and musical characteristics and 2) the instruments used in performing these musical genres. While knowledge of music theory and performance skills are not necessary it is essential that students be prepared for intensive music listening in and out of class."
   },
   "BLST-111": {
     "subj": "BLST",
@@ -1727,17 +1727,17 @@
     "name": "From Fundamental Chemistry to the Human Genome",
     "description": "This is a course suitable for non-majors and covers the chemical bases of life. The course will be structured around the chemistry of the fundamental building blocks of life - nucleic acids, proteins, polysaccharides, etc. - and how they interact to support the cellular life. Examples of the specific topics include the evolution of the human genome."
   },
-  "CHEM-130": {
-    "subj": "CHEM",
-    "crse": "130",
-    "name": "Advanced Placement General Chemistry",
-    "description": "An advanced presentation of topics in atomic structure, periodic trends, molecular structure, molecular symmetry, and vibrational spectroscopy. Includes one three-hour laboratory per week."
-  },
   "CHEM-120": {
     "subj": "CHEM",
     "crse": "120",
     "name": "Foundations of General Chemistry",
     "description": "An introduction to the primary chemical concepts of atomic structure and quantum theory, periodic trends, molecular structure, chemical kinetics, equilibrium thermodynamics, and acids and bases. Includes one three-hour laboratory per week."
+  },
+  "CHEM-130": {
+    "subj": "CHEM",
+    "crse": "130",
+    "name": "Advanced Placement General Chemistry",
+    "description": "An advanced presentation of topics in atomic structure, periodic trends, molecular structure, molecular symmetry, and vibrational spectroscopy. Includes one three-hour laboratory per week."
   },
   "CHEM-150": {
     "subj": "CHEM",
@@ -2327,29 +2327,29 @@
     "name": "Justice and Equity in Technology",
     "description": "Throughout their careers, students in Computer Science will have the opportunity to affect society through the technologies that they create. Yet technology is not created in a vacuum, but rather is a product of the ingrained assumptions of its creators, and the societies that structure these assumptions. When working with the tools of Computer Science, students will face traces of the field\u2019s racist, sexist, homophobic, and imperialist history, and will have to decide how to work with or challenge these parts of the field.\u00a0This course prepares students to work for justice and equity in technology and society by facilitating conversations about the sometimes-oppressive history and impact of Computer Science, and by uplifting voices that have historically been marginalized within the field. By the end of the course, students will be able to analyze and discuss technology within its broader context, and be able to use the tools of Computer Science to subvert the unjust structures the field has inherited."
   },
-  "COMP-146": {
-    "subj": "COMP",
-    "crse": "146",
-    "name": "Statistics",
-    "description": "Comprehensive study of measures of central tendency, variation, probability, the normal distribution, sampling, estimation, confidence intervals, and hypothesis testing. Introduction to use of technology in statistics. Real-life problems are used to illustrate methods. Weekly lab. Not open to students who have completed or are currently enrolled in PSYC 201, BIO 368, MATH 150, or any Mathematics course above 200."
-  },
   "COMP-131": {
     "subj": "COMP",
     "crse": "131",
     "name": "Fundamentals of Computer Science",
     "description": "Computer Science is about the organization of information and the design of processes that use it. This course teaches students to think computationally - how to break down processes into components that can then be fully described - and to acquire other habits necessary for a computer scientist. Students should come out of the course able to write simple, but complete, programs of their choosing, and should also be able to diagnose problems in unfamiliar programs."
   },
-  "COMP-149": {
+  "COMP-146": {
     "subj": "COMP",
-    "crse": "149",
-    "name": "Mathematical Foundations of Computer Science",
-    "description": "This course provides the mathematical theory which underpins Computer Science, including: number systems; variable types and formats; logic; set theory; graph theory; linear algebra; and important numbers, functions, and relations."
+    "crse": "146",
+    "name": "Statistics",
+    "description": "Comprehensive study of measures of central tendency, variation, probability, the normal distribution, sampling, estimation, confidence intervals, and hypothesis testing. Introduction to use of technology in statistics. Real-life problems are used to illustrate methods. Weekly lab. Not open to students who have completed or are currently enrolled in PSYC 201, BIO 368, MATH 150, or any Mathematics course above 200."
   },
   "COMP-155": {
     "subj": "COMP",
     "crse": "155",
     "name": "Web Design and Programming",
     "description": "Principles of web design. Tools and techniques of elementary web programming, including: HTML, XHTML, CSS, JavaScript, HTTP, SSL, XML, and SQL. Introduction to network architecture and programming."
+  },
+  "COMP-149": {
+    "subj": "COMP",
+    "crse": "149",
+    "name": "Mathematical Foundations of Computer Science",
+    "description": "This course provides the mathematical theory which underpins Computer Science, including: number systems; variable types and formats; logic; set theory; graph theory; linear algebra; and important numbers, functions, and relations."
   },
   "COMP-165": {
     "subj": "COMP",
@@ -3107,29 +3107,29 @@
     "name": "Honors",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "CTSJ-102": {
-    "subj": "CTSJ",
-    "crse": "102",
-    "name": "Justice Bootcamp",
-    "description": "Meaningful social and political change requires not only critical and thoughtful engagement with our grounding ideas, dominant theories and our existing positions. It also demands that we learn the concrete, practical skills necessary to make our ideals real, to exercise our rights, to fulfill our duties to one another, and to transform the actual mechanisms and institutions that shape our lives. This course \u2014 unique at either the undergraduate or graduate level \u2014 will provide students with an intensive and full-spectrum introduction to the most important, most effective and newest techniques, tools and technologies used in political and activist campaigns from the highest levels of electoral politics to non-profit, non-governmental and community campaigns.\u00a0"
-  },
   "CTSJ-100": {
     "subj": "CTSJ",
     "crse": "100",
     "name": "Introduction to Critical Theory",
     "description": "This course introduces critical theory in the context of the problem of social justice. Introductions will be made to psychoanalytic, Marxist, feminist, structuralist, deconstructive, and postcolonial criticism. Reader-responses; New criticism; lesbian, gay, and queer criticism, will also be surveyed. There will be close readings of the work of Louis Althusser, Georges Bataille, Michel Foucault, and Jacques Derrida, as well as in depth readings of essays by Guy Hocquenghem, Julia Kristeva, and Trinh T. Minh-ha."
   },
-  "CTSJ-104": {
+  "CTSJ-102": {
     "subj": "CTSJ",
-    "crse": "104",
-    "name": "The New Queer Politics of the Middle East",
-    "description": "This seminar will explore the emergence of new expressions and practices of gender and sexuality by contemporary Arab and Iranian intellectuals, artists, activists and leaders. Rooted in a study of the historical conditions for the emergence of this new set of discourses and practices \u2015 from pre-Islamic cultural practices to Western colonialism \u2015 the course will examine the novel and transformative forms of expression of gender and sexuality that are being invented in the Middle East and North Africa in dialogue with and in resistance to pre-existing narratives, policies and practices. From resistance to the idea of \u201cgay identity\u201d as a colonial-era trap and backlash against emergent gay rights movements, to the strategic complexities of appropriating the state laws supporting gender-reassignment surgery in Iran, the new generation of queer activists and intellectuals are navigating both their own histories and the limits of postcolonial discourse as they seek a liberatory art and politics. The course will dedicate significant time to studying the current work of these activists \u2015 taking up their writing, art, interviews, videos, and political tactics.\u00a0"
+    "crse": "102",
+    "name": "Justice Bootcamp",
+    "description": "Meaningful social and political change requires not only critical and thoughtful engagement with our grounding ideas, dominant theories and our existing positions. It also demands that we learn the concrete, practical skills necessary to make our ideals real, to exercise our rights, to fulfill our duties to one another, and to transform the actual mechanisms and institutions that shape our lives. This course \u2014 unique at either the undergraduate or graduate level \u2014 will provide students with an intensive and full-spectrum introduction to the most important, most effective and newest techniques, tools and technologies used in political and activist campaigns from the highest levels of electoral politics to non-profit, non-governmental and community campaigns.\u00a0"
   },
   "CTSJ-105": {
     "subj": "CTSJ",
     "crse": "105",
     "name": "Immigration and Education",
     "description": "This course will locate the topics of immigration and education within historical, legislative, and cultural debates on what it means to be an American and who has the right to an education. Students will explore and debate precedent-setting Supreme Court cases, such as Mendez v. Westminster, which challenged the segregation of Mexican children into separate schools, and Lau v. Nichols, which fought hard for non-English speaking students to have linguistic access to the public-school curricula. In addition, students will research the historical antecedents to the recent anti-immigrant movements in California, Arizona, and Colorado, which target the use of languages other than English in school settings, and have all but abolished bilingual public schools. Against this historical and legislative backdrop, students will examine ethnographic research detailing the persistent challenges that immigrant children face in schooling, including migrant children, and the ways in which they, their parents, and communities experience those challenges."
+  },
+  "CTSJ-104": {
+    "subj": "CTSJ",
+    "crse": "104",
+    "name": "The New Queer Politics of the Middle East",
+    "description": "This seminar will explore the emergence of new expressions and practices of gender and sexuality by contemporary Arab and Iranian intellectuals, artists, activists and leaders. Rooted in a study of the historical conditions for the emergence of this new set of discourses and practices \u2015 from pre-Islamic cultural practices to Western colonialism \u2015 the course will examine the novel and transformative forms of expression of gender and sexuality that are being invented in the Middle East and North Africa in dialogue with and in resistance to pre-existing narratives, policies and practices. From resistance to the idea of \u201cgay identity\u201d as a colonial-era trap and backlash against emergent gay rights movements, to the strategic complexities of appropriating the state laws supporting gender-reassignment surgery in Iran, the new generation of queer activists and intellectuals are navigating both their own histories and the limits of postcolonial discourse as they seek a liberatory art and politics. The course will dedicate significant time to studying the current work of these activists \u2015 taking up their writing, art, interviews, videos, and political tactics.\u00a0"
   },
   "CTSJ-106": {
     "subj": "CTSJ",
@@ -3461,17 +3461,17 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "DWA-197": {
-    "subj": "DWA",
-    "crse": "197",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "DWA-200": {
     "subj": "DWA",
     "crse": "200",
     "name": "A History of the Palestine-Israel Question",
     "description": "The course traces the history of the Israel-Palestine conflict from its roots during the late Ottoman period to the current state of affairs. We will examine this topic through study of the social, economic, and cultural history of the region while remaining cognizant of how global forces from the mid-19th century affected what was historically the southern part of Ottoman Syria. The aim of the course is to provide a historical overview of the struggle in the eastern Mediterranean that has developed into proper noun: the \"Arab-Israeli Conflict.\" Rather than treating this struggle as the latest, inevitable iteration of a millennia-old, Middle Eastern conflict, this class examines its specific modern historical contexts. Our approach is chronological, and we will cover a variety of topics and questions. A sampling of our topics: 19th-century Palestine, the emergence of nationalism as a historical phenomenon, early Zionist settlement in Palestine and Palestinian society at the beginning of the 20th century, Zionist women activists and Palestinian women, World War I and British rule, the 1936-1939 Palestinian Revolt, the 1948 war for Palestine and its aftermath, Israeli-Arab relations in the 1950's, the Suez War, the implications of gendering the nation, the 1967 war and the subsequent occupation of the West Bank, Gaza and the Golan Heights, the demographic \"race,\" Israel in Lebanon, the Intifadas, and the peace processes."
+  },
+  "DWA-197": {
+    "subj": "DWA",
+    "crse": "197",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "DWA-210": {
     "subj": "DWA",
@@ -3941,17 +3941,17 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "ECON-102": {
-    "subj": "ECON",
-    "crse": "102",
-    "name": "Principles of Economics II",
-    "description": "A continuation of ECON 101 that completes the coverage of economic principles by incorporating the development of more sophisticated analytical tools. Microeconomic topics include: production costs, the behavior of firms under different market structures (competition, monopoly, and oligopoly), taxation and income distribution, and input markets. Macroeconomic topics include: the Keynesian model of output determination, the monetary system, and the effects of fiscal and monetary policies."
-  },
   "ECON-101": {
     "subj": "ECON",
     "crse": "101",
     "name": "Principles of Economics I",
     "description": "An introduction to the economic way of thinking that includes both micro- and macroeconomic topics. We begin with an analysis of how market supply and demand help allocate resources and discuss market power, market failures, and the role of government regulation. We explore the determination of gross domestic product, the problems of unemployment and inflation, and macroeconomic policy making."
+  },
+  "ECON-102": {
+    "subj": "ECON",
+    "crse": "102",
+    "name": "Principles of Economics II",
+    "description": "A continuation of ECON 101 that completes the coverage of economic principles by incorporating the development of more sophisticated analytical tools. Microeconomic topics include: production costs, the behavior of firms under different market structures (competition, monopoly, and oligopoly), taxation and income distribution, and input markets. Macroeconomic topics include: the Keynesian model of output determination, the monetary system, and the effects of fiscal and monetary policies."
   },
   "ECON-151": {
     "subj": "ECON",
@@ -4133,17 +4133,17 @@
     "name": "The Economics of Immigration",
     "description": "This course examines the economic causes and consequences of immigration. The focus of the course will be on the United States' experience. However, we will also examine aspects of other international migrations. The course will focus on the economic reasons that motivate people to migrate to other parts of the world, the labor market and fiscal impacts of immigration on sending and receiving countries, and the economic consequences of U.S. immigration policy choices."
   },
-  "ECON-326": {
-    "subj": "ECON",
-    "crse": "326",
-    "name": "Economics of Human Resource Management",
-    "description": "An application of economic analysis to various topics in personnel economics, including: compensation and incentives, hiring, training, downsizing/buyouts, stock options, pensions, and teams, among many others. In order to add realism to, and applications for, the analysis, students will discuss and evaluate numerous real-world mini-cases and more formal case studies. Students will be evaluated on the quality of their written work, problem sets, examinations, and discussion; a variety of class formats will be used. Note: Students who take this course may not take Professor Moore's section of ECON 495."
-  },
   "ECON-325": {
     "subj": "ECON",
     "crse": "325",
     "name": "Labor Economics",
     "description": "The goal of Labor Economics is to enable you to use economic analysis and reasoning to understand wage and employment determination in U.S. labor markets. This course will expose you to current theoretical and empirical debates within the discipline. We will cover such topics as: labor force participation, labor demand, unemployment, labor mobility, wage structure, labor unions, human capital investments (education and training), internal labor markets, and labor market discrimination. Relevant public policy issues such as the minimum wage, living wage ordinances, compensating wage differentials, immigration policy, affirmative action, income inequality, and welfare programs will also be addressed in this course."
+  },
+  "ECON-326": {
+    "subj": "ECON",
+    "crse": "326",
+    "name": "Economics of Human Resource Management",
+    "description": "An application of economic analysis to various topics in personnel economics, including: compensation and incentives, hiring, training, downsizing/buyouts, stock options, pensions, and teams, among many others. In order to add realism to, and applications for, the analysis, students will discuss and evaluate numerous real-world mini-cases and more formal case studies. Students will be evaluated on the quality of their written work, problem sets, examinations, and discussion; a variety of class formats will be used. Note: Students who take this course may not take Professor Moore's section of ECON 495."
   },
   "ECON-327": {
     "subj": "ECON",
@@ -4433,17 +4433,17 @@
     "name": "Independent Study",
     "description": "Interested students must obtain Guidelines for Independent Study from the department and complete the appropriate contract from the Registrar. Permission of instructor and department chair required."
   },
-  "ENGL-140": {
-    "subj": "ENGL",
-    "crse": "140",
-    "name": "Victoriana",
-    "description": "This class will examine the literature and culture of the Victorian period, from the 1830s to the turn of the twentieth century.\u00a0\u00a0We will read classic Victorian novels such as Silas Marner,\u00a0Great Expectations, and\u00a0Jane Eyre alongside more contemporary literary and cinematic interlocutors including\u00a0Wide Sargasso Sea,\u00a0Thugs of Hindostan, and\u00a0Victoria and Abdul.\u00a0\u00a0In thinking about the period\u2019s lasting impact on our own society, we will consider the broader historical context of imperialism, urbanization, and industrialization, all of which expanded dramatically during the Victorian era.\u00a0We will also examine the shifting social and legal structures of the era, addressing issues of class, sexuality, and race."
-  },
   "ENGL-101": {
     "subj": "ENGL",
     "crse": "101",
     "name": "Poetry and the Environment",
     "description": "What use is poetry in a time of climate emergency? This course will pose this question through an introductory study of the history of English-language poetry\u2019s consideration of human relationships to the environment, with a particular focus on the US, UK, Caribbean, and Pacific Islands. Topics may include: the poetics of agricultural labor and natural disaster; poetic responses to the historical effects of industrialization, colonialism, and slavery on nature; Romantic, modernist, and Indigenous meditations on human alienation from our embeddedness in nature; and recent poetry about the human and environmental consequences of mining, oil and gas extraction, and climate change. Students new to and experienced with poetry are equally welcome to enroll. Participants in this class will learn to read, interpret, and write about poems carefully and persuasively, and study the specific forms of environmental thinking that poetry in English has developed in the modern world."
+  },
+  "ENGL-140": {
+    "subj": "ENGL",
+    "crse": "140",
+    "name": "Victoriana",
+    "description": "This class will examine the literature and culture of the Victorian period, from the 1830s to the turn of the twentieth century.\u00a0\u00a0We will read classic Victorian novels such as Silas Marner,\u00a0Great Expectations, and\u00a0Jane Eyre alongside more contemporary literary and cinematic interlocutors including\u00a0Wide Sargasso Sea,\u00a0Thugs of Hindostan, and\u00a0Victoria and Abdul.\u00a0\u00a0In thinking about the period\u2019s lasting impact on our own society, we will consider the broader historical context of imperialism, urbanization, and industrialization, all of which expanded dramatically during the Victorian era.\u00a0We will also examine the shifting social and legal structures of the era, addressing issues of class, sexuality, and race."
   },
   "ENGL-142": {
     "subj": "ENGL",
@@ -4745,17 +4745,17 @@
     "name": "Honors in English",
     "description": "Research, writing, and defense of the Honors thesis in English. Permission of instructor and department chair required."
   },
-  "FREN-101": {
-    "subj": "FREN",
-    "crse": "101",
-    "name": "Beginning French I",
-    "description": "Introduction to French through a variety of communicative approaches. Emphasis is placed on speaking and listening, as well as grammar and writing. Students who have had more than one year of French in high school, or more than one quarter in college, may not take this course for credit."
-  },
   "FREN-102": {
     "subj": "FREN",
     "crse": "102",
     "name": "Beginning French II",
     "description": "This course is a continuation of FREN 101. Students are introduced to the culture of the French-speaking world through readings and discussions."
+  },
+  "FREN-101": {
+    "subj": "FREN",
+    "crse": "101",
+    "name": "Beginning French I",
+    "description": "Introduction to French through a variety of communicative approaches. Emphasis is placed on speaking and listening, as well as grammar and writing. Students who have had more than one year of French in high school, or more than one quarter in college, may not take this course for credit."
   },
   "FREN-151": {
     "subj": "FREN",
@@ -5087,17 +5087,17 @@
     "name": "Representing Capitalism",
     "description": "Is it possible to see capitalism? How can something that is simultaneously so totalizing and abstract while also enmeshed in our everyday environment and activities be represented? How have artists, writers, and filmmakers attempted to provide a picture of the complex economic system that imperceptibly links our daily lives with the entire world? This course will focus on the various strategies contemporary artists, theorists, and other cultural practitioners have explored to make capitalism visible and intelligible in the era of globalization. Open only to first year frosh.\n"
   },
-  "GEO-106": {
-    "subj": "GEO",
-    "crse": "106",
-    "name": "Earth and the Human Future",
-    "description": "Nature and humanity interact with and impact one another in complex and significant ways. Human health, safety, and economic well-being are significantly impacted by natural processes, providing both opportunities and constraints on sustainability. This course focuses on these interactions as studied by earth scientists. Topics include: Earth surface properties and processes, air quality, mineral and energy resources/reserves for industrialized society, water resources, hazardous earth processes, and development and degradation of soils and climate. Labs will include using problem-solving skills and case studies. Includes one two-hour laboratory per week and a one-day field trip."
-  },
   "GEO-105": {
     "subj": "GEO",
     "crse": "105",
     "name": "Earth: Our Environment",
     "description": "Introduction to Geology with emphasis on the physical processes that shape the environment on the Earth's surface. The course will cover the fundamentals of plate tectonics, rocks, minerals, geologic time, surface processes, and Earth's interior. Special attention will be paid to geologic hazards (such as earthquakes, volcanoes, floods, and landslides), the history and future of global climate change, and the human impact on the environment. Includes one two-hour laboratory per week and a one- or two-day field trip. Students who have completed a substantive introductory Geology course are encouraged to seek permission of the instructor to enroll in any of the 200-level Geology courses.\u00a0Open only to first- and second-year students."
+  },
+  "GEO-106": {
+    "subj": "GEO",
+    "crse": "106",
+    "name": "Earth and the Human Future",
+    "description": "Nature and humanity interact with and impact one another in complex and significant ways. Human health, safety, and economic well-being are significantly impacted by natural processes, providing both opportunities and constraints on sustainability. This course focuses on these interactions as studied by earth scientists. Topics include: Earth surface properties and processes, air quality, mineral and energy resources/reserves for industrialized society, water resources, hazardous earth processes, and development and degradation of soils and climate. Labs will include using problem-solving skills and case studies. Includes one two-hour laboratory per week and a one-day field trip."
   },
   "GEO-150": {
     "subj": "GEO",
@@ -5111,17 +5111,17 @@
     "name": "Spatial Analysis with Geographic Information Science",
     "description": "An introduction to techniques of spatial analysis using GIS. You will study the fundamentals of\u00a0geography\u00a0and data science that guide you to valid approaches to practical problem-solving and investigate timely environmental questions that matter using real-world data: vector and raster geospatial datasets, aerial photos, satellite imagery, LiDAR. The course also includes a project combining GIS data acquisition and analysis to solve a practical question on the Oxy campus. This course will help you learn a valuable job skill that can apply to many different careers and interests. You should feel comfortable using the MS Windows operating system and Microsoft Excel software.\u00a0\u00a0"
   },
-  "GEO-193": {
-    "subj": "GEO",
-    "crse": "193",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
-  },
   "GEO-197": {
     "subj": "GEO",
     "crse": "197",
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
+  },
+  "GEO-193": {
+    "subj": "GEO",
+    "crse": "193",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "GEO-215": {
     "subj": "GEO",
@@ -5375,17 +5375,17 @@
     "name": "The Culture of Weimar",
     "description": "This course will analyze the political, social, and cultural changes in German history after 1918, and will provide an introduction to the wealth of the innovative literary and artistic production of the so-called Twenties. We will focus on the difficult transition from the old monarchy to a parliamentary democracy, the economic and political challenges of the new republic, and its slow demise in the early 30's. Some lead topics will be: the rise of film and other forms of popular culture, the styles of Expressionism and Neue Sachlichkeit, the experience of the city, the emancipation of women, and the fight against the onslaught of fascist tendencies. We will read texts by Bertolt Brecht, Ernst Toller, Erich K\u00e4stner, Irmgard Keun, Marieluise Fleisser, Kurt Tucholsky; see films (such as Nosferatu, Metropolis, Kuhle Wampe, and others); and study the new trends in architecture (Bauhaus), the arts (Beckmann, Kirchner, Heartfield), photography, music, and the media. The course is taught in English. German minors and group majors will read some of the texts in the original German."
   },
-  "GERM-280": {
-    "subj": "GERM",
-    "crse": "280",
-    "name": "Metropolis: The Modern City as Vision, Text, and Experience",
-    "description": "The onset of industrialization in the 19th century created the modern metropolis and the angst and attraction of the lifestyle that went with it. In this course, we will examine how writers and intellectuals of the late-19th and early-20th century described their experience of this new urban environment - analyzing their discoveries and discontents. In addition to fiction by Rainer M. Rilke, Emile Zola, Irmgard Keun, Alfred D\u00f6blin, Walter Benjamin, and others, we will also discuss seminal texts by architects, urban planners, and theorists, and look at how visual artists and filmmakers depicted the emerging streetscape of modernity. Students will have the opportunity to explore the impact of modern urbanization in a contemporary and global context through field trips and class projects. The course is taught in English. This course is not open to first year students."
-  },
   "GERM-282": {
     "subj": "GERM",
     "crse": "282",
     "name": "Nazi Visual Culture",
     "description": "The rise and fall of National Socialism are one of the most intensively studied topics in European history. Over six decades after its collapse, Nazi Germany continues to fascinate the general public, and with good reason. Although the fascist state lasted only for twelve years, it started history's most destructive war, while committing crimes of unprecedented proportions. For the most part, it did so with the acquiescence of the German public. This class will investigate the rise of National Socialism as a political, social, and cultural phenomenon. The central focus will be on the decisive role of film and the visual arts as the most popular means of mass manipulation. This course is not open to first year students."
+  },
+  "GERM-280": {
+    "subj": "GERM",
+    "crse": "280",
+    "name": "Metropolis: The Modern City as Vision, Text, and Experience",
+    "description": "The onset of industrialization in the 19th century created the modern metropolis and the angst and attraction of the lifestyle that went with it. In this course, we will examine how writers and intellectuals of the late-19th and early-20th century described their experience of this new urban environment - analyzing their discoveries and discontents. In addition to fiction by Rainer M. Rilke, Emile Zola, Irmgard Keun, Alfred D\u00f6blin, Walter Benjamin, and others, we will also discuss seminal texts by architects, urban planners, and theorists, and look at how visual artists and filmmakers depicted the emerging streetscape of modernity. Students will have the opportunity to explore the impact of modern urbanization in a contemporary and global context through field trips and class projects. The course is taught in English. This course is not open to first year students."
   },
   "GERM-288": {
     "subj": "GERM",
@@ -5423,17 +5423,17 @@
     "name": "Marx, Nietzsche, Freud",
     "description": "A basic understanding of Marx, Nietzsche, and Freud is a prerequisite for participating in critical debates in the humanities and social sciences. In this course we will read some of the central texts in which these thinkers developed their revolutionary models of analysis: historical materialism, post-metaphysical philosophy, and psychoanalysis. Though different, what all three of these thinkers had in common was a rejection of the rational subject and with it the notion that commonplace social norms involved in knowledge, morality, and sexuality represented timeless and universal truths determined by a neutral subjectivity. Instead, each sought to explain how these norms were in fact social constructions that are best explained by analyzing the specific historical and sociological conditions in which they arose. For Marx, this project involved an analysis of how power and class relations contribute to the production of \u201cideology\u201d, for Nietzsche an investigation into the history and transformation of morality, and Freud the exploration of the unconscious. The result is a radical transformation of our understanding of subjectivity and a realization of the deeply contingent and malleable nature of human existence. We will investigate these theories by examining works of Marx, Nietzsche, and Freud within their contemporaneous contexts, drawing on the literature, art, and music of the time as well as more recent history and film as points of elucidation and comparison. This course will meet three times a week. Twice with CSLC 107 with discussion conducted in English, and a third weekly meeting in which all readings and discussions will be conducted in German."
   },
-  "GERM-309": {
-    "subj": "GERM",
-    "crse": "309",
-    "name": "From Kafka to Twitter: Small Forms of the Literary",
-    "description": "Small forms cover the broad field, from aphorisms, epigrams, fables and riddles to anecdotes, jokes, short stories and novellas. In each of these forms, smallness unfolds in different and historically-specific ways. From the aphorisms of the 19th century to the Twitter updates of today, the course will explore the poetics and pragmatics of small forms in German literature, philosophy, and contemporary social media. Questions to be discussed in the course include: what can small mean at the level of (literary) form? What kind of readings does small form facilitate? Which does it thwart? To what extent does small form gain epistemological significance with respect to the critique of systematic philosophy? And what can its contemporary manifestation in the form of social media \u201cmicroformats,\u201d such as tweets, blog posts, and Vine videos, inform us about condensation, narration, and knowledge in the present? Readings include Georg Lichtenberg, Schlegel, Novalis, Nietzsche, Kafka, Walser, Benjamin and Twitter. This course will meet three times a week, twice with CSLC 109, and a third weekly meeting in which all readings and discussion will be conducted in German."
-  },
   "GERM-308": {
     "subj": "GERM",
     "crse": "308",
     "name": "Art, Nature, Self: German Romanticism",
     "description": "This course introduces students to the literature, philosophy, art and science of German Romanticism, a wide-ranging intellectual movement that flourished in German-speaking lands at the turn of the 19th century. Throughout the semester, we will read and discuss seminal works of German Romanticism by such prominent authors, artists and intellectuals as Friedrich H\u00f6lderlin, Novalis, Johann Wolfgang von Goethe, Immanuel Kant, Johann Gottlieb Fichte, F. W. J. Schelling, Caspar David Friedrich and Friedrich Schlegel. In conjunction with our readings, we will address key topics and issues related to German Romanticism, including but not limited to: Romantic poetry and the critique of art; the philosophy of nature and Romantic science; the role of the self in constituting, mediating and perceiving the world; the philosophy of language; and the expression of religious feeling.\u00a0"
+  },
+  "GERM-309": {
+    "subj": "GERM",
+    "crse": "309",
+    "name": "From Kafka to Twitter: Small Forms of the Literary",
+    "description": "Small forms cover the broad field, from aphorisms, epigrams, fables and riddles to anecdotes, jokes, short stories and novellas. In each of these forms, smallness unfolds in different and historically-specific ways. From the aphorisms of the 19th century to the Twitter updates of today, the course will explore the poetics and pragmatics of small forms in German literature, philosophy, and contemporary social media. Questions to be discussed in the course include: what can small mean at the level of (literary) form? What kind of readings does small form facilitate? Which does it thwart? To what extent does small form gain epistemological significance with respect to the critique of systematic philosophy? And what can its contemporary manifestation in the form of social media \u201cmicroformats,\u201d such as tweets, blog posts, and Vine videos, inform us about condensation, narration, and knowledge in the present? Readings include Georg Lichtenberg, Schlegel, Novalis, Nietzsche, Kafka, Walser, Benjamin and Twitter. This course will meet three times a week, twice with CSLC 109, and a third weekly meeting in which all readings and discussion will be conducted in German."
   },
   "GERM-310": {
     "subj": "GERM",
@@ -5639,29 +5639,29 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "HIST-102": {
-    "subj": "HIST",
-    "crse": "102",
-    "name": "United States Culture and Society II",
-    "description": "This course provides an introduction to United States history from the Civil War to the early 21st century. Readings and lectures are structured around the core theme of American pluralism. They emphasize the changing demographics of the American population and consider the different strategies that Americans have used to negotiate this growing diversity over time. Topics covered include: Reconstruction, westward expansion and overseas imperialism, Industrialization and the Gilded Age, the Progressive Era, World War I, the Great Depression and New Deal, World War II and the rise of internationalism, the Cold War and third world decolonization, immigration reform and comparative civil rights movements, the Vietnam War and the rise of global dissent, conservatism and the \"Reagan Revolution,\" America's border wars, and the post-9/11 War on Terror. We will give particular attention to issues of race, ethnicity, gender, religion, sexuality, region, and class in the shaping of modern America. Other important themes include: the expansion of federal power and the government's role in people's lives, contests over national citizenship and identity, America's changing role in the world and engagement with foreign peoples, and the demographic transformations wrought by international migration and conflicts."
-  },
   "HIST-101": {
     "subj": "HIST",
     "crse": "101",
     "name": "United States Culture and Society I",
     "description": "This course is an introduction to early North American/U.S. history, reaching from colonization to the Civil War. Of particular interest in this course will be the theme of cross-cultural interactions in the midst of transforming economies, an expanding nation, and unequal power relations. We will combine a broad introduction to early American history with an in-depth look at five case studies of individuals and communities encountering each other across borders of nation, religion, race, gender, ethnicity, and class. Each case study offers a unique perspective on the question of how broad economic structures of colonization, slavery, and the market revolution shaped human encounters between natives and newcomers, captives and captors, slaves and slaveholders, Northerners and Southerners. Ultimately, these case studies encourage a critical rethinking of concepts of liberty, equality, and democracy, which have formed the bedrock of master narratives in United States history. Within the context of these broad, sweeping themes, we will look closely at primary historical documents, produced by men and women of their time period, and we will carefully read the arguments of historians in our own time. The class will emphasize history as a process of critical interpretation."
   },
-  "HIST-122": {
+  "HIST-102": {
     "subj": "HIST",
-    "crse": "122",
-    "name": "Rise, Fall, and Rebirth: Europe 1740s to 2020s",
-    "description": "The course focuses on the rise, fall, and re-emergence of Europe as a global political, economic, and cultural force in the contemporary world. We begin with the Enlightenment in the 18th century and the dissemination of European power in the 19th century through capitalism, the industrial revolution, nationalism, and imperialism.\u00a0 We then turn to Europe\u2019s crisis in the\u00a020th century with attention to World War I, Fascism and Nazism, World War II and the Holocaust, and colonial wars of independence, to be followed by European rebirth in the form of reconstruction and European unity. The period 1990s to 2020s welcomed several former states of the USSR into the European Union, and witnessed UNESCO\u2019s restoration of historic sites. Specific topics include the French Revolution, transformations in capitalism, the rise of the nation-state, colonialism and decolonization, liberalism, socialism, communism, changes in family structure and gender relations, and the movements for women's, workers\u2019, gay and lesbian and other minority rights."
+    "crse": "102",
+    "name": "United States Culture and Society II",
+    "description": "This course provides an introduction to United States history from the Civil War to the early 21st century. Readings and lectures are structured around the core theme of American pluralism. They emphasize the changing demographics of the American population and consider the different strategies that Americans have used to negotiate this growing diversity over time. Topics covered include: Reconstruction, westward expansion and overseas imperialism, Industrialization and the Gilded Age, the Progressive Era, World War I, the Great Depression and New Deal, World War II and the rise of internationalism, the Cold War and third world decolonization, immigration reform and comparative civil rights movements, the Vietnam War and the rise of global dissent, conservatism and the \"Reagan Revolution,\" America's border wars, and the post-9/11 War on Terror. We will give particular attention to issues of race, ethnicity, gender, religion, sexuality, region, and class in the shaping of modern America. Other important themes include: the expansion of federal power and the government's role in people's lives, contests over national citizenship and identity, America's changing role in the world and engagement with foreign peoples, and the demographic transformations wrought by international migration and conflicts."
   },
   "HIST-121": {
     "subj": "HIST",
     "crse": "121",
     "name": "Antiquity to 1700: Europe and the Middle East",
     "description": "A survey of multiple Western civilizations and their interrelationships. Among ancients, we shall study Mesopotamians, Egyptians, Hebrews, Persians, Greeks, and Romans. In medieval times, we shall examine Catholic Europe, Greek Orthodox Byzantium, Islamic Civilization, and their interrelationships. We shall consider the treatment of women and of minorities, and shall highlight travelers between civilizations. We shall conclude with the European Renaissance and Reformation, Turkish hegemony in the Eastern Mediterranean, and the shift in trade from the Mediterranean to the Atlantic Ocean, as modern science and enlightenment challenge traditional civilizations."
+  },
+  "HIST-122": {
+    "subj": "HIST",
+    "crse": "122",
+    "name": "Rise, Fall, and Rebirth: Europe 1740s to 2020s",
+    "description": "The course focuses on the rise, fall, and re-emergence of Europe as a global political, economic, and cultural force in the contemporary world. We begin with the Enlightenment in the 18th century and the dissemination of European power in the 19th century through capitalism, the industrial revolution, nationalism, and imperialism.\u00a0 We then turn to Europe\u2019s crisis in the\u00a020th century with attention to World War I, Fascism and Nazism, World War II and the Holocaust, and colonial wars of independence, to be followed by European rebirth in the form of reconstruction and European unity. The period 1990s to 2020s welcomed several former states of the USSR into the European Union, and witnessed UNESCO\u2019s restoration of historic sites. Specific topics include the French Revolution, transformations in capitalism, the rise of the nation-state, colonialism and decolonization, liberalism, socialism, communism, changes in family structure and gender relations, and the movements for women's, workers\u2019, gay and lesbian and other minority rights."
   },
   "HIST-125": {
     "subj": "HIST",
@@ -5681,12 +5681,6 @@
     "name": "Colonial Latin America",
     "description": "This course provides an overview of the historical evolution of Latin America from 1492 to 1820. The course begins with an introduction to the indigenous Iberian and African backgrounds and traces the convergence of cultures and ethnicities that shape Latin American societies and cultures. The course examines this process of change through the writings of Latin American men and women who reflected upon the peoples and culture of their own times. Topics of study include: race and ethnicity, gender, class, native resistance to colonial rule, and Afro-Brazilian religion."
   },
-  "HIST-182": {
-    "subj": "HIST",
-    "crse": "182",
-    "name": "The Modern Middle East",
-    "description": "This is a survey course in which we will explore the cultural and social historical experience of the Middle East from the 19th century to the present. Our goal in this class is to develop a sense of how people in the region view themselves and their history. We consider the currents of social change wrought by political and economic transformation, focusing particularly on the rise of new social movements and cultural currents. Here we will focus on issues of gender, religion, new social categories, and notions of personhood, and new forms of collective and individual identity. Finally, we look at the emergence of modern nation-states and their attendant juridical notions of citizenship and minority status."
-  },
   "HIST-151": {
     "subj": "HIST",
     "crse": "151",
@@ -5699,23 +5693,29 @@
     "name": "Middle Eastern History Since the Nineteenth Century",
     "description": "This is a survey course in which we will explore the political and socio-economic history of the Middle East from the beginning of the Ottoman reforms of the 1830s until the present. Our aim is to provide a comprehensive overview and analysis of the events of the past two centuries. In addition to the Ottoman reform period, we will look at the rise of Mehmet Ali in Egypt, the incorporation of the region into the world economy, WWI and its continuing legacies in the region the development of the Arab/Israeli question, the revolutions of the 1950's and the populist regimes they brought to power, the crisis in Lebanon, the Iranian Revolution, the war between Iran and Iraq, and the Iraqi invasion of Kuwait. We will also consider some of the principal features of the economy of the region: agriculture and land reform, oil and state, and labor migration from poor states to richer ones."
   },
+  "HIST-182": {
+    "subj": "HIST",
+    "crse": "182",
+    "name": "The Modern Middle East",
+    "description": "This is a survey course in which we will explore the cultural and social historical experience of the Middle East from the 19th century to the present. Our goal in this class is to develop a sense of how people in the region view themselves and their history. We consider the currents of social change wrought by political and economic transformation, focusing particularly on the rise of new social movements and cultural currents. Here we will focus on issues of gender, religion, new social categories, and notions of personhood, and new forms of collective and individual identity. Finally, we look at the emergence of modern nation-states and their attendant juridical notions of citizenship and minority status."
+  },
   "HIST-190": {
     "subj": "HIST",
     "crse": "190",
     "name": "Capitalism",
     "description": "This course will take a historical look at the emergence and development of capitalism from the 16th century to the present. The course stresses capitalism\u2019s global spread and interaction with other historical forces such as commercialization, urbanization, colonialism and imperialism, environmental and climate change, inequality, and social and economic instability. We will look at the emergence of various schools of thought on capitalism, such as Keynesianism, Marxism, liberalism, the Austrian School and its offshoots, and neoliberalism. We will end with a discussion on the future of capitalism, considering globalization, the rise of China, economic crisis, and the rise of nationalist and populist responses."
   },
-  "HIST-192": {
-    "subj": "HIST",
-    "crse": "192",
-    "name": "Gender",
-    "description": "The course explores gender as a malleable category of historical analysis that intersects fluidly with other categories such as race, class, and sexuality.\u00a0 Course materials interweave global historical studies from the 16th to the 20th centuries with theoretical work on themes including the following: gender as performance, gendered divisions of labor, gender and science studies, the politics of gender, as well as gender, space, and material culture.\u00a0 By continually historicizing the construction of masculinities, femininities, and gender-fluid identities, this course examines how societies over time have expressed, policed, invented, and reproduced gender as a category of human experience and a shaper of social relations of power.\u00a0 The geographic range of the course is oriented primarily toward the Atlantic World: North America, South America, the Caribbean, West and West Central Africa, and Europe."
-  },
   "HIST-191": {
     "subj": "HIST",
     "crse": "191",
     "name": "Comparative Revolutions",
     "description": "This course traces the theory and practice of revolution in modern history. The course begins with a brief overview of revolutionary theories and transformations within a global historical context. We then turn to the Scientific Revolution and the Enlightenment as the paradigm shifts which brought a revolution in thought and subjectivity in Europe. From there we focus on the French Revolution, following its legacy and impact through the revolutions of the 19th century, the rise of Socialism and Communism, the Russian Revolution, the\u00a0Chinese Revolution,\u00a0decolonization and revolutions in Africa, and the Cuban Revolution. The course looks closely at how these revolutions in thought and politics changed the way people understood their relationship to state and society. In the search for global connectivity, we review revolutionary movements beyond the western European and United States \u00a0to include cultures and civilizations of \u00a0Asia, the Middle East, Africa and the Americas. We will ask a number of questions related to revolutionary change, including: what causes revolutions? Who makes a revolution? What leads to success or failure in a revolutionary situation?"
+  },
+  "HIST-192": {
+    "subj": "HIST",
+    "crse": "192",
+    "name": "Gender",
+    "description": "The course explores gender as a malleable category of historical analysis that intersects fluidly with other categories such as race, class, and sexuality.\u00a0 Course materials interweave global historical studies from the 16th to the 20th centuries with theoretical work on themes including the following: gender as performance, gendered divisions of labor, gender and science studies, the politics of gender, as well as gender, space, and material culture.\u00a0 By continually historicizing the construction of masculinities, femininities, and gender-fluid identities, this course examines how societies over time have expressed, policed, invented, and reproduced gender as a category of human experience and a shaper of social relations of power.\u00a0 The geographic range of the course is oriented primarily toward the Atlantic World: North America, South America, the Caribbean, West and West Central Africa, and Europe."
   },
   "HIST-193": {
     "subj": "HIST",
@@ -6161,17 +6161,17 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "JAPN-197": {
-    "subj": "JAPN",
-    "crse": "197",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "JAPN-201": {
     "subj": "JAPN",
     "crse": "201",
     "name": "Intermediate Japanese I",
     "description": "While consolidating their knowledge of grammar basics, students will learn the keigo (honorific forms) system and a variety of additional verb forms, both inflectional and paraphrastic. Increased emphasis on conversational skills, as well as training in composing texts with coherence and accuracy. Introduction of additional kanji and their multiple readings (approximately 200 characters over the two semesters of the intermediate level)."
+  },
+  "JAPN-197": {
+    "subj": "JAPN",
+    "crse": "197",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "JAPN-202": {
     "subj": "JAPN",
@@ -6287,17 +6287,17 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "KINE-196": {
-    "subj": "KINE",
-    "crse": "196",
-    "name": "Internship",
-    "description": "Supervised participation in the work of a nutrition exercise, or other health related company or agency. Permission of instructor required. Graded on a credit/no credit basis only."
-  },
   "KINE-197": {
     "subj": "KINE",
     "crse": "197",
     "name": "Independent Study",
     "description": "Research in a subdiscipline of kinesiology for students who do not have advanced competence in kinesiology (see KINE 397).\u00a0Permission of instructor required. Graded on a Credit/No Credit basis only."
+  },
+  "KINE-196": {
+    "subj": "KINE",
+    "crse": "196",
+    "name": "Internship",
+    "description": "Supervised participation in the work of a nutrition exercise, or other health related company or agency. Permission of instructor required. Graded on a credit/no credit basis only."
   },
   "KINE-201": {
     "subj": "KINE",
@@ -6515,17 +6515,17 @@
     "name": "Topics in Latin",
     "description": ""
   },
-  "LATN-293": {
-    "subj": "LATN",
-    "crse": "293",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
-  },
   "LATN-297": {
     "subj": "LATN",
     "crse": "297",
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
+  },
+  "LATN-293": {
+    "subj": "LATN",
+    "crse": "293",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "LATN-300": {
     "subj": "LATN",
@@ -6629,17 +6629,17 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "LING-293": {
-    "subj": "LING",
-    "crse": "293",
-    "name": "Directed Research",
-    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
-  },
   "LING-295": {
     "subj": "LING",
     "crse": "295",
     "name": "Topics in Linguistics",
     "description": ""
+  },
+  "LING-293": {
+    "subj": "LING",
+    "crse": "293",
+    "name": "Directed Research",
+    "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
   "LING-297": {
     "subj": "LING",
@@ -6959,17 +6959,17 @@
     "name": "Introduction to Visual and Critical Studies",
     "description": "This 100-level gateway course introduces students to key concepts and\u00a0methodologies for the critical analysis and interpretation of a\u00a0broad range of media forms across the visual field - including\u00a0film, television, social media, photography, games,\u00a0advertising, etc. - and the cultural, historical, and ideological\u00a0forces that govern them. Drawing from select case studies in\u00a0media and visual culture, the course emphasizes critical\u00a0reading, discussion, and writing, with forays into digital scholarship. Students intending to major in Media Arts & Culture must complete two gateway courses by the end of the sophomore year, with grades of C+ or better.\u00a0Gateway courses are not required for the\u00a0MAC minor.\u00a0This course is not open to Juniors or Seniors.\u00a0"
   },
-  "MAC-145": {
-    "subj": "MAC",
-    "crse": "145",
-    "name": "Introduction to Digital Media and Culture",
-    "description": "Born Digital, Growing Up Digital, Teaching Digital Natives, Understanding the Digital Generation ... these are just some of the titles in a veritable explosion of guidebooks on how thinking, learning, and doing have changed in a world transformed by digital, networked, and social media. In this 100-level gateway course, we take a critical look at the theories and prophesies on the \"Net Gen\"; we explore and assess new digital possibilities for communicating, teaching, and learning; and we think critically, contextually, and historically about the ways in which new media forms and practices shape identity, community, sociality, creativity, privacy, civic engagement, and everyday life. Class projects will enable students to experiment with, and gain, practical experience applying a range of media 2.0 technologies to their own academic work. Students intending to major in Media Arts & Culture must complete two gateway courses by the end of the sophomore year, with grades of C+ or better.\u00a0Gateway courses are not required for the\u00a0MAC minor.\u00a0This course is not open to Juniors or Seniors.\u00a0"
-  },
   "MAC-146": {
     "subj": "MAC",
     "crse": "146",
     "name": "Aesthetics of the Cinema",
     "description": "This 100-level gateway course breaks down the aesthetic components of film and examines each element's function in the production of meaning in a text. The course underscores the fact that cinema's aesthetic language is not solely generated by Hollywood. It is a fluid system, highly contingent upon cultural, temporal, technological, and economic considerations. Selected international and alternative cinema movements will be examined for their enduring influences upon the global audiovisual aesthetic lexicon. Students will learn to connect formal analysis to cultural criticism and will engage with key disciplinary theories and writing methodologies.\u00a0Students intending to major in Media Arts & Culture must complete two gateway courses by the end of the sophomore year, with grades of C+ or better.\u00a0Gateway courses are not required for the\u00a0MAC minor.\u00a0This course is not open to Juniors or Seniors.\u00a0"
+  },
+  "MAC-145": {
+    "subj": "MAC",
+    "crse": "145",
+    "name": "Introduction to Digital Media and Culture",
+    "description": "Born Digital, Growing Up Digital, Teaching Digital Natives, Understanding the Digital Generation ... these are just some of the titles in a veritable explosion of guidebooks on how thinking, learning, and doing have changed in a world transformed by digital, networked, and social media. In this 100-level gateway course, we take a critical look at the theories and prophesies on the \"Net Gen\"; we explore and assess new digital possibilities for communicating, teaching, and learning; and we think critically, contextually, and historically about the ways in which new media forms and practices shape identity, community, sociality, creativity, privacy, civic engagement, and everyday life. Class projects will enable students to experiment with, and gain, practical experience applying a range of media 2.0 technologies to their own academic work. Students intending to major in Media Arts & Culture must complete two gateway courses by the end of the sophomore year, with grades of C+ or better.\u00a0Gateway courses are not required for the\u00a0MAC minor.\u00a0This course is not open to Juniors or Seniors.\u00a0"
   },
   "MAC-193": {
     "subj": "MAC",
@@ -7079,17 +7079,17 @@
     "name": "Worldbuilding Design",
     "description": "This course explores emerging methods of narrative design in relationship to worldbuilding. Worldbuilding refers to designing a complex integrated system with many moving parts such as characters, settings, myths, rules, artifacts \u2013 often a whole system of a society and culture. These design methods are used throughout media forms ranging from narrative writing, filmmaking, theater, architecture, mobile apps, video games, and virtual reality, to the integrated use of multiple forms using transmedia storytelling. Students will create short projects that investigate relationships between the design of a world and the storytelling possibilities that emerge from and are embedded within it, using both analog and digital methods. Students will experiment with methods and concepts such as non-linear storytelling, interactivity, experience design, transmedia, the poetics of space, and other relevant topics. Readings and short screenings will contextualize hands-on-work within larger historical and cultural contexts."
   },
-  "MAC-271": {
-    "subj": "MAC",
-    "crse": "271",
-    "name": "Haptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
-    "description": "\u201cHaptic\u201d is a word that describes the sense of touch, derived from a Greek root meaning to grasp, perceive, or fasten, and it has been used to describe technologies and aesthetics that communicate, or mediate, this tactile sense. We often think of touch as doing things with our hands, but touch actually affects all parts of the body, and plays a role in smell (particles entering the nose), sound (as vibration or a wave), taste (of the tongue touching), and even vision (through synesthesia or haptic visuality). However, in the current age of social distancing, many of us are feeling \u201ctouch starved,\u201d and looking to digital media as a source of intimacy and community. How can we learn in this moment from haptic technologies, haptic aesthetics, and uses of these in video games, virtual reality, digital-physical art installations, and even early moving pictures? How can we communicate felt experiences as forms of unique knowledge? Drawing from video game studies, humor and gimmicks, feminist film theory, and Black feminist thought, this course takes an interdisciplinary approach to questions of haptic media. Students will complete and give feedback on six short solo haptic pieces and one final collaborative project. The final aim of the course is an exhibition of student work accessible as a web-based virtual exhibition.\u00a0"
-  },
   "MAC-293": {
     "subj": "MAC",
     "crse": "293",
     "name": "Directed Research",
     "description": ""
+  },
+  "MAC-271": {
+    "subj": "MAC",
+    "crse": "271",
+    "name": "Haptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+    "description": "\u201cHaptic\u201d is a word that describes the sense of touch, derived from a Greek root meaning to grasp, perceive, or fasten, and it has been used to describe technologies and aesthetics that communicate, or mediate, this tactile sense. We often think of touch as doing things with our hands, but touch actually affects all parts of the body, and plays a role in smell (particles entering the nose), sound (as vibration or a wave), taste (of the tongue touching), and even vision (through synesthesia or haptic visuality). However, in the current age of social distancing, many of us are feeling \u201ctouch starved,\u201d and looking to digital media as a source of intimacy and community. How can we learn in this moment from haptic technologies, haptic aesthetics, and uses of these in video games, virtual reality, digital-physical art installations, and even early moving pictures? How can we communicate felt experiences as forms of unique knowledge? Drawing from video game studies, humor and gimmicks, feminist film theory, and Black feminist thought, this course takes an interdisciplinary approach to questions of haptic media. Students will complete and give feedback on six short solo haptic pieces and one final collaborative project. The final aim of the course is an exhibition of student work accessible as a web-based virtual exhibition.\u00a0"
   },
   "MAC-295": {
     "subj": "MAC",
@@ -7193,17 +7193,17 @@
     "name": "Calculus 1",
     "description": "This is a first-semester course in calculus covering single-variable differential calculus. Topics include limits, continuity, differentiation, differentiation rules, as well as applications to the natural and social sciences, including optimization. Click here for a more detailed topics list. Weekly lab required."
   },
-  "MATH-114": {
-    "subj": "MATH",
-    "crse": "114",
-    "name": "Calculus 1 (Advanced)",
-    "description": "This course is a more in-depth version of Mathematics 110. Intended for students interested in more mathematical rigor; recommended for students who expect to take mathematics courses beyond Calculus. It satisfies Calculus 1 prerequisites for subsequent courses. Weekly lab.\n"
-  },
   "MATH-120": {
     "subj": "MATH",
     "crse": "120",
     "name": "Calculus 2",
     "description": "This is a second-semester Calculus course in integral calculus and infinite series. The topics will include integration, methods of evaluating integrals, sequences, series, and Taylor series.\u00a0 Applications to the natural and social sciences will be included. Click here for a more detailed topics list. Weekly lab required."
+  },
+  "MATH-114": {
+    "subj": "MATH",
+    "crse": "114",
+    "name": "Calculus 1 (Advanced)",
+    "description": "This course is a more in-depth version of Mathematics 110. Intended for students interested in more mathematical rigor; recommended for students who expect to take mathematics courses beyond Calculus. It satisfies Calculus 1 prerequisites for subsequent courses. Weekly lab.\n"
   },
   "MATH-128": {
     "subj": "MATH",
@@ -7433,17 +7433,17 @@
     "name": "Honors",
     "description": "Students who have been accepted by the Department to do honors should register for MATH 499, in lieu of MATH 400. Permission of instructor and department chair required."
   },
-  "MUSA-103": {
-    "subj": "MUSA",
-    "crse": "103",
-    "name": "Classical Guitar Class (Beginning)",
-    "description": "An introduction to classical guitar including, basic technique and musicianship. The traditional repertoire as well as 20th century and flamenco will be explored. "
-  },
   "MUSA-100": {
     "subj": "MUSA",
     "crse": "100",
     "name": "Electronic Music Class",
     "description": ""
+  },
+  "MUSA-103": {
+    "subj": "MUSA",
+    "crse": "103",
+    "name": "Classical Guitar Class (Beginning)",
+    "description": "An introduction to classical guitar including, basic technique and musicianship. The traditional repertoire as well as 20th century and flamenco will be explored. "
   },
   "MUSA-105": {
     "subj": "MUSA",
@@ -7685,16 +7685,16 @@
     "name": "Harp (One Hour)",
     "description": "Private, one-on-one weekly lessons. Beginning to advanced instruction in performance and musicianship, focusing on the development of technique, awareness of and proficiency in different styles of playing, and strengthening of reading skills. Private applied music lessons are one unit each (whether the duration of the lessons is one-half hour or one hour per week), but a 0-unit option is available by request.\u00a0 Please note that your student account will be charged a fee for this course. For the current fee scheme, please visit: https://www.oxy.edu/academics/areas-study/music/music-lessons."
   },
-  "MUSA-261": {
-    "subj": "MUSA",
-    "crse": "261",
-    "name": "Violin (Half Hour)",
-    "description": "Private, one-on-one weekly lessons. Beginning to advanced instruction in performance and musicianship, focusing on the development of technique, awareness of and proficiency in different styles of playing, and strengthening of reading skills. Private applied music lessons are one unit each (whether the duration of the lessons is one-half hour or one hour per week), but a 0-unit option is available by request.\u00a0 Please note that your student account will be charged a fee for this course. For the current fee scheme, please visit: https://www.oxy.edu/academics/areas-study/music/music-lessons."
-  },
   "MUSA-262": {
     "subj": "MUSA",
     "crse": "262",
     "name": "Violin (One Hour)",
+    "description": "Private, one-on-one weekly lessons. Beginning to advanced instruction in performance and musicianship, focusing on the development of technique, awareness of and proficiency in different styles of playing, and strengthening of reading skills. Private applied music lessons are one unit each (whether the duration of the lessons is one-half hour or one hour per week), but a 0-unit option is available by request.\u00a0 Please note that your student account will be charged a fee for this course. For the current fee scheme, please visit: https://www.oxy.edu/academics/areas-study/music/music-lessons."
+  },
+  "MUSA-261": {
+    "subj": "MUSA",
+    "crse": "261",
+    "name": "Violin (Half Hour)",
     "description": "Private, one-on-one weekly lessons. Beginning to advanced instruction in performance and musicianship, focusing on the development of technique, awareness of and proficiency in different styles of playing, and strengthening of reading skills. Private applied music lessons are one unit each (whether the duration of the lessons is one-half hour or one hour per week), but a 0-unit option is available by request.\u00a0 Please note that your student account will be charged a fee for this course. For the current fee scheme, please visit: https://www.oxy.edu/academics/areas-study/music/music-lessons."
   },
   "MUSA-263": {
@@ -7895,17 +7895,17 @@
     "name": "African American Music: From Slavery to the Present",
     "description": "This course surveys music of African Americans, with an emphasis on 20th century classical and vernacular genres. We will examine this musical web in\u00a0six\u00a0units: classical, spirituals, gospel, blues, music of the civil rights movement, and rock & other contemporary vernacular musics. Among the featured artists and record labels covered are William Grant Still, Marian Anderson, Margaret Bonds, Duke Ellington, Fats Waller, Big Mama Thornton, Sam Cooke, Jimi Hendrix, The Staples Singers, Mos Def,\u00a0Motown, Stax,\u00a0and\u00a0Atlantic Records. Through extensive listening and reading, this class will explore how the paradigms of African American cultural experience are deeply interwoven within the musical narratives of the U.S. and its cultural satellites. No prior musical training is necessary."
   },
-  "MUSC-117": {
-    "subj": "MUSC",
-    "crse": "117",
-    "name": "Topics in Music for Film and Other Media",
-    "description": "This course will survey film music from its silent film era origins to the present focusing on its many functions through in-class viewing analysis and critique of film clips. The works of many prominent film composers as well as some lesserknown figures will be examined in terms of style and approach as well as their own views on the film-scoring process. Fundamental information on music film and psychology of music will be introduced and the role of music in other media (such as TV and experimental video) will be explored."
-  },
   "MUSC-119": {
     "subj": "MUSC",
     "crse": "119",
     "name": "Why Music Matters",
     "description": "This course provides a general introduction to the elements and history of Western art (\"classical\")\u00a0music over the last millennium,\u00a0with a principal focus on Europe. Late in the course we will turn to art music of the Americas,\u00a0concluding the course with a week on jazz. Students will focus on learning how to listen to music with an emphasis on\u00a0identifying musical forms, genres, and styles. This focus will serve the larger goal of the course which is to show how understanding music can lead to not only our greater enjoyment of it but also a better understanding of\u00a0history and culture. Students with no musical experience are especially welcome."
+  },
+  "MUSC-117": {
+    "subj": "MUSC",
+    "crse": "117",
+    "name": "Topics in Music for Film and Other Media",
+    "description": "This course will survey film music from its silent film era origins to the present focusing on its many functions through in-class viewing analysis and critique of film clips. The works of many prominent film composers as well as some lesserknown figures will be examined in terms of style and approach as well as their own views on the film-scoring process. Fundamental information on music film and psychology of music will be introduced and the role of music in other media (such as TV and experimental video) will be explored."
   },
   "MUSC-120": {
     "subj": "MUSC",
@@ -8639,29 +8639,29 @@
     "name": "Formal Logic",
     "description": "This course introduces students to symbolic models of the structure of arguments, and to tools for representing those structures and evaluating them as patterns of good or bad arguments."
   },
-  "PHIL-199": {
-    "subj": "PHIL",
-    "crse": "199",
-    "name": "Practical Ethics: Case-Based Reasoning",
-    "description": "This course will be an introduction to case-based reasoning in practical ethics and political philosophy. Students will learn basic philosophical\u00a0tools for analyzing the moral or ethical dimensions of practical problems, with an emphasis on medical or health related cases and policy. Heavy emphasis\u00a0will be placed on speaking and critical thinking. May be repeated once for credit. Graded on a CR/NC basis only."
-  },
   "PHIL-197": {
     "subj": "PHIL",
     "crse": "197",
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "PHIL-211": {
+  "PHIL-199": {
     "subj": "PHIL",
-    "crse": "211",
-    "name": "Historical Foundations of Moral Theory",
-    "description": "This course will explore how central figures in the history of moral philosophy grapple with fundamental questions, such as: What is the best life for a human being? Should I be good? Can I be good? What are our obligations to others, both friends and strangers? Philosophers covered will include Plato, Aristotle, Kant, Mill, and Nietzsche."
+    "crse": "199",
+    "name": "Practical Ethics: Case-Based Reasoning",
+    "description": "This course will be an introduction to case-based reasoning in practical ethics and political philosophy. Students will learn basic philosophical\u00a0tools for analyzing the moral or ethical dimensions of practical problems, with an emphasis on medical or health related cases and policy. Heavy emphasis\u00a0will be placed on speaking and critical thinking. May be repeated once for credit. Graded on a CR/NC basis only."
   },
   "PHIL-210": {
     "subj": "PHIL",
     "crse": "210",
     "name": "Modern Philosophy",
     "description": "We will address some of the fundamental issues in epistemology and metaphysics while reading selections from the works of some important philosophers from the modern period (1600-1800). Among the issues addressed will be the existence of the external world, the relation between the mental and the physical, and the foundation of our knowledge of the future. Philosophers covered will include Descartes, Leibniz, Locke, Berkeley, Hume, and Kant."
+  },
+  "PHIL-211": {
+    "subj": "PHIL",
+    "crse": "211",
+    "name": "Historical Foundations of Moral Theory",
+    "description": "This course will explore how central figures in the history of moral philosophy grapple with fundamental questions, such as: What is the best life for a human being? Should I be good? Can I be good? What are our obligations to others, both friends and strangers? Philosophers covered will include Plato, Aristotle, Kant, Mill, and Nietzsche."
   },
   "PHIL-212": {
     "subj": "PHIL",
@@ -8939,17 +8939,17 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "PHYS-115": {
-    "subj": "PHYS",
-    "crse": "115",
-    "name": "General Physics I",
-    "description": "The first of a two-course introduction to physics designed for life science and premedical students. Topics include Newton's laws of motion gravitation work and energy conservation laws. Includes one three-hour laboratory per week. Courses with multiple lecture sections may require evening examinations."
-  },
   "PHYS-110": {
     "subj": "PHYS",
     "crse": "110",
     "name": "Introductory Mechanics",
     "description": "Covers classical mechanics including kinematics and dynamics of particles and rigid bodies conservation laws and examination of specific force laws. Includes one three-hour laboratory per week."
+  },
+  "PHYS-115": {
+    "subj": "PHYS",
+    "crse": "115",
+    "name": "General Physics I",
+    "description": "The first of a two-course introduction to physics designed for life science and premedical students. Topics include Newton's laws of motion gravitation work and energy conservation laws. Includes one three-hour laboratory per week. Courses with multiple lecture sections may require evening examinations."
   },
   "PHYS-117": {
     "subj": "PHYS",
@@ -8975,17 +8975,17 @@
     "name": "Astronomy",
     "description": "A survey of the solar system, stars and stellar evolution, galaxies and cosmology. \u00a0Students are expected to have a strong understanding of algebra and trigonometry.\u00a0Physics majors cannot take this course for credit toward the Physics\u00a0major."
   },
-  "PHYS-163": {
-    "subj": "PHYS",
-    "crse": "163",
-    "name": "Physics as a Liberal Art",
-    "description": "A survey of classical and modern physics with an emphasis on basic principles and their applications."
-  },
   "PHYS-164": {
     "subj": "PHYS",
     "crse": "164",
     "name": "Light",
     "description": "Identical in all respects to PHYS 165 except that there is no lab component. Students attend regularly scheduled lectures for PHYS 165, do the homework, and take the PHYS 165 exams."
+  },
+  "PHYS-163": {
+    "subj": "PHYS",
+    "crse": "163",
+    "name": "Physics as a Liberal Art",
+    "description": "A survey of classical and modern physics with an emphasis on basic principles and their applications."
   },
   "PHYS-165": {
     "subj": "PHYS",
@@ -9683,17 +9683,17 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "PSYC-111": {
-    "subj": "PSYC",
-    "crse": "111",
-    "name": "The Origins of Knowledge",
-    "description": "The average adult possesses over 50000 concepts ranging from physical concepts like \"force\" and \"density\" to biological concepts like \"growth\" and \"reproduction\" to mathematical concepts like \"integer\" and \"fraction.\" This course will explore the cognitive foundations of that vast conceptual repertoire and the mechanisms by which we enrich revise and restructure those foundations. Emphasis will be placed on analyzing current research at the intersection of cognitive developmental and educational psychology. No prior coursework in Psychology or Cognitive Science is required."
-  },
   "PSYC-101": {
     "subj": "PSYC",
     "crse": "101",
     "name": "Introduction to Psychology",
     "description": "Introduction to the primary subject matter areas assumptions and methods of psychology as the science of behavior. Topics include: physiology, learning, perception, motivation, development, emotion, cognition, social processes, personality, and psychopathology. This course is a prerequisite for all upper division coursework. Open only to frosh and sophomores. Core Credit only when taken at Occidental. Students with a 4 or 5 on the AP Psychology exam or a 6 or 7 on the IB Psychology exam are not eligible for Psych 101 but may take 200- or 300-level classes."
+  },
+  "PSYC-111": {
+    "subj": "PSYC",
+    "crse": "111",
+    "name": "The Origins of Knowledge",
+    "description": "The average adult possesses over 50000 concepts ranging from physical concepts like \"force\" and \"density\" to biological concepts like \"growth\" and \"reproduction\" to mathematical concepts like \"integer\" and \"fraction.\" This course will explore the cognitive foundations of that vast conceptual repertoire and the mechanisms by which we enrich revise and restructure those foundations. Emphasis will be placed on analyzing current research at the intersection of cognitive developmental and educational psychology. No prior coursework in Psychology or Cognitive Science is required."
   },
   "PSYC-193": {
     "subj": "PSYC",
@@ -10061,17 +10061,17 @@
     "name": "Independent Study",
     "description": ""
   },
-  "RELS-110": {
-    "subj": "RELS",
-    "crse": "110",
-    "name": "Introduction to Native American Religions",
-    "description": "A survey of historical and contemporary Native American religious traditions, attending especially to how they have developed amid colonization and resistance. \u00a0Students will study the broad variety of ways that Native American traditions imagine land, community, and the sacred, and study the range of practices, ceremonies, and cultural institutions related thereto. \u00a0Students will also investigate how these religious traditions have been contested or negotiated when they came in contact with Christian missionaries, in contemporary treaty rights, and in intertribal new religious movements."
-  },
   "RELS-120": {
     "subj": "RELS",
     "crse": "120",
     "name": "Flourishing in a World on Fire: Cosmologies of Multispecies Health in the Anthropocene",
     "description": "This course is centered around the question: How can we be \"well\" when the world is beset by the existential issue of climate change? To answer this question, students will study cosmological systems that conceive of human health as fundamentally connected with ecological health, and consider how these systems are responding to the challenges of climatic variability. Specifically, cosmologies from the Asia-Pacific region \u2013 where climate change have already fundamentally altered daily life in the form of receding glaciers and flooding islands \u2013 will provide students with an insight into how religions and cultural traditions conceptualize health and multispecies flourishing in the face of impacts from climate change that threaten multiple species across ecosystems. The course will be organized around case studies related to land, ocean, mountains, and space, with examples from multiple religious and cultural communities from the Pacific Coast of the United States, to Hawai\u2019i, Tuvalu, Aotearoa New Zealand, Thailand, India, China, and Bhutan. And these case studies will cover examples from multiple moments of the Anthropocene, from the Little Ice Age that began in the fourteenth century CE to the present, as well as incorporate interdisciplinary research from the environmental Humanities, such as anthropology, environmental ethics, political ecology, and religious studies. This course will allow students to see how different cosmologies \u2013 both Indigenous and imported \u2013 provide people with holistic notions of health, explanations to understand the enormous changes brought by the Anthropocene, and to explore and develop resources for enacting measures that will bring about justice that can benefit human communities and the environment."
+  },
+  "RELS-110": {
+    "subj": "RELS",
+    "crse": "110",
+    "name": "Introduction to Native American Religions",
+    "description": "A survey of historical and contemporary Native American religious traditions, attending especially to how they have developed amid colonization and resistance. \u00a0Students will study the broad variety of ways that Native American traditions imagine land, community, and the sacred, and study the range of practices, ceremonies, and cultural institutions related thereto. \u00a0Students will also investigate how these religious traditions have been contested or negotiated when they came in contact with Christian missionaries, in contemporary treaty rights, and in intertribal new religious movements."
   },
   "RELS-130": {
     "subj": "RELS",
@@ -10367,28 +10367,28 @@
     "name": "Honors",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "RUSN-101": {
-    "subj": "RUSN",
-    "crse": "101",
-    "name": "Elementary Russian I",
-    "description": "Introduction to the structure of the Russian language with an emphasis on reading and verbal communication. Films and laboratory assignments complement in-class work. May not be taken for credit by those with more than one year of high school study (grades 10 11 12) or one semester of college study of Russian."
-  },
   "RUSN-102": {
     "subj": "RUSN",
     "crse": "102",
     "name": "Elementary Russian II",
     "description": "Continuation of RUSN 101; emphasis on reading and conversation."
   },
-  "RUSN-193": {
+  "RUSN-101": {
     "subj": "RUSN",
-    "crse": "193",
-    "name": "Directed Research",
-    "description": ""
+    "crse": "101",
+    "name": "Elementary Russian I",
+    "description": "Introduction to the structure of the Russian language with an emphasis on reading and verbal communication. Films and laboratory assignments complement in-class work. May not be taken for credit by those with more than one year of high school study (grades 10 11 12) or one semester of college study of Russian."
   },
   "RUSN-197": {
     "subj": "RUSN",
     "crse": "197",
     "name": "Independent Study",
+    "description": ""
+  },
+  "RUSN-193": {
+    "subj": "RUSN",
+    "crse": "193",
+    "name": "Directed Research",
     "description": ""
   },
   "RUSN-201": {
@@ -10499,17 +10499,17 @@
     "name": "Russian Literature: Dreamers, Realists, and the In-Between",
     "description": "Should you abandon yourself to the sensual beauty of the world? Or should you embrace a life of asceticism and simplicity? Is there an even more attractive path in between? Is it also a more difficult one? Major works by Russian writers\u2014including Pushkin, Tolstoy, and Chekhov\u2014will guide our discussions of these questions.\u00a0This course will meet twice a week with\u00a0CSLC 138, and for one additional 85 minute session per week to develop Russian students\u2019 language skills. Students will have an opportunity to translate and discuss selections from texts by Russian writers, especially Pushkin, Tolstoy, and Chekhov. Students completing the final paper in this course with a grade of C or higher can use this work to satisfy the Second-Stage Writing Requirement.\u00a0"
   },
-  "RUSN-375": {
-    "subj": "RUSN",
-    "crse": "375",
-    "name": "Codes and Cultures in the 20th Century",
-    "description": "Two intimately related schools of literary analysis from the early 20th Century Russian Formalism and Prague Structuralism staked out fundamentally new theoretical terrain by isolating the functional elements of verbal artistry as discrete objects of rigorous inquiry. Their works merit close inspection as representative of a big bang in theory and cultures of binary encoding that continues to expand and proliferate to thisday subsuming the visual arts music cinema broadcast media digital computation the cognitive sciences and espionage. This course traces lines and shifts in the intellectual history of this brief moment through close reading of selected works and situates theory in the biographies and broader social cultural and political contexts of its key figures.Course taught in English; no knowledge of Russian required."
-  },
   "RUSN-393": {
     "subj": "RUSN",
     "crse": "393",
     "name": "Directed Research",
     "description": ""
+  },
+  "RUSN-375": {
+    "subj": "RUSN",
+    "crse": "375",
+    "name": "Codes and Cultures in the 20th Century",
+    "description": "Two intimately related schools of literary analysis from the early 20th Century Russian Formalism and Prague Structuralism staked out fundamentally new theoretical terrain by isolating the functional elements of verbal artistry as discrete objects of rigorous inquiry. Their works merit close inspection as representative of a big bang in theory and cultures of binary encoding that continues to expand and proliferate to thisday subsuming the visual arts music cinema broadcast media digital computation the cognitive sciences and espionage. This course traces lines and shifts in the intellectual history of this brief moment through close reading of selected works and situates theory in the biographies and broader social cultural and political contexts of its key figures.Course taught in English; no knowledge of Russian required."
   },
   "RUSN-395": {
     "subj": "RUSN",
@@ -10529,17 +10529,17 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "SOC-101": {
-    "subj": "SOC",
-    "crse": "101",
-    "name": "Introduction to Sociology",
-    "description": "This course introduces students to the \"sociological imagination\"-a way of viewing events relationships and social phenomena which form the fabric of our lives and much of our history. We will examine the ways in which people are shaped influenced and controlled by their society and vice versa. In addition students will be encouraged to think about how sociology helps us understand and interpret the nature of social order and disorder. Open only to frosh and sophomores or by permission of instructor."
-  },
   "SOC-102": {
     "subj": "SOC",
     "crse": "102",
     "name": "Introduction to Sociology: Global Perspectives",
     "description": "This course\u00a0adopts a global perspective to introduce\u00a0students to sociology, the scientific study of societies. It will examine the self, socialization, social ties, social interaction, social institutions, and social change, considering both conformity and deviance. Students will leave with a\u00a0\"sociological imagination,\" the ability to see their own lives and the lives of others in the context of their wider societies and an increasingly interconnected world.\u00a0Open only to frosh and sophomores, or by permission of instructor."
+  },
+  "SOC-101": {
+    "subj": "SOC",
+    "crse": "101",
+    "name": "Introduction to Sociology",
+    "description": "This course introduces students to the \"sociological imagination\"-a way of viewing events relationships and social phenomena which form the fabric of our lives and much of our history. We will examine the ways in which people are shaped influenced and controlled by their society and vice versa. In addition students will be encouraged to think about how sociology helps us understand and interpret the nature of social order and disorder. Open only to frosh and sophomores or by permission of instructor."
   },
   "SOC-105": {
     "subj": "SOC",
@@ -10553,23 +10553,17 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "SOC-197": {
-    "subj": "SOC",
-    "crse": "197",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "SOC-200": {
     "subj": "SOC",
     "crse": "200",
     "name": "Classical Sociological Theory: Marx, Weber, Durkheim",
     "description": "This course introduces the discipline's formative schools of thought. The course is structured according to sociology's classic paradigms. Marxist Weberian and Durkheimian theories are the classical models. They founded the field of Sociology and continue to influence contemporary thought about social relations. In the course we first examine the fundamental presuppositions of their grand theories. Then we critically evaluate the particularities of their more concrete propositions about capitalist development or modernization the state and social change. A special emphasis of the course is on critical analysis."
   },
-  "SOC-205": {
+  "SOC-197": {
     "subj": "SOC",
-    "crse": "205",
-    "name": "Contemporary Sociological Theory",
-    "description": "This course introduces the most influential paradigms of the 20th century. These include the American structural-functionalist paradigm the rational choice model the elite school various neo-Marxist arguments (including the theory of the world system as well as the culturalist Frankfurt school) and the symbolic interactionist paradigm. We conclude the course with an introduction to postmodernist theory. The course emphasizes critical analysis."
+    "crse": "197",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "SOC-210": {
     "subj": "SOC",
@@ -10577,17 +10571,23 @@
     "name": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "description": "After Mexico's transition to electoral democracy in 2000 two alternative party (PAN) Presidents either failed to act in accordance with the transitional justice movements sweeping Latin America, or actually returned to mano dura (heavy-handed) military practices to deal with the drug cartels. Consequently, as compared to South American countries, human rights violations in Mexico have increased rather than decreased since its transition to democracy. This class will document why this is the case as well as look into the various movements that have mobilized since the 1970s to the present to demand human rights in Mexico.\u00a0This class will also look at the violence committed by transnational criminal organizations as well as how ordinary people attempt to create security for their communities."
   },
-  "SOC-215": {
+  "SOC-205": {
     "subj": "SOC",
-    "crse": "215",
-    "name": "Self and Society",
-    "description": "Who are you? \u00a0Why are you? \u00a0How do you know? \u00a0Surely you have heard the phrase \"nature vs. nurture.\" \u00a0It is about the ongoing quest to figure out how much of a human is genetic, biological, and chromosomal (nature), and how much is a product of socialization (nurture). \u00a0To what extent are you your society? \u00a0To even consider that question, we must examine the society itself, the individuals that produce it, and how the two are connected. \u00a0The society and selves we will be examining are our own -- in particular, the society and selves of young Americans. \u00a0How does the world you're facing today make you who you are? \u00a0How do the technology and media through which you learn about your world permeate, shape, and structure your everyday experience of self and society? \u00a0Who do you want to be, who will you end up being, and what kind of world will you create?"
+    "crse": "205",
+    "name": "Contemporary Sociological Theory",
+    "description": "This course introduces the most influential paradigms of the 20th century. These include the American structural-functionalist paradigm the rational choice model the elite school various neo-Marxist arguments (including the theory of the world system as well as the culturalist Frankfurt school) and the symbolic interactionist paradigm. We conclude the course with an introduction to postmodernist theory. The course emphasizes critical analysis."
   },
   "SOC-211": {
     "subj": "SOC",
     "crse": "211",
     "name": "Representing Violence in Contemporary Mexico",
     "description": "Cultural production is central to the struggle for human rights. As cultural artifacts both conceptualize and memorialize social-political trauma, our class will take a close look at the way that Mexican film, literature and music represents both criminal and state violence. For comparative purposes, we will also look at some documentaries or film about the current violent situation in Central America. As this is a 2-unit course, you should expect to spend at least six (6) hours a week (including in-class time) on this course."
+  },
+  "SOC-215": {
+    "subj": "SOC",
+    "crse": "215",
+    "name": "Self and Society",
+    "description": "Who are you? \u00a0Why are you? \u00a0How do you know? \u00a0Surely you have heard the phrase \"nature vs. nurture.\" \u00a0It is about the ongoing quest to figure out how much of a human is genetic, biological, and chromosomal (nature), and how much is a product of socialization (nurture). \u00a0To what extent are you your society? \u00a0To even consider that question, we must examine the society itself, the individuals that produce it, and how the two are connected. \u00a0The society and selves we will be examining are our own -- in particular, the society and selves of young Americans. \u00a0How does the world you're facing today make you who you are? \u00a0How do the technology and media through which you learn about your world permeate, shape, and structure your everyday experience of self and society? \u00a0Who do you want to be, who will you end up being, and what kind of world will you create?"
   },
   "SOC-225": {
     "subj": "SOC",
@@ -10841,17 +10841,17 @@
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
   },
-  "SOC-490": {
-    "subj": "SOC",
-    "crse": "490",
-    "name": "Senior Seminar in Sociology",
-    "description": "Seminar is offered in conjunction with sociology majors' ongoing library research for the senior thesis. Seminar meetings will be devoted to discussion and critique of work in progress.\u00a0We strongly encourage students to have taken Classic or Contemporary Theory Sociological Inquiry and Qualitative Quantitative or Field Methods before taking the senior seminar (always taught in the Fall). Open only to senior Sociology majors."
-  },
   "SOC-497": {
     "subj": "SOC",
     "crse": "497",
     "name": "Independent Study",
     "description": "Independent study project. Permission of instructor and department chair required."
+  },
+  "SOC-490": {
+    "subj": "SOC",
+    "crse": "490",
+    "name": "Senior Seminar in Sociology",
+    "description": "Seminar is offered in conjunction with sociology majors' ongoing library research for the senior thesis. Seminar meetings will be devoted to discussion and critique of work in progress.\u00a0We strongly encourage students to have taken Classic or Contemporary Theory Sociological Inquiry and Qualitative Quantitative or Field Methods before taking the senior seminar (always taught in the Fall). Open only to senior Sociology majors."
   },
   "SOC-499": {
     "subj": "SOC",
@@ -10943,23 +10943,17 @@
     "name": "Topics in Spanish",
     "description": ""
   },
-  "SPAN-297": {
-    "subj": "SPAN",
-    "crse": "297",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "SPAN-301": {
     "subj": "SPAN",
     "crse": "301",
     "name": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
     "description": "General survey of Pre-Columbian civilizations and literature of Meso and South America the impact of the Discovery the Conquest the Colonial Period and the processes leading to the Independence and the formation of the new Republics. Literary and historical readings compositions and short essays and presentations will be used to continue developing language skills."
   },
-  "SPAN-302": {
+  "SPAN-297": {
     "subj": "SPAN",
-    "crse": "302",
-    "name": "Introduction to Medieval and Golden Age Spanish Literature and Culture",
-    "description": "An introduction to Spanish Peninsular literature and culture from the Middle Ages to the 18th century. This course examines the cross-cultural elements (Arab, Jewish, French, Italian, Trans-Atlantic and others) that have influence Spanish literature across the centuries. Readings include Mozarabic poetry, the Cantar de Mio Cid, Medieval narratives, La Celestina, Renaissance poetry, selections of Don Quijote, and Golden Age dramas. The class also incorporates representative examples of art and films."
+    "crse": "297",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "SPAN-303": {
     "subj": "SPAN",
@@ -10967,17 +10961,23 @@
     "name": "Introduction to Modern Latin American Literature and Culture",
     "description": "An introduction to major twentieth-century works of literary fiction and cinema in Latin America, with attention to the interplay of fiction and history, read in the original Spanish: Gabriel Garc\u00eda M\u00e1rquez's One Hundred Years of Solitude, Isabel Allende's The House of the Spirits, and stories by Jorge Luis Borges, Julio Cort\u00e1zar and Roberto Bola\u00f1o. \u00a0Film screenings include Cuban director Tom\u00e1s Guti\u00e9rrez Alea's\u00a0Memories of Underdevelopment, Chilean director Patricio Guzm\u00e1n's\u00a0Salvador Allende, and\u00a0Argentine director Lucrecia Martel's La ci\u00e9naga."
   },
-  "SPAN-304": {
+  "SPAN-302": {
     "subj": "SPAN",
-    "crse": "304",
-    "name": "Introduction to Modern Spanish Literature and Civilization",
-    "description": "This course surveys Spanish Peninsular literature and culture from the late 18th-century through the early 21st-century.\u00a0 Students engage with various intellectual and literary movements, including Neoclassicism, Romanticism, Naturalism, Surrealism, and Postmodernism.\u00a0 Special attention is given to the development of democratic traditions in Spain, the clash of political ideologies during the Second Spanish Republic and the Spanish Civil War, the trauma and legacy of dictatorship, and the changes in Spanish society resulting from the assertion of the distinct languages and cultures of the Iberian Peninsula and from globalization and immigration.\u00a0 Authors read include Leandro Fern\u00e1ndez de Morat\u00edn, \u00c1ngel de Saavedra, Emilia Pardo Baz\u00e1n, Jacinto Benavente, Ram\u00f3n Sender, Antonio Buero Vallejo, and Juan Jos\u00e9 Mill\u00e1s.\u00a0 Significant examples of modern Spanish art, architecture, and music are also studied."
+    "crse": "302",
+    "name": "Introduction to Medieval and Golden Age Spanish Literature and Culture",
+    "description": "An introduction to Spanish Peninsular literature and culture from the Middle Ages to the 18th century. This course examines the cross-cultural elements (Arab, Jewish, French, Italian, Trans-Atlantic and others) that have influence Spanish literature across the centuries. Readings include Mozarabic poetry, the Cantar de Mio Cid, Medieval narratives, La Celestina, Renaissance poetry, selections of Don Quijote, and Golden Age dramas. The class also incorporates representative examples of art and films."
   },
   "SPAN-309": {
     "subj": "SPAN",
     "crse": "309",
     "name": "Latin American Writers in Spain",
     "description": "Many Latin American writers have chosen to live in Spain during the twentieth century. This course introduces students to the Latin American tradition of the writer acting as public intellectual or diplomat as well as to instances of the Latin American writer in political exile. Poets Pablo Neruda and C\u00e9sar Vallejo chose to live in or near Madrid during the period of the Spanish Civil War whereas a later generation of fiction writers (Gabriel Garcia Marquez Cristina Peri Rossi and Roberto Bola\u00f1o) lived in Barcelona after the 1970's. The fiction writers include their own vision of Catalan nationalism and Catalan national identity in various short stories. The course concludes with a three-week stay in Spain that will provide a deeper understanding of the Latin American writers' representation of the coutry. On-site lectures by historians and art-historians will enhance the student's understanding of Garc\u00eda M\u00e1rquez's Peri Rossi's and Bola\u00f1o's incorporation of Catalan politics landscapes and cityscapes in their fiction."
+  },
+  "SPAN-304": {
+    "subj": "SPAN",
+    "crse": "304",
+    "name": "Introduction to Modern Spanish Literature and Civilization",
+    "description": "This course surveys Spanish Peninsular literature and culture from the late 18th-century through the early 21st-century.\u00a0 Students engage with various intellectual and literary movements, including Neoclassicism, Romanticism, Naturalism, Surrealism, and Postmodernism.\u00a0 Special attention is given to the development of democratic traditions in Spain, the clash of political ideologies during the Second Spanish Republic and the Spanish Civil War, the trauma and legacy of dictatorship, and the changes in Spanish society resulting from the assertion of the distinct languages and cultures of the Iberian Peninsula and from globalization and immigration.\u00a0 Authors read include Leandro Fern\u00e1ndez de Morat\u00edn, \u00c1ngel de Saavedra, Emilia Pardo Baz\u00e1n, Jacinto Benavente, Ram\u00f3n Sender, Antonio Buero Vallejo, and Juan Jos\u00e9 Mill\u00e1s.\u00a0 Significant examples of modern Spanish art, architecture, and music are also studied."
   },
   "SPAN-312": {
     "subj": "SPAN",
@@ -11171,17 +11171,17 @@
     "name": "Honors Thesis",
     "description": "Independent study leading to an honors project. Permission of instructor and department chair required."
   },
-  "THEA-100": {
-    "subj": "THEA",
-    "crse": "100",
-    "name": "On and Beyond the Stage: Intro to Performance Studies",
-    "description": "This course will look at the pivotal beginnings of the\u00a0performance\u00a0studies\u00a0field, its roots in various disciplines, and will explore its evolution over the past 50 years.\u00a0 We will begin by asking, \u201cWhat is\u00a0performance\u00a0studies?\u201d Each week we will look at different answers to this question as we read and discuss the work of various artists and theorists to see how their work illuminates the question.\u00a0 These readings will be complimented by viewings of performances so that we can engage the questions on both a practical and theoretical level and demonstrate the critical entanglement between\u00a0performance\u00a0theory and practice.\u00a0\u00a0 As scholars and practitioners we too will experiment with praxis by activating each section\u00a0with our own\u00a0performance\u00a0experiments.\u00a0 As much as this class is a historical survey of the field, it is also a laboratory where we will explore how we can perform in order to understand theory and how we can use theory to understand\u00a0performance."
-  },
   "THEA-101": {
     "subj": "THEA",
     "crse": "101",
     "name": "Dramatic Literature: The Art of Reading Scripts",
     "description": "The ability to read a play with insight and imagination is foundational to studying and making theater. Because playscripts are meant for the stage and not the page, the techniques we use to read them are uniquely challenging. In this course, we study scripts by a variety of contemporary American playwrights, investigating the elusive relationship between the text and its ultimate destination - the live stage. By focusing on the essential elements of dramatic writing (including character, structure, language, and thematics), and placing scripts in their social, cultural and political contexts, we work to unlock each narrative\u2019s full performative potential. Our understanding is enhanced by creative research projects and viewing key productions."
+  },
+  "THEA-100": {
+    "subj": "THEA",
+    "crse": "100",
+    "name": "On and Beyond the Stage: Intro to Performance Studies",
+    "description": "This course will look at the pivotal beginnings of the\u00a0performance\u00a0studies\u00a0field, its roots in various disciplines, and will explore its evolution over the past 50 years.\u00a0 We will begin by asking, \u201cWhat is\u00a0performance\u00a0studies?\u201d Each week we will look at different answers to this question as we read and discuss the work of various artists and theorists to see how their work illuminates the question.\u00a0 These readings will be complimented by viewings of performances so that we can engage the questions on both a practical and theoretical level and demonstrate the critical entanglement between\u00a0performance\u00a0theory and practice.\u00a0\u00a0 As scholars and practitioners we too will experiment with praxis by activating each section\u00a0with our own\u00a0performance\u00a0experiments.\u00a0 As much as this class is a historical survey of the field, it is also a laboratory where we will explore how we can perform in order to understand theory and how we can use theory to understand\u00a0performance."
   },
   "THEA-110": {
     "subj": "THEA",
@@ -11579,29 +11579,29 @@
     "name": "Directed Research",
     "description": "Research in an area not otherwise included in the departmental curriculum. Permission of instructor required."
   },
-  "UEP-197": {
-    "subj": "UEP",
-    "crse": "197",
-    "name": "Independent Study",
-    "description": "Independent study project. Permission of instructor and department chair required."
-  },
   "UEP-201": {
     "subj": "UEP",
     "crse": "201",
     "name": "Environmental Health and Policy",
     "description": "This course is designed to provide students with an understanding of the environmental factors impacting human and ecological health including consequences of natural and human-made hazards.  Environmental health is a rapidly growing and interdisciplinary field that involves both science and public policy.  It is integrated into numerous aspects of our lives both directly and indirectly. Topics to be covered include food safety water access and equality pesticides air quality the identification of environmental hazards the assessment of various risks (including exposure to dangerous chemicals used in toys food workplaces and other activities) and the social and biological causes of disease (epidemiology) Students will gain an understanding of environmental health analytical and scientific methods. We will also explore ways that communities and policy-makers seek to address environmental health challenges.  A common thread running through the course will be an examination of how exposure to environmental and health risks vary among different population groups in the Los Angeles area in the United States and around the world and the ways that scientific issues become embedded in and inseparable from issues of policy regulation and justice. We will also explore the role of science in environmental policy-making the enforcement of regulations and the efforts of community groups to influence public policy.  (Students are encouraged to enroll in Geology 150 a laboratory science that in parallel explores the spatial and geographic dimensions of environmental health."
   },
-  "UEP-204": {
+  "UEP-197": {
     "subj": "UEP",
-    "crse": "204",
-    "name": "Environmentalism: Past, Present, and Future",
-    "description": "The course presents a broad view of the roots of environmentalism including the relationship of environmentalism with respect to issues of class race gender and ethnicity. It situates the history present day circumstances and future direction of the environmental movement within the broader study of environmental topics and methods. It also provides the background to understand better the significance of this crucial social movement and how it has addressed the complex relationships between urban industrial and natural environments."
+    "crse": "197",
+    "name": "Independent Study",
+    "description": "Independent study project. Permission of instructor and department chair required."
   },
   "UEP-205": {
     "subj": "UEP",
     "crse": "205",
     "name": "Urban History",
     "description": ""
+  },
+  "UEP-204": {
+    "subj": "UEP",
+    "crse": "204",
+    "name": "Environmentalism: Past, Present, and Future",
+    "description": "The course presents a broad view of the roots of environmentalism including the relationship of environmentalism with respect to issues of class race gender and ethnicity. It situates the history present day circumstances and future direction of the environmental movement within the broader study of environmental topics and methods. It also provides the background to understand better the significance of this crucial social movement and how it has addressed the complex relationships between urban industrial and natural environments."
   },
   "UEP-209": {
     "subj": "UEP",
@@ -11747,17 +11747,17 @@
     "name": "China's Environmental Challenges: A Sociological Perspective",
     "description": ""
   },
-  "UEP-395": {
-    "subj": "UEP",
-    "crse": "395",
-    "name": "Special Topics in Urban and Environmental Policy",
-    "description": "Topics vary semester to semester."
-  },
   "UEP-397": {
     "subj": "UEP",
     "crse": "397",
     "name": "Special Topics in Urban and Environmental Policy",
     "description": "Tutorial and Internship for junior or senior majors in Urban and Environmental Policy and other related disciplines under arrangement with faculty. Permission of instructor and department chair required."
+  },
+  "UEP-395": {
+    "subj": "UEP",
+    "crse": "395",
+    "name": "Special Topics in Urban and Environmental Policy",
+    "description": "Topics vary semester to semester."
   },
   "UEP-393": {
     "subj": "UEP",

@@ -15681,22 +15681,6 @@
       }
     }
   },
-  "1726": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1727": {
     "reserved": [
       {
@@ -17712,6 +17696,13 @@
     }
   },
   "1905": {
+    "reserved": [
+      {
+        "max": 14,
+        "open": 14,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

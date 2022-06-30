@@ -12403,33 +12403,6 @@
       }
     }
   },
-  "1534": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ],
-        "must_be": [
-          "Senior",
-          "Junior"
-        ]
-      }
-    }
-  },
-  "1535": {
-    "corequisites": {
-      "cross_list_courses": [
-        "GEO-390"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1536": {
     "prerequisites": {
       "nested": [

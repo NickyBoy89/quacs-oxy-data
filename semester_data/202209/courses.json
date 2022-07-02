@@ -9801,8 +9801,8 @@
             "credMax": 4,
             "title": "The Examined Life",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -9901,8 +9901,8 @@
             "credMax": 4,
             "title": "From Birth to Death: A Philosophical Life",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

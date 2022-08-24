@@ -913,7 +913,7 @@
     "title": "Sport and Exercise Psychology",
     "prereqs": [
       "APPS",
-      "PSYC 101"
+      "PSYC  101"
     ]
   },
   "LATN 102": {
@@ -976,7 +976,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -993,7 +993,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -2836,7 +2836,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar in Art History",
+    "title": "Curatorial Seminar in Art History: Collecting Value: Photography Archives of Los Angeles",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -2865,12 +2865,14 @@
       "BIO 130"
     ]
   },
-  "BIO 330": {
-    "title": "Immunology",
+  "BIO 290": {
+    "title": "Research Methods in Biology",
     "prereqs": [
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 390": {
@@ -2896,6 +2898,14 @@
       "BIO 369",
       "BIO 377",
       "BIO 380"
+    ]
+  },
+  "BIO 330": {
+    "title": "Immunology",
+    "prereqs": [
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
     ]
   },
   "BLST 490": {
@@ -2929,12 +2939,6 @@
       "COGS 101"
     ]
   },
-  "COGS 262": {
-    "title": "Culture, Identity, and Cognition",
-    "prereqs": [
-      "COGS 101"
-    ]
-  },
   "COGS 395": {
     "title": "Directed Research",
     "prereqs": [
@@ -2947,26 +2951,32 @@
       "COGS 101"
     ]
   },
+  "COGS 262": {
+    "title": "Culture, Identity, and Cognition",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
   "COMP 239": {
     "title": "Computer Organization",
     "prereqs": [
       "COMP 131"
     ]
   },
-  "COMP 325": {
-    "title": "Topics in Artificial Intelligence",
-    "prereqs": [
-      "COMP 131",
-      "COMP 181",
-      "COMP 229"
-    ]
-  },
-  "COMP 353": {
-    "title": "Information Theory",
+  "COMP 352": {
+    "title": "Computability and Complexity",
     "prereqs": [
       "COMP 149",
-      "MATH 210",
-      "MATH 214"
+      "MATH 210"
+    ]
+  },
+  "COMP 393": {
+    "title": "Directed Research",
+    "prereqs": [
+      "COMP 127",
+      "COMP 131",
+      "COMP 211",
+      "COMP 229"
     ]
   },
   "COMP 490": {
@@ -2985,31 +2995,6 @@
     "title": "Computer Graphics",
     "prereqs": [
       "COMP 229"
-    ]
-  },
-  "COMP 352": {
-    "title": "Computability and Complexity",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210"
-    ]
-  },
-  "DWA 355": {
-    "title": "Junior Seminar: Economic and Social Human Rights",
-    "prereqs": [
-      "DWA 101"
-    ]
-  },
-  "DWA 402": {
-    "title": "United Nations and Conflict Prevention: Actors and Architecture",
-    "prereqs": [
-      "DWA 102"
-    ]
-  },
-  "DWA 410": {
-    "title": "Task Force in Diplomacy and World Affairs",
-    "prereqs": [
-      "DWA 102"
     ]
   },
   "DWA 102": {
@@ -3036,6 +3021,30 @@
       "DWA 102"
     ]
   },
+  "DWA 355": {
+    "title": "Junior Seminar: Economic and Social Human Rights",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 402": {
+    "title": "United Nations and Conflict Prevention: Actors and Architecture",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "DWA 410": {
+    "title": "Task Force in Diplomacy and World Affairs",
+    "prereqs": [
+      "DWA 102"
+    ]
+  },
+  "ECON 306": {
+    "title": "Advanced Econometrics",
+    "prereqs": [
+      "ECON 272"
+    ]
+  },
   "ECON 302": {
     "title": "Industrial Organization",
     "prereqs": [
@@ -3048,12 +3057,6 @@
       "APEA",
       "APEI",
       "ECON 102"
-    ]
-  },
-  "ECON 306": {
-    "title": "Advanced Econometrics",
-    "prereqs": [
-      "ECON 272"
     ]
   },
   "ENGL 341": {
@@ -3158,14 +3161,6 @@
       "LATN 201"
     ]
   },
-  "LLAS 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "POLS 101",
-      "SOC 101"
-    ]
-  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -3176,12 +3171,18 @@
       "UEP 101"
     ]
   },
-  "MATH 128": {
-    "title": "Calculus 2 (Advanced Placement)",
+  "LLAS 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
-      "APAB",
-      "APCS",
-      "OXMA"
+      "DWA 101",
+      "POLS 101",
+      "SOC 101"
+    ]
+  },
+  "MATH 310": {
+    "title": "Real Analysis",
+    "prereqs": [
+      "MATH 210"
     ]
   },
   "MATH 362": {
@@ -3192,22 +3193,16 @@
       "MATH 214"
     ]
   },
-  "MATH 310": {
-    "title": "Real Analysis",
+  "MAC 210": {
+    "title": "Introduction to Motion Design",
     "prereqs": [
-      "MATH 210"
+      "MAC 110"
     ]
   },
   "MAC 490": {
     "title": "Senior Seminar in Critical Media",
     "prereqs": [
       "MAC 390"
-    ]
-  },
-  "MAC 210": {
-    "title": "Introduction to Motion Design",
-    "prereqs": [
-      "MAC 110"
     ]
   },
   "MUSC 231": {
@@ -3228,18 +3223,6 @@
       "MUSC 151"
     ]
   },
-  "MUSC 258": {
-    "title": "Introduction to Film Scoring",
-    "prereqs": [
-      "MUSC 148"
-    ]
-  },
-  "MUSC 272": {
-    "title": "Instrumental Conducting",
-    "prereqs": [
-      "MUSC 151"
-    ]
-  },
   "MUSC 257": {
     "title": "Composition Seminar",
     "prereqs": [
@@ -3253,6 +3236,18 @@
       "OXMT"
     ]
   },
+  "MUSC 258": {
+    "title": "Introduction to Film Scoring",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 272": {
+    "title": "Instrumental Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
   "MUSA 104": {
     "title": "Classical Guitar Class (Intermediate)",
     "prereqs": [
@@ -3263,6 +3258,30 @@
     "title": "Advanced Laboratory I",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "POLS 281": {
+    "title": "Seminar in Political Leadership",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 283": {
+    "title": "Seminar in Washington Politics: Global Public Health Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 285": {
+    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 300": {
+    "title": "Research Methods in Politics and Public Policy",
+    "prereqs": [
+      "POLS 101"
     ]
   },
   "POLS 244": {
@@ -3295,43 +3314,6 @@
       "POLS 101"
     ]
   },
-  "POLS 281": {
-    "title": "Seminar in Political Leadership",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 283": {
-    "title": "Seminar in Washington Politics: Global Public Health Policy",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 285": {
-    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 300": {
-    "title": "Research Methods in Politics and Public Policy",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "PSYC 201": {
-    "title": "Statistics in Psychological Science",
-    "prereqs": [
-      "PSYC 200"
-    ]
-  },
-  "PSYC 311": {
-    "title": "Sport and Exercise Psychology",
-    "prereqs": [
-      "APPS",
-      "PSYC 101"
-    ]
-  },
   "PSYC 330": {
     "title": "Abnormal Psychology",
     "prereqs": [
@@ -3340,6 +3322,12 @@
   },
   "PSYC 395": {
     "title": "Directed Research",
+    "prereqs": [
+      "PSYC 200"
+    ]
+  },
+  "PSYC 201": {
+    "title": "Statistics in Psychological Science",
     "prereqs": [
       "PSYC 200"
     ]

@@ -1417,27 +1417,6 @@
       }
     }
   },
-  "1093": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Transfer"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1094": {
     "reserved": [
       {
@@ -1470,7 +1449,7 @@
     "reserved": [
       {
         "max": 32,
-        "open": 15,
+        "open": 13,
         "reservedFor": "Frosh"
       }
     ],
@@ -1671,7 +1650,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -1884,7 +1863,7 @@
       },
       {
         "max": 1,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -4778,7 +4757,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -5491,7 +5470,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": 14,
+        "open": 12,
         "reservedFor": "Frosh"
       }
     ],
@@ -6949,8 +6928,8 @@
   "1251": {
     "reserved": [
       {
-        "max": 17,
-        "open": 17,
+        "max": 14,
+        "open": 14,
         "reservedFor": "Frosh"
       }
     ],
@@ -7030,33 +7009,7 @@
       },
       {
         "max": 5,
-        "open": 5,
-        "reservedFor": "Major"
-      },
-      {
-        "max": 5,
         "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1256": {
-    "reserved": [
-      {
-        "max": 10,
-        "open": 10,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 5,
-        "open": 5,
         "reservedFor": "Major"
       },
       {
@@ -7086,7 +7039,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -7136,7 +7089,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": -1,
+        "open": -2,
         "reservedFor": "Major"
       },
       {
@@ -8630,7 +8583,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -8717,7 +8670,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -8826,7 +8779,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -8949,7 +8902,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -9107,7 +9060,7 @@
       },
       {
         "max": 4,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9252,7 +9205,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 0,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -9914,7 +9867,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 3,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -10084,7 +10037,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -10434,7 +10387,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": -1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10726,7 +10679,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],
@@ -10784,7 +10737,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -11093,7 +11046,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -11116,7 +11069,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -11444,28 +11397,6 @@
       "cross_list_courses": [
         "KINE-310"
       ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1444": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 101",
-          "type": "course"
-        },
-        {
-          "course": "APPS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
     },
     "restrictions": {
       "classification": {
@@ -12120,6 +12051,23 @@
     }
   },
   "1503": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -12847,7 +12795,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -12876,7 +12824,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -13476,51 +13424,6 @@
       }
     }
   },
-  "1605": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-128A"
-      ]
-    },
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "APAB",
-          "type": "course"
-        },
-        {
-          "course": "APCS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1606": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MATH-128"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1607": {
     "restrictions": {
       "classification": {
@@ -13842,7 +13745,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -14113,7 +14016,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 6,
+        "open": 7,
         "reservedFor": "Major"
       },
       {
@@ -14143,7 +14046,7 @@
       },
       {
         "max": 10,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14401,21 +14304,6 @@
       }
     }
   },
-  "1659": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146",
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1660": {
     "prerequisites": {
       "course": "COMP 131",
@@ -14522,40 +14410,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1665": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 181",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 14,
-        "open": 0,
+        "open": -4,
         "reservedFor": "Major"
       }
     ],
@@ -14584,86 +14439,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": -2,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1667": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 149",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "MATH 210",
-              "type": "course"
-            },
-            {
-              "course": "MATH 214",
-              "type": "course"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 14,
-        "open": 6,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1668": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 14,
-        "open": 0,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],
@@ -15325,7 +15101,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 16,
+        "open": 14,
         "reservedFor": "Frosh"
       }
     ],
@@ -15518,35 +15294,7 @@
       }
     }
   },
-  "1710": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1711": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1712": {
     "corequisites": {
       "cross_list_courses": [
         "COMP-146"
@@ -15580,15 +15328,6 @@
         "COMP-239"
       ]
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1715": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15641,7 +15380,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 12,
         "reservedFor": "Major"
       }
     ],
@@ -15665,7 +15404,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -15684,8 +15423,8 @@
   "1727": {
     "reserved": [
       {
-        "max": 18,
-        "open": 18,
+        "max": 14,
+        "open": 14,
         "reservedFor": "Frosh"
       }
     ],
@@ -15856,7 +15595,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       },
       {
@@ -15877,7 +15616,7 @@
     "reserved": [
       {
         "max": 2,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
@@ -16146,7 +15885,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -16225,7 +15964,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 7,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -16254,7 +15993,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -17372,40 +17111,6 @@
       }
     }
   },
-  "1878": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1879": {
     "restrictions": {
       "classification": {
@@ -17445,28 +17150,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "1885": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 101",
-          "type": "course"
-        },
-        {
-          "course": "APPS",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -17696,13 +17379,6 @@
     }
   },
   "1905": {
-    "reserved": [
-      {
-        "max": 14,
-        "open": 14,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -18011,7 +17687,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18052,9 +17728,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ],
-        "must_be": [
-          "Frosh"
         ]
       }
     }
@@ -18069,9 +17742,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ],
-        "must_be": [
-          "Frosh"
         ]
       }
     }
@@ -18086,9 +17756,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ],
-        "must_be": [
-          "Frosh"
         ]
       }
     }
@@ -18104,7 +17771,7 @@
     "reserved": [
       {
         "max": 32,
-        "open": 15,
+        "open": 13,
         "reservedFor": "Frosh"
       }
     ],
@@ -18127,13 +17794,261 @@
     "reserved": [
       {
         "max": 32,
-        "open": 15,
+        "open": 13,
         "reservedFor": "Frosh"
       }
     ],
     "restrictions": {
       "classification": {
         "may_not_be": []
+      }
+    }
+  },
+  "1951": {
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1952": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1953": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1954": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1955": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1956": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 106",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1957": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 127",
+          "type": "course"
+        },
+        {
+          "course": "COMP 131",
+          "type": "course"
+        },
+        {
+          "course": "COMP 211",
+          "type": "course"
+        },
+        {
+          "course": "COMP 229",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1958": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1959": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1961": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1962": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1963": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1964": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 229",
+          "type": "course"
+        },
+        {
+          "course": "COMP 239",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1965": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
       }
     }
   }

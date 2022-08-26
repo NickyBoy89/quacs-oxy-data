@@ -1825,8 +1825,8 @@
             "credMax": 0,
             "title": "Vertebrate Physiology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1851,8 +1851,8 @@
             "credMax": 0,
             "title": "Vertebrate Physiology Laboratory",
             "cap": 12,
-            "act": 14,
-            "rem": -2,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3012,8 +3012,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 9,
-            "rem": 0,
+            "act": 10,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15237,8 +15237,8 @@
             "credMax": 2,
             "title": "Introduction to Motion Design",
             "cap": 16,
-            "act": 10,
-            "rem": 6,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -22776,8 +22776,8 @@
             "credMax": 4,
             "title": "Abnormal Psychology",
             "cap": 19,
-            "act": 20,
-            "rem": -1,
+            "act": 21,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -23236,8 +23236,8 @@
             "credMax": 4,
             "title": "Judaism from the Middle Ages to Modernity",
             "cap": 30,
-            "act": 9,
-            "rem": 21,
+            "act": 10,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {

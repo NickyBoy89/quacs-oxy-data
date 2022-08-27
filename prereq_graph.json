@@ -3390,6 +3390,14 @@
       "SOC 105"
     ]
   },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
   "SPAN 321": {
     "title": "Spanish Culture during Francoism",
     "prereqs": [
@@ -3425,18 +3433,28 @@
       "SPAN 383"
     ]
   },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
-    ]
-  },
   "THEA 121": {
     "title": "Production Laboratory",
     "prereqs": [
       "THEA 120"
+    ]
+  },
+  "THEA 215": {
+    "title": "Acting for the Camera",
+    "prereqs": [
+      "THEA 210"
+    ]
+  },
+  "THEA 261": {
+    "title": "Children's Theater, 5th Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 301": {
+    "title": "Topics in Theater History",
+    "prereqs": [
+      "THEA 101"
     ]
   },
   "THEA 210": {
@@ -3466,32 +3484,14 @@
       "THEA 175"
     ]
   },
-  "THEA 215": {
-    "title": "Acting for the Camera",
-    "prereqs": [
-      "THEA 210"
-    ]
-  },
-  "THEA 261": {
-    "title": "Children's Theater, 5th Grade",
-    "prereqs": [
-      "THEA 110"
-    ]
-  },
-  "THEA 301": {
-    "title": "Topics in Theater History",
-    "prereqs": [
-      "THEA 101"
-    ]
-  },
-  "UEP 306": {
-    "title": "Food and the Environment",
+  "UEP 230": {
+    "title": "Climate Justice: Theory and Practice",
     "prereqs": [
       "UEP 101"
     ]
   },
-  "UEP 230": {
-    "title": "Climate Justice: Theory and Practice",
+  "UEP 306": {
+    "title": "Food and the Environment",
     "prereqs": [
       "UEP 101"
     ]

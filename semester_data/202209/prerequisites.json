@@ -1400,7 +1400,7 @@
     "reserved": [
       {
         "max": 0,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       },
       {
@@ -18035,10 +18035,32 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1967": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN 101",
+          "type": "course"
+        },
+        {
+          "course": "OXSP",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

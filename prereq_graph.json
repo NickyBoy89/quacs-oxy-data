@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Introduction to Cell and Molecular Biology",
+    "title": "Intro/Cell/Molecular Biology Laboratory",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -516,9 +516,9 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Industrial Organization",
+    "title": "Senior Seminar: Macroeconomic Policy since the Great Depression",
     "prereqs": [
-      "ECON 250",
+      "ECON 251",
       "ECON 272"
     ]
   },
@@ -976,7 +976,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -993,7 +993,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -2854,6 +2854,14 @@
       "ARTH 295"
     ]
   },
+  "BIO 330": {
+    "title": "Immunology",
+    "prereqs": [
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
   "BIO 240": {
     "title": "Vertebrate Physiology",
     "prereqs": [
@@ -2900,14 +2908,6 @@
       "BIO 380"
     ]
   },
-  "BIO 330": {
-    "title": "Immunology",
-    "prereqs": [
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
-    ]
-  },
   "BLST 490": {
     "title": "Black Studies Senior Seminar",
     "prereqs": [
@@ -2939,6 +2939,12 @@
       "COGS 101"
     ]
   },
+  "COGS 262": {
+    "title": "Culture, Identity, and Cognition",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
   "COGS 395": {
     "title": "Directed Research",
     "prereqs": [
@@ -2951,10 +2957,22 @@
       "COGS 101"
     ]
   },
-  "COGS 262": {
-    "title": "Culture, Identity, and Cognition",
+  "COMP 181": {
+    "title": "Advanced Programming",
     "prereqs": [
-      "COGS 101"
+      "COMP 131"
+    ]
+  },
+  "COMP 313": {
+    "title": "Computer Graphics",
+    "prereqs": [
+      "COMP 229"
+    ]
+  },
+  "COMP 490": {
+    "title": "Computer Science Senior Seminar",
+    "prereqs": [
+      "COMP 390"
     ]
   },
   "COMP 239": {
@@ -2979,22 +2997,22 @@
       "COMP 229"
     ]
   },
-  "COMP 490": {
-    "title": "Computer Science Senior Seminar",
+  "DWA 355": {
+    "title": "Junior Seminar: Economic and Social Human Rights",
     "prereqs": [
-      "COMP 390"
+      "DWA 101"
     ]
   },
-  "COMP 181": {
-    "title": "Advanced Programming",
+  "DWA 402": {
+    "title": "United Nations and Conflict Prevention: Actors and Architecture",
     "prereqs": [
-      "COMP 131"
+      "DWA 102"
     ]
   },
-  "COMP 313": {
-    "title": "Computer Graphics",
+  "DWA 410": {
+    "title": "Task Force in Diplomacy and World Affairs",
     "prereqs": [
-      "COMP 229"
+      "DWA 102"
     ]
   },
   "DWA 102": {
@@ -3021,30 +3039,6 @@
       "DWA 102"
     ]
   },
-  "DWA 355": {
-    "title": "Junior Seminar: Economic and Social Human Rights",
-    "prereqs": [
-      "DWA 101"
-    ]
-  },
-  "DWA 402": {
-    "title": "United Nations and Conflict Prevention: Actors and Architecture",
-    "prereqs": [
-      "DWA 102"
-    ]
-  },
-  "DWA 410": {
-    "title": "Task Force in Diplomacy and World Affairs",
-    "prereqs": [
-      "DWA 102"
-    ]
-  },
-  "ECON 306": {
-    "title": "Advanced Econometrics",
-    "prereqs": [
-      "ECON 272"
-    ]
-  },
   "ECON 302": {
     "title": "Industrial Organization",
     "prereqs": [
@@ -3057,6 +3051,24 @@
       "APEA",
       "APEI",
       "ECON 102"
+    ]
+  },
+  "ECON 306": {
+    "title": "Advanced Econometrics",
+    "prereqs": [
+      "ECON 272"
+    ]
+  },
+  "ENGL 311": {
+    "title": "The Literature of Error: Romance and Genre",
+    "prereqs": [
+      "ENGL 189",
+      "ENGL 241",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
     ]
   },
   "ENGL 341": {
@@ -3089,18 +3101,6 @@
       "ENGL 290"
     ]
   },
-  "ENGL 311": {
-    "title": "The Literature of Error: Romance and Genre",
-    "prereqs": [
-      "ENGL 189",
-      "ENGL 241",
-      "ENGL 280",
-      "ENGL 287",
-      "ENGL 288",
-      "ENGL 289",
-      "ENGL 290"
-    ]
-  },
   "GEO 342": {
     "title": "Geomorphology",
     "prereqs": [
@@ -3119,16 +3119,16 @@
       "GERM 202"
     ]
   },
-  "GRK 102": {
-    "title": "Elementary Greek",
-    "prereqs": [
-      "GRK 101"
-    ]
-  },
   "GRK 382": {
     "title": "Love's Song: A Poetic Philosophic History",
     "prereqs": [
       "GRK 102"
+    ]
+  },
+  "GRK 102": {
+    "title": "Elementary Greek",
+    "prereqs": [
+      "GRK 101"
     ]
   },
   "HIST 358": {
@@ -3161,14 +3161,6 @@
       "LATN 201"
     ]
   },
-  "LLAS 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "POLS 101",
-      "SOC 101"
-    ]
-  },
   "LLAS 358": {
     "title": "Food and Drink in Mexican History",
     "prereqs": [
@@ -3179,12 +3171,12 @@
       "UEP 101"
     ]
   },
-  "MATH 362": {
-    "title": "Topology",
+  "LLAS 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
     "prereqs": [
-      "MATH 210",
-      "MATH 212",
-      "MATH 214"
+      "DWA 101",
+      "POLS 101",
+      "SOC 101"
     ]
   },
   "MATH 310": {
@@ -3193,16 +3185,24 @@
       "MATH 210"
     ]
   },
-  "MAC 490": {
-    "title": "Senior Seminar in Critical Media",
+  "MATH 362": {
+    "title": "Topology",
     "prereqs": [
-      "MAC 390"
+      "MATH 210",
+      "MATH 212",
+      "MATH 214"
     ]
   },
   "MAC 210": {
     "title": "Introduction to Motion Design",
     "prereqs": [
       "MAC 110"
+    ]
+  },
+  "MAC 490": {
+    "title": "Senior Seminar in Critical Media",
+    "prereqs": [
+      "MAC 390"
     ]
   },
   "MUSC 231": {
@@ -3223,18 +3223,6 @@
       "MUSC 151"
     ]
   },
-  "MUSC 258": {
-    "title": "Introduction to Film Scoring",
-    "prereqs": [
-      "MUSC 148"
-    ]
-  },
-  "MUSC 272": {
-    "title": "Instrumental Conducting",
-    "prereqs": [
-      "MUSC 151"
-    ]
-  },
   "MUSC 257": {
     "title": "Composition Seminar",
     "prereqs": [
@@ -3248,6 +3236,18 @@
       "OXMT"
     ]
   },
+  "MUSC 258": {
+    "title": "Introduction to Film Scoring",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 272": {
+    "title": "Instrumental Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
   "MUSA 104": {
     "title": "Classical Guitar Class (Intermediate)",
     "prereqs": [
@@ -3258,6 +3258,30 @@
     "title": "Advanced Laboratory I",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "POLS 281": {
+    "title": "Seminar in Political Leadership",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 283": {
+    "title": "Seminar in Washington Politics: Global Public Health Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 285": {
+    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 300": {
+    "title": "Research Methods in Politics and Public Policy",
+    "prereqs": [
+      "POLS 101"
     ]
   },
   "POLS 244": {
@@ -3290,28 +3314,16 @@
       "POLS 101"
     ]
   },
-  "POLS 281": {
-    "title": "Seminar in Political Leadership",
+  "PSYC 330": {
+    "title": "Abnormal Psychology",
     "prereqs": [
-      "POLS 101"
+      "PSYC 200"
     ]
   },
-  "POLS 283": {
-    "title": "Seminar in Washington Politics: Global Public Health Policy",
+  "PSYC 395": {
+    "title": "Directed Research",
     "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 285": {
-    "title": "Seminar in Washington Politics: Inside Washington Politics and Policies",
-    "prereqs": [
-      "POLS 101"
-    ]
-  },
-  "POLS 300": {
-    "title": "Research Methods in Politics and Public Policy",
-    "prereqs": [
-      "POLS 101"
+      "PSYC 200"
     ]
   },
   "PSYC 201": {
@@ -3326,22 +3338,30 @@
       "PSYC 200"
     ]
   },
-  "PSYC 395": {
-    "title": "Directed Research",
-    "prereqs": [
-      "PSYC 200"
-    ]
-  },
-  "PSYC 330": {
-    "title": "Abnormal Psychology",
-    "prereqs": [
-      "PSYC 200"
-    ]
-  },
   "RUSN 395": {
     "title": "Special Topic in Russian - To be: Ukranian",
     "prereqs": [
       "OXRU"
+    ]
+  },
+  "SOC 210": {
+    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
+    "prereqs": [
+      "DWA 101",
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 230": {
+    "title": "Marriage and Family",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 240": {
@@ -3368,34 +3388,6 @@
       "SOC 101",
       "SOC 102",
       "SOC 105"
-    ]
-  },
-  "SOC 210": {
-    "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
-    "prereqs": [
-      "DWA 101",
-      "OXSO",
-      "POLS 101",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 230": {
-    "title": "Marriage and Family",
-    "prereqs": [
-      "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SPAN 342": {
-    "title": "Spanish in the United States",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
     ]
   },
   "SPAN 321": {
@@ -3433,28 +3425,18 @@
       "SPAN 383"
     ]
   },
+  "SPAN 342": {
+    "title": "Spanish in the United States",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
   "THEA 121": {
     "title": "Production Laboratory",
     "prereqs": [
       "THEA 120"
-    ]
-  },
-  "THEA 215": {
-    "title": "Acting for the Camera",
-    "prereqs": [
-      "THEA 210"
-    ]
-  },
-  "THEA 261": {
-    "title": "Children's Theater, 5th Grade",
-    "prereqs": [
-      "THEA 110"
-    ]
-  },
-  "THEA 301": {
-    "title": "Topics in Theater History",
-    "prereqs": [
-      "THEA 101"
     ]
   },
   "THEA 210": {
@@ -3484,14 +3466,32 @@
       "THEA 175"
     ]
   },
-  "UEP 230": {
-    "title": "Climate Justice: Theory and Practice",
+  "THEA 215": {
+    "title": "Acting for the Camera",
     "prereqs": [
-      "UEP 101"
+      "THEA 210"
+    ]
+  },
+  "THEA 261": {
+    "title": "Children's Theater, 5th Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 301": {
+    "title": "Topics in Theater History",
+    "prereqs": [
+      "THEA 101"
     ]
   },
   "UEP 306": {
     "title": "Food and the Environment",
+    "prereqs": [
+      "UEP 101"
+    ]
+  },
+  "UEP 230": {
+    "title": "Climate Justice: Theory and Practice",
     "prereqs": [
       "UEP 101"
     ]

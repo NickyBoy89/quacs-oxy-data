@@ -78,7 +78,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -191,7 +191,7 @@
     "reserved": [
       {
         "max": 22,
-        "open": 22,
+        "open": 21,
         "reservedFor": "Frosh"
       }
     ],
@@ -1405,7 +1405,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 2,
         "reservedFor": "Transfer"
       }
     ],
@@ -1426,7 +1426,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 3,
         "reservedFor": "Transfer"
       }
     ],
@@ -1468,7 +1468,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 3,
         "reservedFor": "Transfer"
       }
     ],
@@ -1489,7 +1489,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 2,
         "reservedFor": "Transfer"
       }
     ],
@@ -1510,7 +1510,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],
@@ -1539,7 +1539,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],
@@ -2171,7 +2171,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -2214,7 +2214,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -2405,7 +2405,7 @@
     "reserved": [
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -2587,7 +2587,7 @@
     "reserved": [
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -3005,7 +3005,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -3104,7 +3104,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Transfer"
       },
       {
@@ -3130,7 +3130,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Transfer"
       },
       {
@@ -4728,7 +4728,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -4757,7 +4757,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -6213,7 +6213,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],
@@ -6234,7 +6234,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],
@@ -7515,7 +7515,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -9401,7 +9401,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -9940,12 +9940,12 @@
     "reserved": [
       {
         "max": 12,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Frosh"
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10112,7 +10112,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10136,7 +10136,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10160,7 +10160,7 @@
       },
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10196,7 +10196,7 @@
     "reserved": [
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10229,7 +10229,7 @@
     "reserved": [
       {
         "max": 1,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -10797,7 +10797,7 @@
     "reserved": [
       {
         "max": 2,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Transfer"
       }
     ],
@@ -13672,7 +13672,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Transfer"
       },
       {
@@ -13927,7 +13927,7 @@
     "reserved": [
       {
         "max": 2,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Transfer"
       },
       {
@@ -14736,7 +14736,7 @@
       },
       {
         "max": 2,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Transfer"
       }
     ],
@@ -15263,7 +15263,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       }
     ],

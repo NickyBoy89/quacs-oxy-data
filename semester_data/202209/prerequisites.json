@@ -14330,6 +14330,10 @@
         {
           "course": "APCA",
           "type": "course"
+        },
+        {
+          "course": "OXCS",
+          "type": "course"
         }
       ],
       "type": "or"
@@ -14359,6 +14363,10 @@
         },
         {
           "course": "APCA",
+          "type": "course"
+        },
+        {
+          "course": "OXCS",
           "type": "course"
         }
       ],
@@ -17334,20 +17342,8 @@
       }
     }
   },
-  "1901": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": []
-      }
-    }
-  },
-  "1902": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": []
-      }
-    }
-  },
+  "1901": {},
+  "1902": {},
   "1903": {
     "restrictions": {
       "classification": {

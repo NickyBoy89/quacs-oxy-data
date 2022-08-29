@@ -1985,13 +1985,6 @@
     }
   },
   "1136": {
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -2049,13 +2042,6 @@
     }
   },
   "1140": {
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -3099,7 +3085,7 @@
     "reserved": [
       {
         "max": 0,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       },
       {

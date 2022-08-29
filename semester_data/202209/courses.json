@@ -18,8 +18,8 @@
             "credMax": 4,
             "title": "Introduction to American Studies",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -350,8 +350,8 @@
             "credMax": 4,
             "title": "Introduction to the Arts of the Early Mediterranean World",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -456,8 +456,8 @@
             "credMax": 4,
             "title": "Topics in Art History: Korean Art and Visual Culture",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -518,8 +518,8 @@
             "credMax": 4,
             "title": "Curatorial Seminar in Art History: Collecting Value: Photography Archives of Los Angeles",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -914,8 +914,8 @@
             "credMax": 4,
             "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5142,8 +5142,8 @@
             "credMax": 4,
             "title": "Introduction to Neuroscience",
             "cap": 24,
-            "act": 26,
-            "rem": -2,
+            "act": 27,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -7218,8 +7218,8 @@
             "credMax": 4,
             "title": "Introduction to Postcolonial Studies",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7728,8 +7728,8 @@
             "credMax": 4,
             "title": "International Organizations",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8003,9 +8003,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Principles of Economics I",
-            "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "cap": 22,
+            "act": 31,
+            "rem": -9,
             "attribute": "",
             "timeslots": [
               {
@@ -8031,9 +8031,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Principles of Economics I",
-            "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "cap": 22,
+            "act": 32,
+            "rem": -10,
             "attribute": "",
             "timeslots": [
               {
@@ -8821,8 +8821,8 @@
             "credMax": 2,
             "title": "Community Literacy",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -9421,8 +9421,8 @@
             "credMax": 4,
             "title": "Joyful Noise! On Black Literature and Musicality",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10473,8 +10473,8 @@
             "credMax": 4,
             "title": "Performing Disease",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10974,8 +10974,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12117,8 +12117,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12144,8 +12144,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 11,
-            "rem": 19,
+            "act": 10,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -13992,8 +13992,8 @@
             "credMax": 4,
             "title": "Mathematics as a Liberal Art",
             "cap": 25,
-            "act": 26,
-            "rem": -1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14056,8 +14056,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 35,
-            "act": 28,
-            "rem": 7,
+            "act": 29,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14118,8 +14118,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 15,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -14178,8 +14178,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 30,
-            "rem": 5,
+            "act": 31,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14232,8 +14232,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 30,
-            "rem": 5,
+            "act": 31,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14268,8 +14268,8 @@
             "credMax": 0,
             "title": "Calculus 1 (Advanced) Laboratory",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 22,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -14294,8 +14294,8 @@
             "credMax": 4,
             "title": "Calculus 1 (Advanced)",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 22,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -15506,8 +15506,8 @@
             "credMax": 4,
             "title": "Music Theory I",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16548,8 +16548,8 @@
             "credMax": 4,
             "title": "Music and Disease",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -18077,8 +18077,8 @@
             "credMax": 1,
             "title": "Violin (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -19942,8 +19942,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 22,
-            "act": 10,
-            "rem": 12,
+            "act": 11,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -20147,8 +20147,8 @@
             "credMax": 1,
             "title": "Zumba",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -20623,8 +20623,8 @@
             "credMax": 4,
             "title": "Introductory Mechanics",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -20687,8 +20687,8 @@
             "credMax": 0,
             "title": "Introductory Mechanics Laboratory",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -21464,8 +21464,8 @@
             "credMax": 4,
             "title": "The Politics of Crisis:  Pandemics and Other Disasters",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -22051,8 +22051,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22169,8 +22169,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 19,
-            "act": 18,
-            "rem": 1,
+            "act": 19,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23236,8 +23236,8 @@
             "credMax": 4,
             "title": "Flourishing in a World on Fire: Cosmologies of Multispecies Health in the Anthropocene",
             "cap": 20,
-            "act": 13,
-            "rem": 7,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -25442,8 +25442,8 @@
             "credMax": 2,
             "title": "Costume Construction",
             "cap": 13,
-            "act": 11,
-            "rem": 2,
+            "act": 10,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -26199,8 +26199,8 @@
             "credMax": 4,
             "title": "Principles of Journalism I: Covering News Across Media",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

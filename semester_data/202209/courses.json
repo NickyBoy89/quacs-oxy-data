@@ -825,8 +825,8 @@
             "credMax": 4,
             "title": "Sculpture Fundamentals",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -1738,8 +1738,8 @@
             "credMax": 4,
             "title": "Introduction to Cell and Molecular Biology",
             "cap": 28,
-            "act": 27,
-            "rem": 1,
+            "act": 28,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1766,8 +1766,8 @@
             "credMax": 0,
             "title": "Intro/Cell/Molecular Biology Laboratory",
             "cap": 14,
-            "act": 13,
-            "rem": 1,
+            "act": 14,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1956,8 +1956,8 @@
             "credMax": 4,
             "title": "Biodiversity and Organization of Marine Ecosystems",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1991,8 +1991,8 @@
             "credMax": 0,
             "title": "Biodiversity and Organization of Marine Ecosystems Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5634,8 +5634,8 @@
             "credMax": 4,
             "title": "Senior Seminar in Cognitive Science",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -6357,8 +6357,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6383,8 +6383,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 17,
-            "rem": 13,
+            "act": 19,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6411,8 +6411,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -7521,8 +7521,8 @@
             "credMax": 4,
             "title": "Global Public Health",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8306,8 +8306,8 @@
             "credMax": 4,
             "title": "Intermediate Macroeconomic Theory",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -8368,8 +8368,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8501,8 +8501,8 @@
             "credMax": 4,
             "title": "Urban Economics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11038,8 +11038,8 @@
             "credMax": 4,
             "title": "Intermediate French",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11150,8 +11150,8 @@
             "credMax": 4,
             "title": "Earth: Our Environment",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -11178,8 +11178,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13742,8 +13742,8 @@
             "credMax": 4,
             "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -14446,8 +14446,8 @@
             "credMax": 4,
             "title": "Discrete Mathematics",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15036,8 +15036,8 @@
             "credMax": 4,
             "title": "Topic in Media Representation - The Female in Japanese Film and Media",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15729,8 +15729,8 @@
             "credMax": 1,
             "title": "Chamber Jazz and Improvisation",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -15759,8 +15759,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 34,
-            "rem": 26,
+            "act": 35,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -16480,8 +16480,8 @@
             "credMax": 1,
             "title": "Jazz Ensemble",
             "cap": 40,
-            "act": 9,
-            "rem": 31,
+            "act": 10,
+            "rem": 30,
             "attribute": "",
             "timeslots": [
               {
@@ -19515,8 +19515,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19915,8 +19915,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21193,8 +21193,8 @@
             "credMax": 2,
             "title": "Special Topics in Physics I",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -21303,8 +21303,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21393,8 +21393,8 @@
             "credMax": 4,
             "title": "Law and Society",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22985,8 +22985,8 @@
             "credMax": 4,
             "title": "Global Public Health",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23236,8 +23236,8 @@
             "credMax": 4,
             "title": "Flourishing in a World on Fire: Cosmologies of Multispecies Health in the Anthropocene",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -23307,8 +23307,8 @@
             "credMax": 4,
             "title": "Holy Sh*t!: Engaging the Materiality of Religion",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -23586,8 +23586,8 @@
             "credMax": 4,
             "title": "The Struggle for Human Rights in Mexico: Comparative Perspectives",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -23833,8 +23833,8 @@
             "credMax": 4,
             "title": "Sociology of Food",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24431,8 +24431,8 @@
             "credMax": 1,
             "title": "Advanced Conversation I",
             "cap": 99,
-            "act": 7,
-            "rem": 92,
+            "act": 6,
+            "rem": 93,
             "attribute": "",
             "timeslots": [
               {
@@ -24750,8 +24750,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 4,
-            "act": 1,
-            "rem": 3,
+            "act": 2,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

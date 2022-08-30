@@ -1405,8 +1405,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1432,8 +1432,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2559,8 +2559,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -3465,8 +3465,8 @@
             "credMax": 4,
             "title": "Black Women Write Social Justice",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -4439,8 +4439,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -4737,8 +4737,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -5169,8 +5169,8 @@
             "credMax": 4,
             "title": "Introduction to Neuroscience",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6677,8 +6677,8 @@
             "credMax": 4,
             "title": "Computer Science Senior Seminar",
             "cap": 20,
-            "act": 17,
-            "rem": 3,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6704,8 +6704,8 @@
             "credMax": 4,
             "title": "Computer Science Senior Seminar",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 13,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -7149,8 +7149,8 @@
             "credMax": 4,
             "title": "Senior Seminar in Critical Theory - Social Justice",
             "cap": 10,
-            "act": 7,
-            "rem": 3,
+            "act": 8,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -7218,8 +7218,8 @@
             "credMax": 4,
             "title": "Introduction to Postcolonial Studies",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8306,8 +8306,8 @@
             "credMax": 4,
             "title": "Intermediate Macroeconomic Theory",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -8333,8 +8333,8 @@
             "credMax": 4,
             "title": "Intermediate Macroeconomic Theory",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8501,8 +8501,8 @@
             "credMax": 4,
             "title": "Urban Economics",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -9133,8 +9133,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 26,
-            "rem": -1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12117,8 +12117,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13191,8 +13191,8 @@
             "credMax": 2,
             "title": "Internship",
             "cap": 6,
-            "act": 3,
-            "rem": 3,
+            "act": 4,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13322,8 +13322,8 @@
             "credMax": 2,
             "title": "Community Health and Fitness Research",
             "cap": 6,
-            "act": 1,
-            "rem": 5,
+            "act": 2,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14356,8 +14356,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 35,
-            "act": 25,
-            "rem": 10,
+            "act": 26,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -14410,8 +14410,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 25,
-            "rem": 10,
+            "act": 26,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -15036,8 +15036,8 @@
             "credMax": 4,
             "title": "Topic in Media Representation - The Female in Japanese Film and Media",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -15506,8 +15506,8 @@
             "credMax": 4,
             "title": "Music Theory I",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16548,8 +16548,8 @@
             "credMax": 4,
             "title": "Music and Disease",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -17007,8 +17007,8 @@
             "credMax": 0,
             "title": "Voice (Half Hour)",
             "cap": 5,
-            "act": 0,
-            "rem": 5,
+            "act": 1,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -17689,8 +17689,8 @@
             "credMax": 1,
             "title": "Jazz Saxophone (Half Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -19337,8 +19337,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 35,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19969,8 +19969,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 17,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21720,8 +21720,8 @@
             "credMax": 4,
             "title": "Introduction to Political Theory",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -23095,8 +23095,8 @@
             "credMax": 4,
             "title": "Judaism from the Middle Ages to Modernity",
             "cap": 30,
-            "act": 24,
-            "rem": 6,
+            "act": 25,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23236,8 +23236,8 @@
             "credMax": 4,
             "title": "Flourishing in a World on Fire: Cosmologies of Multispecies Health in the Anthropocene",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23307,8 +23307,8 @@
             "credMax": 4,
             "title": "Holy Sh*t!: Engaging the Materiality of Religion",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23523,8 +23523,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24186,8 +24186,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation I",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -24678,8 +24678,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

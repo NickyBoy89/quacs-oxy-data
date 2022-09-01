@@ -2429,8 +2429,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2481,8 +2481,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 9,
-            "rem": -1,
+            "act": 10,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -3325,8 +3325,8 @@
             "credMax": 4,
             "title": "Southern African Politics",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -4715,8 +4715,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -6739,8 +6739,8 @@
             "credMax": 2,
             "title": "Justice and Equity in Technology",
             "cap": 24,
-            "act": 6,
-            "rem": 18,
+            "act": 5,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -7020,8 +7020,8 @@
             "credMax": 4,
             "title": "Power and Politics",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -7487,8 +7487,8 @@
             "credMax": 4,
             "title": "Southern African Politics",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -7728,8 +7728,8 @@
             "credMax": 4,
             "title": "International Organizations",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8144,8 +8144,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 13,
-            "rem": 19,
+            "act": 12,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -8207,8 +8207,8 @@
             "credMax": 4,
             "title": "Principles of Economics II",
             "cap": 30,
-            "act": 17,
-            "rem": 13,
+            "act": 18,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -8501,8 +8501,8 @@
             "credMax": 4,
             "title": "Urban Economics",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8750,8 +8750,8 @@
             "credMax": 4,
             "title": "Advanced Econometrics",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -9279,8 +9279,8 @@
             "credMax": 4,
             "title": "Contemporary American Poetry",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -9421,8 +9421,8 @@
             "credMax": 4,
             "title": "Joyful Noise! On Black Literature and Musicality",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10938,8 +10938,8 @@
             "credMax": 4,
             "title": "Beginning French I",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12117,8 +12117,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12207,8 +12207,8 @@
             "credMax": 4,
             "title": "East Asian Survey",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12403,8 +12403,8 @@
             "credMax": 4,
             "title": "Medicine and Disease in Western Society",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12790,8 +12790,8 @@
             "credMax": 4,
             "title": "Advanced Japanese I",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -12826,8 +12826,8 @@
             "credMax": 5,
             "title": "Intermediate Japanese I",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -13602,8 +13602,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13707,8 +13707,8 @@
             "credMax": 4,
             "title": "Latino/a Politics",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -14482,8 +14482,8 @@
             "credMax": 4,
             "title": "Multivariable Calculus",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -14828,8 +14828,8 @@
             "credMax": 4,
             "title": "Topology",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -15601,8 +15601,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 2,
-            "rem": 4,
+            "act": 3,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -15729,8 +15729,8 @@
             "credMax": 1,
             "title": "Chamber Jazz and Improvisation",
             "cap": 10,
-            "act": 12,
-            "rem": -2,
+            "act": 13,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -16480,8 +16480,8 @@
             "credMax": 1,
             "title": "Jazz Ensemble",
             "cap": 40,
-            "act": 11,
-            "rem": 29,
+            "act": 12,
+            "rem": 28,
             "attribute": "",
             "timeslots": [
               {
@@ -16514,8 +16514,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 10,
-            "rem": 25,
+            "act": 11,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -18285,8 +18285,8 @@
             "credMax": 1,
             "title": "Cello (Half Hour)",
             "cap": 20,
-            "act": 4,
-            "rem": 16,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -18307,8 +18307,8 @@
             "credMax": 0,
             "title": "Cello (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -21358,8 +21358,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -21429,8 +21429,8 @@
             "credMax": 4,
             "title": "Latino/a Politics",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -23095,8 +23095,8 @@
             "credMax": 4,
             "title": "Judaism from the Middle Ages to Modernity",
             "cap": 30,
-            "act": 26,
-            "rem": 4,
+            "act": 25,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23166,8 +23166,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23236,8 +23236,8 @@
             "credMax": 4,
             "title": "Flourishing in a World on Fire: Cosmologies of Multispecies Health in the Anthropocene",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -23833,8 +23833,8 @@
             "credMax": 4,
             "title": "Sociology of Food",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24650,8 +24650,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24678,8 +24678,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24854,8 +24854,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -25045,8 +25045,8 @@
             "credMax": 2,
             "title": "Stage Management",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25304,8 +25304,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -25407,8 +25407,8 @@
             "credMax": 1,
             "title": "Intermediate Ballet",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {

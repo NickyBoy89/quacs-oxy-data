@@ -2115,8 +2115,8 @@
             "credMax": 2,
             "title": "Museum Science",
             "cap": 12,
-            "act": 7,
-            "rem": 5,
+            "act": 8,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -2515,8 +2515,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -2625,8 +2625,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -4417,8 +4417,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 3,
-            "rem": 96,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -5805,8 +5805,8 @@
                 ],
                 "instructor": "Kevin Urstadt",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1250,
+                "timeEnd": 1345,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -5865,8 +5865,8 @@
             "credMax": 4,
             "title": "Rage, Rave, and Revolution: German Literature and Philosophy Post-45",
             "cap": 35,
-            "act": 35,
-            "rem": 0,
+            "act": 34,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -5900,8 +5900,8 @@
             "credMax": 4,
             "title": "Love's Song: A Poetic-Philosophic History",
             "cap": 25,
-            "act": 26,
-            "rem": -1,
+            "act": 27,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -6445,8 +6445,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 18,
-            "rem": 12,
+            "act": 19,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6509,8 +6509,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -7452,8 +7452,8 @@
             "credMax": 4,
             "title": "Introduction to Global Political Economy",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -7556,8 +7556,8 @@
             "credMax": 4,
             "title": "Social Movements in Comparative and Transnational Perspective",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -8821,8 +8821,8 @@
             "credMax": 2,
             "title": "Community Literacy",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -8960,8 +8960,8 @@
             "credMax": 4,
             "title": "Chicano Education",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13221,8 +13221,8 @@
             "credMax": 2,
             "title": "Community Health and Fitness Research",
             "cap": 6,
-            "act": 3,
-            "rem": 3,
+            "act": 4,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13777,8 +13777,8 @@
             "credMax": 4,
             "title": "Chicano Education",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -13992,8 +13992,8 @@
             "credMax": 4,
             "title": "Mathematics as a Liberal Art",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -17007,8 +17007,8 @@
             "credMax": 0,
             "title": "Voice (Half Hour)",
             "cap": 5,
-            "act": 1,
-            "rem": 4,
+            "act": 2,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -17095,8 +17095,8 @@
             "credMax": 1,
             "title": "Voice (Half Hour)",
             "cap": 2,
-            "act": 1,
-            "rem": 1,
+            "act": 0,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -17265,8 +17265,8 @@
             "credMax": 0,
             "title": "Jazz Voice (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19301,8 +19301,8 @@
             "credMax": 1,
             "title": "Drum Set (Half Hour)",
             "cap": 20,
-            "act": 8,
-            "rem": 12,
+            "act": 9,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -19791,8 +19791,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19818,8 +19818,8 @@
             "credMax": 0,
             "title": "Spin Class I",
             "cap": 2,
-            "act": 2,
-            "rem": 0,
+            "act": 1,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20209,8 +20209,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Cross Country",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -20277,8 +20277,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Cross Country",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -21303,8 +21303,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21755,8 +21755,8 @@
             "credMax": 4,
             "title": "Los Angeles Politics",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21825,8 +21825,8 @@
             "credMax": 4,
             "title": "Constitutional Law",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -24038,8 +24038,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 20,
-            "rem": -2,
+            "act": 21,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -24094,8 +24094,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24276,8 +24276,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {

@@ -350,8 +350,8 @@
             "credMax": 4,
             "title": "Introduction to the Arts of the Early Mediterranean World",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -16514,8 +16514,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 35,
-            "act": 11,
-            "rem": 24,
+            "act": 10,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {

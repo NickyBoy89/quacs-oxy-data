@@ -2393,8 +2393,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2429,8 +2429,8 @@
             "credMax": 1,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24276,8 +24276,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 5,
-            "rem": 13,
+            "act": 6,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {

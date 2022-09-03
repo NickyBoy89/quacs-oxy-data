@@ -1123,8 +1123,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3697,8 +3697,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -3801,8 +3801,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -4993,8 +4993,8 @@
             "credMax": 5,
             "title": "Intermediate Chinese I",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -5064,8 +5064,8 @@
             "credMax": 5,
             "title": "Elementary Chinese I",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -5795,8 +5795,8 @@
             "credMax": 2,
             "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -21193,8 +21193,8 @@
             "credMax": 2,
             "title": "Special Topics in Physics I",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

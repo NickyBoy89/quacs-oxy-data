@@ -6189,8 +6189,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 26,
-            "rem": 4,
+            "act": 25,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6323,8 +6323,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 16,
-            "act": 10,
-            "rem": 6,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -19337,8 +19337,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 35,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23974,8 +23974,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24150,8 +24150,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

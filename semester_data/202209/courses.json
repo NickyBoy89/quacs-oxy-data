@@ -7253,8 +7253,8 @@
             "credMax": 4,
             "title": "Stupidity",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20085,8 +20085,8 @@
             "credMax": 1,
             "title": "Karate",
             "cap": 99,
-            "act": 9,
-            "rem": 90,
+            "act": 10,
+            "rem": 89,
             "attribute": "",
             "timeslots": [
               {

@@ -3111,7 +3111,7 @@
     "reserved": [
       {
         "max": 0,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       },
       {

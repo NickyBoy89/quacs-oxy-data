@@ -386,8 +386,8 @@
             "credMax": 4,
             "title": "Ways of Looking and Making",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -421,8 +421,8 @@
             "credMax": 4,
             "title": "Modern and Contemporary Art",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -518,8 +518,8 @@
             "credMax": 4,
             "title": "Curatorial Seminar in Art History: Collecting Value: Photography Archives of Los Angeles",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -1192,8 +1192,8 @@
             "credMax": 1,
             "title": "Practicum in Studio Art",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6068,8 +6068,8 @@
             "credMax": 4,
             "title": "Contemporary Theory and Literature",
             "cap": 12,
-            "act": 7,
-            "rem": 5,
+            "act": 8,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -7020,8 +7020,8 @@
             "credMax": 4,
             "title": "Power and Politics",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7521,8 +7521,8 @@
             "credMax": 4,
             "title": "Global Public Health",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -7625,8 +7625,8 @@
             "credMax": 4,
             "title": "Junior Seminar: Economic and Social Human Rights",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -7694,8 +7694,8 @@
             "credMax": 4,
             "title": "Task Force in Diplomacy and World Affairs",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -13992,8 +13992,8 @@
             "credMax": 4,
             "title": "Mathematics as a Liberal Art",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -19978,7 +19978,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Maja Zimmermann",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 955,
@@ -20059,7 +20059,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Maja Zimmermann",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 955,
@@ -22582,8 +22582,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 5,
-            "rem": 0,
+            "act": 6,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -22985,8 +22985,8 @@
             "credMax": 4,
             "title": "Global Public Health",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -23656,8 +23656,8 @@
             "credMax": 4,
             "title": "Gender and Society",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

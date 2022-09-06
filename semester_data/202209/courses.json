@@ -421,8 +421,8 @@
             "credMax": 4,
             "title": "Modern and Contemporary Art",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -587,8 +587,8 @@
             "credMax": 4,
             "title": "Introduction to Later European and American Art",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 31,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3146,8 +3146,8 @@
             "credMax": 2,
             "title": "Research Methods in Biology",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -4579,8 +4579,8 @@
             "credMax": 1,
             "title": "Thermodynamics & Kinetics Lab",
             "cap": 15,
-            "act": 8,
-            "rem": 7,
+            "act": 7,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8821,8 +8821,8 @@
             "credMax": 2,
             "title": "Community Literacy",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -8856,8 +8856,8 @@
             "credMax": 2,
             "title": "Spanish/Mandarin Language Community Literacy",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -8925,8 +8925,8 @@
             "credMax": 4,
             "title": "The Politics and Pedagogy of First and Second Language Acquisition",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -9456,8 +9456,8 @@
             "credMax": 4,
             "title": "Shakespeare and Film",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11002,8 +11002,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12075,8 +12075,8 @@
             "credMax": 4,
             "title": "Elementary Greek",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -12117,8 +12117,8 @@
             "credMax": 4,
             "title": "Antiquity to 1700: Europe and the Middle East",
             "cap": 30,
-            "act": 24,
-            "rem": 6,
+            "act": 23,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -13533,8 +13533,8 @@
             "credMax": 4,
             "title": "The Politics and Pedagogy of First and Second Language Acquisition",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -17667,8 +17667,8 @@
             "credMax": 0,
             "title": "Jazz Saxophone (Half Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -17689,8 +17689,8 @@
             "credMax": 1,
             "title": "Jazz Saxophone (Half Hour)",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -18553,8 +18553,8 @@
             "credMax": 1,
             "title": "Jazz Guitar (Half Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -20209,8 +20209,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Cross Country",
             "cap": 99,
-            "act": 3,
-            "rem": 96,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -22582,8 +22582,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 7,
-            "rem": -2,
+            "act": 8,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -25110,8 +25110,8 @@
             "credMax": 4,
             "title": "Topics in Theater History",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

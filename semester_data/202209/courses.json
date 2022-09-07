@@ -790,8 +790,8 @@
             "credMax": 4,
             "title": "Painting Fundamentals",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -887,8 +887,8 @@
             "credMax": 4,
             "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -914,8 +914,8 @@
             "credMax": 4,
             "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2735,8 +2735,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -6913,8 +6913,8 @@
             "credMax": 1,
             "title": "Experiencing the Arts",
             "cap": 99,
-            "act": 10,
-            "rem": 89,
+            "act": 11,
+            "rem": 88,
             "attribute": "",
             "timeslots": [
               {
@@ -8679,8 +8679,8 @@
             "credMax": 4,
             "title": "Accounting and Financial Analysis",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -8821,8 +8821,8 @@
             "credMax": 2,
             "title": "Community Literacy",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -9279,8 +9279,8 @@
             "credMax": 4,
             "title": "Contemporary American Poetry",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -9456,8 +9456,8 @@
             "credMax": 4,
             "title": "Shakespeare and Film",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -11109,8 +11109,8 @@
             "credMax": 1,
             "title": "Advanced Conversation I",
             "cap": 99,
-            "act": 9,
-            "rem": 90,
+            "act": 8,
+            "rem": 91,
             "attribute": "",
             "timeslots": [
               {
@@ -11926,8 +11926,8 @@
             "credMax": 4,
             "title": "Elementary German I",
             "cap": 35,
-            "act": 25,
-            "rem": 10,
+            "act": 26,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -13358,8 +13358,8 @@
             "credMax": 4,
             "title": "Elementary and Intermediate Latin",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -14330,8 +14330,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 35,
-            "act": 18,
-            "rem": 17,
+            "act": 17,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -14382,8 +14382,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 18,
-            "rem": 17,
+            "act": 17,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -19915,8 +19915,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24066,8 +24066,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24854,8 +24854,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -25045,8 +25045,8 @@
             "credMax": 2,
             "title": "Stage Management",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25304,8 +25304,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -25407,8 +25407,8 @@
             "credMax": 1,
             "title": "Intermediate Ballet",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -25442,8 +25442,8 @@
             "credMax": 2,
             "title": "Costume Construction",
             "cap": 13,
-            "act": 13,
-            "rem": 0,
+            "act": 12,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

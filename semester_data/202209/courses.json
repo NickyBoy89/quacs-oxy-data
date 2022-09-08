@@ -421,8 +421,8 @@
             "credMax": 4,
             "title": "Modern and Contemporary Art",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1922,8 +1922,8 @@
             "credMax": 0,
             "title": "Vertebrate Physiology Laboratory",
             "cap": 12,
-            "act": 15,
-            "rem": -3,
+            "act": 16,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -3111,8 +3111,8 @@
             "credMax": 4,
             "title": "Vertebrate Physiology",
             "cap": 24,
-            "act": 28,
-            "rem": -4,
+            "act": 29,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -3569,8 +3569,8 @@
             "credMax": 4,
             "title": "Introduction to Chemistry",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -4527,8 +4527,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -4671,8 +4671,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -7833,8 +7833,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15106,8 +15106,8 @@
             "credMax": 4,
             "title": "Topics in Media Theory and Practice: Game Design Workshop",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23495,8 +23495,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

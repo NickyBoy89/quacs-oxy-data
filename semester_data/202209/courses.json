@@ -790,8 +790,8 @@
             "credMax": 4,
             "title": "Painting Fundamentals",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -825,8 +825,8 @@
             "credMax": 4,
             "title": "Sculpture Fundamentals",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -18671,8 +18671,8 @@
             "credMax": 1,
             "title": "Jazz Guitar (One Hour)",
             "cap": 12,
-            "act": 6,
-            "rem": 6,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

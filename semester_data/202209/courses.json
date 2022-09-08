@@ -5723,8 +5723,8 @@
             "credMax": 4,
             "title": "Introduction to Cognitive Science",
             "cap": 45,
-            "act": 45,
-            "rem": 0,
+            "act": 44,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7020,8 +7020,8 @@
             "credMax": 4,
             "title": "Power and Politics",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12904,8 +12904,8 @@
             "credMax": 4,
             "title": "Introduction to Kinesiology",
             "cap": 26,
-            "act": 26,
-            "rem": 0,
+            "act": 27,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -24150,8 +24150,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24276,8 +24276,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

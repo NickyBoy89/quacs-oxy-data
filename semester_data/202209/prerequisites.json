@@ -12883,7 +12883,7 @@
   "1588": {
     "reserved": [
       {
-        "max": 7,
+        "max": 4,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -14428,7 +14428,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],

@@ -2933,8 +2933,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -23131,8 +23131,8 @@
             "credMax": 4,
             "title": "Queering Religion",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 21,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -23271,8 +23271,8 @@
             "credMax": 4,
             "title": "Introduction to Islam",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23307,8 +23307,8 @@
             "credMax": 4,
             "title": "Holy Sh*t!: Engaging the Materiality of Religion",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

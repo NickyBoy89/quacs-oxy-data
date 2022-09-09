@@ -2980,7 +2980,7 @@
   "1153": {
     "reserved": [
       {
-        "max": 3,
+        "max": 2,
         "open": 0,
         "reservedFor": "Major"
       },
@@ -3095,7 +3095,7 @@
       },
       {
         "max": 0,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],

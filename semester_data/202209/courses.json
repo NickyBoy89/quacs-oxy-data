@@ -2911,8 +2911,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -6847,8 +6847,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -9029,8 +9029,8 @@
             "credMax": 4,
             "title": "A History of Urban Schooling in the United States",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -16446,8 +16446,8 @@
             "credMax": 2,
             "title": "Glee Club (Tenors/Basses)",
             "cap": 35,
-            "act": 11,
-            "rem": 24,
+            "act": 12,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -16799,8 +16799,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {

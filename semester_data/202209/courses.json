@@ -1571,8 +1571,8 @@
             "credMax": 4,
             "title": "General Zoology",
             "cap": 28,
-            "act": 28,
-            "rem": 0,
+            "act": 27,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1678,8 +1678,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6445,8 +6445,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 20,
-            "rem": 10,
+            "act": 21,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -6481,8 +6481,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 19,
-            "rem": 5,
+            "act": 18,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -22670,8 +22670,8 @@
             "credMax": 4,
             "title": "Statistics in Psychological Science",
             "cap": 19,
-            "act": 19,
-            "rem": 0,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24854,8 +24854,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -25045,8 +25045,8 @@
             "credMax": 2,
             "title": "Stage Management",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

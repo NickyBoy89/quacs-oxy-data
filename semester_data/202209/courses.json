@@ -6383,8 +6383,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 20,
-            "rem": 10,
+            "act": 21,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -6411,8 +6411,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -19969,8 +19969,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 22,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -20174,8 +20174,8 @@
             "credMax": 0,
             "title": "Zumba",
             "cap": 5,
-            "act": 5,
-            "rem": 0,
+            "act": 4,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25338,8 +25338,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {

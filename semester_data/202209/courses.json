@@ -2691,8 +2691,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -8501,8 +8501,8 @@
             "credMax": 4,
             "title": "Urban Economics",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -15627,8 +15627,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 6,
-            "rem": 0,
+            "act": 5,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15661,8 +15661,8 @@
             "credMax": 2,
             "title": "Glee Club (Sopranos/Altos)",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 15,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -16446,8 +16446,8 @@
             "credMax": 2,
             "title": "Glee Club (Tenors/Basses)",
             "cap": 35,
-            "act": 12,
-            "rem": 23,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {

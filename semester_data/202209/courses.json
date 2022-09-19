@@ -6883,8 +6883,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 45,
-            "rem": 54,
+            "act": 46,
+            "rem": 53,
             "attribute": "",
             "timeslots": [
               {
@@ -13602,8 +13602,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14582,8 +14582,8 @@
             "credMax": 4,
             "title": "Real Analysis",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15009,8 +15009,8 @@
             "credMax": 4,
             "title": "Topic in Media Representation - From Cyborgs to Siri: Gender, Technology and Media",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 21,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15071,8 +15071,8 @@
             "credMax": 4,
             "title": "Topic in Animation & Visual Effects: Representing Health, Illness, & Well-being Through Storytelling",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15541,8 +15541,8 @@
             "credMax": 1,
             "title": "Voice Class I",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -16412,8 +16412,8 @@
             "credMax": 1,
             "title": "College Chorus",
             "cap": 60,
-            "act": 25,
-            "rem": 35,
+            "act": 26,
+            "rem": 34,
             "attribute": "",
             "timeslots": [
               {
@@ -16480,8 +16480,8 @@
             "credMax": 1,
             "title": "Jazz Ensemble",
             "cap": 40,
-            "act": 17,
-            "rem": 23,
+            "act": 16,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -19769,68 +19769,6 @@
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Spin Class I",
-        "subj": "PHAC",
-        "crse": "128",
-        "id": "PHAC-128",
-        "sections": [
-          {
-            "crn": 1843,
-            "subj": "PHAC",
-            "crse": "128",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Spin Class I",
-            "cap": 10,
-            "act": 7,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1844,
-            "subj": "PHAC",
-            "crse": "128",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Spin Class I",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23166,8 +23104,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -25442,8 +25380,8 @@
             "credMax": 2,
             "title": "Costume Construction",
             "cap": 13,
-            "act": 11,
-            "rem": 2,
+            "act": 10,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -26233,8 +26171,8 @@
             "credMax": 4,
             "title": "Argument and Rhetoric Across the Disciplines",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

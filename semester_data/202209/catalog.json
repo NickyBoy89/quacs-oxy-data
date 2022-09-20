@@ -3119,6 +3119,12 @@
     "name": "Power and Politics",
     "subj": "CTSJ"
   },
+  "CTSJ-140": {
+    "crse": "140",
+    "description": "This course introduces students to critical theories concerning human sexuality. We read feminist, Marxist, psychoanalytic, structuralist, and poststructuralist theories of sexuality, and discuss what makes each of these theories \"critical.\" Topics include: the political economy of marriage, the relationship between sexuality and procreation, uses of the erotic, homosociality, and the incitement to discourse. The authors we read include Engels, Freud, de Beauvoir, Levi-Strauss, Gayle Rubin, Andrea Dworkin, Foucault, and Judith Butler.",
+    "name": "Critical Theories of Sexuality",
+    "subj": "CTSJ"
+  },
   "CTSJ-160": {
     "crse": "160",
     "description": "This course introduces students to contemporary feminist thought and histories of feminist activism. Students will learn about the intersectionality of race, gender, class, sexuality, and nation in a variety of feminist scholarship, and will examine key issues in feminist theory, such as: the debates between Western feminism and women of color feminism, transnational feminism, queer theory, the social construction of sex and gender, reproductive justice, gender-based violence, and the political economy of gender. This course will center on the strong link between feminist theory, social justice, and activism, and will explore how these can be mutually informing projects that can effect social change.",
@@ -3219,6 +3225,12 @@
     "crse": "250",
     "description": "This course will examine the relationship between resistance movements and the law through several historical and contemporary United States and Latin American case studies. We will begin the semester by exploring theoretical representations of resistance movements within critical legal theory and social movement theory. We will look at different conceptualizations of power and consciousness in our analysis of resistance, and the role of each in instigating resistance movements. We will then turn to an analysis of the law as a tool of collective struggle by studying and comparing the implicated rights and site-specific needs, objectives, strategies, and outcomes of each case study. We will look at the different ways these resistance movements may use the law to mobilize followers, to frame and address collective grievance, to advance and develop legal protections for marginalized groups, and to connect their localized struggles with global ones by redefining and reimagining concepts of dignity and freedom. Each case study will also provide us with an opportunity to explore the relationship between the law, state-sponsored violence, and repression of resistance movements. We will also examine the role and influence of legal advocacy organizations in contemporary resistance movements, and evaluate the current limitations of the law in contributing to social change. How do rights-based claims (e.g. indigenous rights, water rights) obscure the relationship between law and power, injustice, and structures of oppression? Can the law be a useful catalyst for change, and/or is it necessarily a supplement to grassroots organizing and mobilizing efforts? To examine these concepts and tensions, we will look at legislation and legal practices, landmark court cases, and critical scholarship related to our case studies. Among the resistance movements we will likely study are: Brazil's Landless Rural Workers Movement; indigenous resistance movements in North and South America, including resistance to the Dakota Access Pipeline and the Agua Zarca Hydroelectric Dam in Honduras; and different phases in the movement for black civil rights in the United States.",
     "name": "Resistance Movements and the Law",
+    "subj": "CTSJ"
+  },
+  "CTSJ-255": {
+    "crse": "255",
+    "description": "This course will examine intersecting and overlapping categories of \"difference\" by focusing on the lives of women of color. By looking at conditions that shape race, sexuality, gender, class, and cultural differences, this class will critically examine multiple discourses surrounding feminism, anti-racism, heteronormativity, and critiques of imperialism. We will consider contexts of individual and collective work for social change. Using personal essays, stories, scholarly writings, artistic works, music, film, and other media, the course will look at sources that women of color draw from to ground themselves and their activist work.",
+    "name": "Women of Color Feminisms",
     "subj": "CTSJ"
   },
   "CTSJ-259": {
@@ -3323,10 +3335,28 @@
     "name": "Clinical Psychology Laboratory",
     "subj": "CTSJ"
   },
+  "CTSJ-375": {
+    "crse": "375",
+    "description": "This course focuses on key themes and topics of Indigenous Feminisms.\u00a0 In particular, we will discuss how gender, sexuality, land, and sovereignty intersect in different Native communities.\u00a0 We ask: How do female, queer, two-spirit, gender non-conforming, and feminist Indigenous peoples persist, resist, and thrive in the face of ongoing colonial violence and erasure?\u00a0 How does settler colonialism intersect with heteropatriarchy, necessitating an intersectional decolonial analysis and response?\u00a0 In what ways does the protection/empowerment of Native women correspond to the preservation/respect of Native land?\u00a0 How can an Indigenous feminist epistemology change our conceptualizations of land, water, and spatiality?\u00a0 What does an Indigenous queer critique contribute to analyses of militarism, imperialism, and settler colonialism?\u00a0\u00a0\nCase studies and examples are drawn from Turtle Island (North American continent), the Pacific Islands, and Palestine.\u00a0 Authors to be discussed include Mishuana Goeman, Audra Simpson, Haunani-Kay Trask, and Kim TallBear.",
+    "name": "Indigenous Feminisms",
+    "subj": "CTSJ"
+  },
+  "CTSJ-376": {
+    "crse": "376",
+    "description": "This course will engage major concepts, theories, and intellectual inquiries in the area of settler colonial studies. We will ask: what makes settler colonialism distinct from other forms of colonialism?\u00a0 How does settler colonialism intersect with other systems of oppression, such as heteropatriarchy, chattel slavery, and racial capitalism?\u00a0 We begin by defining settler colonialism as the systematic dispossession and elimination of Native peoples via genocide, land appropriation, settler immigration, and/or cultural assimilation.\u00a0 We will then explore the relationships between settler colonial studies and queer theory, Afro-pessimism, and Asian diasporic studies.\u00a0 Authors to be discussed include Patrick Wolfe,\u00a0Lorenzo Veracini, Jodi Byrd, Mark Rifkin, Jared Sexton,\u00a0Frank B. Wilderson III, Ikuko Asaka, Iyko Day, Dean Saranillio, and Manu Karuka.",
+    "name": "Settler Colonialism Studies",
+    "subj": "CTSJ"
+  },
   "CTSJ-384": {
     "crse": "384",
     "description": "A close reading of the works of Georges Bataille, including: The Impossible, The Unfinished System of Nonknowledge, The Accursed Share, On Nietzsche, Story of the Eye, The Dead Man,\u00a0and Collected Poems.\u00a0First year students are not permitted to enroll in this course.",
     "name": "Bataille",
+    "subj": "CTSJ"
+  },
+  "CTSJ-386": {
+    "crse": "386",
+    "description": "Critical race theorists have begun to describe a \"new blackness,\" a \"critical blackness,\" a \"post-blackness,\" and an \"unforgivable blackness.\" This emergent scholarship that describes a feminist New Black Man also seeks to \"queer blackness,\" and to articulate a black sexual politics that addresses a \"new racism.\" By calling us to examine the possibility of a black political solidarity that escapes the problems of identity politics, this scholarship provokes We Who Are Dark to imagine more complex and free identities. We will also consider the positionality of anti-blackness and it's antecedents. This course invites all of us to engage this scholarship.",
+    "name": "Blackness and Anti-Blackness",
     "subj": "CTSJ"
   },
   "CTSJ-390": {

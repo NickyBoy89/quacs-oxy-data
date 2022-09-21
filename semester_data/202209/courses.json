@@ -2537,8 +2537,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -15601,8 +15601,8 @@
             "credMax": 1,
             "title": "Piano Class",
             "cap": 6,
-            "act": 4,
-            "rem": 2,
+            "act": 5,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19880,8 +19880,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 22,
-            "act": 12,
-            "rem": 10,
+            "act": 13,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -24983,8 +24983,8 @@
             "credMax": 2,
             "title": "Stage Management",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {

@@ -5604,8 +5604,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 10,
-            "act": 0,
-            "rem": 10,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -24440,8 +24440,8 @@
             "credMax": 4,
             "title": "Senior Seminar: Genre and Literary Theory",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {

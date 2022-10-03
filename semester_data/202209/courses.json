@@ -24710,8 +24710,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24732,8 +24732,8 @@
             "credMax": 1,
             "title": "Production Laboratory",
             "cap": 4,
-            "act": 2,
-            "rem": 2,
+            "act": 3,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

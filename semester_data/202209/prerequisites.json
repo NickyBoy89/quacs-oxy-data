@@ -13731,7 +13731,7 @@
     "reserved": [
       {
         "max": 4,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],

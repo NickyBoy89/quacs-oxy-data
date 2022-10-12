@@ -18025,5 +18025,21 @@
         ]
       }
     }
+  },
+  "2007": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

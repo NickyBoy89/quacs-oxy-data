@@ -1,0 +1,268 @@
+[
+  {
+    "name": "American Studies",
+    "depts": [
+      {
+        "code": "AMST",
+        "name": "American Studies"
+      }
+    ]
+  },
+  {
+    "name": "Foreign Languages and Studies",
+    "depts": [
+      {
+        "code": "ARAB",
+        "name": "Arabic"
+      },
+      {
+        "code": "CHIN",
+        "name": "Chinese Studies"
+      },
+      {
+        "code": "FREN",
+        "name": "French"
+      },
+      {
+        "code": "GERM",
+        "name": "German"
+      },
+      {
+        "code": "GRK",
+        "name": "Greek"
+      },
+      {
+        "code": "JAPN",
+        "name": "Japanese Studies"
+      },
+      {
+        "code": "LATN",
+        "name": "Latin"
+      },
+      {
+        "code": "LLAS",
+        "name": "Latino/a and Latin American Studies"
+      },
+      {
+        "code": "RUSN",
+        "name": "Russian"
+      },
+      {
+        "code": "SPAN",
+        "name": "Spanish"
+      }
+    ]
+  },
+  {
+    "name": "Humanities, Arts, and Social Sciences",
+    "depts": [
+      {
+        "code": "ARTH",
+        "name": "Art History"
+      },
+      {
+        "code": "ARTS",
+        "name": "Studio Art"
+      },
+      {
+        "code": "CSLC",
+        "name": "Comparative Studies in Literature and Culture"
+      },
+      {
+        "code": "ECON",
+        "name": "Economics"
+      },
+      {
+        "code": "EDUC",
+        "name": "Education"
+      },
+      {
+        "code": "HIST",
+        "name": "History"
+      },
+      {
+        "code": "LING",
+        "name": "Linguistics"
+      },
+      {
+        "code": "MAC",
+        "name": "Media Arts and Culture"
+      },
+      {
+        "code": "MUSA",
+        "name": "Music Applied Study"
+      },
+      {
+        "code": "MUSC",
+        "name": "Music"
+      },
+      {
+        "code": "PHIL",
+        "name": "Philosophy"
+      },
+      {
+        "code": "RELS",
+        "name": "Religious Studies"
+      },
+      {
+        "code": "SOC",
+        "name": "Sociology"
+      },
+      {
+        "code": "THEA",
+        "name": "Theater"
+      }
+    ]
+  },
+  {
+    "name": "Asian Studies",
+    "depts": [
+      {
+        "code": "ASN",
+        "name": "Asian Studies"
+      }
+    ]
+  },
+  {
+    "name": "Sciences",
+    "depts": [
+      {
+        "code": "BICH",
+        "name": "Biochemistry"
+      },
+      {
+        "code": "BIO",
+        "name": "Biology"
+      },
+      {
+        "code": "CHEM",
+        "name": "Chemistry"
+      },
+      {
+        "code": "COGS",
+        "name": "Cognitive Science"
+      },
+      {
+        "code": "COMP",
+        "name": "Computer Science"
+      },
+      {
+        "code": "GEO",
+        "name": "Geology"
+      },
+      {
+        "code": "KINE",
+        "name": "Kinesiology"
+      },
+      {
+        "code": "MATH",
+        "name": "Mathematics"
+      },
+      {
+        "code": "PHYS",
+        "name": "Physics"
+      },
+      {
+        "code": "PSYC",
+        "name": "Psychology"
+      }
+    ]
+  },
+  {
+    "name": "Black Studies",
+    "depts": [
+      {
+        "code": "BLST",
+        "name": "Black Studies"
+      }
+    ]
+  },
+  {
+    "name": "Barack Obama Scholars Program",
+    "depts": [
+      {
+        "code": "BOSP",
+        "name": "Barack Obama Scholars Program"
+      }
+    ]
+  },
+  {
+    "name": "Core Program",
+    "depts": [
+      {
+        "code": "CORE",
+        "name": "Core Program"
+      }
+    ]
+  },
+  {
+    "name": "Social Affairs",
+    "depts": [
+      {
+        "code": "CTSJ",
+        "name": "Critical Theory and Social Justice"
+      },
+      {
+        "code": "PUBH",
+        "name": "Public Health"
+      },
+      {
+        "code": "UEP",
+        "name": "Urban & Environmental Policy"
+      }
+    ]
+  },
+  {
+    "name": "Politics and Public Relations",
+    "depts": [
+      {
+        "code": "DWA",
+        "name": "Diplomacy & World Affairs"
+      },
+      {
+        "code": "POLS",
+        "name": "Politics"
+      }
+    ]
+  },
+  {
+    "name": "Literature",
+    "depts": [
+      {
+        "code": "ENGL",
+        "name": "English"
+      },
+      {
+        "code": "WRD",
+        "name": "Writing & Rhetoric"
+      }
+    ]
+  },
+  {
+    "name": "First Year Seminars",
+    "depts": [
+      {
+        "code": "FYS",
+        "name": "First Year Seminars"
+      }
+    ]
+  },
+  {
+    "name": "Internships",
+    "depts": [
+      {
+        "code": "INT",
+        "name": "Internships"
+      }
+    ]
+  },
+  {
+    "name": "Physical Activities",
+    "depts": [
+      {
+        "code": "PHAC",
+        "name": "Physical Activities"
+      }
+    ]
+  }
+]

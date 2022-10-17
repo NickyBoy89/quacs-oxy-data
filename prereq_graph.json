@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Intro/Cell/Molecular Biology Laboratory",
+    "title": "Introduction to Cell and Molecular Biology Laboratory",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -84,11 +84,11 @@
   "BIO 268": {
     "title": "Biostatistics",
     "prereqs": [
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 322": {
@@ -165,42 +165,15 @@
       "CSP 43",
       "CSP 44",
       "CSP 45",
+      "CSP 46",
+      "CSP 47",
+      "CSP 48",
+      "CSP 49",
       "CSP 5",
       "CSP 6",
       "CSP 7",
       "CSP 8",
       "CSP 9",
-      "FYS 1",
-      "FYS 10",
-      "FYS 11",
-      "FYS 12",
-      "FYS 13",
-      "FYS 14",
-      "FYS 15",
-      "FYS 16",
-      "FYS 17",
-      "FYS 18",
-      "FYS 19",
-      "FYS 2",
-      "FYS 20",
-      "FYS 21",
-      "FYS 22",
-      "FYS 23",
-      "FYS 24",
-      "FYS 25",
-      "FYS 26",
-      "FYS 27",
-      "FYS 28",
-      "FYS 29",
-      "FYS 3",
-      "FYS 30",
-      "FYS 31",
-      "FYS 4",
-      "FYS 5",
-      "FYS 6",
-      "FYS 7",
-      "FYS 8",
-      "FYS 9",
       "OXCP"
     ]
   },
@@ -278,8 +251,8 @@
   "COGS 330": {
     "title": "Linguistics for Cognitive Science",
     "prereqs": [
-      "COGS  101",
-      "LING  301"
+      "COGS 101",
+      "LING 301"
     ]
   },
   "COGS 242": {
@@ -360,8 +333,7 @@
       "APCA",
       "COMP 127",
       "COMP 131",
-      "COMP 211",
-      "OXCS"
+      "COMP 211"
     ]
   },
   "COMP 379": {
@@ -501,7 +473,7 @@
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON  102"
+      "ECON 102"
     ]
   },
   "ECON 323": {
@@ -554,27 +526,11 @@
       "CSP 26",
       "CSP 27",
       "CSP 28",
-      "CSP 29",
       "CSP 3",
-      "CSP 30",
-      "CSP 31",
-      "CSP 32",
-      "CSP 33",
-      "CSP 34",
-      "CSP 35",
-      "CSP 36",
-      "CSP 37",
-      "CSP 38",
-      "CSP 39",
       "CSP 4",
-      "CSP 40",
-      "CSP 41",
-      "CSP 42",
-      "CSP 43",
-      "CSP 44",
-      "CSP 45",
       "CSP 5",
       "CSP 50",
+      "CSP 50S",
       "CSP 51",
       "CSP 52",
       "CSP 53",
@@ -608,43 +564,7 @@
       "CSP 79",
       "CSP 8",
       "CSP 80",
-      "CSP 81",
-      "CSP 82",
-      "CSP 83",
-      "CSP 84",
-      "CSP 85",
       "CSP 9",
-      "FYS 1",
-      "FYS 10",
-      "FYS 11",
-      "FYS 12",
-      "FYS 13",
-      "FYS 14",
-      "FYS 15",
-      "FYS 16",
-      "FYS 17",
-      "FYS 18",
-      "FYS 19",
-      "FYS 2",
-      "FYS 20",
-      "FYS 21",
-      "FYS 22",
-      "FYS 23",
-      "FYS 24",
-      "FYS 25",
-      "FYS 26",
-      "FYS 27",
-      "FYS 28",
-      "FYS 29",
-      "FYS 3",
-      "FYS 30",
-      "FYS 31",
-      "FYS 4",
-      "FYS 5",
-      "FYS 6",
-      "FYS 7",
-      "FYS 8",
-      "FYS 9",
       "WRD 201"
     ]
   },
@@ -702,42 +622,42 @@
   "ENGL 365": {
     "title": "Contemporary Literature",
     "prereqs": [
-      "ECLS  106",
-      "ECLS  186",
-      "ECLS  187",
-      "ECLS  188",
-      "ECLS  189",
-      "ECLS  205",
-      "ECLS  220",
-      "ECLS  241",
-      "ECLS  253",
-      "ECLS  255",
-      "ECLS  279",
-      "ECLS  286",
-      "ECLS  287",
-      "ECLS  288",
-      "ECLS  289",
-      "ECLS  290",
-      "ENGL  106",
-      "ENGL  140",
-      "ENGL  142",
-      "ENGL  155",
-      "ENGL  159",
-      "ENGL  165",
-      "ENGL  178",
-      "ENGL  189",
-      "ENGL  220",
-      "ENGL  241",
-      "ENGL  248",
-      "ENGL  267",
-      "ENGL  273",
-      "ENGL  274",
-      "ENGL  280",
-      "ENGL  281",
-      "ENGL  287",
-      "ENGL  288",
-      "ENGL  289",
-      "ENGL  290"
+      "ECLS 106",
+      "ECLS 186",
+      "ECLS 187",
+      "ECLS 188",
+      "ECLS 189",
+      "ECLS 205",
+      "ECLS 220",
+      "ECLS 241",
+      "ECLS 253",
+      "ECLS 255",
+      "ECLS 279",
+      "ECLS 286",
+      "ECLS 287",
+      "ECLS 288",
+      "ECLS 289",
+      "ECLS 290",
+      "ENGL 106",
+      "ENGL 140",
+      "ENGL 142",
+      "ENGL 155",
+      "ENGL 159",
+      "ENGL 165",
+      "ENGL 178",
+      "ENGL 189",
+      "ENGL 220",
+      "ENGL 241",
+      "ENGL 248",
+      "ENGL 267",
+      "ENGL 273",
+      "ENGL 274",
+      "ENGL 280",
+      "ENGL 281",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
     ]
   },
   "FREN 102": {
@@ -809,7 +729,7 @@
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium:Christianity and Politics in America since 1945",
+    "title": "History Colloquium: Writing the History of the Middle East",
     "prereqs": [
       "HIST 101",
       "HIST 102",
@@ -890,7 +810,7 @@
   "JAPN 460": {
     "title": "Translating Texts",
     "prereqs": [
-      "JAPN  302",
+      "JAPN 302",
       "OXJA"
     ]
   },
@@ -977,7 +897,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -994,7 +914,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1232,8 +1152,8 @@
   "POLS 301": {
     "title": "Urban Policy and Politics",
     "prereqs": [
-      "POLS  101",
-      "UEP  101"
+      "POLS 101",
+      "UEP 101"
     ]
   },
   "POLS 352": {
@@ -1384,7 +1304,9 @@
     "title": "Sociology of (Non)Violence",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 395": {
@@ -1416,7 +1338,9 @@
     "title": "Power and Sexuality",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 102": {
@@ -1493,15 +1417,15 @@
   "THEA 275": {
     "title": "Scenic Design",
     "prereqs": [
-      "THEA  120",
-      "THEA  175"
+      "THEA 120",
+      "THEA 175"
     ]
   },
   "UEP 301": {
     "title": "Urban Policy and Politics",
     "prereqs": [
-      "POLS  101",
-      "UEP  101"
+      "POLS 101",
+      "UEP 101"
     ]
   },
   "AMST 202": {
@@ -1630,7 +1554,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Performance, Embodiment and the Dematerialization of Contemporary Art",
+    "title": "Seminar in Art History",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -1769,7 +1693,8 @@
       "MATH 124",
       "MATH 128",
       "PHYS 120",
-      "PHYS 125"
+      "PHYS 125",
+      "PHYS 230"
     ]
   },
   "CHEM 315": {
@@ -1777,7 +1702,8 @@
     "prereqs": [
       "APPE",
       "MATH 120",
-      "PHYS 120"
+      "PHYS 120",
+      "PHYS 230"
     ]
   },
   "CHEM 380": {
@@ -1872,6 +1798,7 @@
   "COMP 390": {
     "title": "Computer Science Junior Seminar",
     "prereqs": [
+      "COMP 101",
       "COMP 229",
       "COMP 311",
       "COMP 313",
@@ -1895,11 +1822,12 @@
       "COMP 389",
       "COMP 395",
       "COMP 397",
-      "MATH 352"
+      "COMP 398",
+      "COMP 467"
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in CTSJ - Humming in the in Between: Black Southern Organizing and Sound",
+    "title": "Special Topics in Critical Theory and Social Justice",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -1975,22 +1903,6 @@
   "ENGL 332": {
     "title": "Eighteenth Century Literature: 1730-1800",
     "prereqs": [
-      "ECLS 109",
-      "ECLS 186",
-      "ECLS 187",
-      "ECLS 188",
-      "ECLS 189",
-      "ECLS 205",
-      "ECLS 220",
-      "ECLS 241",
-      "ECLS 253",
-      "ECLS 255",
-      "ECLS 279",
-      "ECLS 286",
-      "ECLS 287",
-      "ECLS 288",
-      "ECLS 289",
-      "ECLS 290",
       "ENGL 106",
       "ENGL 189",
       "ENGL 220",
@@ -1998,8 +1910,7 @@
       "ENGL 280",
       "ENGL 287",
       "ENGL 288",
-      "ENGL 289",
-      "ENGL 290"
+      "ENGL 289"
     ]
   },
   "ENGL 290": {
@@ -2469,10 +2380,9 @@
     ]
   },
   "MATH 395": {
-    "title": "Special Topics in Advanced Mathematics: Advanced Differential Equations",
+    "title": "Special Topics in Advanced Mathematics: Real Analysis II (Metric spaces & Lebesgue?s measure theory)",
     "prereqs": [
-      "MATH 340",
-      "MATH 342"
+      "MATH 310"
     ]
   },
   "MATH 150": {
@@ -2680,6 +2590,7 @@
   "SOC 361": {
     "title": "Sociology of Whiteness",
     "prereqs": [
+      "OXSO",
       "SOC 101",
       "SOC 102",
       "SOC 105"
@@ -2837,7 +2748,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar in Art History: Collecting Value: Photography Archives of Los Angeles",
+    "title": "Curatorial Seminar in Art History",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -3495,6 +3406,729 @@
     "title": "Climate Justice: Theory and Practice",
     "prereqs": [
       "UEP 101"
+    ]
+  },
+  "AMST 390": {
+    "title": "Theories and Methods of American Studies",
+    "prereqs": [
+      "AMST 101"
+    ]
+  },
+  "ARAB 201": {
+    "title": "Intermediate Arabic I",
+    "prereqs": [
+      "ARAB 102",
+      "OXAR"
+    ]
+  },
+  "ARTH 365": {
+    "title": "Gender and Art in Japan",
+    "prereqs": [
+      "ARTH 150",
+      "ARTH 160",
+      "ARTH 170",
+      "ARTH 180",
+      "ARTH 190",
+      "ARTH 250",
+      "ARTH 254",
+      "ARTH 256",
+      "ARTH 257",
+      "ARTH 259",
+      "ARTH 261",
+      "ARTH 266",
+      "ARTH 272",
+      "ARTH 275",
+      "ARTH 278",
+      "ARTH 280",
+      "ARTH 282",
+      "ARTH 283",
+      "ARTH 285",
+      "ARTH 287",
+      "ARTH 288",
+      "ARTH 291",
+      "ARTH 295",
+      "ARTH 362",
+      "ARTH 364",
+      "ARTH 368",
+      "ARTH 372",
+      "ARTH 373",
+      "ARTH 374",
+      "ARTH 376",
+      "ARTH 378",
+      "ARTH 387",
+      "ARTH 389",
+      "ARTH 390",
+      "ARTH 392",
+      "ARTH 395",
+      "ARTH 490",
+      "JAPN 101",
+      "JAPN 102",
+      "JAPN 201",
+      "JAPN 202",
+      "JAPN 271",
+      "JAPN 273",
+      "JAPN 301",
+      "JAPN 302",
+      "JAPN 340",
+      "JAPN 350",
+      "JAPN 460"
+    ]
+  },
+  "ARTH 330": {
+    "title": "The Global Baroque: Visionary Arts in the Age of Empire (1600-1750)",
+    "prereqs": [
+      "ARTH 150",
+      "ARTH 160",
+      "ARTH 170",
+      "ARTH 180",
+      "ARTH 197",
+      "ARTH 200",
+      "ARTH 256",
+      "ARTH 259",
+      "ARTH 266",
+      "ARTH 268",
+      "ARTH 272",
+      "ARTH 273",
+      "ARTH 275",
+      "ARTH 278",
+      "ARTH 283",
+      "ARTH 285",
+      "ARTH 287",
+      "ARTH 288",
+      "ARTH 289",
+      "ARTH 295",
+      "ARTH 297",
+      "ARTH 298"
+    ]
+  },
+  "ARTS 203": {
+    "title": "Intermediate Sculpture",
+    "prereqs": [
+      "ARTS 103"
+    ]
+  },
+  "ARTS 287": {
+    "title": "Social Documentary Photography: A New Civil Contract",
+    "prereqs": [
+      "ARTS 107"
+    ]
+  },
+  "BIO 226": {
+    "title": "Cell Biology",
+    "prereqs": [
+      "BIO 130"
+    ]
+  },
+  "BIO 275": {
+    "title": "Flora of Southern California",
+    "prereqs": [
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
+  "BIO 325": {
+    "title": "Microbial Diversity",
+    "prereqs": [
+      "BIO 221",
+      "BIO 222",
+      "BIO 224",
+      "BIO 226",
+      "BIO 270"
+    ]
+  },
+  "BIO 356": {
+    "title": "The Biology of Marine Fishes",
+    "prereqs": [
+      "BIO 240",
+      "BIO 250",
+      "BIO 260",
+      "BIO 268",
+      "BIO 270",
+      "BIO 275",
+      "BIO 280"
+    ]
+  },
+  "BIO 320": {
+    "title": "Developmental Biology",
+    "prereqs": [
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "BIO 360": {
+    "title": "Avian Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
+  "CHEM 201": {
+    "title": "Biochemical and Environmental Analysis",
+    "prereqs": [
+      "CHEM 240"
+    ]
+  },
+  "CHEM 360": {
+    "title": "Physical Organic Chemistry",
+    "prereqs": [
+      "CHEM 221",
+      "CHEM 240"
+    ]
+  },
+  "CHEM 305L": {
+    "title": "Spectroscopy and Structure Laboratory",
+    "prereqs": [
+      "CHEM 305"
+    ]
+  },
+  "CHIN 330": {
+    "title": "Topics in Fiction and Film",
+    "prereqs": [
+      "CHIN 301",
+      "CHIN 310",
+      "CHIN 320",
+      "CHIN 350",
+      "CHIN 460",
+      "OXCH"
+    ]
+  },
+  "COGS 243": {
+    "title": "Computational Neuroscience: Minds, Math and Machines",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COMP 317": {
+    "title": "Algorithms Analysis",
+    "prereqs": [
+      "COMP 149",
+      "COMP 229",
+      "MATH 210"
+    ]
+  },
+  "COMP 389": {
+    "title": "Cryptography",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "CTSJ 342": {
+    "title": "Fatness",
+    "prereqs": [
+      "CTSJ 247",
+      "CTSJ 248",
+      "CTSJ 255",
+      "CTSJ 259",
+      "CTSJ 270",
+      "CTSJ 273",
+      "CTSJ 279",
+      "CTSJ 280",
+      "CTSJ 286",
+      "CTSJ 289"
+    ]
+  },
+  "DWA 340": {
+    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 342": {
+    "title": "Junior Seminar: Transnational Identity and International Relations",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "ECON 305": {
+    "title": "Game Theory",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "ECON 328": {
+    "title": "Economics of Race and Gender",
+    "prereqs": [
+      "APEA",
+      "APEI",
+      "ECON 102"
+    ]
+  },
+  "ECON 312": {
+    "title": "Political Economy of Sustainable Development: Case of Germany",
+    "prereqs": [
+      "ECON 102"
+    ]
+  },
+  "FREN 301": {
+    "title": "Arab Francophone Works",
+    "prereqs": [
+      "FREN 202"
+    ]
+  },
+  "GEO 315": {
+    "title": "Sedimentary Geology",
+    "prereqs": [
+      "GEO 105",
+      "GEO 106",
+      "GEO 225"
+    ]
+  },
+  "GRK 201": {
+    "title": "Topics in Classical Philology (Greek)",
+    "prereqs": [
+      "GRK 102"
+    ]
+  },
+  "HIST 315": {
+    "title": "The \"Canon Wars\": Debating the Aims of U.S. Higher Education",
+    "prereqs": [
+      "HIST 101",
+      "HIST 102",
+      "HIST 121",
+      "HIST 122",
+      "HIST 125",
+      "HIST 141",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 183",
+      "HIST 190",
+      "HIST 191",
+      "HIST 192",
+      "HIST 197",
+      "HIST 200",
+      "HIST 205",
+      "HIST 206",
+      "HIST 207",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 211",
+      "HIST 212",
+      "HIST 213",
+      "HIST 217",
+      "HIST 218",
+      "HIST 219",
+      "HIST 220",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 233",
+      "HIST 234",
+      "HIST 235",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 251",
+      "HIST 252",
+      "HIST 254",
+      "HIST 256",
+      "HIST 258",
+      "HIST 259",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 297",
+      "HIST 300",
+      "HIST 304",
+      "HIST 309",
+      "HIST 311",
+      "HIST 312",
+      "HIST 316",
+      "HIST 328",
+      "HIST 330",
+      "HIST 336",
+      "HIST 338",
+      "HIST 344",
+      "HIST 345",
+      "HIST 346",
+      "HIST 348",
+      "HIST 355",
+      "HIST 357",
+      "HIST 358",
+      "HIST 376",
+      "HIST 385",
+      "HIST 390",
+      "HIST 395",
+      "HIST 397"
+    ]
+  },
+  "HIST 395": {
+    "title": "Special Topics in History: The Democrats, Jefferson to Biden",
+    "prereqs": [
+      "HIST 101",
+      "HIST 102",
+      "HIST 116",
+      "HIST 121",
+      "HIST 122",
+      "HIST 141",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 183",
+      "HIST 200",
+      "HIST 205",
+      "HIST 206",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 212",
+      "HIST 213",
+      "HIST 216",
+      "HIST 220",
+      "HIST 223",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 234",
+      "HIST 235",
+      "HIST 236",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 251",
+      "HIST 252",
+      "HIST 253",
+      "HIST 258",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 300",
+      "HIST 304",
+      "HIST 306",
+      "HIST 307",
+      "HIST 309",
+      "HIST 312",
+      "HIST 328",
+      "HIST 330",
+      "HIST 335",
+      "HIST 336",
+      "HIST 337",
+      "HIST 344",
+      "HIST 345",
+      "HIST 353",
+      "HIST 354",
+      "HIST 355",
+      "HIST 357",
+      "HIST 359",
+      "HIST 376",
+      "HIST 385",
+      "HIST 390",
+      "HIST 490",
+      "HIST 495"
+    ]
+  },
+  "MATH 109": {
+    "title": "Unified Precalculus and Calculus 1-B",
+    "prereqs": [
+      "MATH 108"
+    ]
+  },
+  "MATH 320": {
+    "title": "Algebra",
+    "prereqs": [
+      "MATH 210"
+    ]
+  },
+  "MATH 382": {
+    "title": "Graph Theory",
+    "prereqs": [
+      "MATH 210"
+    ]
+  },
+  "MATH 372": {
+    "title": "Operations Research",
+    "prereqs": [
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "MAC 320": {
+    "title": "Advanced Narrative Practices",
+    "prereqs": [
+      "MAC 220"
+    ]
+  },
+  "MAC 492": {
+    "title": "Advanced Editing",
+    "prereqs": [
+      "MAC 491"
+    ]
+  },
+  "MAC 355": {
+    "title": "Advanced Media Practices",
+    "prereqs": [
+      "MAC 240"
+    ]
+  },
+  "MUSC 148": {
+    "title": "Introduction to Digital Audio Workstation (DAW)",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 232": {
+    "title": "Piano Proficiency II",
+    "prereqs": [
+      "MUSC 231"
+    ]
+  },
+  "MUSC 263": {
+    "title": "Western Music and Culture: 1830 to the Present",
+    "prereqs": [
+      "MUSC 101",
+      "OXMT"
+    ]
+  },
+  "MUSC 348": {
+    "title": "Mixing and Mastering",
+    "prereqs": [
+      "MUSC 247"
+    ]
+  },
+  "MUSC 351": {
+    "title": "Theory and Practice of Music IV",
+    "prereqs": [
+      "MUSC 251"
+    ]
+  },
+  "MUSC 358": {
+    "title": "Dramatic Scoring Intensive",
+    "prereqs": [
+      "MUSC 258"
+    ]
+  },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 273": {
+    "title": "Choral Conducting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "PHIL 350": {
+    "title": "Metalogic",
+    "prereqs": [
+      "MATH 210",
+      "PHIL 150"
+    ]
+  },
+  "PHYS 316": {
+    "title": "Advanced Laboratory II",
+    "prereqs": [
+      "PHYS 240"
+    ]
+  },
+  "PHYS 330": {
+    "title": "Advanced Electromagnetism",
+    "prereqs": [
+      "PHYS 310"
+    ]
+  },
+  "POLS 302": {
+    "title": "The American Presidency",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "PSYC 351": {
+    "title": "Psycholinguistics",
+    "prereqs": [
+      "COGS 101",
+      "LING 301",
+      "PSYC 101"
+    ]
+  },
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
+    "prereqs": [
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
+  "PSYC 490": {
+    "title": "Contemporary Topics Seminar",
+    "prereqs": [
+      "PSYC 200",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
+  "RUSN 202": {
+    "title": "Intermediate Russian II",
+    "prereqs": [
+      "OXRU",
+      "RUSN 201"
+    ]
+  },
+  "RUSN 336": {
+    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+    "prereqs": [
+      "OXRU"
+    ]
+  },
+  "SOC 270": {
+    "title": "Urban Sociology",
+    "prereqs": [
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 326": {
+    "title": "Punishment",
+    "prereqs": [
+      "SOC 101"
+    ]
+  },
+  "SOC 350": {
+    "title": "Social Movement and Revolutions",
+    "prereqs": [
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
+    "prereqs": [
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 303": {
+    "title": "Introduction to Modern Latin American Literature and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 362": {
+    "title": "Modern Spanish Theater and Cinema",
+    "prereqs": [
+      "SPAN 301",
+      "SPAN 302",
+      "SPAN 303",
+      "SPAN 304",
+      "SPAN 309",
+      "SPAN 312",
+      "SPAN 313",
+      "SPAN 314",
+      "SPAN 316",
+      "SPAN 320",
+      "SPAN 325",
+      "SPAN 340",
+      "SPAN 341",
+      "SPAN 342",
+      "SPAN 343",
+      "SPAN 351",
+      "SPAN 353",
+      "SPAN 363",
+      "SPAN 370",
+      "SPAN 376",
+      "SPAN 377",
+      "SPAN 378",
+      "SPAN 379",
+      "SPAN 382",
+      "SPAN 383",
+      "SPAN 398"
+    ]
+  },
+  "THEA 237": {
+    "title": "Intermediate Choreography",
+    "prereqs": [
+      "THEA 137"
+    ]
+  },
+  "THEA 330": {
+    "title": "Producing the Live Event",
+    "prereqs": [
+      "THEA 120"
+    ]
+  },
+  "THEA 260": {
+    "title": "Children's Theater, 3rd Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 310": {
+    "title": "Acting 2: Scene Study",
+    "prereqs": [
+      "THEA 210"
+    ]
+  },
+  "UEP 300": {
+    "title": "Environmental Law and Policy",
+    "prereqs": [
+      "UEP 101"
+    ]
+  },
+  "UEP 302": {
+    "title": "Housing Problems and Policy",
+    "prereqs": [
+      "ECON 101",
+      "OXSO",
+      "POLS 101",
+      "POLS 106",
+      "SOC 101",
+      "UEP 101",
+      "UEP 106"
     ]
   }
 }

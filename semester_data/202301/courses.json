@@ -558,7 +558,7 @@
                 "instructor": "Dhyandra Lawson",
                 "location": "",
                 "timeStart": 1330,
-                "timeEnd": 1630,
+                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -781,7 +781,7 @@
     "code": "ARTS",
     "courses": [
       {
-        "title": "OxyArts Collaborate Workshop",
+        "title": "Art Education Practicum: Community Studio at OXY ARTS",
         "subj": "ARTS",
         "crse": "100",
         "id": "ARTS-100",
@@ -793,7 +793,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "OxyArts Collaborate Workshop",
+            "title": "Art Education Practicum: Community Studio at OXY ARTS",
             "cap": 12,
             "act": 0,
             "rem": 12,
@@ -11779,7 +11779,7 @@
             "timeslots": [
               {
                 "days": [
-                  "M"
+                  "W"
                 ],
                 "instructor": "James L. Sadd",
                 "location": "",

@@ -11718,19 +11718,6 @@
       }
     }
   },
-  "2540": {
-    "prerequisites": {
-      "course": "MUSC 151",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2542": {
     "prerequisites": {
       "course": "MUSC 247",
@@ -18558,6 +18545,35 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2953": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2954": {
+    "prerequisites": {
+      "course": "MUSC 251",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

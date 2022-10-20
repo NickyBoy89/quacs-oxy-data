@@ -3958,6 +3958,13 @@
       "PHYS 240"
     ]
   },
+  "POLS 245": {
+    "title": "Constitutional Law: Civil Rights and Civil Liberties",
+    "prereqs": [
+      "POLS 101",
+      "POLS 140"
+    ]
+  },
   "POLS 302": {
     "title": "The American Presidency",
     "prereqs": [

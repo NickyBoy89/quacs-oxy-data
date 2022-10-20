@@ -19703,6 +19703,68 @@
         ]
       },
       {
+        "title": "Tigers Live Fitness",
+        "subj": "PHAC",
+        "crse": "130",
+        "id": "PHAC-130",
+        "sections": [
+          {
+            "crn": 2956,
+            "subj": "PHAC",
+            "crse": "130",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Tigers Live Fitness",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1000,
+                "timeEnd": 1055,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2955,
+            "subj": "PHAC",
+            "crse": "130",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Tigers Live Fitness",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1000,
+                "timeEnd": 1055,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Beginning Yoga",
         "subj": "PHAC",
         "crse": "134",
@@ -19780,36 +19842,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Maja Zimmermann",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2915,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "08",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Beginning Yoga",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19887,36 +19923,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Maja Zimmermann",
                 "location": "",
                 "timeStart": 800,
                 "timeEnd": 855,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2914,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "07",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Beginning Yoga",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21711,19 +21721,55 @@
         ]
       },
       {
-        "title": "Law and Society",
+        "title": "Race and American Politics",
         "subj": "POLS",
-        "crse": "140",
-        "id": "POLS-140",
+        "crse": "206",
+        "id": "POLS-206",
         "sections": [
           {
-            "crn": 2118,
+            "crn": 2120,
             "subj": "POLS",
-            "crse": "140",
+            "crse": "206",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Law and Society",
+            "title": "Race and American Politics",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Regina Freer",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Constitutional Law: Civil Rights and Civil Liberties",
+        "subj": "POLS",
+        "crse": "245",
+        "id": "POLS-245",
+        "sections": [
+          {
+            "crn": 2957,
+            "subj": "POLS",
+            "crse": "245",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Constitutional Law: Civil Rights and Civil Liberties",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -21738,41 +21784,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "East Asian Politics: China, Japan, Korea, and Taiwan",
-        "subj": "POLS",
-        "crse": "227",
-        "id": "POLS-227",
-        "sections": [
-          {
-            "crn": 2121,
-            "subj": "POLS",
-            "crse": "227",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "East Asian Politics: China, Japan, Korea, and Taiwan",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Tsung Chi",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21951,19 +21962,19 @@
         ]
       },
       {
-        "title": "Race and American Politics",
+        "title": "East Asian Politics: China, Japan, Korea, and Taiwan",
         "subj": "POLS",
-        "crse": "206",
-        "id": "POLS-206",
+        "crse": "227",
+        "id": "POLS-227",
         "sections": [
           {
-            "crn": 2120,
+            "crn": 2121,
             "subj": "POLS",
-            "crse": "206",
+            "crse": "227",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Race and American Politics",
+            "title": "East Asian Politics: China, Japan, Korea, and Taiwan",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -21971,14 +21982,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Regina Freer",
+                "instructor": "Tsung Chi",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22116,8 +22126,8 @@
                 ],
                 "instructor": "Jennifer M. Piscopo",
                 "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22146,12 +22156,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T"
+                  "T",
+                  "R"
                 ],
                 "instructor": "Tsung Chi",
                 "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
+                "timeStart": 1700,
+                "timeEnd": 1825,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25330,13 +25341,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
+                "timeStart": 1740,
+                "timeEnd": 1900,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

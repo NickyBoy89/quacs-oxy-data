@@ -3961,22 +3961,6 @@
       }
     }
   },
-  "2118": {
-    "reserved": [
-      {
-        "max": 10,
-        "open": 10,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2120": {
     "restrictions": {
       "classification": {
@@ -18198,24 +18182,6 @@
       }
     }
   },
-  "2914": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2915": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2916": {
     "restrictions": {
       "classification": {
@@ -18574,6 +18540,53 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2955": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2956": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2957": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "POLS 101",
+          "type": "course"
+        },
+        {
+          "course": "POLS 140",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 10,
+        "open": 10,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

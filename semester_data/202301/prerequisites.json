@@ -11787,22 +11787,6 @@
       }
     }
   },
-  "2547": {
-    "reserved": [
-      {
-        "max": 14,
-        "open": 14,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2548": {
     "corequisites": {
       "cross_list_courses": [
@@ -11904,21 +11888,6 @@
     }
   },
   "2554": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146",
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2555": {
     "corequisites": {
       "cross_list_courses": [
         "COMP-146",
@@ -12808,47 +12777,6 @@
       {
         "max": 20,
         "open": 20,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2567": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 14,
-        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -14660,35 +14588,7 @@
       }
     }
   },
-  "2723": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2724": {
-    "corequisites": {
-      "cross_list_courses": [
-        "COMP-146"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2725": {
     "corequisites": {
       "cross_list_courses": [
         "COMP-146"
@@ -18583,6 +18483,20 @@
         "reservedFor": "Frosh"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2958": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MUSC-242"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

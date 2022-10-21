@@ -3607,20 +3607,20 @@
       "COGS 101"
     ]
   },
-  "COMP 389": {
-    "title": "Cryptography",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
   "COMP 317": {
     "title": "Algorithms Analysis",
     "prereqs": [
       "COMP 149",
       "COMP 229",
       "MATH 210"
+    ]
+  },
+  "COMP 389": {
+    "title": "Cryptography",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210",
+      "MATH 214"
     ]
   },
   "CTSJ 342": {

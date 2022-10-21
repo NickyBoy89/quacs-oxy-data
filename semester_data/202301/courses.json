@@ -6402,91 +6402,11 @@
     "code": "COMP",
     "courses": [
       {
-        "title": "Fundamentals of Computer Science",
+        "title": "Fundamentals of Computer Science Laboratory",
         "subj": "COMP",
         "crse": "131",
         "id": "COMP-131",
         "sections": [
-          {
-            "crn": 2548,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Fundamentals of Computer Science",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Benyamin Ahmadnia",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2550,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "1-2",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Fundamentals of Computer Science Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Benyamin Ahmadnia",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2552,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Fundamentals of Computer Science Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Sheldon Elias Schiffer",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2549,
             "subj": "COMP",
@@ -6566,15 +6486,121 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2548,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Fundamentals of Computer Science",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Benyamin Ahmadnia",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2550,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "1-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Fundamentals of Computer Science Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Benyamin Ahmadnia",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2552,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Fundamentals of Computer Science Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Sheldon Elias Schiffer",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Statistics",
+        "title": "Statistics Laboratory",
         "subj": "COMP",
         "crse": "146",
         "id": "COMP-146",
         "sections": [
+          {
+            "crn": 2722,
+            "subj": "COMP",
+            "crse": "146",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Statistics Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Alan P. Knoerr",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2554,
             "subj": "COMP",
@@ -6621,112 +6647,6 @@
                   "T"
                 ],
                 "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2723,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "2-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Statistics Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2722,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Statistics Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2555,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Statistics",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2725,
-            "subj": "COMP",
-            "crse": "146",
-            "sec": "2-2",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Statistics Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
@@ -6897,6 +6817,175 @@
         ]
       },
       {
+        "title": "Music and Artificial Intelligence",
+        "subj": "COMP",
+        "crse": "242",
+        "id": "COMP-242",
+        "sections": [
+          {
+            "crn": 2958,
+            "subj": "COMP",
+            "crse": "242",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music and Artificial Intelligence",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Fabio Paolizzo",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Algorithms Analysis",
+        "subj": "COMP",
+        "crse": "317",
+        "id": "COMP-317",
+        "sections": [
+          {
+            "crn": 2562,
+            "subj": "COMP",
+            "crse": "317",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Algorithms Analysis",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Hsing-Hau Chen",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Computer Science Junior Seminar",
+        "subj": "COMP",
+        "crse": "390",
+        "id": "COMP-390",
+        "sections": [
+          {
+            "crn": 2565,
+            "subj": "COMP",
+            "crse": "390",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computer Science Junior Seminar",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Celia Chen",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2566,
+            "subj": "COMP",
+            "crse": "390",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computer Science Junior Seminar",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Celia Chen",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Computer Organization",
+        "subj": "COMP",
+        "crse": "239",
+        "id": "COMP-239",
+        "sections": [
+          {
+            "crn": 2560,
+            "subj": "COMP",
+            "crse": "239",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computer Organization",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Bernie Boscoe",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Game Design",
         "subj": "COMP",
         "crse": "277",
@@ -6960,211 +7049,6 @@
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Computer Science Junior Seminar",
-        "subj": "COMP",
-        "crse": "390",
-        "id": "COMP-390",
-        "sections": [
-          {
-            "crn": 2566,
-            "subj": "COMP",
-            "crse": "390",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computer Science Junior Seminar",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Celia Chen",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2565,
-            "subj": "COMP",
-            "crse": "390",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computer Science Junior Seminar",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Celia Chen",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Justice and Equity in Technology",
-        "subj": "COMP",
-        "crse": "101",
-        "id": "COMP-101",
-        "sections": [
-          {
-            "crn": 2547,
-            "subj": "COMP",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Justice and Equity in Technology",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Computer Organization",
-        "subj": "COMP",
-        "crse": "239",
-        "id": "COMP-239",
-        "sections": [
-          {
-            "crn": 2560,
-            "subj": "COMP",
-            "crse": "239",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computer Organization",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Bernie Boscoe",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Algorithms Analysis",
-        "subj": "COMP",
-        "crse": "317",
-        "id": "COMP-317",
-        "sections": [
-          {
-            "crn": 2562,
-            "subj": "COMP",
-            "crse": "317",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Algorithms Analysis",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Hsing-Hau Chen",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in Computer Science",
-        "subj": "COMP",
-        "crse": "395",
-        "id": "COMP-395",
-        "sections": [
-          {
-            "crn": 2567,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -7487,7 +7371,7 @@
             "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Special Topics in Critical Theory and Social Justice",
+            "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
             "cap": 20,
             "act": 0,
             "rem": 20,

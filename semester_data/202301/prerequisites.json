@@ -682,37 +682,6 @@
       }
     }
   },
-  "2044": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "APEI",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "ECON 101",
-              "type": "course"
-            },
-            {
-              "course": "APEA",
-              "type": "course"
-            }
-          ],
-          "type": "or"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2045": {
     "prerequisites": {
       "nested": [
@@ -6791,15 +6760,6 @@
       }
     }
   },
-  "2256": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2258": {
     "restrictions": {
       "classification": {
@@ -12845,15 +12805,6 @@
       }
     }
   },
-  "2573": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2574": {
     "restrictions": {
       "classification": {
@@ -15504,6 +15455,13 @@
     }
   },
   "2756": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16824,19 +16782,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2833": {
-    "prerequisites": {
-      "course": "ECON 272",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -18501,6 +18446,65 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2959": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2960": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ECON 250",
+          "type": "course"
+        },
+        {
+          "course": "ECON 251",
+          "type": "course"
+        },
+        {
+          "course": "ECON 272",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior"
+        ]
+      }
+    }
+  },
+  "2961": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

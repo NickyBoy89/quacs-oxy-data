@@ -5865,44 +5865,6 @@
       }
     }
   },
-  "2219": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 340",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "PSYC 200",
-              "type": "course"
-            },
-            {
-              "course": "PSYC 321",
-              "type": "course"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2221": {
     "restrictions": {
       "classification": {
@@ -8787,15 +8749,6 @@
     }
   },
   "2342": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2346": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -18515,6 +18468,35 @@
         "max": 16,
         "open": 16,
         "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2963": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2964": {
+    "prerequisites": {
+      "course": "ARTS 107",
+      "type": "course"
+    },
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
       }
     ],
     "restrictions": {

@@ -3345,12 +3345,12 @@
             "timeslots": [
               {
                 "days": [
-                  "W"
+                  "M"
                 ],
                 "instructor": "Gretchen B. North",
                 "location": "",
-                "timeStart": 1215,
-                "timeEnd": 1315,
+                "timeStart": 1630,
+                "timeEnd": 1800,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25229,8 +25229,8 @@
                 ],
                 "instructor": "Shivani Thakkar",
                 "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1900,
+                "timeStart": 1730,
+                "timeEnd": 1845,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

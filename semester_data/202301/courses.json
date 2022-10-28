@@ -533,7 +533,7 @@
         ]
       },
       {
-        "title": "Curatorial Sem: Collect Value",
+        "title": "Curatorial Seminar in Art History. Collecting Value: Photography Archives of Los Angeles",
         "subj": "ARTH",
         "crse": "391",
         "id": "ARTH-391",
@@ -545,7 +545,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Curatorial Sem: Collect Value",
+            "title": "Curatorial Seminar in Art History. Collecting Value: Photography Archives of Los Angeles",
             "cap": 16,
             "act": 0,
             "rem": 16,
@@ -851,19 +851,19 @@
         ]
       },
       {
-        "title": "Intermediate Sculpture",
+        "title": "Digital Photography",
         "subj": "ARTS",
-        "crse": "203",
-        "id": "ARTS-203",
+        "crse": "107",
+        "id": "ARTS-107",
         "sections": [
           {
-            "crn": 2246,
+            "crn": 2817,
             "subj": "ARTS",
-            "crse": "203",
+            "crse": "107",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Intermediate Sculpture",
+            "title": "Digital Photography",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -871,10 +871,10 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Camilla Taylor",
+                "instructor": "David K. Weldzius",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 1125,
@@ -886,19 +886,19 @@
         ]
       },
       {
-        "title": "Silkscreen Printmaking",
+        "title": "Intermediate Painting",
         "subj": "ARTS",
-        "crse": "215",
-        "id": "ARTS-215",
+        "crse": "210",
+        "id": "ARTS-210",
         "sections": [
           {
-            "crn": 2248,
+            "crn": 2247,
             "subj": "ARTS",
-            "crse": "215",
+            "crse": "210",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Silkscreen Printmaking",
+            "title": "Intermediate Painting",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -909,7 +909,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Camilla Taylor",
+                "instructor": "Susanna Maing",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1555,
@@ -1060,54 +1060,19 @@
         ]
       },
       {
-        "title": "Digital Photography",
+        "title": "Printmaking Fundamentals: Relief and Intaglio",
         "subj": "ARTS",
-        "crse": "107",
-        "id": "ARTS-107",
+        "crse": "105",
+        "id": "ARTS-105",
         "sections": [
           {
-            "crn": 2817,
+            "crn": 2965,
             "subj": "ARTS",
-            "crse": "107",
+            "crse": "105",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Digital Photography",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "David K. Weldzius",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intermediate Painting",
-        "subj": "ARTS",
-        "crse": "210",
-        "id": "ARTS-210",
-        "sections": [
-          {
-            "crn": 2247,
-            "subj": "ARTS",
-            "crse": "210",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Painting",
+            "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -1118,10 +1083,45 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Susanna Maing",
+                "instructor": "Camilla Taylor",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intermediate Sculpture",
+        "subj": "ARTS",
+        "crse": "203",
+        "id": "ARTS-203",
+        "sections": [
+          {
+            "crn": 2246,
+            "subj": "ARTS",
+            "crse": "203",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Sculpture",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Camilla Taylor",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -1447,7 +1447,7 @@
                 "instructor": "Jonathan P. Williams",
                 "location": "",
                 "timeStart": 1740,
-                "timeEnd": 1910,
+                "timeEnd": 1905,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -9062,14 +9062,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
+                "days": [],
+                "instructor": "Benjamin Qing Wang",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25540,12 +25535,12 @@
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "W"
                 ],
                 "instructor": "Alicia Ortencia Carranza",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 1915,
+                "timeEnd": 2210,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

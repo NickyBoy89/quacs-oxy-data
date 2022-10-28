@@ -726,13 +726,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T"
-                ],
+                "days": [],
                 "instructor": "Yurika Wakamatsu",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -1446,8 +1442,8 @@
                 ],
                 "instructor": "Jonathan P. Williams",
                 "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
+                "timeStart": 1800,
+                "timeEnd": 1925,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -2118,7 +2114,7 @@
                 "days": [
                   "M"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Jonathan P. Williams",
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1755,

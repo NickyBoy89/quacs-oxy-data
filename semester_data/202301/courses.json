@@ -24943,9 +24943,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "F"
+                ],
                 "instructor": "Aed McMillian",
                 "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

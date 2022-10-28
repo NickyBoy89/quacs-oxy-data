@@ -4059,6 +4059,13 @@
     }
   },
   "2137": {
+    "reserved": [
+      {
+        "max": 20,
+        "open": 20,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4071,6 +4078,13 @@
     }
   },
   "2138": {
+    "reserved": [
+      {
+        "max": 20,
+        "open": 20,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4104,6 +4118,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 18,
+        "open": 18,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4134,6 +4155,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 13,
+        "open": 13,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4164,6 +4192,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 13,
+        "open": 13,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4194,6 +4229,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4228,6 +4270,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -4258,6 +4307,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -5541,8 +5597,8 @@
     },
     "reserved": [
       {
-        "max": 7,
-        "open": 7,
+        "max": 3,
+        "open": 3,
         "reservedFor": "Major"
       },
       {
@@ -15384,8 +15440,8 @@
   "2756": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 8,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -15549,6 +15605,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15579,6 +15642,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15613,6 +15683,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16235,6 +16312,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": 13,
+        "open": 13,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16248,6 +16332,13 @@
       "course": "SOC 101",
       "type": "course"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16261,6 +16352,13 @@
       "course": "SOC 101",
       "type": "course"
     },
+    "reserved": [
+      {
+        "max": 11,
+        "open": 11,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

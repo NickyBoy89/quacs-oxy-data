@@ -5597,8 +5597,8 @@
     },
     "reserved": [
       {
-        "max": 3,
-        "open": 3,
+        "max": 7,
+        "open": 7,
         "reservedFor": "Major"
       },
       {
@@ -5797,6 +5797,11 @@
       {
         "max": 7,
         "open": 7,
+        "reservedFor": "Major"
+      },
+      {
+        "max": 5,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -6711,22 +6716,6 @@
       "classification": {
         "may_not_be": [
           "Frosh"
-        ]
-      }
-    }
-  },
-  "2254": {
-    "reserved": [
-      {
-        "max": 5,
-        "open": 5,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
         ]
       }
     }
@@ -18590,6 +18579,28 @@
         "reservedFor": "Major"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2966": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2967": {
+    "prerequisites": {
+      "course": "LATN 201",
+      "type": "course"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

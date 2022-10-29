@@ -7759,7 +7759,8 @@
   "2295": {
     "corequisites": {
       "cross_list_courses": [
-        "BIO-268L"
+        "BIO-268",
+        "BIO-268"
       ]
     },
     "prerequisites": {
@@ -7803,7 +7804,8 @@
   "2296": {
     "corequisites": {
       "cross_list_courses": [
-        "BIO-268L"
+        "BIO-268",
+        "BIO-268"
       ]
     },
     "prerequisites": {
@@ -7858,20 +7860,6 @@
       }
     }
   },
-  "2298": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-268"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2299": {
     "corequisites": {
       "cross_list_courses": [
@@ -7903,20 +7891,6 @@
       }
     }
   },
-  "2300": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-268"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2301": {
     "corequisites": {
       "cross_list_courses": [
@@ -7939,34 +7913,6 @@
         }
       ],
       "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2302": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-268"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2303": {
-    "corequisites": {
-      "cross_list_courses": [
-        "BIO-268"
-      ]
     },
     "restrictions": {
       "classification": {
@@ -18600,6 +18546,182 @@
     "prerequisites": {
       "course": "LATN 201",
       "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2968": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-268"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 106",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2969": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-268"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 106",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2970": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-268"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 106",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2971": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-268"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 106",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
     },
     "restrictions": {
       "classification": {

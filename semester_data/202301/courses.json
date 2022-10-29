@@ -2062,6 +2062,84 @@
             ]
           },
           {
+            "crn": 2969,
+            "subj": "BIO",
+            "crse": "268",
+            "sec": "1-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Biostatistics Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Amanda J. Zellmer",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2970,
+            "subj": "BIO",
+            "crse": "268",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Biostatistics Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Jonathan P. Williams",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2968,
+            "subj": "BIO",
+            "crse": "268",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Biostatistics Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Amanda J. Zellmer",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
             "crn": 2295,
             "subj": "BIO",
             "crse": "268",
@@ -2088,72 +2166,12 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Biostatistics Laboratory",
-        "subj": "BIO",
-        "crse": "268L",
-        "id": "BIO-268L",
-        "sections": [
-          {
-            "crn": 2298,
-            "subj": "BIO",
-            "crse": "268L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Biostatistics Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "Jonathan P. Williams",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1755,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           },
           {
-            "crn": 2302,
+            "crn": 2971,
             "subj": "BIO",
-            "crse": "268L",
-            "sec": "03",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Biostatistics Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Amanda J. Zellmer",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2300,
-            "subj": "BIO",
-            "crse": "268L",
-            "sec": "02",
+            "crse": "268",
+            "sec": "2-2",
             "credMin": 0,
             "credMax": 0,
             "title": "Biostatistics Laboratory",
@@ -2170,32 +2188,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1650,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2303,
-            "subj": "BIO",
-            "crse": "268L",
-            "sec": "04",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Biostatistics Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Amanda J. Zellmer",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -188,7 +188,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -231,7 +231,7 @@
       },
       {
         "max": 12,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -4121,7 +4121,7 @@
     "reserved": [
       {
         "max": 18,
-        "open": 17,
+        "open": 16,
         "reservedFor": "Major"
       }
     ],
@@ -5033,7 +5033,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 10,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -5456,7 +5456,7 @@
     "reserved": [
       {
         "max": 11,
-        "open": 11,
+        "open": 9,
         "reservedFor": "Major"
       },
       {
@@ -5598,12 +5598,12 @@
     "reserved": [
       {
         "max": 7,
-        "open": 7,
+        "open": 5,
         "reservedFor": "Major"
       },
       {
         "max": 7,
-        "open": 5,
+        "open": 1,
         "reservedFor": "Major"
       }
     ],
@@ -5710,7 +5710,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -5763,7 +5763,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -6165,7 +6165,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       },
       {
@@ -6566,7 +6566,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -6719,7 +6719,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       },
       {
@@ -7175,6 +7175,106 @@
         },
         {
           "course": "CSP 49",
+          "type": "course"
+        },
+        {
+          "course": "FYS 1",
+          "type": "course"
+        },
+        {
+          "course": "FYS 2",
+          "type": "course"
+        },
+        {
+          "course": "FYS 3",
+          "type": "course"
+        },
+        {
+          "course": "FYS 4",
+          "type": "course"
+        },
+        {
+          "course": "FYS 5",
+          "type": "course"
+        },
+        {
+          "course": "FYS 6",
+          "type": "course"
+        },
+        {
+          "course": "FYS 7",
+          "type": "course"
+        },
+        {
+          "course": "FYS 8",
+          "type": "course"
+        },
+        {
+          "course": "FYS 9",
+          "type": "course"
+        },
+        {
+          "course": "FYS 10",
+          "type": "course"
+        },
+        {
+          "course": "FYS 11",
+          "type": "course"
+        },
+        {
+          "course": "FYS 12",
+          "type": "course"
+        },
+        {
+          "course": "FYS 13",
+          "type": "course"
+        },
+        {
+          "course": "FYS 14",
+          "type": "course"
+        },
+        {
+          "course": "FYS 15",
+          "type": "course"
+        },
+        {
+          "course": "FYS 16",
+          "type": "course"
+        },
+        {
+          "course": "FYS 17",
+          "type": "course"
+        },
+        {
+          "course": "FYS 18",
+          "type": "course"
+        },
+        {
+          "course": "FYS 19",
+          "type": "course"
+        },
+        {
+          "course": "FYS 20",
+          "type": "course"
+        },
+        {
+          "course": "FYS 21",
+          "type": "course"
+        },
+        {
+          "course": "FYS 22",
+          "type": "course"
+        },
+        {
+          "course": "FYS 23",
+          "type": "course"
+        },
+        {
+          "course": "FYS 24",
+          "type": "course"
+        },
+        {
+          "course": "FYS 25",
           "type": "course"
         }
       ],
@@ -11550,7 +11650,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -11779,7 +11879,7 @@
     "reserved": [
       {
         "max": 21,
-        "open": 18,
+        "open": 16,
         "reservedFor": "Major"
       }
     ],
@@ -11864,7 +11964,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 20,
+        "open": 19,
         "reservedFor": "Major"
       }
     ],
@@ -11893,7 +11993,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": 13,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -11931,7 +12031,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": 14,
+        "open": 13,
         "reservedFor": "Major"
       }
     ],
@@ -12309,7 +12409,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 20,
+        "open": 19,
         "reservedFor": "Major"
       }
     ],
@@ -15186,7 +15286,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -15371,7 +15471,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -15488,7 +15588,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 15,
+        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -15668,7 +15768,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 8,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -15835,7 +15935,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 25,
+        "open": 22,
         "reservedFor": "Major"
       }
     ],
@@ -15864,7 +15964,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 25,
+        "open": 24,
         "reservedFor": "Major"
       }
     ],
@@ -16310,7 +16410,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 7,
         "reservedFor": "Major"
       },
       {
@@ -16670,7 +16770,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],

@@ -18478,6 +18478,36 @@
         ]
       },
       {
+        "title": "Rock Guitar (Half Hour)",
+        "subj": "MUSA",
+        "crse": "283",
+        "id": "MUSA-283",
+        "sections": [
+          {
+            "crn": 2972,
+            "subj": "MUSA",
+            "crse": "283",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Rock Guitar (Half Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Steven Kent Gregory",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Classical Guitar Class (Intermediate)",
         "subj": "MUSA",
         "crse": "104",
@@ -19016,6 +19046,504 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Rock Guitar (One Hour)",
+        "subj": "MUSA",
+        "crse": "284",
+        "id": "MUSA-284",
+        "sections": [
+          {
+            "crn": 2973,
+            "subj": "MUSA",
+            "crse": "284",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Rock Guitar (One Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Steven Kent Gregory",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Australia",
+    "code": "ABAU",
+    "courses": [
+      {
+        "title": "Occidental-in-Australia",
+        "subj": "ABAU",
+        "crse": "302",
+        "id": "ABAU-302",
+        "sections": [
+          {
+            "crn": 2974,
+            "subj": "ABAU",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Australia",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Chile",
+    "code": "ABCI",
+    "courses": [
+      {
+        "title": "Occidental-in-Chile",
+        "subj": "ABCI",
+        "crse": "302",
+        "id": "ABCI-302",
+        "sections": [
+          {
+            "crn": 2975,
+            "subj": "ABCI",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Chile",
+            "cap": 3,
+            "act": 0,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Czech Republic",
+    "code": "ABCZ",
+    "courses": [
+      {
+        "title": "Oxy-in-the-Czech Republic",
+        "subj": "ABCZ",
+        "crse": "302",
+        "id": "ABCZ-302",
+        "sections": [
+          {
+            "crn": 2976,
+            "subj": "ABCZ",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Oxy-in-the-Czech Republic",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-France",
+    "code": "ABFR",
+    "courses": [
+      {
+        "title": "Occidental-in-France",
+        "subj": "ABFR",
+        "crse": "302",
+        "id": "ABFR-302",
+        "sections": [
+          {
+            "crn": 2977,
+            "subj": "ABFR",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-France",
+            "cap": 3,
+            "act": 0,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Germany",
+    "code": "ABGE",
+    "courses": [
+      {
+        "title": "Occidental-in-Germany",
+        "subj": "ABGE",
+        "crse": "302",
+        "id": "ABGE-302",
+        "sections": [
+          {
+            "crn": 2978,
+            "subj": "ABGE",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Germany",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Italy",
+    "code": "ABIT",
+    "courses": [
+      {
+        "title": "Occidental-in-Italy",
+        "subj": "ABIT",
+        "crse": "302",
+        "id": "ABIT-302",
+        "sections": [
+          {
+            "crn": 2979,
+            "subj": "ABIT",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Italy",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Japan",
+    "code": "ABJA",
+    "courses": [
+      {
+        "title": "Occidental-in-Japan",
+        "subj": "ABJA",
+        "crse": "302",
+        "id": "ABJA-302",
+        "sections": [
+          {
+            "crn": 2980,
+            "subj": "ABJA",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Japan",
+            "cap": 4,
+            "act": 0,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-New Zealand",
+    "code": "ABNZ",
+    "courses": [
+      {
+        "title": "Occidental-in-New Zealand",
+        "subj": "ABNZ",
+        "crse": "302",
+        "id": "ABNZ-302",
+        "sections": [
+          {
+            "crn": 2982,
+            "subj": "ABNZ",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-New Zealand",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Samoa",
+    "code": "ABSM",
+    "courses": [
+      {
+        "title": "Occidental-in-Samoa",
+        "subj": "ABSM",
+        "crse": "302",
+        "id": "ABSM-302",
+        "sections": [
+          {
+            "crn": 2984,
+            "subj": "ABSM",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Samoa",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-South Korea",
+    "code": "ABSK",
+    "courses": [
+      {
+        "title": "Occidental-in-South Korea",
+        "subj": "ABSK",
+        "crse": "302",
+        "id": "ABSK-302",
+        "sections": [
+          {
+            "crn": 2983,
+            "subj": "ABSK",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-South Korea",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Spain",
+    "code": "ABSP",
+    "courses": [
+      {
+        "title": "Occidental-in-Spain",
+        "subj": "ABSP",
+        "crse": "302",
+        "id": "ABSP-302",
+        "sections": [
+          {
+            "crn": 2985,
+            "subj": "ABSP",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Spain",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-the-Netherlands",
+    "code": "ABNT",
+    "courses": [
+      {
+        "title": "Occidental-in-the-Netherlands",
+        "subj": "ABNT",
+        "crse": "302",
+        "id": "ABNT-302",
+        "sections": [
+          {
+            "crn": 2981,
+            "subj": "ABNT",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-the-Netherlands",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oxy-in-the-United Kingdom",
+    "code": "ABUK",
+    "courses": [
+      {
+        "title": "Occidental-in-the-United Kingdom",
+        "subj": "ABUK",
+        "crse": "302",
+        "id": "ABUK-302",
+        "sections": [
+          {
+            "crn": 2986,
+            "subj": "ABUK",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-the-United Kingdom",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -19029,34 +19557,6 @@
         "crse": "101",
         "id": "PHIL-101",
         "sections": [
-          {
-            "crn": 2414,
-            "subj": "PHIL",
-            "crse": "101",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Philosophy",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Erica Preston-Roedder",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2415,
             "subj": "PHIL",
@@ -19084,6 +19584,34 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2414,
+            "subj": "PHIL",
+            "crse": "101",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Philosophy",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Erica Preston-Roedder",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19093,6 +19621,34 @@
         "crse": "150",
         "id": "PHIL-150",
         "sections": [
+          {
+            "crn": 2740,
+            "subj": "PHIL",
+            "crse": "150",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Formal Logic",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Milo Jon-Christopher Crimi",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2844,
             "subj": "PHIL",
@@ -19120,18 +19676,26 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Topics in the History of Philosophy",
+        "subj": "PHIL",
+        "crse": "215",
+        "id": "PHIL-215",
+        "sections": [
           {
-            "crn": 2740,
+            "crn": 2417,
             "subj": "PHIL",
-            "crse": "150",
-            "sec": "02",
+            "crse": "215",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Formal Logic",
-            "cap": 35,
+            "title": "Topics in the History of Philosophy",
+            "cap": 25,
             "act": 0,
-            "rem": 35,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -19142,8 +19706,113 @@
                 ],
                 "instructor": "Milo Jon-Christopher Crimi",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Environmental and Animal Ethics",
+        "subj": "PHIL",
+        "crse": "231",
+        "id": "PHIL-231",
+        "sections": [
+          {
+            "crn": 2419,
+            "subj": "PHIL",
+            "crse": "231",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Environmental and Animal Ethics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Clair Morrissey",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Brothers Karamazov",
+        "subj": "PHIL",
+        "crse": "313",
+        "id": "PHIL-313",
+        "sections": [
+          {
+            "crn": 2420,
+            "subj": "PHIL",
+            "crse": "313",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Brothers Karamazov",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ryan Preston-Roedder",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Consciousness and Cognition",
+        "subj": "PHIL",
+        "crse": "345",
+        "id": "PHIL-345",
+        "sections": [
+          {
+            "crn": 2743,
+            "subj": "PHIL",
+            "crse": "345",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Consciousness and Cognition",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William Dylan Sabo",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19327,147 +19996,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Topics in the History of Philosophy",
-        "subj": "PHIL",
-        "crse": "215",
-        "id": "PHIL-215",
-        "sections": [
-          {
-            "crn": 2417,
-            "subj": "PHIL",
-            "crse": "215",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in the History of Philosophy",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Milo Jon-Christopher Crimi",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Environmental and Animal Ethics",
-        "subj": "PHIL",
-        "crse": "231",
-        "id": "PHIL-231",
-        "sections": [
-          {
-            "crn": 2419,
-            "subj": "PHIL",
-            "crse": "231",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Environmental and Animal Ethics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Clair Morrissey",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The Brothers Karamazov",
-        "subj": "PHIL",
-        "crse": "313",
-        "id": "PHIL-313",
-        "sections": [
-          {
-            "crn": 2420,
-            "subj": "PHIL",
-            "crse": "313",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Brothers Karamazov",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ryan Preston-Roedder",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Consciousness and Cognition",
-        "subj": "PHIL",
-        "crse": "345",
-        "id": "PHIL-345",
-        "sections": [
-          {
-            "crn": 2743,
-            "subj": "PHIL",
-            "crse": "345",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Consciousness and Cognition",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William Dylan Sabo",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -19482,12 +20010,12 @@
         "id": "PHAC-123",
         "sections": [
           {
-            "crn": 2903,
+            "crn": 2902,
             "subj": "PHAC",
             "crse": "123",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Men's Rugby",
             "cap": 99,
             "act": 0,
@@ -19504,12 +20032,12 @@
             ]
           },
           {
-            "crn": 2902,
+            "crn": 2903,
             "subj": "PHAC",
             "crse": "123",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Men's Rugby",
             "cap": 99,
             "act": 0,
@@ -19534,12 +20062,12 @@
         "id": "PHAC-124",
         "sections": [
           {
-            "crn": 2905,
+            "crn": 2904,
             "subj": "PHAC",
             "crse": "124",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Women's Rugby",
             "cap": 99,
             "act": 0,
@@ -19556,12 +20084,12 @@
             ]
           },
           {
-            "crn": 2904,
+            "crn": 2905,
             "subj": "PHAC",
             "crse": "124",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Women's Rugby",
             "cap": 99,
             "act": 0,
@@ -19585,32 +20113,6 @@
         "crse": "125",
         "id": "PHAC-125",
         "sections": [
-          {
-            "crn": 2907,
-            "subj": "PHAC",
-            "crse": "125",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Dance Team",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Cori K. Vallembois",
-                "location": "",
-                "timeStart": 1630,
-                "timeEnd": 1830,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2906,
             "subj": "PHAC",
@@ -19636,6 +20138,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2907,
+            "subj": "PHAC",
+            "crse": "125",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Dance Team",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Cori K. Vallembois",
+                "location": "",
+                "timeStart": 1630,
+                "timeEnd": 1830,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19645,33 +20173,6 @@
         "crse": "130",
         "id": "PHAC-130",
         "sections": [
-          {
-            "crn": 2956,
-            "subj": "PHAC",
-            "crse": "130",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Tigers Live Fitness",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 1000,
-                "timeEnd": 1055,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2955,
             "subj": "PHAC",
@@ -19698,6 +20199,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2956,
+            "subj": "PHAC",
+            "crse": "130",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Tigers Live Fitness",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1000,
+                "timeEnd": 1055,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19707,87 +20235,6 @@
         "crse": "134",
         "id": "PHAC-134",
         "sections": [
-          {
-            "crn": 2909,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Beginning Yoga",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2911,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "04",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Beginning Yoga",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 1300,
-                "timeEnd": 1355,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2913,
-            "subj": "PHAC",
-            "crse": "134",
-            "sec": "06",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Beginning Yoga",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Maja Zimmermann",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2908,
             "subj": "PHAC",
@@ -19868,6 +20315,87 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2909,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Beginning Yoga",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2911,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Beginning Yoga",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1300,
+                "timeEnd": 1355,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2913,
+            "subj": "PHAC",
+            "crse": "134",
+            "sec": "06",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Beginning Yoga",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Maja Zimmermann",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19878,12 +20406,12 @@
         "id": "PHAC-147",
         "sections": [
           {
-            "crn": 2917,
+            "crn": 2916,
             "subj": "PHAC",
             "crse": "147",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Men's Ultimate Frisbee",
             "cap": 99,
             "act": 0,
@@ -19900,12 +20428,12 @@
             ]
           },
           {
-            "crn": 2916,
+            "crn": 2917,
             "subj": "PHAC",
             "crse": "147",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Men's Ultimate Frisbee",
             "cap": 99,
             "act": 0,
@@ -19930,12 +20458,12 @@
         "id": "PHAC-148",
         "sections": [
           {
-            "crn": 2919,
+            "crn": 2918,
             "subj": "PHAC",
             "crse": "148",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Women's Ultimate Frisbee",
             "cap": 99,
             "act": 0,
@@ -19952,12 +20480,12 @@
             ]
           },
           {
-            "crn": 2918,
+            "crn": 2919,
             "subj": "PHAC",
             "crse": "148",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Women's Ultimate Frisbee",
             "cap": 99,
             "act": 0,
@@ -19982,12 +20510,12 @@
         "id": "PHAC-149",
         "sections": [
           {
-            "crn": 2921,
+            "crn": 2920,
             "subj": "PHAC",
             "crse": "149",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Karate",
             "cap": 99,
             "act": 0,
@@ -20009,12 +20537,12 @@
             ]
           },
           {
-            "crn": 2920,
+            "crn": 2921,
             "subj": "PHAC",
             "crse": "149",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Karate",
             "cap": 99,
             "act": 0,
@@ -20044,33 +20572,6 @@
         "id": "PHAC-150",
         "sections": [
           {
-            "crn": 2923,
-            "subj": "PHAC",
-            "crse": "150",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Zumba",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Marisol Gomez",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
             "crn": 2922,
             "subj": "PHAC",
             "crse": "150",
@@ -20096,6 +20597,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2923,
+            "subj": "PHAC",
+            "crse": "150",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Zumba",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Marisol Gomez",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -20106,12 +20634,12 @@
         "id": "PHAC-208",
         "sections": [
           {
-            "crn": 2925,
+            "crn": 2924,
             "subj": "PHAC",
             "crse": "208",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Water Polo",
             "cap": 99,
             "act": 0,
@@ -20136,12 +20664,12 @@
             ]
           },
           {
-            "crn": 2924,
+            "crn": 2925,
             "subj": "PHAC",
             "crse": "208",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Water Polo",
             "cap": 99,
             "act": 0,
@@ -20174,12 +20702,12 @@
         "id": "PHAC-211",
         "sections": [
           {
-            "crn": 2927,
+            "crn": 2926,
             "subj": "PHAC",
             "crse": "211",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Baseball",
             "cap": 99,
             "act": 0,
@@ -20204,12 +20732,12 @@
             ]
           },
           {
-            "crn": 2926,
+            "crn": 2927,
             "subj": "PHAC",
             "crse": "211",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Baseball",
             "cap": 99,
             "act": 0,
@@ -20242,12 +20770,12 @@
         "id": "PHAC-212",
         "sections": [
           {
-            "crn": 2929,
+            "crn": 2928,
             "subj": "PHAC",
             "crse": "212",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Basketball",
             "cap": 99,
             "act": 0,
@@ -20272,12 +20800,12 @@
             ]
           },
           {
-            "crn": 2928,
+            "crn": 2929,
             "subj": "PHAC",
             "crse": "212",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Basketball",
             "cap": 99,
             "act": 0,
@@ -20310,12 +20838,12 @@
         "id": "PHAC-213",
         "sections": [
           {
-            "crn": 2931,
+            "crn": 2930,
             "subj": "PHAC",
             "crse": "213",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Men's Basketball",
             "cap": 99,
             "act": 0,
@@ -20340,12 +20868,12 @@
             ]
           },
           {
-            "crn": 2930,
+            "crn": 2931,
             "subj": "PHAC",
             "crse": "213",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Men's Basketball",
             "cap": 99,
             "act": 0,
@@ -20378,12 +20906,12 @@
         "id": "PHAC-214",
         "sections": [
           {
-            "crn": 2933,
+            "crn": 2932,
             "subj": "PHAC",
             "crse": "214",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Golf",
             "cap": 99,
             "act": 0,
@@ -20408,12 +20936,12 @@
             ]
           },
           {
-            "crn": 2932,
+            "crn": 2933,
             "subj": "PHAC",
             "crse": "214",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Golf",
             "cap": 99,
             "act": 0,
@@ -20446,12 +20974,12 @@
         "id": "PHAC-215",
         "sections": [
           {
-            "crn": 2935,
+            "crn": 2934,
             "subj": "PHAC",
             "crse": "215",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Men's Golf",
             "cap": 99,
             "act": 0,
@@ -20476,12 +21004,12 @@
             ]
           },
           {
-            "crn": 2934,
+            "crn": 2935,
             "subj": "PHAC",
             "crse": "215",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Men's Golf",
             "cap": 99,
             "act": 0,
@@ -20514,12 +21042,12 @@
         "id": "PHAC-216",
         "sections": [
           {
-            "crn": 2937,
+            "crn": 2936,
             "subj": "PHAC",
             "crse": "216",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Lacrosse",
             "cap": 99,
             "act": 0,
@@ -20544,12 +21072,12 @@
             ]
           },
           {
-            "crn": 2936,
+            "crn": 2937,
             "subj": "PHAC",
             "crse": "216",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Lacrosse",
             "cap": 99,
             "act": 0,
@@ -20582,12 +21110,12 @@
         "id": "PHAC-217",
         "sections": [
           {
-            "crn": 2939,
+            "crn": 2938,
             "subj": "PHAC",
             "crse": "217",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Men's Swimming and Diving",
             "cap": 99,
             "act": 0,
@@ -20612,12 +21140,12 @@
             ]
           },
           {
-            "crn": 2938,
+            "crn": 2939,
             "subj": "PHAC",
             "crse": "217",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Men's Swimming and Diving",
             "cap": 99,
             "act": 0,
@@ -20650,12 +21178,12 @@
         "id": "PHAC-218",
         "sections": [
           {
-            "crn": 2941,
+            "crn": 2940,
             "subj": "PHAC",
             "crse": "218",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Softball",
             "cap": 99,
             "act": 0,
@@ -20680,12 +21208,12 @@
             ]
           },
           {
-            "crn": 2940,
+            "crn": 2941,
             "subj": "PHAC",
             "crse": "218",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Softball",
             "cap": 99,
             "act": 0,
@@ -20718,12 +21246,12 @@
         "id": "PHAC-219",
         "sections": [
           {
-            "crn": 2943,
+            "crn": 2942,
             "subj": "PHAC",
             "crse": "219",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Men's Tennis",
             "cap": 99,
             "act": 0,
@@ -20748,12 +21276,12 @@
             ]
           },
           {
-            "crn": 2942,
+            "crn": 2943,
             "subj": "PHAC",
             "crse": "219",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Men's Tennis",
             "cap": 99,
             "act": 0,
@@ -20786,12 +21314,12 @@
         "id": "PHAC-220",
         "sections": [
           {
-            "crn": 2945,
+            "crn": 2944,
             "subj": "PHAC",
             "crse": "220",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Swimming and Diving",
             "cap": 99,
             "act": 0,
@@ -20816,12 +21344,12 @@
             ]
           },
           {
-            "crn": 2944,
+            "crn": 2945,
             "subj": "PHAC",
             "crse": "220",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Swimming and Diving",
             "cap": 99,
             "act": 0,
@@ -20854,12 +21382,12 @@
         "id": "PHAC-221",
         "sections": [
           {
-            "crn": 2947,
+            "crn": 2946,
             "subj": "PHAC",
             "crse": "221",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Men's Track and Field",
             "cap": 99,
             "act": 0,
@@ -20884,12 +21412,12 @@
             ]
           },
           {
-            "crn": 2946,
+            "crn": 2947,
             "subj": "PHAC",
             "crse": "221",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Men's Track and Field",
             "cap": 99,
             "act": 0,
@@ -20922,12 +21450,12 @@
         "id": "PHAC-222",
         "sections": [
           {
-            "crn": 2949,
+            "crn": 2948,
             "subj": "PHAC",
             "crse": "222",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Tennis",
             "cap": 99,
             "act": 0,
@@ -20952,12 +21480,12 @@
             ]
           },
           {
-            "crn": 2948,
+            "crn": 2949,
             "subj": "PHAC",
             "crse": "222",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Tennis",
             "cap": 99,
             "act": 0,
@@ -20990,12 +21518,12 @@
         "id": "PHAC-224",
         "sections": [
           {
-            "crn": 2951,
+            "crn": 2950,
             "subj": "PHAC",
             "crse": "224",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
             "title": "Intercollegiate Women's Track and Field",
             "cap": 99,
             "act": 0,
@@ -21020,12 +21548,12 @@
             ]
           },
           {
-            "crn": 2950,
+            "crn": 2951,
             "subj": "PHAC",
             "crse": "224",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
             "title": "Intercollegiate Women's Track and Field",
             "cap": 99,
             "act": 0,
@@ -21058,11 +21586,73 @@
     "code": "PHYS",
     "courses": [
       {
+        "title": "General Physics I",
+        "subj": "PHYS",
+        "crse": "115",
+        "id": "PHYS-115",
+        "sections": [
+          {
+            "crn": 2589,
+            "subj": "PHYS",
+            "crse": "115",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "General Physics I",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jean-Luc Gauvreau",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "General Physics I Laboratory",
         "subj": "PHYS",
         "crse": "115L",
         "id": "PHYS-115L",
         "sections": [
+          {
+            "crn": 2591,
+            "subj": "PHYS",
+            "crse": "115L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "General Physics I Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Gabriel Freiman",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2590,
             "subj": "PHYS",
@@ -21088,15 +21678,23 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Waves and Thermal Physics Laboratory",
+        "subj": "PHYS",
+        "crse": "117L",
+        "id": "PHYS-117L",
+        "sections": [
           {
-            "crn": 2591,
+            "crn": 2593,
             "subj": "PHYS",
-            "crse": "115L",
-            "sec": "02",
+            "crse": "117L",
+            "sec": "01",
             "credMin": 0,
             "credMax": 0,
-            "title": "General Physics I Laboratory",
+            "title": "Waves and Thermal Physics Laboratory",
             "cap": 14,
             "act": 0,
             "rem": 14,
@@ -21106,10 +21704,236 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Gabriel Freiman",
+                "instructor": "Igor Umanskiy",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2594,
+            "subj": "PHYS",
+            "crse": "117L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Waves and Thermal Physics Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Igor Umanskiy",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "General Physics II",
+        "subj": "PHYS",
+        "crse": "125",
+        "id": "PHYS-125",
+        "sections": [
+          {
+            "crn": 2595,
+            "subj": "PHYS",
+            "crse": "125",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "General Physics II",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jean-Luc Gauvreau",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "General Physics II Laboratory",
+        "subj": "PHYS",
+        "crse": "125L",
+        "id": "PHYS-125L",
+        "sections": [
+          {
+            "crn": 2597,
+            "subj": "PHYS",
+            "crse": "125L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "General Physics II Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Igor Umanskiy",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2596,
+            "subj": "PHYS",
+            "crse": "125L",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "General Physics II Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Igor Umanskiy",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Modern Physics Laboratory",
+        "subj": "PHYS",
+        "crse": "240L",
+        "id": "PHYS-240L",
+        "sections": [
+          {
+            "crn": 2599,
+            "subj": "PHYS",
+            "crse": "240L",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Modern Physics Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Janet D Scheel",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Laboratory II",
+        "subj": "PHYS",
+        "crse": "316",
+        "id": "PHYS-316",
+        "sections": [
+          {
+            "crn": 2600,
+            "subj": "PHYS",
+            "crse": "316",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Advanced Laboratory II",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Daniel P. Snowden-Ifft",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Quantum Mechanics",
+        "subj": "PHYS",
+        "crse": "340",
+        "id": "PHYS-340",
+        "sections": [
+          {
+            "crn": 2602,
+            "subj": "PHYS",
+            "crse": "340",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Quantum Mechanics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alec J. Schramm",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21146,126 +21970,6 @@
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Waves and Thermal Physics Laboratory",
-        "subj": "PHYS",
-        "crse": "117L",
-        "id": "PHYS-117L",
-        "sections": [
-          {
-            "crn": 2594,
-            "subj": "PHYS",
-            "crse": "117L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Waves and Thermal Physics Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Igor Umanskiy",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2593,
-            "subj": "PHYS",
-            "crse": "117L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Waves and Thermal Physics Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Igor Umanskiy",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "General Physics II Laboratory",
-        "subj": "PHYS",
-        "crse": "125L",
-        "id": "PHYS-125L",
-        "sections": [
-          {
-            "crn": 2596,
-            "subj": "PHYS",
-            "crse": "125L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "General Physics II Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Igor Umanskiy",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2597,
-            "subj": "PHYS",
-            "crse": "125L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "General Physics II Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Igor Umanskiy",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21412,182 +22116,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "General Physics I",
-        "subj": "PHYS",
-        "crse": "115",
-        "id": "PHYS-115",
-        "sections": [
-          {
-            "crn": 2589,
-            "subj": "PHYS",
-            "crse": "115",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "General Physics I",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jean-Luc Gauvreau",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "General Physics II",
-        "subj": "PHYS",
-        "crse": "125",
-        "id": "PHYS-125",
-        "sections": [
-          {
-            "crn": 2595,
-            "subj": "PHYS",
-            "crse": "125",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "General Physics II",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jean-Luc Gauvreau",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Modern Physics Laboratory",
-        "subj": "PHYS",
-        "crse": "240L",
-        "id": "PHYS-240L",
-        "sections": [
-          {
-            "crn": 2599,
-            "subj": "PHYS",
-            "crse": "240L",
-            "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Modern Physics Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Janet D Scheel",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Laboratory II",
-        "subj": "PHYS",
-        "crse": "316",
-        "id": "PHYS-316",
-        "sections": [
-          {
-            "crn": 2600,
-            "subj": "PHYS",
-            "crse": "316",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Advanced Laboratory II",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Daniel P. Snowden-Ifft",
-                "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Quantum Mechanics",
-        "subj": "PHYS",
-        "crse": "340",
-        "id": "PHYS-340",
-        "sections": [
-          {
-            "crn": 2602,
-            "subj": "PHYS",
-            "crse": "340",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Quantum Mechanics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alec J. Schramm",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -21601,33 +22129,6 @@
         "crse": "101",
         "id": "POLS-101",
         "sections": [
-          {
-            "crn": 2110,
-            "subj": "POLS",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "American Politics and Public Policy",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Elizabeth Wiener",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2104,
             "subj": "POLS",
@@ -21654,59 +22155,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Race and American Politics",
-        "subj": "POLS",
-        "crse": "206",
-        "id": "POLS-206",
-        "sections": [
+          },
           {
-            "crn": 2120,
+            "crn": 2110,
             "subj": "POLS",
-            "crse": "206",
-            "sec": "00",
+            "crse": "101",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Race and American Politics",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Regina Freer",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Constitutional Law: Civil Rights and Civil Liberties",
-        "subj": "POLS",
-        "crse": "245",
-        "id": "POLS-245",
-        "sections": [
-          {
-            "crn": 2957,
-            "subj": "POLS",
-            "crse": "245",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Constitutional Law: Civil Rights and Civil Liberties",
+            "title": "American Politics and Public Policy",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -21717,145 +22174,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Alec Arellano",
+                "instructor": "Elizabeth Wiener",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Community Law Internship",
-        "subj": "POLS",
-        "crse": "260",
-        "id": "POLS-260",
-        "sections": [
-          {
-            "crn": 2866,
-            "subj": "POLS",
-            "crse": "260",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Community Law Internship",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Douglas Alexander Smith",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Research Methods in Politics and Public Policy",
-        "subj": "POLS",
-        "crse": "300",
-        "id": "POLS-300",
-        "sections": [
-          {
-            "crn": 2768,
-            "subj": "POLS",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Research Methods in Politics and Public Policy",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Isaac Daniel Hale",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The American Presidency",
-        "subj": "POLS",
-        "crse": "302",
-        "id": "POLS-302",
-        "sections": [
-          {
-            "crn": 2769,
-            "subj": "POLS",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The American Presidency",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Isaac Daniel Hale",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Lawyering for Social Justice",
-        "subj": "POLS",
-        "crse": "340",
-        "id": "POLS-340",
-        "sections": [
-          {
-            "crn": 2867,
-            "subj": "POLS",
-            "crse": "340",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Lawyering for Social Justice",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Douglas Alexander Smith",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
+                "timeStart": 830,
+                "timeEnd": 955,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22106,6 +22428,212 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Race and American Politics",
+        "subj": "POLS",
+        "crse": "206",
+        "id": "POLS-206",
+        "sections": [
+          {
+            "crn": 2120,
+            "subj": "POLS",
+            "crse": "206",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Race and American Politics",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Regina Freer",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Constitutional Law: Civil Rights and Civil Liberties",
+        "subj": "POLS",
+        "crse": "245",
+        "id": "POLS-245",
+        "sections": [
+          {
+            "crn": 2957,
+            "subj": "POLS",
+            "crse": "245",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Constitutional Law: Civil Rights and Civil Liberties",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Alec Arellano",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Law Internship",
+        "subj": "POLS",
+        "crse": "260",
+        "id": "POLS-260",
+        "sections": [
+          {
+            "crn": 2866,
+            "subj": "POLS",
+            "crse": "260",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Community Law Internship",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Douglas Alexander Smith",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Research Methods in Politics and Public Policy",
+        "subj": "POLS",
+        "crse": "300",
+        "id": "POLS-300",
+        "sections": [
+          {
+            "crn": 2768,
+            "subj": "POLS",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Research Methods in Politics and Public Policy",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Isaac Daniel Hale",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The American Presidency",
+        "subj": "POLS",
+        "crse": "302",
+        "id": "POLS-302",
+        "sections": [
+          {
+            "crn": 2769,
+            "subj": "POLS",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The American Presidency",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Isaac Daniel Hale",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Lawyering for Social Justice",
+        "subj": "POLS",
+        "crse": "340",
+        "id": "POLS-340",
+        "sections": [
+          {
+            "crn": 2867,
+            "subj": "POLS",
+            "crse": "340",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Lawyering for Social Justice",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Douglas Alexander Smith",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -22119,6 +22647,33 @@
         "crse": "101",
         "id": "PSYC-101",
         "sections": [
+          {
+            "crn": 2195,
+            "subj": "PSYC",
+            "crse": "101",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Psychology",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Andrew Vann Frane",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2194,
             "subj": "PSYC",
@@ -22173,33 +22728,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2195,
-            "subj": "PSYC",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Psychology",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Andrew Vann Frane",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -22209,33 +22737,6 @@
         "crse": "200",
         "id": "PSYC-200",
         "sections": [
-          {
-            "crn": 2198,
-            "subj": "PSYC",
-            "crse": "200",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Methods in Psychological Science",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2197,
             "subj": "PSYC",
@@ -22262,6 +22763,69 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2198,
+            "subj": "PSYC",
+            "crse": "200",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Methods in Psychological Science",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Statistics in Psychological Science",
+        "subj": "PSYC",
+        "crse": "201",
+        "id": "PSYC-201",
+        "sections": [
+          {
+            "crn": 2199,
+            "subj": "PSYC",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Statistics in Psychological Science",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -22271,6 +22835,50 @@
         "crse": "295",
         "id": "PSYC-295",
         "sections": [
+          {
+            "crn": 2201,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2203,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2200,
             "subj": "PSYC",
@@ -22314,11 +22922,160 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Developmental Psychology",
+        "subj": "PSYC",
+        "crse": "321",
+        "id": "PSYC-321",
+        "sections": [
           {
-            "crn": 2201,
+            "crn": 2205,
             "subj": "PSYC",
-            "crse": "295",
+            "crse": "321",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Developmental Psychology",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Social Psychology",
+        "subj": "PSYC",
+        "crse": "323",
+        "id": "PSYC-323",
+        "sections": [
+          {
+            "crn": 2207,
+            "subj": "PSYC",
+            "crse": "323",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Social Psychology",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Nicholas Peter Alt",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health Psychology",
+        "subj": "PSYC",
+        "crse": "334",
+        "id": "PSYC-334",
+        "sections": [
+          {
+            "crn": 2209,
+            "subj": "PSYC",
+            "crse": "334",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health Psychology",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Psycholinguistics",
+        "subj": "PSYC",
+        "crse": "351",
+        "id": "PSYC-351",
+        "sections": [
+          {
+            "crn": 2212,
+            "subj": "PSYC",
+            "crse": "351",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Psycholinguistics",
+            "cap": 19,
+            "act": 0,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "PSYC",
+        "crse": "395",
+        "id": "PSYC-395",
+        "sections": [
+          {
+            "crn": 2214,
+            "subj": "PSYC",
+            "crse": "395",
             "sec": "02",
             "credMin": 2,
             "credMax": 2,
@@ -22338,9 +23095,9 @@
             ]
           },
           {
-            "crn": 2203,
+            "crn": 2216,
             "subj": "PSYC",
-            "crse": "295",
+            "crse": "395",
             "sec": "04",
             "credMin": 2,
             "credMax": 2,
@@ -22354,6 +23111,120 @@
                 "days": [],
                 "instructor": "Susan Geffen",
                 "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2213,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2215,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew E. Shtulman",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Clinical Psychology",
+        "subj": "PSYC",
+        "crse": "431",
+        "id": "PSYC-431",
+        "sections": [
+          {
+            "crn": 2218,
+            "subj": "PSYC",
+            "crse": "431",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Clinical Psychology",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Shaghayegh Habibi",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Assessment of Individual Differences",
+        "subj": "PSYC",
+        "crse": "460",
+        "id": "PSYC-460",
+        "sections": [
+          {
+            "crn": 2811,
+            "subj": "PSYC",
+            "crse": "460",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Assessment of Individual Differences",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22504,102 +23375,6 @@
         ]
       },
       {
-        "title": "Directed Research",
-        "subj": "PSYC",
-        "crse": "395",
-        "id": "PSYC-395",
-        "sections": [
-          {
-            "crn": 2213,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2215,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew E. Shtulman",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2214,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2216,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Adolescence",
         "subj": "PSYC",
         "crse": "428",
@@ -22669,253 +23444,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Statistics in Psychological Science",
-        "subj": "PSYC",
-        "crse": "201",
-        "id": "PSYC-201",
-        "sections": [
-          {
-            "crn": 2199,
-            "subj": "PSYC",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Statistics in Psychological Science",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Developmental Psychology",
-        "subj": "PSYC",
-        "crse": "321",
-        "id": "PSYC-321",
-        "sections": [
-          {
-            "crn": 2205,
-            "subj": "PSYC",
-            "crse": "321",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Developmental Psychology",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Social Psychology",
-        "subj": "PSYC",
-        "crse": "323",
-        "id": "PSYC-323",
-        "sections": [
-          {
-            "crn": 2207,
-            "subj": "PSYC",
-            "crse": "323",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Social Psychology",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Nicholas Peter Alt",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Health Psychology",
-        "subj": "PSYC",
-        "crse": "334",
-        "id": "PSYC-334",
-        "sections": [
-          {
-            "crn": 2209,
-            "subj": "PSYC",
-            "crse": "334",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health Psychology",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Psycholinguistics",
-        "subj": "PSYC",
-        "crse": "351",
-        "id": "PSYC-351",
-        "sections": [
-          {
-            "crn": 2212,
-            "subj": "PSYC",
-            "crse": "351",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Psycholinguistics",
-            "cap": 19,
-            "act": 0,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Clinical Psychology",
-        "subj": "PSYC",
-        "crse": "431",
-        "id": "PSYC-431",
-        "sections": [
-          {
-            "crn": 2218,
-            "subj": "PSYC",
-            "crse": "431",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Clinical Psychology",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Shaghayegh Habibi",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Assessment of Individual Differences",
-        "subj": "PSYC",
-        "crse": "460",
-        "id": "PSYC-460",
-        "sections": [
-          {
-            "crn": 2811,
-            "subj": "PSYC",
-            "crse": "460",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Assessment of Individual Differences",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -22929,6 +23457,32 @@
         "crse": "203",
         "id": "PUBH-203",
         "sections": [
+          {
+            "crn": 2581,
+            "subj": "PUBH",
+            "crse": "203",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Public Health",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2580,
             "subj": "PUBH",
@@ -22956,15 +23510,23 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Epidemiology",
+        "subj": "PUBH",
+        "crse": "238",
+        "id": "PUBH-238",
+        "sections": [
           {
-            "crn": 2581,
+            "crn": 2582,
             "subj": "PUBH",
-            "crse": "203",
-            "sec": "02",
+            "crse": "238",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Public Health",
+            "title": "Epidemiology",
             "cap": 24,
             "act": 0,
             "rem": 24,
@@ -22972,12 +23534,73 @@
             "timeslots": [
               {
                 "days": [
-                  "W"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Jessica Carroll Dirkes",
                 "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Epidemiology Laboratory",
+        "subj": "PUBH",
+        "crse": "238L",
+        "id": "PUBH-238L",
+        "sections": [
+          {
+            "crn": 2584,
+            "subj": "PUBH",
+            "crse": "238L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Epidemiology Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Jessica Carroll Dirkes",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2583,
+            "subj": "PUBH",
+            "crse": "238L",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Epidemiology Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Jessica Carroll Dirkes",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23020,66 +23643,6 @@
         ]
       },
       {
-        "title": "Epidemiology Laboratory",
-        "subj": "PUBH",
-        "crse": "238L",
-        "id": "PUBH-238L",
-        "sections": [
-          {
-            "crn": 2583,
-            "subj": "PUBH",
-            "crse": "238L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Epidemiology Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Jessica Carroll Dirkes",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2584,
-            "subj": "PUBH",
-            "crse": "238L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Epidemiology Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Jessica Carroll Dirkes",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Public Health Practicum",
         "subj": "PUBH",
         "crse": "307",
@@ -23112,41 +23675,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Epidemiology",
-        "subj": "PUBH",
-        "crse": "238",
-        "id": "PUBH-238",
-        "sections": [
-          {
-            "crn": 2582,
-            "subj": "PUBH",
-            "crse": "238",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Epidemiology",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jessica Carroll Dirkes",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -23154,138 +23682,6 @@
     "name": "Religious Studies",
     "code": "RELS",
     "courses": [
-      {
-        "title": "How to Live and Die Well in Buddhist Traditions",
-        "subj": "RELS",
-        "crse": "160",
-        "id": "RELS-160",
-        "sections": [
-          {
-            "crn": 2131,
-            "subj": "RELS",
-            "crse": "160",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "How to Live and Die Well in Buddhist Traditions",
-            "cap": 30,
-            "act": 0,
-            "rem": 30,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Amy Holmes-Tagchungdarpa",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Critical Approaches to the Study of Religion",
-        "subj": "RELS",
-        "crse": "250",
-        "id": "RELS-250",
-        "sections": [
-          {
-            "crn": 2133,
-            "subj": "RELS",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Critical Approaches to the Study of Religion",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Kristi J. Upson-Saia",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Islamic Art, Architecture, and Visual Culture",
-        "subj": "RELS",
-        "crse": "278",
-        "id": "RELS-278",
-        "sections": [
-          {
-            "crn": 2135,
-            "subj": "RELS",
-            "crse": "278",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Islamic Art, Architecture, and Visual Culture",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Candace Mixon",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2134,
-            "subj": "RELS",
-            "crse": "278",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Islamic Art, Architecture, and Visual Culture",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Candace Mixon",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Introduction to Islam",
         "subj": "RELS",
@@ -23358,6 +23754,68 @@
         ]
       },
       {
+        "title": "Islamic Art, Architecture, and Visual Culture",
+        "subj": "RELS",
+        "crse": "278",
+        "id": "RELS-278",
+        "sections": [
+          {
+            "crn": 2134,
+            "subj": "RELS",
+            "crse": "278",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Islamic Art, Architecture, and Visual Culture",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Candace Mixon",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2135,
+            "subj": "RELS",
+            "crse": "278",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Islamic Art, Architecture, and Visual Culture",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Candace Mixon",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "\"Good\" Sex: History of Sexual Ethics",
         "subj": "RELS",
         "crse": "351",
@@ -23391,36 +23849,35 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Russian",
-    "code": "RUSN",
-    "courses": [
+      },
       {
-        "title": "Intermediate Russian II",
-        "subj": "RUSN",
-        "crse": "202",
-        "id": "RUSN-202",
+        "title": "How to Live and Die Well in Buddhist Traditions",
+        "subj": "RELS",
+        "crse": "160",
+        "id": "RELS-160",
         "sections": [
           {
-            "crn": 2894,
-            "subj": "RUSN",
-            "crse": "202",
+            "crn": 2131,
+            "subj": "RELS",
+            "crse": "160",
             "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Intermediate Russian II",
-            "cap": 25,
+            "credMin": 4,
+            "credMax": 4,
+            "title": "How to Live and Die Well in Buddhist Traditions",
+            "cap": 30,
             "act": 0,
-            "rem": 25,
+            "rem": 30,
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
-                "instructor": "Julia Yuliya Sushytska",
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Amy Holmes-Tagchungdarpa",
                 "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23428,6 +23885,47 @@
           }
         ]
       },
+      {
+        "title": "Critical Approaches to the Study of Religion",
+        "subj": "RELS",
+        "crse": "250",
+        "id": "RELS-250",
+        "sections": [
+          {
+            "crn": 2133,
+            "subj": "RELS",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Critical Approaches to the Study of Religion",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Kristi J. Upson-Saia",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Russian",
+    "code": "RUSN",
+    "courses": [
       {
         "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
         "subj": "RUSN",
@@ -23462,6 +23960,36 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Intermediate Russian II",
+        "subj": "RUSN",
+        "crse": "202",
+        "id": "RUSN-202",
+        "sections": [
+          {
+            "crn": 2894,
+            "subj": "RUSN",
+            "crse": "202",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Intermediate Russian II",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Julia Yuliya Sushytska",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -23475,6 +24003,34 @@
         "crse": "101",
         "id": "SOC-101",
         "sections": [
+          {
+            "crn": 2138,
+            "subj": "SOC",
+            "crse": "101",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Sociology",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "John T. Lang",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2137,
             "subj": "SOC",
@@ -23502,18 +24058,26 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Masculinities",
+        "subj": "SOC",
+        "crse": "225",
+        "id": "SOC-225",
+        "sections": [
           {
-            "crn": 2138,
+            "crn": 2140,
             "subj": "SOC",
-            "crse": "101",
-            "sec": "02",
+            "crse": "225",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Introduction to Sociology",
-            "cap": 30,
+            "title": "Masculinities",
+            "cap": 25,
             "act": 0,
-            "rem": 30,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -23522,7 +24086,212 @@
                   "W",
                   "F"
                 ],
-                "instructor": "John T. Lang",
+                "instructor": "Richard Mora",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sociology of Social Welfare",
+        "subj": "SOC",
+        "crse": "275",
+        "id": "SOC-275",
+        "sections": [
+          {
+            "crn": 2804,
+            "subj": "SOC",
+            "crse": "275",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sociology of Social Welfare",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ben Robin Weiss",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Qualitative Research Methods",
+        "subj": "SOC",
+        "crse": "306",
+        "id": "SOC-306",
+        "sections": [
+          {
+            "crn": 2145,
+            "subj": "SOC",
+            "crse": "306",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Qualitative Research Methods",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Jan Chien-Chen Lin",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Punishment",
+        "subj": "SOC",
+        "crse": "326",
+        "id": "SOC-326",
+        "sections": [
+          {
+            "crn": 2806,
+            "subj": "SOC",
+            "crse": "326",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Punishment",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mai Thai",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2805,
+            "subj": "SOC",
+            "crse": "326",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Punishment",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mai Thai",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Power and Sexuality",
+        "subj": "SOC",
+        "crse": "355",
+        "id": "SOC-355",
+        "sections": [
+          {
+            "crn": 2771,
+            "subj": "SOC",
+            "crse": "355",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Power and Sexuality",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Ben Robin Weiss",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sociology of (Non)Violence",
+        "subj": "SOC",
+        "crse": "370",
+        "id": "SOC-370",
+        "sections": [
+          {
+            "crn": 2772,
+            "subj": "SOC",
+            "crse": "370",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sociology of (Non)Violence",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Richard Mora",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
@@ -23640,68 +24409,6 @@
         ]
       },
       {
-        "title": "Punishment",
-        "subj": "SOC",
-        "crse": "326",
-        "id": "SOC-326",
-        "sections": [
-          {
-            "crn": 2805,
-            "subj": "SOC",
-            "crse": "326",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Punishment",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mai Thai",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2806,
-            "subj": "SOC",
-            "crse": "326",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Punishment",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mai Thai",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Social Movements and Revolutions",
         "subj": "SOC",
         "crse": "350",
@@ -23770,185 +24477,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Masculinities",
-        "subj": "SOC",
-        "crse": "225",
-        "id": "SOC-225",
-        "sections": [
-          {
-            "crn": 2140,
-            "subj": "SOC",
-            "crse": "225",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Masculinities",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Richard Mora",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sociology of Social Welfare",
-        "subj": "SOC",
-        "crse": "275",
-        "id": "SOC-275",
-        "sections": [
-          {
-            "crn": 2804,
-            "subj": "SOC",
-            "crse": "275",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sociology of Social Welfare",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ben Robin Weiss",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Qualitative Research Methods",
-        "subj": "SOC",
-        "crse": "306",
-        "id": "SOC-306",
-        "sections": [
-          {
-            "crn": 2145,
-            "subj": "SOC",
-            "crse": "306",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Qualitative Research Methods",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Jan Chien-Chen Lin",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Power and Sexuality",
-        "subj": "SOC",
-        "crse": "355",
-        "id": "SOC-355",
-        "sections": [
-          {
-            "crn": 2771,
-            "subj": "SOC",
-            "crse": "355",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Power and Sexuality",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ben Robin Weiss",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sociology of (Non)Violence",
-        "subj": "SOC",
-        "crse": "370",
-        "id": "SOC-370",
-        "sections": [
-          {
-            "crn": 2772,
-            "subj": "SOC",
-            "crse": "370",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sociology of (Non)Violence",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Richard Mora",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -23957,103 +24485,11 @@
     "code": "SPAN",
     "courses": [
       {
-        "title": "Beginning Spanish I",
-        "subj": "SPAN",
-        "crse": "101",
-        "id": "SPAN-101",
-        "sections": [
-          {
-            "crn": 2148,
-            "subj": "SPAN",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish I",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alicia Gonzalez",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Beginning Spanish II",
         "subj": "SPAN",
         "crse": "102",
         "id": "SPAN-102",
         "sections": [
-          {
-            "crn": 2150,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Luz Delia Forero",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2152,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Karina Rincon",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2149,
             "subj": "SPAN",
@@ -24137,6 +24573,62 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2150,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Luz Delia Forero",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2152,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Karina Rincon",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -24146,33 +24638,6 @@
         "crse": "152",
         "id": "SPAN-152",
         "sections": [
-          {
-            "crn": 2154,
-            "subj": "SPAN",
-            "crse": "152",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Intermediate Conversation II",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Viviana Beatriz MacManus",
-                "location": "",
-                "timeStart": 1800,
-                "timeEnd": 1855,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2155,
             "subj": "SPAN",
@@ -24199,6 +24664,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2154,
+            "subj": "SPAN",
+            "crse": "152",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intermediate Conversation II",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Viviana Beatriz MacManus",
+                "location": "",
+                "timeStart": 1800,
+                "timeEnd": 1855,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -24208,34 +24700,6 @@
         "crse": "201",
         "id": "SPAN-201",
         "sections": [
-          {
-            "crn": 2156,
-            "subj": "SPAN",
-            "crse": "201",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Spanish",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alicia Gonzalez",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2157,
             "subj": "SPAN",
@@ -24263,6 +24727,34 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2156,
+            "subj": "SPAN",
+            "crse": "201",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Spanish",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alicia Gonzalez",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -24272,33 +24764,6 @@
         "crse": "202",
         "id": "SPAN-202",
         "sections": [
-          {
-            "crn": 2158,
-            "subj": "SPAN",
-            "crse": "202",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Spanish",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Gloria Luz Orozco Allan",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2159,
             "subj": "SPAN",
@@ -24325,23 +24790,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Spanish for Heritage Speakers",
-        "subj": "SPAN",
-        "crse": "211",
-        "id": "SPAN-211",
-        "sections": [
+          },
           {
-            "crn": 2160,
+            "crn": 2158,
             "subj": "SPAN",
-            "crse": "211",
-            "sec": "00",
+            "crse": "202",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Spanish for Heritage Speakers",
+            "title": "Advanced Spanish",
             "cap": 18,
             "act": 0,
             "rem": 18,
@@ -24349,14 +24806,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Karina Rincon",
+                "instructor": "Gloria Luz Orozco Allan",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24370,33 +24826,6 @@
         "crse": "252",
         "id": "SPAN-252",
         "sections": [
-          {
-            "crn": 2162,
-            "subj": "SPAN",
-            "crse": "252",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Advanced Conversation II",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Viviana Beatriz MacManus",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2010,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2161,
             "subj": "SPAN",
@@ -24423,26 +24852,18 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Latin American Film and Culture",
-        "subj": "SPAN",
-        "crse": "313",
-        "id": "SPAN-313",
-        "sections": [
+          },
           {
-            "crn": 2745,
+            "crn": 2162,
             "subj": "SPAN",
-            "crse": "313",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Latin American Film and Culture",
-            "cap": 18,
+            "crse": "252",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Advanced Conversation II",
+            "cap": 99,
             "act": 0,
-            "rem": 18,
+            "rem": 99,
             "attribute": "",
             "timeslots": [
               {
@@ -24452,44 +24873,8 @@
                 ],
                 "instructor": "Viviana Beatriz MacManus",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Gender and Sexuality in Spain",
-        "subj": "SPAN",
-        "crse": "365",
-        "id": "SPAN-365",
-        "sections": [
-          {
-            "crn": 2821,
-            "subj": "SPAN",
-            "crse": "365",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Gender and Sexuality in Spain",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Celia Martinez-Saez",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 1915,
+                "timeEnd": 2010,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24567,30 +24952,24 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Theater",
-    "code": "THEA",
-    "courses": [
+      },
       {
-        "title": "Performance in Action",
-        "subj": "THEA",
-        "crse": "110",
-        "id": "THEA-110",
+        "title": "Beginning Spanish I",
+        "subj": "SPAN",
+        "crse": "101",
+        "id": "SPAN-101",
         "sections": [
           {
-            "crn": 2773,
-            "subj": "THEA",
-            "crse": "110",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Performance in Action",
-            "cap": 12,
+            "crn": 2148,
+            "subj": "SPAN",
+            "crse": "101",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish I",
+            "cap": 18,
             "act": 0,
-            "rem": 12,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -24599,15 +24978,172 @@
                   "W",
                   "F"
                 ],
-                "instructor": "James K. Angell",
+                "instructor": "Alicia Gonzalez",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
+                "timeStart": 1040,
+                "timeEnd": 1135,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Spanish for Heritage Speakers",
+        "subj": "SPAN",
+        "crse": "211",
+        "id": "SPAN-211",
+        "sections": [
+          {
+            "crn": 2160,
+            "subj": "SPAN",
+            "crse": "211",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Spanish for Heritage Speakers",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Karina Rincon",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Latin American Film and Culture",
+        "subj": "SPAN",
+        "crse": "313",
+        "id": "SPAN-313",
+        "sections": [
+          {
+            "crn": 2745,
+            "subj": "SPAN",
+            "crse": "313",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Latin American Film and Culture",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Viviana Beatriz MacManus",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Gender and Sexuality in Spain",
+        "subj": "SPAN",
+        "crse": "365",
+        "id": "SPAN-365",
+        "sections": [
+          {
+            "crn": 2821,
+            "subj": "SPAN",
+            "crse": "365",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Gender and Sexuality in Spain",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Celia Martinez-Saez",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Theater",
+    "code": "THEA",
+    "courses": [
+      {
+        "title": "On and Beyond the Stage: Intro to Performance Studies",
+        "subj": "THEA",
+        "crse": "100",
+        "id": "THEA-100",
+        "sections": [
+          {
+            "crn": 2495,
+            "subj": "THEA",
+            "crse": "100",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "On and Beyond the Stage: Intro to Performance Studies",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sarah E. Kozinn",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Performance in Action",
+        "subj": "THEA",
+        "crse": "110",
+        "id": "THEA-110",
+        "sections": [
           {
             "crn": 2774,
             "subj": "THEA",
@@ -24635,26 +25171,18 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Technical Theater",
-        "subj": "THEA",
-        "crse": "120",
-        "id": "THEA-120",
-        "sections": [
+          },
           {
-            "crn": 2496,
+            "crn": 2773,
             "subj": "THEA",
-            "crse": "120",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Technical Theater",
-            "cap": 18,
+            "crse": "110",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Performance in Action",
+            "cap": 12,
             "act": 0,
-            "rem": 18,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -24663,10 +25191,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Brian A. Fitzmorris",
+                "instructor": "James K. Angell",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24680,28 +25208,6 @@
         "crse": "121",
         "id": "THEA-121",
         "sections": [
-          {
-            "crn": 2498,
-            "subj": "THEA",
-            "crse": "121",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Production Laboratory",
-            "cap": 4,
-            "act": 0,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2497,
             "subj": "THEA",
@@ -24745,413 +25251,24 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Intensive Production Laboratory",
-        "subj": "THEA",
-        "crse": "122",
-        "id": "THEA-122",
-        "sections": [
+          },
           {
-            "crn": 2500,
+            "crn": 2498,
             "subj": "THEA",
-            "crse": "122",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Production Laboratory",
-            "cap": 6,
+            "crse": "121",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Production Laboratory",
+            "cap": 4,
             "act": 0,
-            "rem": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Brian A. Fitzmorris",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Tai Chi",
-        "subj": "THEA",
-        "crse": "133",
-        "id": "THEA-133",
-        "sections": [
-          {
-            "crn": 2502,
-            "subj": "THEA",
-            "crse": "133",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Tai Chi",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ezra Ethan Weisz",
-                "location": "",
-                "timeStart": 1230,
-                "timeEnd": 1325,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Bollywood Beats",
-        "subj": "THEA",
-        "crse": "136",
-        "id": "THEA-136",
-        "sections": [
-          {
-            "crn": 2846,
-            "subj": "THEA",
-            "crse": "136",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Bollywood Beats",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Shivani Thakkar",
-                "location": "",
-                "timeStart": 1730,
-                "timeEnd": 1845,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Design",
-        "subj": "THEA",
-        "crse": "175",
-        "id": "THEA-175",
-        "sections": [
-          {
-            "crn": 2505,
-            "subj": "THEA",
-            "crse": "175",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Design",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Xinyuan Li",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Acting 1",
-        "subj": "THEA",
-        "crse": "210",
-        "id": "THEA-210",
-        "sections": [
-          {
-            "crn": 2507,
-            "subj": "THEA",
-            "crse": "210",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Acting 1",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Sarah E. Kozinn",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1555,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Auditioning",
-        "subj": "THEA",
-        "crse": "212",
-        "id": "THEA-212",
-        "sections": [
-          {
-            "crn": 2524,
-            "subj": "THEA",
-            "crse": "212",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Auditioning",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "James K. Angell",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intermediate Choreography",
-        "subj": "THEA",
-        "crse": "237",
-        "id": "THEA-237",
-        "sections": [
-          {
-            "crn": 2526,
-            "subj": "THEA",
-            "crse": "237",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intermediate Choreography",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Francisco Martinez",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Period Styles for Stage and Screen",
-        "subj": "THEA",
-        "crse": "250",
-        "id": "THEA-250",
-        "sections": [
-          {
-            "crn": 2528,
-            "subj": "THEA",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Period Styles for Stage and Screen",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Aed McMillian",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Scenic Design",
-        "subj": "THEA",
-        "crse": "275",
-        "id": "THEA-275",
-        "sections": [
-          {
-            "crn": 2530,
-            "subj": "THEA",
-            "crse": "275",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Scenic Design",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Xinyuan Li",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intensive Performance Laboratory",
-        "subj": "THEA",
-        "crse": "311",
-        "id": "THEA-311",
-        "sections": [
-          {
-            "crn": 2532,
-            "subj": "THEA",
-            "crse": "311",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Performance Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Will Power",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Producing the Live Event",
-        "subj": "THEA",
-        "crse": "330",
-        "id": "THEA-330",
-        "sections": [
-          {
-            "crn": 2534,
-            "subj": "THEA",
-            "crse": "330",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Producing the Live Event",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Brian A. Fitzmorris",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1100,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "On and Beyond the Stage: Intro to Performance Studies",
-        "subj": "THEA",
-        "crse": "100",
-        "id": "THEA-100",
-        "sections": [
-          {
-            "crn": 2495,
-            "subj": "THEA",
-            "crse": "100",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "On and Beyond the Stage: Intro to Performance Studies",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Sarah E. Kozinn",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25535,6 +25652,417 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Introduction to Technical Theater",
+        "subj": "THEA",
+        "crse": "120",
+        "id": "THEA-120",
+        "sections": [
+          {
+            "crn": 2496,
+            "subj": "THEA",
+            "crse": "120",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Technical Theater",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Brian A. Fitzmorris",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1700,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intensive Production Laboratory",
+        "subj": "THEA",
+        "crse": "122",
+        "id": "THEA-122",
+        "sections": [
+          {
+            "crn": 2500,
+            "subj": "THEA",
+            "crse": "122",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intensive Production Laboratory",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Brian A. Fitzmorris",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tai Chi",
+        "subj": "THEA",
+        "crse": "133",
+        "id": "THEA-133",
+        "sections": [
+          {
+            "crn": 2502,
+            "subj": "THEA",
+            "crse": "133",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Tai Chi",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ezra Ethan Weisz",
+                "location": "",
+                "timeStart": 1230,
+                "timeEnd": 1325,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bollywood Beats",
+        "subj": "THEA",
+        "crse": "136",
+        "id": "THEA-136",
+        "sections": [
+          {
+            "crn": 2846,
+            "subj": "THEA",
+            "crse": "136",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Bollywood Beats",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Shivani Thakkar",
+                "location": "",
+                "timeStart": 1730,
+                "timeEnd": 1845,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Design",
+        "subj": "THEA",
+        "crse": "175",
+        "id": "THEA-175",
+        "sections": [
+          {
+            "crn": 2505,
+            "subj": "THEA",
+            "crse": "175",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Design",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Xinyuan Li",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Acting 1",
+        "subj": "THEA",
+        "crse": "210",
+        "id": "THEA-210",
+        "sections": [
+          {
+            "crn": 2507,
+            "subj": "THEA",
+            "crse": "210",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Acting 1",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Sarah E. Kozinn",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Auditioning",
+        "subj": "THEA",
+        "crse": "212",
+        "id": "THEA-212",
+        "sections": [
+          {
+            "crn": 2524,
+            "subj": "THEA",
+            "crse": "212",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Auditioning",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "James K. Angell",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intermediate Choreography",
+        "subj": "THEA",
+        "crse": "237",
+        "id": "THEA-237",
+        "sections": [
+          {
+            "crn": 2526,
+            "subj": "THEA",
+            "crse": "237",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intermediate Choreography",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Francisco Martinez",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Period Styles for Stage and Screen",
+        "subj": "THEA",
+        "crse": "250",
+        "id": "THEA-250",
+        "sections": [
+          {
+            "crn": 2528,
+            "subj": "THEA",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Period Styles for Stage and Screen",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Aed McMillian",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Scenic Design",
+        "subj": "THEA",
+        "crse": "275",
+        "id": "THEA-275",
+        "sections": [
+          {
+            "crn": 2530,
+            "subj": "THEA",
+            "crse": "275",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Scenic Design",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Xinyuan Li",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intensive Performance Laboratory",
+        "subj": "THEA",
+        "crse": "311",
+        "id": "THEA-311",
+        "sections": [
+          {
+            "crn": 2532,
+            "subj": "THEA",
+            "crse": "311",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intensive Performance Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Will Power",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Producing the Live Event",
+        "subj": "THEA",
+        "crse": "330",
+        "id": "THEA-330",
+        "sections": [
+          {
+            "crn": 2534,
+            "subj": "THEA",
+            "crse": "330",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Producing the Live Event",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Brian A. Fitzmorris",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1100,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -25542,6 +26070,138 @@
     "name": "Urban and Environmental Policy",
     "code": "UEP",
     "courses": [
+      {
+        "title": "Health Policy",
+        "subj": "UEP",
+        "crse": "209",
+        "id": "UEP-209",
+        "sections": [
+          {
+            "crn": 2812,
+            "subj": "UEP",
+            "crse": "209",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health Policy",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Alicia Ortencia Carranza",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
+        "subj": "UEP",
+        "crse": "247",
+        "id": "UEP-247",
+        "sections": [
+          {
+            "crn": 2167,
+            "subj": "UEP",
+            "crse": "247",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Sharon G. Cech",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Policy and Politics",
+        "subj": "UEP",
+        "crse": "301",
+        "id": "UEP-301",
+        "sections": [
+          {
+            "crn": 2168,
+            "subj": "UEP",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Urban Policy and Politics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Rick Charles Cole",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Applied Public Policy Practicum",
+        "subj": "UEP",
+        "crse": "411",
+        "id": "UEP-411",
+        "sections": [
+          {
+            "crn": 2776,
+            "subj": "UEP",
+            "crse": "411",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Applied Public Policy Practicum",
+            "cap": 35,
+            "act": 0,
+            "rem": 35,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Bhavna Shamasunder",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Environment and Society",
         "subj": "UEP",
@@ -25678,138 +26338,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Health Policy",
-        "subj": "UEP",
-        "crse": "209",
-        "id": "UEP-209",
-        "sections": [
-          {
-            "crn": 2812,
-            "subj": "UEP",
-            "crse": "209",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health Policy",
-            "cap": 24,
-            "act": 0,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Alicia Ortencia Carranza",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
-        "subj": "UEP",
-        "crse": "247",
-        "id": "UEP-247",
-        "sections": [
-          {
-            "crn": 2167,
-            "subj": "UEP",
-            "crse": "247",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Sharon G. Cech",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Urban Policy and Politics",
-        "subj": "UEP",
-        "crse": "301",
-        "id": "UEP-301",
-        "sections": [
-          {
-            "crn": 2168,
-            "subj": "UEP",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Urban Policy and Politics",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "Rick Charles Cole",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1755,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Applied Public Policy Practicum",
-        "subj": "UEP",
-        "crse": "411",
-        "id": "UEP-411",
-        "sections": [
-          {
-            "crn": 2776,
-            "subj": "UEP",
-            "crse": "411",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Applied Public Policy Practicum",
-            "cap": 35,
-            "act": 0,
-            "rem": 35,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Bhavna Shamasunder",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -25818,73 +26346,11 @@
     "code": "WRD",
     "courses": [
       {
-        "title": "Occidental Weekly Practicum",
-        "subj": "WRD",
-        "crse": "135",
-        "id": "WRD-135",
-        "sections": [
-          {
-            "crn": 2184,
-            "subj": "WRD",
-            "crse": "135",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Occidental Weekly Practicum",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Barbara A. Thomas",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "The Art of Essay Writing: Writing in Class, Whiteness, and Conflict",
         "subj": "WRD",
         "crse": "201",
         "id": "WRD-201",
         "sections": [
-          {
-            "crn": 2186,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing: Writing in Class, Whiteness, and Conflict",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Anita Louise Zachary",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2185,
             "subj": "WRD",
@@ -25935,6 +26401,137 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2186,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Writing in Class, Whiteness, and Conflict",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Anita Louise Zachary",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in Writing with the Community: Writing and the Los Angeles Experience",
+        "subj": "WRD",
+        "crse": "250",
+        "id": "WRD-250",
+        "sections": [
+          {
+            "crn": 2189,
+            "subj": "WRD",
+            "crse": "250",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Writing with the Community: Writing and the Los Angeles Experience",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creative Nonfiction",
+        "subj": "WRD",
+        "crse": "301",
+        "id": "WRD-301",
+        "sections": [
+          {
+            "crn": 2192,
+            "subj": "WRD",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Creative Nonfiction",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Occidental Weekly Practicum",
+        "subj": "WRD",
+        "crse": "135",
+        "id": "WRD-135",
+        "sections": [
+          {
+            "crn": 2184,
+            "subj": "WRD",
+            "crse": "135",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Occidental Weekly Practicum",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Barbara A. Thomas",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1425,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -26038,75 +26635,6 @@
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1255,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Writing with the Community: Writing and the Los Angeles Experience",
-        "subj": "WRD",
-        "crse": "250",
-        "id": "WRD-250",
-        "sections": [
-          {
-            "crn": 2189,
-            "subj": "WRD",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Writing with the Community: Writing and the Los Angeles Experience",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Creative Nonfiction",
-        "subj": "WRD",
-        "crse": "301",
-        "id": "WRD-301",
-        "sections": [
-          {
-            "crn": 2192,
-            "subj": "WRD",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Creative Nonfiction",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

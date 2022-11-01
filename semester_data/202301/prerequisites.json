@@ -12337,7 +12337,11 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "COMP 149",
+          "course": "MATH 210",
+          "type": "course"
+        },
+        {
+          "course": "MATH 211",
           "type": "course"
         },
         {
@@ -12347,7 +12351,7 @@
               "type": "course"
             },
             {
-              "course": "MATH 210",
+              "course": "COMP 149",
               "type": "course"
             }
           ],

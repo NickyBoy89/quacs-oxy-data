@@ -3914,7 +3914,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -11839,7 +11839,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -11865,7 +11865,7 @@
       },
       {
         "max": 10,
-        "open": 8,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -12745,7 +12745,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 15,
+        "open": 14,
         "reservedFor": "Major"
       }
     ],
@@ -13101,7 +13101,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 3,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -13441,7 +13441,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 3,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -16068,7 +16068,7 @@
     "reserved": [
       {
         "max": 6,
-        "open": 4,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17797,7 +17797,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -17813,7 +17813,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 3,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -17829,7 +17829,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 9,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -18053,7 +18053,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 12,
+        "open": 11,
         "reservedFor": "Frosh"
       }
     ],

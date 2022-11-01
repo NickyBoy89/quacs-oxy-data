@@ -545,7 +545,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 9,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -2802,7 +2802,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 2,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -3028,7 +3028,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 8,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -5246,13 +5246,13 @@
   "2173": {
     "reserved": [
       {
-        "max": 5,
-        "open": 2,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Frosh"
       },
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Transfer"
       }
     ],
@@ -6336,7 +6336,7 @@
       },
       {
         "max": 10,
-        "open": 2,
+        "open": 3,
         "reservedFor": "Frosh"
       },
       {
@@ -6694,6 +6694,10 @@
         },
         {
           "course": "ARTH 289",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 290",
           "type": "course"
         },
         {
@@ -10140,7 +10144,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -11536,7 +11540,7 @@
       },
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -11851,7 +11855,7 @@
     "reserved": [
       {
         "max": 6,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Frosh"
       },
       {
@@ -12292,7 +12296,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 18,
+        "open": 17,
         "reservedFor": "Major"
       }
     ],
@@ -14963,7 +14967,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -15744,7 +15748,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Frosh"
       }
     ],
@@ -17145,7 +17149,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Frosh"
       }
     ],
@@ -17507,7 +17511,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 13,
+        "open": 14,
         "reservedFor": "Frosh"
       }
     ],
@@ -17969,7 +17973,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 11,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -18145,7 +18149,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 14,
+        "open": 12,
         "reservedFor": "Frosh"
       }
     ],
@@ -18898,7 +18902,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 8,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -18943,7 +18947,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       },
       {

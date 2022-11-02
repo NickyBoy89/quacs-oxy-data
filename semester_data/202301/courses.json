@@ -88,8 +88,8 @@
             "credMax": 4,
             "title": "Psychic Life of Violence in the United States",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -158,8 +158,8 @@
             "credMax": 4,
             "title": "Asian Immigrants in American Society",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -384,8 +384,8 @@
             "credMax": 4,
             "title": "The Traveling Object: 1492-1820",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -616,8 +616,8 @@
             "credMax": 4,
             "title": "Introduction to Later European and American Art",
             "cap": 30,
-            "act": 9,
-            "rem": 21,
+            "act": 10,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -966,8 +966,8 @@
             "credMax": 4,
             "title": "Social Documentary Photography: A New Civil Contract",
             "cap": 18,
-            "act": 3,
-            "rem": 15,
+            "act": 4,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -1281,8 +1281,8 @@
             "credMax": 4,
             "title": "Asian Immigrants in American Society",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -4444,8 +4444,8 @@
             "credMax": 4,
             "title": "Organic Chemistry II",
             "cap": 20,
-            "act": 9,
-            "rem": 11,
+            "act": 10,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -4534,8 +4534,8 @@
             "credMax": 0,
             "title": "Organic Chemistry II Laboratory",
             "cap": 15,
-            "act": 2,
-            "rem": 13,
+            "act": 3,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -5483,8 +5483,8 @@
             "credMax": 5,
             "title": "Intermediate Chinese II",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -7172,8 +7172,8 @@
             "credMax": 4,
             "title": "Introduction to Feminist Studies",
             "cap": 35,
-            "act": 9,
-            "rem": 26,
+            "act": 10,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -7765,8 +7765,8 @@
             "credMax": 4,
             "title": "Introduction to Global Political Economy",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -7834,8 +7834,8 @@
             "credMax": 4,
             "title": "Gender and International Relations",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -9353,8 +9353,8 @@
             "credMax": 4,
             "title": "Education Policy in Urban Schools",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -9428,8 +9428,8 @@
             "credMax": 4,
             "title": "Creative Writing: Introduction to Fiction Writing",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9534,8 +9534,8 @@
             "credMax": 4,
             "title": "Afrofuturism",
             "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "act": 5,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -10291,70 +10291,6 @@
                   "F"
                 ],
                 "instructor": "Gregory Tadashi Toy",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Stay Mad: Countercultural Aesthetics from the Chicago Seven to Lil Nas X",
-        "subj": "FYS",
-        "crse": "67",
-        "id": "FYS-67",
-        "sections": [
-          {
-            "crn": 2885,
-            "subj": "FYS",
-            "crse": "67",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Stay Mad: Countercultural Aesthetics from the Chicago Seven to Lil Nas X",
-            "cap": 16,
-            "act": 5,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Matt B. Lynch",
-                "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1345,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2832,
-            "subj": "FYS",
-            "crse": "67",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Stay Mad: Countercultural Aesthetics from the Chicago Seven to Lil Nas X",
-            "cap": 16,
-            "act": 7,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Matt B. Lynch",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
@@ -11824,8 +11760,8 @@
             "credMax": 4,
             "title": "German Stylistics",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -11896,8 +11832,8 @@
             "credMax": 5,
             "title": "Kleist, Kafka and the Poetics of Madness",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -12636,8 +12572,8 @@
             "credMax": 5,
             "title": "Elementary Japanese II",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -12672,8 +12608,8 @@
             "credMax": 4,
             "title": "Advanced Japanese II",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -13608,8 +13544,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-B Laboratory",
             "cap": 35,
-            "act": 10,
-            "rem": 25,
+            "act": 9,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -13634,8 +13570,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-B Laboratory",
             "cap": 35,
-            "act": 3,
-            "rem": 32,
+            "act": 4,
+            "rem": 31,
             "attribute": "",
             "timeslots": [
               {
@@ -13838,8 +13774,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -13890,8 +13826,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 16,
-            "rem": 19,
+            "act": 17,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -13990,8 +13926,8 @@
             "credMax": 4,
             "title": "Multivariable Calculus",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -14054,8 +13990,8 @@
             "credMax": 4,
             "title": "Linear Algebra",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -14814,8 +14750,8 @@
             "credMax": 4,
             "title": "Aesthetics of the Cinema",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15659,8 +15595,8 @@
             "credMax": 4,
             "title": "Introduction to Songwriting",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -19566,8 +19502,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -19730,8 +19666,8 @@
             "credMax": 4,
             "title": "Environmental and Animal Ethics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21852,8 +21788,8 @@
             "credMax": 0,
             "title": "Modern Physics Laboratory",
             "cap": 14,
-            "act": 1,
-            "rem": 13,
+            "act": 2,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -22026,8 +21962,8 @@
             "credMax": 4,
             "title": "Foundations of Modern Physics",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -22168,8 +22104,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22301,8 +22237,8 @@
             "credMax": 4,
             "title": "Community Law Internship",
             "cap": 18,
-            "act": 1,
-            "rem": 17,
+            "act": 2,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22402,8 +22338,8 @@
             "credMax": 4,
             "title": "Lawyering for Social Justice",
             "cap": 15,
-            "act": 1,
-            "rem": 14,
+            "act": 2,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -22471,8 +22407,8 @@
             "credMax": 4,
             "title": "East Asian Politics: China, Japan, Korea, and Taiwan",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -23859,8 +23795,8 @@
             "credMax": 4,
             "title": "Introduction to Islam",
             "cap": 30,
-            "act": 11,
-            "rem": 19,
+            "act": 12,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -24042,8 +23978,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 8,
-            "rem": 22,
+            "act": 9,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -24344,8 +24280,8 @@
             "credMax": 4,
             "title": "Masculinities",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -24649,8 +24585,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25767,8 +25703,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -26618,8 +26554,8 @@
             "credMax": 4,
             "title": "Topics in Writing with the Community: Writing and the Los Angeles Experience",
             "cap": 14,
-            "act": 3,
-            "rem": 11,
+            "act": 2,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {

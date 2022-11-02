@@ -10452,7 +10452,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 13,
+        "open": 12,
         "reservedFor": "Major"
       }
     ],
@@ -15795,7 +15795,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -17165,22 +17165,6 @@
       }
     }
   },
-  "2832": {
-    "reserved": [
-      {
-        "max": 16,
-        "open": 9,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2834": {
     "restrictions": {
       "classification": {
@@ -18042,22 +18026,6 @@
       {
         "max": 16,
         "open": 16,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2885": {
-    "reserved": [
-      {
-        "max": 16,
-        "open": 11,
         "reservedFor": "Frosh"
       }
     ],

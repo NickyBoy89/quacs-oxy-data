@@ -968,7 +968,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1898,7 +1898,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Chattel Slavery and Its Afterlives",
+    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -3591,6 +3591,42 @@
       "ARTS 107"
     ]
   },
+  "BIO 320": {
+    "title": "Developmental Biology",
+    "prereqs": [
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "BIO 360": {
+    "title": "Avian Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
+  "BIO 226": {
+    "title": "Cell Biology",
+    "prereqs": [
+      "BIO 130"
+    ]
+  },
+  "BIO 275": {
+    "title": "Flora of Southern California",
+    "prereqs": [
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
   "BIO 325": {
     "title": "Microbial Diversity",
     "prereqs": [
@@ -3613,40 +3649,10 @@
       "BIO 280"
     ]
   },
-  "BIO 226": {
-    "title": "Cell Biology",
+  "CHEM 305L": {
+    "title": "Spectroscopy and Structure Laboratory",
     "prereqs": [
-      "BIO 130"
-    ]
-  },
-  "BIO 275": {
-    "title": "Flora of Southern California",
-    "prereqs": [
-      "BIO 104",
-      "BIO 105",
-      "BIO 106",
-      "BIO 110",
-      "BIO 115",
-      "BIO 130"
-    ]
-  },
-  "BIO 320": {
-    "title": "Developmental Biology",
-    "prereqs": [
-      "BIO 130",
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
-    ]
-  },
-  "BIO 360": {
-    "title": "Avian Biology",
-    "prereqs": [
-      "BIO 105",
-      "BIO 106",
-      "BIO 110",
-      "BIO 115",
-      "BIO 130"
+      "CHEM 305"
     ]
   },
   "CHEM 201": {
@@ -3660,12 +3666,6 @@
     "prereqs": [
       "CHEM 221",
       "CHEM 240"
-    ]
-  },
-  "CHEM 305L": {
-    "title": "Spectroscopy and Structure Laboratory",
-    "prereqs": [
-      "CHEM 305"
     ]
   },
   "CHIN 330": {
@@ -3685,6 +3685,14 @@
       "COGS 101"
     ]
   },
+  "COMP 389": {
+    "title": "Cryptography",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
   "COMP 317": {
     "title": "Algorithms Analysis",
     "prereqs": [
@@ -3692,14 +3700,6 @@
       "COMP 229",
       "MATH 210",
       "MATH 211"
-    ]
-  },
-  "COMP 389": {
-    "title": "Cryptography",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210",
-      "MATH 214"
     ]
   },
   "CTSJ 342": {
@@ -3717,14 +3717,14 @@
       "CTSJ 289"
     ]
   },
-  "DWA 342": {
-    "title": "Junior Seminar: Transnational Identity and International Relations",
+  "DWA 340": {
+    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
     "prereqs": [
       "DWA 101"
     ]
   },
-  "DWA 340": {
-    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
+  "DWA 342": {
+    "title": "Junior Seminar: Transnational Identity and International Relations",
     "prereqs": [
       "DWA 101"
     ]
@@ -3735,17 +3735,17 @@
       "ECON 250"
     ]
   },
-  "ECON 312": {
-    "title": "Political Economy of Sustainable Development: Case of Germany",
-    "prereqs": [
-      "ECON 102"
-    ]
-  },
   "ECON 328": {
     "title": "Economics of Race and Gender",
     "prereqs": [
       "APEA",
       "APEI",
+      "ECON 102"
+    ]
+  },
+  "ECON 312": {
+    "title": "Political Economy of Sustainable Development: Case of Germany",
+    "prereqs": [
       "ECON 102"
     ]
   },
@@ -3939,13 +3939,6 @@
       "MATH 108"
     ]
   },
-  "MATH 372": {
-    "title": "Operations Research",
-    "prereqs": [
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
   "MATH 320": {
     "title": "Algebra",
     "prereqs": [
@@ -3958,10 +3951,17 @@
       "MATH 210"
     ]
   },
-  "MAC 355": {
-    "title": "Advanced Media Practices",
+  "MATH 372": {
+    "title": "Operations Research",
     "prereqs": [
-      "MAC 240"
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "MAC 320": {
+    "title": "Advanced Screenwriting and Narrative Practices",
+    "prereqs": [
+      "MAC 220"
     ]
   },
   "MAC 492": {
@@ -3970,10 +3970,10 @@
       "MAC 491"
     ]
   },
-  "MAC 320": {
-    "title": "Advanced Screenwriting and Narrative Practices",
+  "MAC 355": {
+    "title": "Advanced Media Practices",
     "prereqs": [
-      "MAC 220"
+      "MAC 240"
     ]
   },
   "MUSC 148": {
@@ -3986,12 +3986,6 @@
     "title": "Piano Proficiency II",
     "prereqs": [
       "MUSC 231"
-    ]
-  },
-  "MUSC 252": {
-    "title": "Introduction to Songwriting",
-    "prereqs": [
-      "MUSC 151"
     ]
   },
   "MUSC 263": {
@@ -4007,12 +4001,6 @@
       "MUSC 247"
     ]
   },
-  "MUSC 350": {
-    "title": "Music Analysis: Form, Genre, Point of View",
-    "prereqs": [
-      "MUSC 251"
-    ]
-  },
   "MUSC 351": {
     "title": "Theory and Practice of Music IV",
     "prereqs": [
@@ -4025,6 +4013,18 @@
       "MUSC 258"
     ]
   },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 350": {
+    "title": "Music Analysis: Form, Genre, Point of View",
+    "prereqs": [
+      "MUSC 251"
+    ]
+  },
   "PHIL 350": {
     "title": "Metalogic",
     "prereqs": [
@@ -4032,16 +4032,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 316": {
-    "title": "Advanced Laboratory II",
-    "prereqs": [
-      "PHYS 240"
-    ]
-  },
   "PHYS 330": {
     "title": "Advanced Electromagnetism",
     "prereqs": [
       "PHYS 310"
+    ]
+  },
+  "PHYS 316": {
+    "title": "Advanced Laboratory II",
+    "prereqs": [
+      "PHYS 240"
     ]
   },
   "POLS 245": {
@@ -4080,9 +4080,10 @@
       "RUSN 201"
     ]
   },
-  "SOC 275": {
-    "title": "Sociology of Social Welfare",
+  "SOC 270": {
+    "title": "Urban Sociology",
     "prereqs": [
+      "POLS 101",
       "SOC 101",
       "SOC 102",
       "SOC 105"
@@ -4094,15 +4095,6 @@
       "SOC 101"
     ]
   },
-  "SOC 270": {
-    "title": "Urban Sociology",
-    "prereqs": [
-      "POLS 101",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
   "SOC 350": {
     "title": "Social Movements and Revolutions",
     "prereqs": [
@@ -4111,6 +4103,30 @@
       "SOC 101",
       "SOC 102",
       "SOC 105"
+    ]
+  },
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
+    "prereqs": [
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 303": {
@@ -4152,20 +4168,16 @@
       "SPAN 398"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
+  "THEA 237": {
+    "title": "Intermediate Choreography",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 137"
     ]
   },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
+  "THEA 330": {
+    "title": "Producing the Live Event",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 120"
     ]
   },
   "THEA 260": {
@@ -4178,18 +4190,6 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
-    ]
-  },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
-    "prereqs": [
-      "THEA 137"
-    ]
-  },
-  "THEA 330": {
-    "title": "Producing the Live Event",
-    "prereqs": [
-      "THEA 120"
     ]
   },
   "UEP 300": {

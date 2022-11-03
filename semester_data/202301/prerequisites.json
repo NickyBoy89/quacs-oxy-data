@@ -2756,7 +2756,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -3043,7 +3043,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -3976,15 +3976,6 @@
       }
     }
   },
-  "2112": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2115": {
     "prerequisites": {
       "nested": [
@@ -4185,7 +4176,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 2,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -4244,7 +4235,7 @@
     "reserved": [
       {
         "max": 18,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -4318,7 +4309,7 @@
     "reserved": [
       {
         "max": 13,
-        "open": 9,
+        "open": 8,
         "reservedFor": "Major"
       }
     ],
@@ -4785,7 +4776,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -10013,7 +10004,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -11456,7 +11447,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Frosh"
       },
       {
@@ -11908,7 +11899,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -11941,7 +11932,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -12002,7 +11993,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Major"
       }
     ],
@@ -12028,7 +12019,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -12671,7 +12662,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -16566,7 +16557,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       },
       {
@@ -17675,7 +17666,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -17755,7 +17746,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -17771,7 +17762,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 6,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -17803,7 +17794,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17931,7 +17922,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -18043,7 +18034,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18059,7 +18050,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 7,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -19211,6 +19202,12 @@
     }
   },
   "2990": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-130",
+        "BIO-130"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {
@@ -19237,6 +19234,11 @@
     }
   },
   "2991": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-130"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {
@@ -19263,6 +19265,11 @@
     }
   },
   "2992": {
+    "corequisites": {
+      "cross_list_courses": [
+        "BIO-130"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {

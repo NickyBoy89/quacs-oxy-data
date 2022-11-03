@@ -82,7 +82,7 @@
     ]
   },
   "BIO 268": {
-    "title": "Biostatistics",
+    "title": "Biostatistics Laboratory",
     "prereqs": [
       "BIO 105",
       "BIO 106",
@@ -1898,7 +1898,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
+    "title": "Special Topics in Critical Theory and Social Justice: Chattel Slavery and Its Afterlives",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -3591,25 +3591,6 @@
       "ARTS 107"
     ]
   },
-  "BIO 320": {
-    "title": "Developmental Biology",
-    "prereqs": [
-      "BIO 130",
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
-    ]
-  },
-  "BIO 360": {
-    "title": "Avian Biology",
-    "prereqs": [
-      "BIO 105",
-      "BIO 106",
-      "BIO 110",
-      "BIO 115",
-      "BIO 130"
-    ]
-  },
   "BIO 226": {
     "title": "Cell Biology",
     "prereqs": [
@@ -3649,10 +3630,23 @@
       "BIO 280"
     ]
   },
-  "CHEM 305L": {
-    "title": "Spectroscopy and Structure Laboratory",
+  "BIO 320": {
+    "title": "Developmental Biology",
     "prereqs": [
-      "CHEM 305"
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "BIO 360": {
+    "title": "Avian Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "CHEM 201": {
@@ -3666,6 +3660,12 @@
     "prereqs": [
       "CHEM 221",
       "CHEM 240"
+    ]
+  },
+  "CHEM 305L": {
+    "title": "Spectroscopy and Structure Laboratory",
+    "prereqs": [
+      "CHEM 305"
     ]
   },
   "CHIN 330": {
@@ -3685,14 +3685,6 @@
       "COGS 101"
     ]
   },
-  "COMP 389": {
-    "title": "Cryptography",
-    "prereqs": [
-      "COMP 149",
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
   "COMP 317": {
     "title": "Algorithms Analysis",
     "prereqs": [
@@ -3700,6 +3692,14 @@
       "COMP 229",
       "MATH 210",
       "MATH 211"
+    ]
+  },
+  "COMP 389": {
+    "title": "Cryptography",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210",
+      "MATH 214"
     ]
   },
   "DWA 340": {

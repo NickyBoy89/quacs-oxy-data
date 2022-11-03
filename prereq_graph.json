@@ -367,9 +367,9 @@
     "title": "Data Structures",
     "prereqs": [
       "APCA",
-      "COMP 127",
       "COMP 131",
-      "COMP 211"
+      "COMP 181",
+      "OXCS"
     ]
   },
   "COMP 379": {
@@ -3700,21 +3700,6 @@
       "COMP 229",
       "MATH 210",
       "MATH 211"
-    ]
-  },
-  "CTSJ 342": {
-    "title": "Fatness",
-    "prereqs": [
-      "CTSJ 247",
-      "CTSJ 248",
-      "CTSJ 255",
-      "CTSJ 259",
-      "CTSJ 270",
-      "CTSJ 273",
-      "CTSJ 279",
-      "CTSJ 280",
-      "CTSJ 286",
-      "CTSJ 289"
     ]
   },
   "DWA 340": {

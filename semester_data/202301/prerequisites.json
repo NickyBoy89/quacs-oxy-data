@@ -5281,51 +5281,6 @@
     }
   },
   "2177": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ 247",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 248",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 255",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 259",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 270",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 273",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 279",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 280",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 286",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 289",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -12003,7 +11958,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 14,
+        "open": 13,
         "reservedFor": "Major"
       }
     ],
@@ -12215,19 +12170,19 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
           "course": "COMP 131",
           "type": "course"
         },
         {
-          "course": "COMP 211",
+          "course": "COMP 181",
           "type": "course"
         },
         {
           "course": "APCA",
+          "type": "course"
+        },
+        {
+          "course": "OXCS",
           "type": "course"
         }
       ],
@@ -12245,19 +12200,19 @@
     "prerequisites": {
       "nested": [
         {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
           "course": "COMP 131",
           "type": "course"
         },
         {
-          "course": "COMP 211",
+          "course": "COMP 181",
           "type": "course"
         },
         {
           "course": "APCA",
+          "type": "course"
+        },
+        {
+          "course": "OXCS",
           "type": "course"
         }
       ],

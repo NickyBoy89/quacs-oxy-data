@@ -6117,7 +6117,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -6174,7 +6174,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -2,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -6216,7 +6216,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": -2,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -15542,7 +15542,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 0,
+        "open": 1,
         "reservedFor": "Frosh"
       },
       {
@@ -17771,7 +17771,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -17931,7 +17931,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18059,7 +18059,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 3,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],

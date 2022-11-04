@@ -1492,8 +1492,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1519,8 +1519,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1658,8 +1658,8 @@
             "credMax": 4,
             "title": "Organisms on Earth",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1684,8 +1684,8 @@
             "credMax": 0,
             "title": "Organisms on Earth Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6972,8 +6972,8 @@
             "credMax": 4,
             "title": "Computer Science Junior Seminar",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -7555,8 +7555,8 @@
             "credMax": 4,
             "title": "Fatness",
             "cap": 20,
-            "act": 10,
-            "rem": 10,
+            "act": 11,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -9305,8 +9305,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -9487,8 +9487,8 @@
             "credMax": 4,
             "title": "Literary Experiments from Chaucer to Milton",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -10267,8 +10267,8 @@
             "credMax": 4,
             "title": "Environmental Entanglements",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -10531,8 +10531,8 @@
             "credMax": 4,
             "title": "Social Difference and the Politics of Technology",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12031,8 +12031,8 @@
             "credMax": 4,
             "title": "United States Culture and Society II",
             "cap": 30,
-            "act": 11,
-            "rem": 19,
+            "act": 10,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -12166,8 +12166,8 @@
             "credMax": 4,
             "title": "Rethinking the American West",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -12412,8 +12412,8 @@
             "credMax": 4,
             "title": "Ancient Athens and Renaissance Florence",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -16437,8 +16437,8 @@
             "credMax": 1,
             "title": "Piano (Half Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -19723,8 +19723,8 @@
             "credMax": 4,
             "title": "Informal Logic",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -20699,8 +20699,8 @@
             "credMax": 1,
             "title": "Intercollegiate Baseball",
             "cap": 99,
-            "act": 11,
-            "rem": 88,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -20767,8 +20767,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Basketball",
             "cap": 99,
-            "act": 6,
-            "rem": 93,
+            "act": 7,
+            "rem": 92,
             "attribute": "",
             "timeslots": [
               {
@@ -21379,8 +21379,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Track and Field",
             "cap": 99,
-            "act": 14,
-            "rem": 85,
+            "act": 15,
+            "rem": 84,
             "attribute": "",
             "timeslots": [
               {
@@ -22294,8 +22294,8 @@
             "credMax": 4,
             "title": "Topic in Politics: Classical Quest for Justice",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -23455,8 +23455,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 26,
-            "rem": -2,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -24030,8 +24030,8 @@
             "credMax": 4,
             "title": "Contemporary Sociological Theory",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -25691,8 +25691,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -25824,8 +25824,8 @@
             "credMax": 1,
             "title": "Intermediate Ballet",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {

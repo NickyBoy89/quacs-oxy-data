@@ -5778,8 +5778,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6127,8 +6127,8 @@
             "credMax": 4,
             "title": "Linguistics for Cognitive Science",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -6204,8 +6204,8 @@
             "credMax": 4,
             "title": "Literature, Culture, Self: Being in the Wor(l)d",
             "cap": 35,
-            "act": 38,
-            "rem": -3,
+            "act": 39,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {
@@ -6715,8 +6715,8 @@
             "credMax": 4,
             "title": "Mathematical Foundations of Computer Science",
             "cap": 30,
-            "act": 25,
-            "rem": 5,
+            "act": 26,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -6814,8 +6814,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -7007,8 +7007,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 18,
-            "rem": 6,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -7043,8 +7043,8 @@
             "credMax": 4,
             "title": "Game Design",
             "cap": 20,
-            "act": 22,
-            "rem": -2,
+            "act": 23,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -7079,8 +7079,8 @@
             "credMax": 4,
             "title": "Cryptography",
             "cap": 20,
-            "act": 22,
-            "rem": -2,
+            "act": 25,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -13769,8 +13769,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 25,
-            "rem": 10,
+            "act": 24,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -13851,8 +13851,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -14085,8 +14085,8 @@
             "credMax": 4,
             "title": "Numerical Analysis",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -14121,8 +14121,8 @@
             "credMax": 4,
             "title": "Graph Theory",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -20168,8 +20168,8 @@
             "credMax": 1,
             "title": "Tigers Live Fitness",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -21811,8 +21811,8 @@
             "credMax": 2,
             "title": "Special Topics in Physics I",
             "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -23889,8 +23889,8 @@
             "credMax": 4,
             "title": "Critical Approaches to the Study of Religion",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -26039,8 +26039,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

@@ -5778,8 +5778,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 18,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -5840,8 +5840,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15782,8 +15782,8 @@
             "credMax": 4,
             "title": "Mixing and Mastering",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -20835,8 +20835,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Basketball",
             "cap": 99,
-            "act": 6,
-            "rem": 93,
+            "act": 7,
+            "rem": 92,
             "attribute": "",
             "timeslots": [
               {
@@ -22087,8 +22087,8 @@
             "credMax": 2,
             "title": "Senior Physics Seminar II",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

@@ -1363,8 +1363,8 @@
             "credMax": 2,
             "title": "Senior Seminar",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -2148,8 +2148,8 @@
             "credMax": 4,
             "title": "Biostatistics",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2256,8 +2256,8 @@
             "credMax": 0,
             "title": "Biostatistics Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5079,8 +5079,8 @@
             "credMax": 4,
             "title": "Biochemistry",
             "cap": 24,
-            "act": 14,
-            "rem": 10,
+            "act": 13,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -5169,8 +5169,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -5605,8 +5605,8 @@
             "credMax": 4,
             "title": "Topics in Fiction and Film",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -14227,8 +14227,8 @@
             "credMax": 4,
             "title": "Partial Differential Equations",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -23889,8 +23889,8 @@
             "credMax": 4,
             "title": "Critical Approaches to the Study of Religion",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -25484,8 +25484,8 @@
             "credMax": 4,
             "title": "Period Styles for Stage and Screen",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -25585,8 +25585,8 @@
             "credMax": 4,
             "title": "Producing the Live Event",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -26604,8 +26604,8 @@
             "credMax": 2,
             "title": "Theory and Pedagogy of Writing",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 8,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

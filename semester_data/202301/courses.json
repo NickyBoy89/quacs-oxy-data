@@ -1404,8 +1404,8 @@
             "credMax": 4,
             "title": "Topics in Biology",
             "cap": 36,
-            "act": 35,
-            "rem": 1,
+            "act": 34,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2601,8 +2601,8 @@
             "credMax": 1,
             "title": "Virology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3519,8 +3519,8 @@
             "credMax": 4,
             "title": "Virology",
             "cap": 16,
-            "act": 20,
-            "rem": -4,
+            "act": 21,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -4670,8 +4670,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 24,
-            "act": 18,
-            "rem": 6,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -4812,8 +4812,8 @@
             "credMax": 0,
             "title": "Integrated Concepts in General Chemistry Laboratory",
             "cap": 14,
-            "act": 11,
-            "rem": 3,
+            "act": 12,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6092,8 +6092,8 @@
             "credMax": 4,
             "title": "Pain and the Brain",
             "cap": 18,
-            "act": 23,
-            "rem": -5,
+            "act": 24,
+            "rem": -6,
             "attribute": "",
             "timeslots": [
               {
@@ -6715,8 +6715,8 @@
             "credMax": 4,
             "title": "Mathematical Foundations of Computer Science",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10239,8 +10239,8 @@
             "credMax": 4,
             "title": "Environmental Entanglements",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13252,8 +13252,8 @@
             "credMax": 4,
             "title": "Introduction to Latina/o and Latin American Studies",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -14773,8 +14773,8 @@
             "credMax": 4,
             "title": "Introduction to Visual and Critical Studies",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14953,8 +14953,8 @@
             "credMax": 1,
             "title": "Voice Class I",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20395,8 +20395,8 @@
             "credMax": 1,
             "title": "Men's Ultimate Frisbee",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 8,
+            "rem": 91,
             "attribute": "",
             "timeslots": [
               {
@@ -20631,8 +20631,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Water Polo",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -21039,8 +21039,8 @@
             "credMax": 1,
             "title": "Intercollegiate Lacrosse",
             "cap": 99,
-            "act": 11,
-            "rem": 88,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -21447,8 +21447,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Tennis",
             "cap": 99,
-            "act": 5,
-            "rem": 94,
+            "act": 6,
+            "rem": 93,
             "attribute": "",
             "timeslots": [
               {
@@ -21811,8 +21811,8 @@
             "credMax": 2,
             "title": "Special Topics in Physics I",
             "cap": 18,
-            "act": 5,
-            "rem": 13,
+            "act": 6,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -22087,8 +22087,8 @@
             "credMax": 2,
             "title": "Senior Physics Seminar II",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -24198,8 +24198,8 @@
             "credMax": 4,
             "title": "Social Movements and Revolutions",
             "cap": 18,
-            "act": 2,
-            "rem": 16,
+            "act": 1,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -25099,8 +25099,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25484,8 +25484,8 @@
             "credMax": 4,
             "title": "Period Styles for Stage and Screen",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -25691,8 +25691,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -26039,8 +26039,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

@@ -4042,20 +4042,20 @@
       "POLS 101"
     ]
   },
-  "PSYC 351": {
-    "title": "Psycholinguistics",
-    "prereqs": [
-      "COGS 101",
-      "LING 301",
-      "PSYC 101"
-    ]
-  },
   "PSYC 460": {
     "title": "Assessment of Individual Differences",
     "prereqs": [
       "PSYC 201",
       "PSYC 321",
       "PSYC 340"
+    ]
+  },
+  "PSYC 351": {
+    "title": "Psycholinguistics",
+    "prereqs": [
+      "COGS 101",
+      "LING 301",
+      "PSYC 101"
     ]
   },
   "RUSN 202": {

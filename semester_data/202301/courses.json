@@ -3234,8 +3234,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -3378,8 +3378,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 7,
-            "rem": 2,
+            "act": 8,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6169,8 +6169,8 @@
             "credMax": 4,
             "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
             "cap": 35,
-            "act": 32,
-            "rem": 3,
+            "act": 31,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -7555,8 +7555,8 @@
             "credMax": 4,
             "title": "Fatness",
             "cap": 20,
-            "act": 12,
-            "rem": 8,
+            "act": 13,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -11453,8 +11453,8 @@
             "credMax": 2,
             "title": "Advanced Field Mapping",
             "cap": 18,
-            "act": 0,
-            "rem": 18,
+            "act": 1,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -11741,8 +11741,8 @@
             "credMax": 4,
             "title": "Special Topics in Geology",
             "cap": 18,
-            "act": 9,
-            "rem": 9,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13463,8 +13463,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13593,8 +13593,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-B Laboratory",
             "cap": 35,
-            "act": 33,
-            "rem": 2,
+            "act": 32,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -16202,8 +16202,8 @@
             "credMax": 1,
             "title": "Symphony Orchestra",
             "cap": 60,
-            "act": 37,
-            "rem": 23,
+            "act": 38,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -22911,309 +22911,24 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Developmental Psychology",
-        "subj": "PSYC",
-        "crse": "321",
-        "id": "PSYC-321",
-        "sections": [
+          },
           {
-            "crn": 2205,
+            "crn": 2993,
             "subj": "PSYC",
-            "crse": "321",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Developmental Psychology",
-            "cap": 19,
-            "act": 21,
-            "rem": -2,
+            "crse": "295",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Social Psychology",
-        "subj": "PSYC",
-        "crse": "323",
-        "id": "PSYC-323",
-        "sections": [
-          {
-            "crn": 2207,
-            "subj": "PSYC",
-            "crse": "323",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Social Psychology",
-            "cap": 19,
-            "act": 19,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Nicholas Peter Alt",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Health Psychology",
-        "subj": "PSYC",
-        "crse": "334",
-        "id": "PSYC-334",
-        "sections": [
-          {
-            "crn": 2209,
-            "subj": "PSYC",
-            "crse": "334",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Health Psychology",
-            "cap": 19,
-            "act": 19,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Psycholinguistics",
-        "subj": "PSYC",
-        "crse": "351",
-        "id": "PSYC-351",
-        "sections": [
-          {
-            "crn": 2212,
-            "subj": "PSYC",
-            "crse": "351",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Psycholinguistics",
-            "cap": 19,
-            "act": 18,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Directed Research",
-        "subj": "PSYC",
-        "crse": "395",
-        "id": "PSYC-395",
-        "sections": [
-          {
-            "crn": 2214,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2216,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 0,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Susan Geffen",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2213,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 6,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Patricia Cabral",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2215,
-            "subj": "PSYC",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 5,
-            "act": 6,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew E. Shtulman",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Clinical Psychology",
-        "subj": "PSYC",
-        "crse": "431",
-        "id": "PSYC-431",
-        "sections": [
-          {
-            "crn": 2218,
-            "subj": "PSYC",
-            "crse": "431",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Clinical Psychology",
-            "cap": 16,
-            "act": 15,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Shaghayegh Habibi",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Assessment of Individual Differences",
-        "subj": "PSYC",
-        "crse": "460",
-        "id": "PSYC-460",
-        "sections": [
-          {
-            "crn": 2811,
-            "subj": "PSYC",
-            "crse": "460",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Assessment of Individual Differences",
-            "cap": 12,
-            "act": 9,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Brian Hahn Kim",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23356,6 +23071,335 @@
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "PSYC",
+        "crse": "395",
+        "id": "PSYC-395",
+        "sections": [
+          {
+            "crn": 2213,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 6,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2215,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 6,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew E. Shtulman",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2994,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Nicholas Peter Alt",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2214,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2216,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Clinical Psychology",
+        "subj": "PSYC",
+        "crse": "431",
+        "id": "PSYC-431",
+        "sections": [
+          {
+            "crn": 2218,
+            "subj": "PSYC",
+            "crse": "431",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Clinical Psychology",
+            "cap": 16,
+            "act": 15,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Shaghayegh Habibi",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Assessment of Individual Differences",
+        "subj": "PSYC",
+        "crse": "460",
+        "id": "PSYC-460",
+        "sections": [
+          {
+            "crn": 2811,
+            "subj": "PSYC",
+            "crse": "460",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Assessment of Individual Differences",
+            "cap": 12,
+            "act": 9,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Brian Hahn Kim",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Developmental Psychology",
+        "subj": "PSYC",
+        "crse": "321",
+        "id": "PSYC-321",
+        "sections": [
+          {
+            "crn": 2205,
+            "subj": "PSYC",
+            "crse": "321",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Developmental Psychology",
+            "cap": 19,
+            "act": 21,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Social Psychology",
+        "subj": "PSYC",
+        "crse": "323",
+        "id": "PSYC-323",
+        "sections": [
+          {
+            "crn": 2207,
+            "subj": "PSYC",
+            "crse": "323",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Social Psychology",
+            "cap": 19,
+            "act": 19,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Nicholas Peter Alt",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health Psychology",
+        "subj": "PSYC",
+        "crse": "334",
+        "id": "PSYC-334",
+        "sections": [
+          {
+            "crn": 2209,
+            "subj": "PSYC",
+            "crse": "334",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health Psychology",
+            "cap": 19,
+            "act": 19,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Psycholinguistics",
+        "subj": "PSYC",
+        "crse": "351",
+        "id": "PSYC-351",
+        "sections": [
+          {
+            "crn": 2212,
+            "subj": "PSYC",
+            "crse": "351",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Psycholinguistics",
+            "cap": 19,
+            "act": 18,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23966,8 +24010,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

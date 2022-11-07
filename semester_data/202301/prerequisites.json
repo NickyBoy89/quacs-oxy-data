@@ -4185,7 +4185,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -17028,8 +17028,8 @@
   "2826": {
     "reserved": [
       {
-        "max": 8,
-        "open": 3,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17674,8 +17674,8 @@
   "2868": {
     "reserved": [
       {
-        "max": 8,
-        "open": 4,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -19300,6 +19300,45 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2993": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2994": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

@@ -151,7 +151,7 @@
       },
       {
         "max": 5,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Transfer"
       },
       {
@@ -10372,7 +10372,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 10,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],

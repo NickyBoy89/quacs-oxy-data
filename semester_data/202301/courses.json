@@ -6814,8 +6814,8 @@
             "credMax": 0,
             "title": "Computer Organization Laboratory",
             "cap": 14,
-            "act": 15,
-            "rem": -1,
+            "act": 16,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -7007,8 +7007,8 @@
             "credMax": 4,
             "title": "Computer Organization",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14013,8 +14013,8 @@
             "credMax": 4,
             "title": "Linear Algebra",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {

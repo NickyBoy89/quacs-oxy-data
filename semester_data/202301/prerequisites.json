@@ -12001,8 +12001,8 @@
   "2546": {
     "reserved": [
       {
-        "max": 10,
-        "open": 2,
+        "max": 8,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -19335,6 +19335,55 @@
       "course": "PSYC 200",
       "type": "course"
     },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2995": {
+    "prerequisites": {
+      "course": "UEP 101",
+      "type": "course"
+    },
+    "reserved": [
+      {
+        "max": 18,
+        "open": 18,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2996": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "UEP 101",
+          "type": "course"
+        },
+        {
+          "course": "POLS 101",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 18,
+        "open": 18,
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

@@ -6874,8 +6874,8 @@
             "credMax": 4,
             "title": "Music and Artificial Intelligence",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -14411,8 +14411,8 @@
             "credMax": 4,
             "title": "Topics in Media Representation: Asian American Film and Media",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 18,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -15623,8 +15623,8 @@
             "credMax": 4,
             "title": "Music and Artificial Intelligence Laboratory",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -15974,9 +15974,9 @@
             "credMin": 2,
             "credMax": 2,
             "title": "Senior Production Comprehensives Preparation",
-            "cap": 10,
+            "cap": 8,
             "act": 4,
-            "rem": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -16000,9 +16000,9 @@
             "credMin": 2,
             "credMax": 2,
             "title": "Senior Production Comprehensives Preparation",
-            "cap": 10,
+            "cap": 8,
             "act": 8,
-            "rem": 2,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21515,8 +21515,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Track and Field",
             "cap": 99,
-            "act": 13,
-            "rem": 86,
+            "act": 14,
+            "rem": 85,
             "attribute": "",
             "timeslots": [
               {
@@ -22189,8 +22189,8 @@
             "credMax": 4,
             "title": "Introduction to Comparative Politics",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -23525,8 +23525,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24708,8 +24708,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -24905,8 +24905,8 @@
             "credMax": 1,
             "title": "Advanced Conversation II",
             "cap": 99,
-            "act": 5,
-            "rem": 94,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -26199,11 +26199,97 @@
         ]
       },
       {
+        "title": "Environmental Law and Policy",
+        "subj": "UEP",
+        "crse": "300",
+        "id": "UEP-300",
+        "sections": [
+          {
+            "crn": 2995,
+            "subj": "UEP",
+            "crse": "300",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Environmental Law and Policy",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Caroline Farrell",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1650,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2775,
+            "subj": "UEP",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Environmental Law and Policy",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Caroline Farrell",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1650,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Urban Policy and Politics",
         "subj": "UEP",
         "crse": "301",
         "id": "UEP-301",
         "sections": [
+          {
+            "crn": 2996,
+            "subj": "UEP",
+            "crse": "301",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Urban Policy and Politics",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Rick Charles Cole",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2168,
             "subj": "UEP",
@@ -26289,40 +26375,6 @@
                 "location": "",
                 "timeStart": 1915,
                 "timeEnd": 2210,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Environmental Law and Policy",
-        "subj": "UEP",
-        "crse": "300",
-        "id": "UEP-300",
-        "sections": [
-          {
-            "crn": 2775,
-            "subj": "UEP",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Environmental Law and Policy",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Caroline Farrell",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

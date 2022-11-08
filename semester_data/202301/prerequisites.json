@@ -16290,8 +16290,8 @@
   "2797": {
     "reserved": [
       {
-        "max": 10,
-        "open": 6,
+        "max": 8,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -17931,7 +17931,7 @@
     "reserved": [
       {
         "max": 16,
-        "open": 1,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],

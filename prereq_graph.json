@@ -4017,16 +4017,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 330": {
-    "title": "Advanced Electromagnetism",
-    "prereqs": [
-      "PHYS 310"
-    ]
-  },
   "PHYS 316": {
     "title": "Advanced Laboratory II",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "PHYS 330": {
+    "title": "Advanced Electromagnetism",
+    "prereqs": [
+      "PHYS 310"
     ]
   },
   "POLS 245": {
@@ -4042,14 +4042,6 @@
       "POLS 101"
     ]
   },
-  "PSYC 351": {
-    "title": "Psycholinguistics",
-    "prereqs": [
-      "COGS 101",
-      "LING 301",
-      "PSYC 101"
-    ]
-  },
   "PSYC 460": {
     "title": "Assessment of Individual Differences",
     "prereqs": [
@@ -4058,25 +4050,19 @@
       "PSYC 340"
     ]
   },
+  "PSYC 351": {
+    "title": "Psycholinguistics",
+    "prereqs": [
+      "COGS 101",
+      "LING 301",
+      "PSYC 101"
+    ]
+  },
   "RUSN 202": {
     "title": "Intermediate Russian II",
     "prereqs": [
       "OXRU",
       "RUSN 201"
-    ]
-  },
-  "SOC 275": {
-    "title": "Sociology of Social Welfare",
-    "prereqs": [
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 326": {
-    "title": "Punishment",
-    "prereqs": [
-      "SOC 101"
     ]
   },
   "SOC 270": {
@@ -4088,6 +4074,12 @@
       "SOC 105"
     ]
   },
+  "SOC 326": {
+    "title": "Punishment",
+    "prereqs": [
+      "SOC 101"
+    ]
+  },
   "SOC 350": {
     "title": "Social Movements and Revolutions",
     "prereqs": [
@@ -4096,6 +4088,30 @@
       "SOC 101",
       "SOC 102",
       "SOC 105"
+    ]
+  },
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
+    "prereqs": [
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 303": {
@@ -4137,20 +4153,16 @@
       "SPAN 398"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
+  "THEA 237": {
+    "title": "Intermediate Choreography",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 137"
     ]
   },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
+  "THEA 330": {
+    "title": "Producing the Live Event",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 120"
     ]
   },
   "THEA 260": {
@@ -4163,18 +4175,6 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
-    ]
-  },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
-    "prereqs": [
-      "THEA 137"
-    ]
-  },
-  "THEA 330": {
-    "title": "Producing the Live Event",
-    "prereqs": [
-      "THEA 120"
     ]
   },
   "UEP 300": {

@@ -6701,7 +6701,7 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 1,
+        "max": 0,
         "open": 0,
         "reservedFor": "Transfer"
       }
@@ -9946,7 +9946,7 @@
   "2415": {
     "reserved": [
       {
-        "max": 7,
+        "max": 6,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -12027,7 +12027,7 @@
     },
     "reserved": [
       {
-        "max": 12,
+        "max": 11,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -15661,7 +15661,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17566,7 +17566,7 @@
   "2861": {
     "reserved": [
       {
-        "max": 6,
+        "max": 5,
         "open": 0,
         "reservedFor": "Frosh"
       }

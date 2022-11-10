@@ -5395,7 +5395,7 @@
   "2195": {
     "reserved": [
       {
-        "max": 15,
+        "max": 14,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -15484,15 +15484,6 @@
       "classification": {
         "may_not_be": [
           "Frosh"
-        ]
-      }
-    }
-  },
-  "2739": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
         ]
       }
     }

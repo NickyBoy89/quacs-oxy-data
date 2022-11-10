@@ -4367,47 +4367,6 @@
       }
     }
   },
-  "2146": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SOC 101",
-          "type": "course"
-        },
-        {
-          "course": "SOC 102",
-          "type": "course"
-        },
-        {
-          "course": "SOC 105",
-          "type": "course"
-        },
-        {
-          "course": "POLS 101",
-          "type": "course"
-        },
-        {
-          "course": "OXSO",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 1,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2147": {
     "prerequisites": {
       "nested": [
@@ -19369,6 +19328,24 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2998": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2999": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

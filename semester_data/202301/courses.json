@@ -447,8 +447,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -581,8 +581,8 @@
             "credMax": 4,
             "title": "Introduction to East Asian Art",
             "cap": 30,
-            "act": 26,
-            "rem": 4,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -791,8 +791,8 @@
             "credMax": 4,
             "title": "Art Education Practicum: Community Studio at OXY ARTS",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1001,8 +1001,8 @@
             "credMax": 4,
             "title": "Writing Art and Writing as Art",
             "cap": 16,
-            "act": 9,
-            "rem": 7,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -1328,13 +1328,14 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
                 "instructor": "Ryan Preston-Roedder",
                 "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
+                "timeStart": 1145,
+                "timeEnd": 1240,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -7624,8 +7625,8 @@
             "credMax": 4,
             "title": "Social Justice Practicum",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -9102,8 +9103,8 @@
             "credMax": 4,
             "title": "Art Education Practicum: Community Studio at OXY ARTS",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -9305,8 +9306,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -9375,8 +9376,8 @@
             "credMax": 4,
             "title": "Educational Inequality",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -15746,14 +15747,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T",
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Laura Desiree LaVertu",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22878,8 +22874,8 @@
             "credMax": 4,
             "title": "Social Psychology",
             "cap": 19,
-            "act": 19,
-            "rem": 0,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23208,8 +23204,8 @@
             "credMax": 4,
             "title": "Abnormal Psychology",
             "cap": 19,
-            "act": 19,
-            "rem": 0,
+            "act": 18,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23683,8 +23679,8 @@
             "credMax": 4,
             "title": "Islamic Art, Architecture, and Visual Culture",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

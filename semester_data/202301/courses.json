@@ -1633,8 +1633,8 @@
             "credMax": 0,
             "title": "Organisms on Earth Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1659,8 +1659,8 @@
             "credMax": 4,
             "title": "Organisms on Earth",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8323,8 +8323,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 24,
-            "rem": 8,
+            "act": 25,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -15056,8 +15056,8 @@
             "credMax": 1,
             "title": "Chamber Jazz and Improvisation",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 11,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -20272,8 +20272,8 @@
             "credMax": 1,
             "title": "Women's Ultimate Frisbee",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {

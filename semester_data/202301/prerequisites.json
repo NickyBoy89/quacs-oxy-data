@@ -11102,36 +11102,6 @@
       }
     }
   },
-  "2487": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 120",
-          "type": "course"
-        },
-        {
-          "course": "MATH 128",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "APBC",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2488": {
     "prerequisites": {
       "course": "MATH 210",
@@ -14864,336 +14834,6 @@
       }
     }
   },
-  "2737": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "HIST 101",
-          "type": "course"
-        },
-        {
-          "course": "HIST 102",
-          "type": "course"
-        },
-        {
-          "course": "HIST 121",
-          "type": "course"
-        },
-        {
-          "course": "HIST 122",
-          "type": "course"
-        },
-        {
-          "course": "HIST 125",
-          "type": "course"
-        },
-        {
-          "course": "HIST 141",
-          "type": "course"
-        },
-        {
-          "course": "HIST 150",
-          "type": "course"
-        },
-        {
-          "course": "HIST 151",
-          "type": "course"
-        },
-        {
-          "course": "HIST 182",
-          "type": "course"
-        },
-        {
-          "course": "HIST 183",
-          "type": "course"
-        },
-        {
-          "course": "HIST 190",
-          "type": "course"
-        },
-        {
-          "course": "HIST 191",
-          "type": "course"
-        },
-        {
-          "course": "HIST 192",
-          "type": "course"
-        },
-        {
-          "course": "HIST 197",
-          "type": "course"
-        },
-        {
-          "course": "HIST 200",
-          "type": "course"
-        },
-        {
-          "course": "HIST 205",
-          "type": "course"
-        },
-        {
-          "course": "HIST 206",
-          "type": "course"
-        },
-        {
-          "course": "HIST 207",
-          "type": "course"
-        },
-        {
-          "course": "HIST 208",
-          "type": "course"
-        },
-        {
-          "course": "HIST 209",
-          "type": "course"
-        },
-        {
-          "course": "HIST 210",
-          "type": "course"
-        },
-        {
-          "course": "HIST 211",
-          "type": "course"
-        },
-        {
-          "course": "HIST 212",
-          "type": "course"
-        },
-        {
-          "course": "HIST 213",
-          "type": "course"
-        },
-        {
-          "course": "HIST 217",
-          "type": "course"
-        },
-        {
-          "course": "HIST 218",
-          "type": "course"
-        },
-        {
-          "course": "HIST 219",
-          "type": "course"
-        },
-        {
-          "course": "HIST 220",
-          "type": "course"
-        },
-        {
-          "course": "HIST 224",
-          "type": "course"
-        },
-        {
-          "course": "HIST 226",
-          "type": "course"
-        },
-        {
-          "course": "HIST 230",
-          "type": "course"
-        },
-        {
-          "course": "HIST 233",
-          "type": "course"
-        },
-        {
-          "course": "HIST 234",
-          "type": "course"
-        },
-        {
-          "course": "HIST 235",
-          "type": "course"
-        },
-        {
-          "course": "HIST 237",
-          "type": "course"
-        },
-        {
-          "course": "HIST 242",
-          "type": "course"
-        },
-        {
-          "course": "HIST 243",
-          "type": "course"
-        },
-        {
-          "course": "HIST 245",
-          "type": "course"
-        },
-        {
-          "course": "HIST 246",
-          "type": "course"
-        },
-        {
-          "course": "HIST 247",
-          "type": "course"
-        },
-        {
-          "course": "HIST 248",
-          "type": "course"
-        },
-        {
-          "course": "HIST 249",
-          "type": "course"
-        },
-        {
-          "course": "HIST 251",
-          "type": "course"
-        },
-        {
-          "course": "HIST 252",
-          "type": "course"
-        },
-        {
-          "course": "HIST 254",
-          "type": "course"
-        },
-        {
-          "course": "HIST 256",
-          "type": "course"
-        },
-        {
-          "course": "HIST 258",
-          "type": "course"
-        },
-        {
-          "course": "HIST 259",
-          "type": "course"
-        },
-        {
-          "course": "HIST 271",
-          "type": "course"
-        },
-        {
-          "course": "HIST 274",
-          "type": "course"
-        },
-        {
-          "course": "HIST 277",
-          "type": "course"
-        },
-        {
-          "course": "HIST 278",
-          "type": "course"
-        },
-        {
-          "course": "HIST 282",
-          "type": "course"
-        },
-        {
-          "course": "HIST 283",
-          "type": "course"
-        },
-        {
-          "course": "HIST 295",
-          "type": "course"
-        },
-        {
-          "course": "HIST 297",
-          "type": "course"
-        },
-        {
-          "course": "HIST 300",
-          "type": "course"
-        },
-        {
-          "course": "HIST 304",
-          "type": "course"
-        },
-        {
-          "course": "HIST 309",
-          "type": "course"
-        },
-        {
-          "course": "HIST 311",
-          "type": "course"
-        },
-        {
-          "course": "HIST 312",
-          "type": "course"
-        },
-        {
-          "course": "HIST 316",
-          "type": "course"
-        },
-        {
-          "course": "HIST 316",
-          "type": "course"
-        },
-        {
-          "course": "HIST 328",
-          "type": "course"
-        },
-        {
-          "course": "HIST 330",
-          "type": "course"
-        },
-        {
-          "course": "HIST 336",
-          "type": "course"
-        },
-        {
-          "course": "HIST 338",
-          "type": "course"
-        },
-        {
-          "course": "HIST 344",
-          "type": "course"
-        },
-        {
-          "course": "HIST 345",
-          "type": "course"
-        },
-        {
-          "course": "HIST 346",
-          "type": "course"
-        },
-        {
-          "course": "HIST 348",
-          "type": "course"
-        },
-        {
-          "course": "HIST 355",
-          "type": "course"
-        },
-        {
-          "course": "HIST 357",
-          "type": "course"
-        },
-        {
-          "course": "HIST 358",
-          "type": "course"
-        },
-        {
-          "course": "HIST 376",
-          "type": "course"
-        },
-        {
-          "course": "HIST 385",
-          "type": "course"
-        },
-        {
-          "course": "HIST 390",
-          "type": "course"
-        },
-        {
-          "course": "HIST 395",
-          "type": "course"
-        },
-        {
-          "course": "HIST 397",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2738": {
     "prerequisites": {
       "nested": [
@@ -17319,6 +16959,19 @@
       }
     }
   },
+  "2848": {
+    "prerequisites": {
+      "course": "OXRU",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
   "2849": {
     "reserved": [
       {
@@ -19333,6 +18986,15 @@
     }
   },
   "2999": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "3000": {
     "restrictions": {
       "classification": {
         "may_not_be": [

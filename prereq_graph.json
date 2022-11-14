@@ -3754,89 +3754,6 @@
       "GRK 102"
     ]
   },
-  "HIST 315": {
-    "title": "The \"Canon Wars\": Debating the Aims of U.S. Higher Education",
-    "prereqs": [
-      "HIST 101",
-      "HIST 102",
-      "HIST 121",
-      "HIST 122",
-      "HIST 125",
-      "HIST 141",
-      "HIST 150",
-      "HIST 151",
-      "HIST 182",
-      "HIST 183",
-      "HIST 190",
-      "HIST 191",
-      "HIST 192",
-      "HIST 197",
-      "HIST 200",
-      "HIST 205",
-      "HIST 206",
-      "HIST 207",
-      "HIST 208",
-      "HIST 209",
-      "HIST 210",
-      "HIST 211",
-      "HIST 212",
-      "HIST 213",
-      "HIST 217",
-      "HIST 218",
-      "HIST 219",
-      "HIST 220",
-      "HIST 224",
-      "HIST 226",
-      "HIST 230",
-      "HIST 233",
-      "HIST 234",
-      "HIST 235",
-      "HIST 237",
-      "HIST 242",
-      "HIST 243",
-      "HIST 245",
-      "HIST 246",
-      "HIST 247",
-      "HIST 248",
-      "HIST 249",
-      "HIST 251",
-      "HIST 252",
-      "HIST 254",
-      "HIST 256",
-      "HIST 258",
-      "HIST 259",
-      "HIST 271",
-      "HIST 274",
-      "HIST 277",
-      "HIST 278",
-      "HIST 282",
-      "HIST 283",
-      "HIST 295",
-      "HIST 297",
-      "HIST 300",
-      "HIST 304",
-      "HIST 309",
-      "HIST 311",
-      "HIST 312",
-      "HIST 316",
-      "HIST 328",
-      "HIST 330",
-      "HIST 336",
-      "HIST 338",
-      "HIST 344",
-      "HIST 345",
-      "HIST 346",
-      "HIST 348",
-      "HIST 355",
-      "HIST 357",
-      "HIST 358",
-      "HIST 376",
-      "HIST 385",
-      "HIST 390",
-      "HIST 395",
-      "HIST 397"
-    ]
-  },
   "HIST 395": {
     "title": "Special Topics in History: The Democrats, Jefferson to Biden",
     "prereqs": [
@@ -3924,13 +3841,6 @@
       "MATH 108"
     ]
   },
-  "MATH 372": {
-    "title": "Operations Research",
-    "prereqs": [
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
   "MATH 320": {
     "title": "Algebra",
     "prereqs": [
@@ -3943,10 +3853,17 @@
       "MATH 210"
     ]
   },
-  "MAC 355": {
-    "title": "Advanced Media Practices",
+  "MATH 372": {
+    "title": "Operations Research",
     "prereqs": [
-      "MAC 240"
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "MAC 320": {
+    "title": "Advanced Screenwriting and Narrative Practices",
+    "prereqs": [
+      "MAC 220"
     ]
   },
   "MAC 492": {
@@ -3955,10 +3872,10 @@
       "MAC 491"
     ]
   },
-  "MAC 320": {
-    "title": "Advanced Screenwriting and Narrative Practices",
+  "MAC 355": {
+    "title": "Advanced Media Practices",
     "prereqs": [
-      "MAC 220"
+      "MAC 240"
     ]
   },
   "MUSC 148": {
@@ -3971,12 +3888,6 @@
     "title": "Piano Proficiency II",
     "prereqs": [
       "MUSC 231"
-    ]
-  },
-  "MUSC 252": {
-    "title": "Introduction to Songwriting",
-    "prereqs": [
-      "MUSC 151"
     ]
   },
   "MUSC 263": {
@@ -3992,12 +3903,6 @@
       "MUSC 247"
     ]
   },
-  "MUSC 350": {
-    "title": "Music Analysis: Form, Genre, Point of View",
-    "prereqs": [
-      "MUSC 251"
-    ]
-  },
   "MUSC 351": {
     "title": "Theory and Practice of Music IV",
     "prereqs": [
@@ -4010,6 +3915,18 @@
       "MUSC 258"
     ]
   },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 350": {
+    "title": "Music Analysis: Form, Genre, Point of View",
+    "prereqs": [
+      "MUSC 251"
+    ]
+  },
   "PHIL 350": {
     "title": "Metalogic",
     "prereqs": [
@@ -4017,16 +3934,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 330": {
-    "title": "Advanced Electromagnetism",
-    "prereqs": [
-      "PHYS 310"
-    ]
-  },
   "PHYS 316": {
     "title": "Advanced Laboratory II",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "PHYS 330": {
+    "title": "Advanced Electromagnetism",
+    "prereqs": [
+      "PHYS 310"
     ]
   },
   "POLS 245": {
@@ -4042,6 +3959,14 @@
       "POLS 101"
     ]
   },
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
+    "prereqs": [
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
   "PSYC 351": {
     "title": "Psycholinguistics",
     "prereqs": [
@@ -4050,12 +3975,10 @@
       "PSYC 101"
     ]
   },
-  "PSYC 460": {
-    "title": "Assessment of Individual Differences",
+  "RUSN 336": {
+    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
     "prereqs": [
-      "PSYC 201",
-      "PSYC 321",
-      "PSYC 340"
+      "OXRU"
     ]
   },
   "RUSN 202": {

@@ -8613,8 +8613,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 20,
-            "act": 18,
-            "rem": 2,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8640,8 +8640,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -8800,8 +8800,8 @@
             "credMax": 4,
             "title": "International Economics",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -12153,156 +12153,15 @@
         ]
       },
       {
-        "title": "Rethinking the American West",
-        "subj": "HIST",
-        "crse": "218",
-        "id": "HIST-218",
-        "sections": [
-          {
-            "crn": 2736,
-            "subj": "HIST",
-            "crse": "218",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Rethinking the American West",
-            "cap": 25,
-            "act": 7,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jonathan A. Veitch",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Modern China: Colonialism, Nationalism, and Revolution",
-        "subj": "HIST",
-        "crse": "243",
-        "id": "HIST-243",
-        "sections": [
-          {
-            "crn": 2085,
-            "subj": "HIST",
-            "crse": "243",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Modern China: Colonialism, Nationalism, and Revolution",
-            "cap": 25,
-            "act": 23,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Alexander F. Day",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Nahuatl Language, Writing, and Culture",
-        "subj": "HIST",
-        "crse": "251",
-        "id": "HIST-251",
-        "sections": [
-          {
-            "crn": 2086,
-            "subj": "HIST",
-            "crse": "251",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Nahuatl Language, Writing, and Culture",
-            "cap": 25,
-            "act": 25,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Lisa Sousa",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 925,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in History: Crime and Punishment in Russian History",
-        "subj": "HIST",
-        "crse": "295",
-        "id": "HIST-295",
-        "sections": [
-          {
-            "crn": 2863,
-            "subj": "HIST",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in History: Crime and Punishment in Russian History",
-            "cap": 25,
-            "act": 7,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Anna-Christine Elizabeth Grant",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "The \"Canon Wars\": Debating the Aims of U.S. Higher Education",
         "subj": "HIST",
-        "crse": "315",
-        "id": "HIST-315",
+        "crse": "216",
+        "id": "HIST-216",
         "sections": [
           {
-            "crn": 2737,
+            "crn": 3000,
             "subj": "HIST",
-            "crse": "315",
+            "crse": "216",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
@@ -12321,76 +12180,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in History: The Democrats, Jefferson to Biden",
-        "subj": "HIST",
-        "crse": "395",
-        "id": "HIST-395",
-        "sections": [
-          {
-            "crn": 2738,
-            "subj": "HIST",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in History: The Democrats, Jefferson to Biden",
-            "cap": 16,
-            "act": 9,
-            "rem": 7,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Thomas John Balcerski",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Modern Latin America",
-        "subj": "HIST",
-        "crse": "151",
-        "id": "HIST-151",
-        "sections": [
-          {
-            "crn": 2083,
-            "subj": "HIST",
-            "crse": "151",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Modern Latin America",
-            "cap": 30,
-            "act": 20,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Alexandra M. Puerto",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12532,6 +12321,217 @@
                 "location": "",
                 "timeStart": 1605,
                 "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Special Topics in History: The Democrats, Jefferson to Biden",
+        "subj": "HIST",
+        "crse": "395",
+        "id": "HIST-395",
+        "sections": [
+          {
+            "crn": 2738,
+            "subj": "HIST",
+            "crse": "395",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in History: The Democrats, Jefferson to Biden",
+            "cap": 16,
+            "act": 9,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Thomas John Balcerski",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Modern Latin America",
+        "subj": "HIST",
+        "crse": "151",
+        "id": "HIST-151",
+        "sections": [
+          {
+            "crn": 2083,
+            "subj": "HIST",
+            "crse": "151",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Modern Latin America",
+            "cap": 30,
+            "act": 20,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Alexandra M. Puerto",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rethinking the American West",
+        "subj": "HIST",
+        "crse": "218",
+        "id": "HIST-218",
+        "sections": [
+          {
+            "crn": 2736,
+            "subj": "HIST",
+            "crse": "218",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Rethinking the American West",
+            "cap": 25,
+            "act": 7,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jonathan A. Veitch",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Modern China: Colonialism, Nationalism, and Revolution",
+        "subj": "HIST",
+        "crse": "243",
+        "id": "HIST-243",
+        "sections": [
+          {
+            "crn": 2085,
+            "subj": "HIST",
+            "crse": "243",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Modern China: Colonialism, Nationalism, and Revolution",
+            "cap": 25,
+            "act": 23,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Nahuatl Language, Writing, and Culture",
+        "subj": "HIST",
+        "crse": "251",
+        "id": "HIST-251",
+        "sections": [
+          {
+            "crn": 2086,
+            "subj": "HIST",
+            "crse": "251",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Nahuatl Language, Writing, and Culture",
+            "cap": 25,
+            "act": 25,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Lisa Sousa",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 925,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in History: Crime and Punishment in Russian History",
+        "subj": "HIST",
+        "crse": "295",
+        "id": "HIST-295",
+        "sections": [
+          {
+            "crn": 2863,
+            "subj": "HIST",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in History: Crime and Punishment in Russian History",
+            "cap": 25,
+            "act": 7,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Anna-Christine Elizabeth Grant",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22294,8 +22294,8 @@
             "credMax": 4,
             "title": "Constitutional Law: Civil Rights and Civil Liberties",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23473,8 +23473,8 @@
             "credMax": 0,
             "title": "Epidemiology Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -23541,8 +23541,8 @@
             "credMax": 4,
             "title": "Epidemiology",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

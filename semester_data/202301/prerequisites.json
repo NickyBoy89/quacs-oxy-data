@@ -2978,8 +2978,8 @@
   "2080": {
     "reserved": [
       {
-        "max": 5,
-        "open": 1,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -5719,7 +5719,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": -1,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],

@@ -4797,51 +4797,6 @@
       }
     }
   },
-  "2160": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "OXSP",
-          "type": "course"
-        },
-        {
-          "course": "APSP",
-          "type": "course"
-        },
-        {
-          "course": "SL",
-          "type": "course"
-        },
-        {
-          "course": "SP",
-          "type": "course"
-        },
-        {
-          "course": "SSL",
-          "type": "course"
-        },
-        {
-          "course": "SSP",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2161": {
     "prerequisites": {
       "nested": [
@@ -13018,15 +12973,6 @@
       }
     }
   },
-  "2575": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2576": {
     "restrictions": {
       "classification": {
@@ -13796,15 +13742,6 @@
     }
   },
   "2608": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2609": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16030,124 +15967,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2801": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ARTH 150",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 160",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 170",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 180",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 257",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 266",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 268",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 272",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 275",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 283",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 285",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 266",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 270",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 274",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 275",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 287",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 280",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 283",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 285",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 287",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 288",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 289",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 295",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Major"
-      },
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Transfer"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -19003,7 +18822,20 @@
       }
     }
   },
-  "3001": {
+  "3003": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN 101",
+          "type": "course"
+        },
+        {
+          "course": "OXSP",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

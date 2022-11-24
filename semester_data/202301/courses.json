@@ -4307,8 +4307,8 @@
             "credMax": 4,
             "title": "Organic Chemistry I",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4395,8 +4395,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 14,
-            "act": 13,
-            "rem": 1,
+            "act": 12,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

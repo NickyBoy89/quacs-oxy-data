@@ -3855,8 +3855,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3971,8 +3971,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -4245,8 +4245,8 @@
             "credMax": 0,
             "title": "Biochemical and Environmental Analysis Laboratory",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -4605,8 +4605,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 24,
-            "act": 25,
-            "rem": -1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -4633,8 +4633,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -4977,8 +4977,8 @@
             "credMax": 4,
             "title": "Biochemistry",
             "cap": 24,
-            "act": 8,
-            "rem": 16,
+            "act": 7,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -5041,8 +5041,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 2,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -5323,8 +5323,8 @@
             "credMax": 4,
             "title": "Biochemical and Environmental Analysis",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -13617,8 +13617,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 24,
-            "act": 15,
-            "rem": 9,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -13643,8 +13643,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 24,
-            "rem": 11,
+            "act": 25,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -13671,8 +13671,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 35,
-            "act": 19,
-            "rem": 16,
+            "act": 18,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -13725,8 +13725,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 24,
-            "act": 18,
-            "rem": 6,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -18902,42 +18902,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Chile",
-    "code": "ABCI",
-    "courses": [
-      {
-        "title": "Occidental-in-Chile",
-        "subj": "ABCI",
-        "crse": "302",
-        "id": "ABCI-302",
-        "sections": [
-          {
-            "crn": 2975,
-            "subj": "ABCI",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Chile",
-            "cap": 3,
-            "act": 2,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-Czech Republic",
     "code": "ABCZ",
     "courses": [
@@ -18992,43 +18956,7 @@
             "credMax": 16,
             "title": "Occidental-in-France",
             "cap": 3,
-            "act": 2,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Germany",
-    "code": "ABGE",
-    "courses": [
-      {
-        "title": "Occidental-in-Germany",
-        "subj": "ABGE",
-        "crse": "302",
-        "id": "ABGE-302",
-        "sections": [
-          {
-            "crn": 2978,
-            "subj": "ABGE",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Germany",
-            "cap": 2,
-            "act": 2,
+            "act": 3,
             "rem": 0,
             "attribute": "",
             "timeslots": [
@@ -19940,8 +19868,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -24294,8 +24222,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

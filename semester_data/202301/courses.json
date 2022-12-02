@@ -3087,8 +3087,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -13047,8 +13047,8 @@
             "credMax": 4,
             "title": "Elementary Latin",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

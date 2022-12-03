@@ -331,8 +331,8 @@
   },
   "ARTH-180": {
     "crse": 180,
-    "description": "A selective survey of European and American painting and sculpture from the Renaissance to the mid-20th century. Coursework introduces students to the fundamental art historical practices of visual description and visual analysis. Readings, lectures, discussions and writing assignments focus on key artistic and visual conventions of the Euro-American tradition, from the invention of one-point perspective and illusionist models of art, to modernist critiques of those models in the 19th and 20th centuries. Major themes of the course will include changing approaches to visual narrative and description; the shifting status of the artist in Euro-American cultures; patronage, audience, art criticism and exhibition culture; issues of race, gender, identity and power in visual representation; abstraction and the rise of the avant-garde. Museum visit required.",
-    "name": "Introduction to Later European and American Art",
+    "description": "The term \u201cModernism\u201d has traditionally referred to certain developments in so-called Western art from roughly the late 19th century to the 1960s. Through readings, lectures, discussions and writing assignments, this course will pose the question of whether the concept of Modernism can be used to understand cultural practices from other parts of the world as well. Or does the consideration of art from all six inhabited continents over this period render the concept of Modernism inoperable? What commonalities and differences can we discern between art made in vastly different contexts in response to the experiences of colonialism, industrialization, urbanization, nationalism, and revolution? What sorts of continuities, tensions, or ruptures have arisen between indigenous traditions and metropolitan practices? Finally, how has a globalized contemporary art world arisen out of numerous local ones? To answer these questions, and others, students will be introduced to the fundamental art historical practices of visual description and visual analysis.",
+    "name": "Global Modernism",
     "subj": "ARTH"
   },
   "ARTH-193": {
@@ -1369,7 +1369,7 @@
   },
   "BIO-490": {
     "crse": 490,
-    "description": "Topics of these seminars will be announced at Spring pre-registration. Each senior must pass one seminar for the Comprehensive requirement. Each seminar meets two hours per week with extensive reading, discussion, and a major oral presentation by each student.",
+    "description": "Topics of these seminars will be announced at Spring pre-registration. Each senior must pass one seminar for the Comprehensive requirement. Each seminar meets two hours per week with extensive reading, discussion, and a major oral presentation by each student.\u00a0Instructor permission required.",
     "name": "Senior Seminar",
     "subj": "BIO"
   },
@@ -8549,6 +8549,12 @@
     "name": "Conditioning, Leadership and Strategy: Women's Track and Field",
     "subj": "PHAC"
   },
+  "PHAC-275": {
+    "crse": 275,
+    "description": "For individuals who are interested in recreational or competitive weightlifting and powerlifting.\u00a0 Participants will learn techniques of\u00a0Olympic style weightlifting and power lifting.\u00a0 Through strength and conditioning workouts, they will enhance their strength and power.\u00a0Participants are expected to have prior experience with Olympic style lifting, and/or power lifting.",
+    "name": "Tigers Live Strength",
+    "subj": "PHAC"
+  },
   "PHIL-101": {
     "crse": 101,
     "description": "This course introduces students to the central philosophical skills of critical thinking, careful reading, and analytical writing. Students will engage with a range of both historical and contemporary philosophical texts, from multiple regions and time periods, and with a range of philosophical questions that reflect the four content areas that structure our curriculum: (1) History of Philosophy, (2) Diversity in Philosophy, (3) Self & Community, and (4) Mind & World.",
@@ -10921,8 +10927,8 @@
   },
   "THEA-100": {
     "crse": 100,
-    "description": "This course will look at the pivotal beginnings of the\u00a0performance\u00a0studies\u00a0field, its roots in various disciplines, and will explore its evolution over the past 50 years.\u00a0 We will begin by asking, \u201cWhat is\u00a0performance\u00a0studies?\u201d Each week we will look at different answers to this question as we read and discuss the work of various artists and theorists to see how their work illuminates the question.\u00a0 These readings will be complimented by viewings of performances so that we can engage the questions on both a practical and theoretical level and demonstrate the critical entanglement between\u00a0performance\u00a0theory and practice.\u00a0\u00a0 As scholars and practitioners we too will experiment with praxis by activating each section\u00a0with our own\u00a0performance\u00a0experiments.\u00a0 As much as this class is a historical survey of the field, it is also a laboratory where we will explore how we can perform in order to understand theory and how we can use theory to understand\u00a0performance.",
-    "name": "On and Beyond the Stage: Intro to Performance Studies",
+    "description": "This course will look at the pivotal beginnings of the\u00a0performance\u00a0studies\u00a0field, its roots in various disciplines, and will explore its evolution over the past 50 years.\u00a0 We will begin by asking, \u201cWhat is\u00a0performance\u00a0studies?\u201d and \"How\u00a0does it connect with theater studies?\" Each week we will look at different answers to this question as we read and discuss the work of various artists and theorists to see how their work illuminates the question.\u00a0 These readings will be complimented by viewings of performances so that we can engage the questions on both a practical and theoretical level and demonstrate the critical entanglement between\u00a0performance\u00a0theory and practice.\u00a0\u00a0 As scholars and practitioners we too will experiment with praxis by activating each section\u00a0with our own\u00a0performance\u00a0experiments.\u00a0 As much as this class is a historical survey of the field, it is also a laboratory where we will explore how we can perform in order to understand theory and how we can use theory to understand\u00a0performance.",
+    "name": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
     "subj": "THEA"
   },
   "THEA-101": {

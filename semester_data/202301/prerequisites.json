@@ -2666,7 +2666,7 @@
   "2085": {
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -3570,7 +3570,7 @@
   "2110": {
     "reserved": [
       {
-        "max": 10,
+        "max": 9,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -4982,7 +4982,7 @@
   "2196": {
     "reserved": [
       {
-        "max": 15,
+        "max": 14,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -9644,7 +9644,7 @@
     },
     "reserved": [
       {
-        "max": 8,
+        "max": 7,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -10974,7 +10974,7 @@
   "2506": {
     "reserved": [
       {
-        "max": 5,
+        "max": 4,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16434,8 +16434,8 @@
   "2852": {
     "reserved": [
       {
-        "max": 16,
-        "open": 1,
+        "max": 15,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -16580,8 +16580,8 @@
   "2860": {
     "reserved": [
       {
-        "max": 15,
-        "open": 1,
+        "max": 14,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18154,8 +18154,8 @@
   "2989": {
     "reserved": [
       {
-        "max": 8,
-        "open": 1,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Frosh"
       },
       {

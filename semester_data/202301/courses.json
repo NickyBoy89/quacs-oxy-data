@@ -4605,8 +4605,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -4747,8 +4747,8 @@
             "credMax": 0,
             "title": "Integrated Concepts in General Chemistry Laboratory",
             "cap": 14,
-            "act": 11,
-            "rem": 3,
+            "act": 12,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12004,8 +12004,8 @@
             "credMax": 4,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
-            "act": 8,
-            "rem": 22,
+            "act": 7,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {

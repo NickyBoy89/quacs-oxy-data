@@ -79,34 +79,6 @@ jobs:
         with:
           name: faculty
           path: faculty.json
-  scrape-rmp:
-    name: "Scrape RateMyProfessors"
-    runs-on:
-      ubuntu-latest
-    steps:
-      - name: Checkout scrapers
-        uses: actions/checkout@v2
-        with:
-          path: 'quacs-oxy-scraper'
-          repository: 'NickyBoy89/quacs-oxy-scraper'
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      - name: Setup pip requirements
-        run: |
-          sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
-          python -m pip install --upgrade pip
-          pip install -r quacs-oxy-scraper/requirements.txt
-          ls
-      - name: Scrape
-        run: |
-          python3 quacs-oxy-scraper/rmp_scraper/main.py
-      - name: Upload scraped data
-        uses: actions/upload-artifact@v2
-        with:
-          name: rmp
-          path: rmp.json
 
   # These things depend on semesters.json, run them after the [scrape-semesters] job is done
   scrape-catalog:
@@ -252,7 +224,7 @@ jobs:
     name: Commit changes
     continue-on-error: true
     runs-on: ubuntu-latest
-    needs: [scrape-semesters, scrape-faculty-directory, scrape-rmp, scrape-catalog, scrape-prerequisites, scrape-schools, scrape-sis]
+    needs: [scrape-semesters, scrape-faculty-directory, scrape-catalog, scrape-prerequisites, scrape-schools, scrape-sis]
     steps:
       - name: Checkout scrapers
         uses: actions/checkout@v2

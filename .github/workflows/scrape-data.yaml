@@ -267,7 +267,7 @@ jobs:
           mkdir -p data/semester_data/${current_semester}
           cp courses/courses.json courses/mod.rs data/semester_data/${current_semester}
           cp catalog/catalog.json data/semester_data/${current_semester}
-          cp rmp/rmp.json data/semester_data/${current_semester}
+          #cp rmp/rmp.json data/semester_data/${current_semester}
           cp prerequisites/prerequisites.json data/semester_data/${current_semester}
           cp schools/schools.json data/semester_data/${current_semester}
           cp faculty/faculty.json data

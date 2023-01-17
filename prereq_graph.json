@@ -968,7 +968,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1 Laboratory",
+    "title": "Calculus 1",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2 Laboratory",
+    "title": "Calculus 2",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1764,8 +1764,7 @@
       "MATH 124",
       "MATH 128",
       "PHYS 120",
-      "PHYS 125",
-      "PHYS 230"
+      "PHYS 125"
     ]
   },
   "CHEM 315": {
@@ -1898,7 +1897,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
+    "title": "Special Topics in Critical Theory and Social Justice: Chattel Slavery and Its Afterlives",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -3649,12 +3648,6 @@
       "BIO 280"
     ]
   },
-  "CHEM 305L": {
-    "title": "Spectroscopy and Structure Laboratory",
-    "prereqs": [
-      "CHEM 305"
-    ]
-  },
   "CHEM 201": {
     "title": "Biochemical and Environmental Analysis",
     "prereqs": [
@@ -3685,6 +3678,14 @@
       "COGS 101"
     ]
   },
+  "COMP 317": {
+    "title": "Algorithms Analysis",
+    "prereqs": [
+      "COMP 149",
+      "COMP 229",
+      "MATH 210"
+    ]
+  },
   "COMP 389": {
     "title": "Cryptography",
     "prereqs": [
@@ -3693,23 +3694,14 @@
       "MATH 214"
     ]
   },
-  "COMP 317": {
-    "title": "Algorithms Analysis",
-    "prereqs": [
-      "COMP 149",
-      "COMP 229",
-      "MATH 210",
-      "MATH 211"
-    ]
-  },
-  "DWA 342": {
-    "title": "Junior Seminar: Transnational Identity and International Relations",
+  "DWA 340": {
+    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
     "prereqs": [
       "DWA 101"
     ]
   },
-  "DWA 340": {
-    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
+  "DWA 342": {
+    "title": "Junior Seminar: Transnational Identity and International Relations",
     "prereqs": [
       "DWA 101"
     ]
@@ -3720,17 +3712,17 @@
       "ECON 250"
     ]
   },
+  "ECON 312": {
+    "title": "Political Economy of Sustainable Development: Case of Germany",
+    "prereqs": [
+      "ECON 102"
+    ]
+  },
   "ECON 328": {
     "title": "Economics of Race and Gender",
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON 102"
-    ]
-  },
-  "ECON 312": {
-    "title": "Political Economy of Sustainable Development: Case of Germany",
-    "prereqs": [
       "ECON 102"
     ]
   },
@@ -3934,16 +3926,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 316": {
-    "title": "Advanced Laboratory II",
-    "prereqs": [
-      "PHYS 240"
-    ]
-  },
   "PHYS 330": {
     "title": "Advanced Electromagnetism",
     "prereqs": [
       "PHYS 310"
+    ]
+  },
+  "PHYS 316": {
+    "title": "Advanced Laboratory II",
+    "prereqs": [
+      "PHYS 240"
     ]
   },
   "POLS 245": {
@@ -3959,14 +3951,6 @@
       "POLS 101"
     ]
   },
-  "PSYC 460": {
-    "title": "Assessment of Individual Differences",
-    "prereqs": [
-      "PSYC 201",
-      "PSYC 321",
-      "PSYC 340"
-    ]
-  },
   "PSYC 351": {
     "title": "Psycholinguistics",
     "prereqs": [
@@ -3975,10 +3959,12 @@
       "PSYC 101"
     ]
   },
-  "RUSN 336": {
-    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
     "prereqs": [
-      "OXRU"
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
     ]
   },
   "RUSN 202": {
@@ -3988,18 +3974,10 @@
       "RUSN 201"
     ]
   },
-  "SOC 275": {
-    "title": "Sociology of Social Welfare",
+  "RUSN 336": {
+    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
     "prereqs": [
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 326": {
-    "title": "Punishment",
-    "prereqs": [
-      "SOC 101"
+      "OXRU"
     ]
   },
   "SOC 270": {
@@ -4011,20 +3989,18 @@
       "SOC 105"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
+  "SOC 326": {
+    "title": "Punishment",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "SOC 101"
     ]
   },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 303": {
@@ -4066,16 +4042,20 @@
       "SPAN 398"
     ]
   },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
     "prereqs": [
-      "THEA 137"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
-  "THEA 330": {
-    "title": "Producing the Live Event",
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
     "prereqs": [
-      "THEA 120"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 260": {
@@ -4088,6 +4068,18 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
+    ]
+  },
+  "THEA 237": {
+    "title": "Intermediate Choreography",
+    "prereqs": [
+      "THEA 137"
+    ]
+  },
+  "THEA 330": {
+    "title": "Producing the Live Event",
+    "prereqs": [
+      "THEA 120"
     ]
   },
   "UEP 300": {

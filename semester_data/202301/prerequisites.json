@@ -231,7 +231,7 @@
       },
       {
         "max": 12,
-        "open": -1,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],
@@ -527,7 +527,7 @@
     },
     "reserved": [
       {
-        "max": 7,
+        "max": 6,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -2363,7 +2363,7 @@
   "2072": {
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -2392,7 +2392,7 @@
     },
     "reserved": [
       {
-        "max": 5,
+        "max": 4,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -2618,7 +2618,7 @@
   "2082": {
     "reserved": [
       {
-        "max": 10,
+        "max": 9,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -3584,15 +3584,6 @@
       }
     }
   },
-  "2112": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2115": {
     "prerequisites": {
       "nested": [
@@ -3811,7 +3802,7 @@
   "2138": {
     "reserved": [
       {
-        "max": 18,
+        "max": 17,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -4873,15 +4864,6 @@
       }
     }
   },
-  "2188": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2189": {
     "restrictions": {
       "classification": {
@@ -4934,7 +4916,7 @@
   "2194": {
     "reserved": [
       {
-        "max": 14,
+        "max": 13,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -4958,7 +4940,7 @@
   "2195": {
     "reserved": [
       {
-        "max": 14,
+        "max": 13,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -5224,7 +5206,7 @@
       },
       {
         "max": 7,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],
@@ -5282,7 +5264,7 @@
     "reserved": [
       {
         "max": 7,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       }
     ],
@@ -5417,7 +5399,7 @@
     "reserved": [
       {
         "max": 4,
-        "open": -4,
+        "open": -3,
         "reservedFor": "Major"
       },
       {
@@ -5574,7 +5556,7 @@
     },
     "reserved": [
       {
-        "max": 8,
+        "max": 7,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -5595,8 +5577,8 @@
     },
     "reserved": [
       {
-        "max": 4,
-        "open": 0,
+        "max": 3,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -5659,7 +5641,7 @@
     },
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -5868,7 +5850,7 @@
         "reservedFor": "Major"
       },
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -7979,20 +7961,6 @@
       }
     }
   },
-  "2312": {
-    "corequisites": {
-      "cross_list_courses": [
-        "CHEM-221"
-      ]
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2313": {
     "corequisites": {
       "cross_list_courses": [
@@ -8275,117 +8243,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2333": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 130",
-          "type": "course"
-        },
-        {
-          "course": "CHEM 150",
-          "type": "course"
-        },
-        {
-          "course": "MATH 124",
-          "type": "course"
-        },
-        {
-          "course": "MATH 128",
-          "type": "course"
-        },
-        {
-          "course": "PHYS 230",
-          "type": "course"
-        },
-        {
-          "course": "PHYS 125",
-          "type": "course"
-        },
-        {
-          "course": "APPE",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "MATH 120",
-              "type": "course"
-            },
-            {
-              "course": "PHYS 120",
-              "type": "course"
-            },
-            {
-              "nested": [
-                {
-                  "course": "CHEM 130",
-                  "type": "course"
-                },
-                {
-                  "course": "CHEM 150",
-                  "type": "course"
-                },
-                {
-                  "course": "MATH 124",
-                  "type": "course"
-                },
-                {
-                  "course": "MATH 128",
-                  "type": "course"
-                },
-                {
-                  "nested": [
-                    {
-                      "course": "MATH 120",
-                      "type": "course"
-                    },
-                    {
-                      "nested": [
-                        {
-                          "course": "CHEM 130",
-                          "type": "course"
-                        },
-                        {
-                          "course": "CHEM 150",
-                          "type": "course"
-                        }
-                      ],
-                      "type": "or"
-                    }
-                  ],
-                  "type": "and"
-                }
-              ],
-              "type": "or"
-            }
-          ],
-          "type": "and"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2334": {
-    "prerequisites": {
-      "course": "CHEM 305",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
         ]
       }
     }
@@ -9452,7 +9309,7 @@
   "2414": {
     "reserved": [
       {
-        "max": 11,
+        "max": 10,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -9482,22 +9339,6 @@
     }
   },
   "2416": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2417": {
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -10575,36 +10416,6 @@
       }
     }
   },
-  "2484": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 120",
-          "type": "course"
-        },
-        {
-          "course": "MATH 128",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "APBC",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2485": {
     "prerequisites": {
       "nested": [
@@ -10786,7 +10597,7 @@
   "2495": {
     "reserved": [
       {
-        "max": 3,
+        "max": 2,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -10915,7 +10726,7 @@
   "2503": {
     "reserved": [
       {
-        "max": 6,
+        "max": 5,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -11282,7 +11093,7 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -11743,7 +11554,7 @@
     "reserved": [
       {
         "max": 14,
-        "open": -5,
+        "open": -4,
         "reservedFor": "Major"
       }
     ],
@@ -12162,7 +11973,7 @@
     },
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -12833,7 +12644,7 @@
   "2586": {
     "reserved": [
       {
-        "max": 10,
+        "max": 8,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -14677,7 +14488,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": -1,
+        "open": 0,
         "reservedFor": "Frosh"
       },
       {
@@ -14702,12 +14513,12 @@
   "2743": {
     "reserved": [
       {
-        "max": 5,
-        "open": -1,
+        "max": 4,
+        "open": -2,
         "reservedFor": "Major"
       },
       {
-        "max": 5,
+        "max": 4,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -15640,7 +15451,7 @@
     },
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -16402,7 +16213,7 @@
   "2849": {
     "reserved": [
       {
-        "max": 16,
+        "max": 10,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16450,7 +16261,7 @@
   "2853": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16580,7 +16391,7 @@
   "2860": {
     "reserved": [
       {
-        "max": 14,
+        "max": 13,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16628,7 +16439,7 @@
   "2863": {
     "reserved": [
       {
-        "max": 5,
+        "max": 4,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16736,7 +16547,7 @@
   "2870": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16784,7 +16595,7 @@
   "2873": {
     "reserved": [
       {
-        "max": 8,
+        "max": 7,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16833,7 +16644,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": -1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -16896,7 +16707,7 @@
   "2880": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16928,7 +16739,7 @@
   "2882": {
     "reserved": [
       {
-        "max": 15,
+        "max": 14,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -17024,7 +16835,7 @@
   "2889": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -17756,7 +17567,7 @@
       },
       {
         "max": 15,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -17854,7 +17665,7 @@
   "2965": {
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -18376,6 +18187,64 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "3004": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "3005": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "3006": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 149",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "COMP 229",
+              "type": "course"
+            },
+            {
+              "course": "MATH 210",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "3009": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

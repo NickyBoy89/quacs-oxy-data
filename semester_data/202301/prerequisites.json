@@ -21,28 +21,6 @@
       }
     }
   },
-  "2002": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ARAB 102",
-          "type": "course"
-        },
-        {
-          "course": "OXAR",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2003": {
     "restrictions": {
       "classification": {

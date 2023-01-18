@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Introduction to Cell and Molecular Biology Laboratory",
+    "title": "Introduction to Cell and Molecular Biology",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -82,7 +82,7 @@
     ]
   },
   "BIO 268": {
-    "title": "Biostatistics",
+    "title": "Biostatistics Laboratory",
     "prereqs": [
       "BIO 105",
       "BIO 106",
@@ -968,7 +968,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1897,7 +1897,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: Chattel Slavery and Its Afterlives",
+    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -3485,11 +3485,31 @@
       "AMST 101"
     ]
   },
-  "ARAB 201": {
-    "title": "Intermediate Arabic I",
+  "ARTH 330": {
+    "title": "The Global Baroque: Visionary Arts in the Age of Empire (1600-1750)",
     "prereqs": [
-      "ARAB 102",
-      "OXAR"
+      "ARTH 150",
+      "ARTH 160",
+      "ARTH 170",
+      "ARTH 180",
+      "ARTH 197",
+      "ARTH 200",
+      "ARTH 256",
+      "ARTH 259",
+      "ARTH 266",
+      "ARTH 268",
+      "ARTH 272",
+      "ARTH 273",
+      "ARTH 275",
+      "ARTH 278",
+      "ARTH 283",
+      "ARTH 285",
+      "ARTH 287",
+      "ARTH 288",
+      "ARTH 289",
+      "ARTH 295",
+      "ARTH 297",
+      "ARTH 298"
     ]
   },
   "ARTH 365": {
@@ -3545,31 +3565,10 @@
       "JAPN 460"
     ]
   },
-  "ARTH 330": {
-    "title": "The Global Baroque: Visionary Arts in the Age of Empire (1600-1750)",
+  "ARTS 287": {
+    "title": "Social Documentary Photography: A New Civil Contract",
     "prereqs": [
-      "ARTH 150",
-      "ARTH 160",
-      "ARTH 170",
-      "ARTH 180",
-      "ARTH 197",
-      "ARTH 200",
-      "ARTH 256",
-      "ARTH 259",
-      "ARTH 266",
-      "ARTH 268",
-      "ARTH 272",
-      "ARTH 273",
-      "ARTH 275",
-      "ARTH 278",
-      "ARTH 283",
-      "ARTH 285",
-      "ARTH 287",
-      "ARTH 288",
-      "ARTH 289",
-      "ARTH 295",
-      "ARTH 297",
-      "ARTH 298"
+      "ARTS 107"
     ]
   },
   "ARTS 203": {
@@ -3582,31 +3581,6 @@
     "title": "Photography: LA Stories",
     "prereqs": [
       "ARTS 107"
-    ]
-  },
-  "ARTS 287": {
-    "title": "Social Documentary Photography: A New Civil Contract",
-    "prereqs": [
-      "ARTS 107"
-    ]
-  },
-  "BIO 320": {
-    "title": "Developmental Biology",
-    "prereqs": [
-      "BIO 130",
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
-    ]
-  },
-  "BIO 360": {
-    "title": "Avian Biology",
-    "prereqs": [
-      "BIO 105",
-      "BIO 106",
-      "BIO 110",
-      "BIO 115",
-      "BIO 130"
     ]
   },
   "BIO 226": {
@@ -3648,16 +3622,35 @@
       "BIO 280"
     ]
   },
-  "CHEM 201": {
-    "title": "Biochemical and Environmental Analysis",
+  "BIO 320": {
+    "title": "Developmental Biology",
     "prereqs": [
-      "CHEM 240"
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "BIO 360": {
+    "title": "Avian Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "CHEM 360": {
     "title": "Physical Organic Chemistry",
     "prereqs": [
       "CHEM 221",
+      "CHEM 240"
+    ]
+  },
+  "CHEM 201": {
+    "title": "Biochemical and Environmental Analysis",
+    "prereqs": [
       "CHEM 240"
     ]
   },
@@ -3683,7 +3676,8 @@
     "prereqs": [
       "COMP 149",
       "COMP 229",
-      "MATH 210"
+      "MATH 210",
+      "MATH 211"
     ]
   },
   "COMP 389": {
@@ -3694,14 +3688,14 @@
       "MATH 214"
     ]
   },
-  "DWA 340": {
-    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
+  "DWA 342": {
+    "title": "Junior Seminar: Transnational Identity and International Relations",
     "prereqs": [
       "DWA 101"
     ]
   },
-  "DWA 342": {
-    "title": "Junior Seminar: Transnational Identity and International Relations",
+  "DWA 340": {
+    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
     "prereqs": [
       "DWA 101"
     ]
@@ -3712,17 +3706,17 @@
       "ECON 250"
     ]
   },
-  "ECON 312": {
-    "title": "Political Economy of Sustainable Development: Case of Germany",
-    "prereqs": [
-      "ECON 102"
-    ]
-  },
   "ECON 328": {
     "title": "Economics of Race and Gender",
     "prereqs": [
       "APEA",
       "APEI",
+      "ECON 102"
+    ]
+  },
+  "ECON 312": {
+    "title": "Political Economy of Sustainable Development: Case of Germany",
+    "prereqs": [
       "ECON 102"
     ]
   },
@@ -3833,13 +3827,6 @@
       "MATH 108"
     ]
   },
-  "MATH 372": {
-    "title": "Operations Research",
-    "prereqs": [
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
   "MATH 320": {
     "title": "Algebra",
     "prereqs": [
@@ -3852,10 +3839,17 @@
       "MATH 210"
     ]
   },
-  "MAC 355": {
-    "title": "Advanced Media Practices",
+  "MATH 372": {
+    "title": "Operations Research",
     "prereqs": [
-      "MAC 240"
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "MAC 320": {
+    "title": "Advanced Screenwriting and Narrative Practices",
+    "prereqs": [
+      "MAC 220"
     ]
   },
   "MAC 492": {
@@ -3864,10 +3858,10 @@
       "MAC 491"
     ]
   },
-  "MAC 320": {
-    "title": "Advanced Screenwriting and Narrative Practices",
+  "MAC 355": {
+    "title": "Advanced Media Practices",
     "prereqs": [
-      "MAC 220"
+      "MAC 240"
     ]
   },
   "MUSC 148": {
@@ -3880,12 +3874,6 @@
     "title": "Piano Proficiency II",
     "prereqs": [
       "MUSC 231"
-    ]
-  },
-  "MUSC 252": {
-    "title": "Introduction to Songwriting",
-    "prereqs": [
-      "MUSC 151"
     ]
   },
   "MUSC 263": {
@@ -3901,12 +3889,6 @@
       "MUSC 247"
     ]
   },
-  "MUSC 350": {
-    "title": "Music Analysis: Form, Genre, Point of View",
-    "prereqs": [
-      "MUSC 251"
-    ]
-  },
   "MUSC 351": {
     "title": "Theory and Practice of Music IV",
     "prereqs": [
@@ -3919,6 +3901,18 @@
       "MUSC 258"
     ]
   },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 350": {
+    "title": "Music Analysis: Form, Genre, Point of View",
+    "prereqs": [
+      "MUSC 251"
+    ]
+  },
   "PHIL 350": {
     "title": "Metalogic",
     "prereqs": [
@@ -3926,16 +3920,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 330": {
-    "title": "Advanced Electromagnetism",
-    "prereqs": [
-      "PHYS 310"
-    ]
-  },
   "PHYS 316": {
     "title": "Advanced Laboratory II",
     "prereqs": [
       "PHYS 240"
+    ]
+  },
+  "PHYS 330": {
+    "title": "Advanced Electromagnetism",
+    "prereqs": [
+      "PHYS 310"
     ]
   },
   "POLS 245": {
@@ -3951,6 +3945,14 @@
       "POLS 101"
     ]
   },
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
+    "prereqs": [
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
   "PSYC 351": {
     "title": "Psycholinguistics",
     "prereqs": [
@@ -3959,12 +3961,10 @@
       "PSYC 101"
     ]
   },
-  "PSYC 460": {
-    "title": "Assessment of Individual Differences",
+  "RUSN 336": {
+    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
     "prereqs": [
-      "PSYC 201",
-      "PSYC 321",
-      "PSYC 340"
+      "OXRU"
     ]
   },
   "RUSN 202": {
@@ -3974,16 +3974,9 @@
       "RUSN 201"
     ]
   },
-  "RUSN 336": {
-    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
     "prereqs": [
-      "OXRU"
-    ]
-  },
-  "SOC 270": {
-    "title": "Urban Sociology",
-    "prereqs": [
-      "POLS 101",
       "SOC 101",
       "SOC 102",
       "SOC 105"
@@ -3995,12 +3988,29 @@
       "SOC 101"
     ]
   },
-  "SOC 275": {
-    "title": "Sociology of Social Welfare",
+  "SOC 270": {
+    "title": "Urban Sociology",
     "prereqs": [
+      "POLS 101",
       "SOC 101",
       "SOC 102",
       "SOC 105"
+    ]
+  },
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 303": {
@@ -4042,20 +4052,16 @@
       "SPAN 398"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
+  "THEA 237": {
+    "title": "Intermediate Choreography",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 137"
     ]
   },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
+  "THEA 330": {
+    "title": "Producing the Live Event",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "THEA 120"
     ]
   },
   "THEA 260": {
@@ -4068,18 +4074,6 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
-    ]
-  },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
-    "prereqs": [
-      "THEA 137"
-    ]
-  },
-  "THEA 330": {
-    "title": "Producing the Live Event",
-    "prereqs": [
-      "THEA 120"
     ]
   },
   "UEP 300": {

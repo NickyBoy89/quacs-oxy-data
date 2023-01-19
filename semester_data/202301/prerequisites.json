@@ -4042,7 +4042,7 @@
     },
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -14898,7 +14898,7 @@
     },
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -18130,15 +18130,6 @@
     }
   },
   "2999": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "3000": {
     "restrictions": {
       "classification": {
         "may_not_be": [

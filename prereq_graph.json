@@ -968,7 +968,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1 Laboratory",
+    "title": "Calculus 1",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2 Laboratory",
+    "title": "Calculus 2",
     "prereqs": [
       "APAB",
       "APCS",
@@ -3827,6 +3827,13 @@
       "MATH 108"
     ]
   },
+  "MATH 372": {
+    "title": "Operations Research",
+    "prereqs": [
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
   "MATH 320": {
     "title": "Algebra",
     "prereqs": [
@@ -3839,17 +3846,10 @@
       "MATH 210"
     ]
   },
-  "MATH 372": {
-    "title": "Operations Research",
+  "MAC 355": {
+    "title": "Advanced Media Practices",
     "prereqs": [
-      "MATH 210",
-      "MATH 214"
-    ]
-  },
-  "MAC 320": {
-    "title": "Advanced Screenwriting and Narrative Practices",
-    "prereqs": [
-      "MAC 220"
+      "MAC 240"
     ]
   },
   "MAC 492": {
@@ -3858,10 +3858,10 @@
       "MAC 491"
     ]
   },
-  "MAC 355": {
-    "title": "Advanced Media Practices",
+  "MAC 320": {
+    "title": "Advanced Screenwriting and Narrative Practices",
     "prereqs": [
-      "MAC 240"
+      "MAC 220"
     ]
   },
   "MUSC 148": {
@@ -3874,6 +3874,12 @@
     "title": "Piano Proficiency II",
     "prereqs": [
       "MUSC 231"
+    ]
+  },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
     ]
   },
   "MUSC 263": {
@@ -3889,6 +3895,12 @@
       "MUSC 247"
     ]
   },
+  "MUSC 350": {
+    "title": "Music Analysis: Form, Genre, Point of View",
+    "prereqs": [
+      "MUSC 251"
+    ]
+  },
   "MUSC 351": {
     "title": "Theory and Practice of Music IV",
     "prereqs": [
@@ -3901,18 +3913,6 @@
       "MUSC 258"
     ]
   },
-  "MUSC 252": {
-    "title": "Introduction to Songwriting",
-    "prereqs": [
-      "MUSC 151"
-    ]
-  },
-  "MUSC 350": {
-    "title": "Music Analysis: Form, Genre, Point of View",
-    "prereqs": [
-      "MUSC 251"
-    ]
-  },
   "PHIL 350": {
     "title": "Metalogic",
     "prereqs": [
@@ -3920,16 +3920,16 @@
       "PHIL 150"
     ]
   },
-  "PHYS 316": {
-    "title": "Advanced Laboratory II",
-    "prereqs": [
-      "PHYS 240"
-    ]
-  },
   "PHYS 330": {
     "title": "Advanced Electromagnetism",
     "prereqs": [
       "PHYS 310"
+    ]
+  },
+  "PHYS 316": {
+    "title": "Advanced Laboratory II",
+    "prereqs": [
+      "PHYS 240"
     ]
   },
   "POLS 245": {
@@ -3945,14 +3945,6 @@
       "POLS 101"
     ]
   },
-  "PSYC 460": {
-    "title": "Assessment of Individual Differences",
-    "prereqs": [
-      "PSYC 201",
-      "PSYC 321",
-      "PSYC 340"
-    ]
-  },
   "PSYC 351": {
     "title": "Psycholinguistics",
     "prereqs": [
@@ -3961,10 +3953,12 @@
       "PSYC 101"
     ]
   },
-  "RUSN 336": {
-    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
+  "PSYC 460": {
+    "title": "Assessment of Individual Differences",
     "prereqs": [
-      "OXRU"
+      "PSYC 201",
+      "PSYC 321",
+      "PSYC 340"
     ]
   },
   "RUSN 202": {
@@ -3974,18 +3968,10 @@
       "RUSN 201"
     ]
   },
-  "SOC 275": {
-    "title": "Sociology of Social Welfare",
+  "RUSN 336": {
+    "title": "The Russian Novel: Idiots, Atheists, and Nihilists",
     "prereqs": [
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
-    ]
-  },
-  "SOC 326": {
-    "title": "Punishment",
-    "prereqs": [
-      "SOC 101"
+      "OXRU"
     ]
   },
   "SOC 270": {
@@ -3997,20 +3983,18 @@
       "SOC 105"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
+  "SOC 326": {
+    "title": "Punishment",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "SOC 101"
     ]
   },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
+  "SOC 275": {
+    "title": "Sociology of Social Welfare",
     "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SPAN 303": {
@@ -4052,16 +4036,20 @@
       "SPAN 398"
     ]
   },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
     "prereqs": [
-      "THEA 137"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
-  "THEA 330": {
-    "title": "Producing the Live Event",
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
     "prereqs": [
-      "THEA 120"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 260": {
@@ -4074,6 +4062,18 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
+    ]
+  },
+  "THEA 237": {
+    "title": "Intermediate Choreography",
+    "prereqs": [
+      "THEA 137"
+    ]
+  },
+  "THEA 330": {
+    "title": "Producing the Live Event",
+    "prereqs": [
+      "THEA 120"
     ]
   },
   "UEP 300": {

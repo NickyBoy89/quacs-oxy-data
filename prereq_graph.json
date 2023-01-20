@@ -1375,9 +1375,7 @@
     "title": "Sociology of (Non)Violence",
     "prereqs": [
       "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "SOC  101"
     ]
   },
   "SOC 395": {
@@ -3997,22 +3995,6 @@
       "SOC 105"
     ]
   },
-  "SPAN 313": {
-    "title": "Latin American Film and Culture",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
-    ]
-  },
-  "SPAN 365": {
-    "title": "Gender and Sexuality in Spain",
-    "prereqs": [
-      "OXSE",
-      "SPAN 202",
-      "SPAN 211"
-    ]
-  },
   "SPAN 303": {
     "title": "Introduction to Modern Latin American Literature and Culture",
     "prereqs": [
@@ -4052,16 +4034,20 @@
       "SPAN 398"
     ]
   },
-  "THEA 237": {
-    "title": "Intermediate Choreography",
+  "SPAN 313": {
+    "title": "Latin American Film and Culture",
     "prereqs": [
-      "THEA 137"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
-  "THEA 330": {
-    "title": "Producing the Live Event",
+  "SPAN 365": {
+    "title": "Gender and Sexuality in Spain",
     "prereqs": [
-      "THEA 120"
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 260": {
@@ -4074,6 +4060,18 @@
     "title": "Acting 2: Scene Study",
     "prereqs": [
       "THEA 210"
+    ]
+  },
+  "THEA 237": {
+    "title": "Intermediate Choreography",
+    "prereqs": [
+      "THEA 137"
+    ]
+  },
+  "THEA 330": {
+    "title": "Producing the Live Event",
+    "prereqs": [
+      "THEA 120"
     ]
   },
   "UEP 300": {

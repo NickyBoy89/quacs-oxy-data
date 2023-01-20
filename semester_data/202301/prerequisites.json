@@ -14874,43 +14874,6 @@
       }
     }
   },
-  "2772": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SOC 101",
-          "type": "course"
-        },
-        {
-          "course": "SOC 102",
-          "type": "course"
-        },
-        {
-          "course": "SOC 105",
-          "type": "course"
-        },
-        {
-          "course": "OXSO",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 3,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2773": {
     "reserved": [
       {
@@ -18210,6 +18173,15 @@
     }
   },
   "3009": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "3010": {
     "restrictions": {
       "classification": {
         "may_not_be": [

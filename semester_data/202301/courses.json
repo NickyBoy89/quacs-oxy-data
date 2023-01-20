@@ -969,8 +969,8 @@
             "credMax": 4,
             "title": "Drawing Fundamentals",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -5861,8 +5861,8 @@
             "credMax": 4,
             "title": "Mind, Brain, and Behavior",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8246,8 +8246,8 @@
             "credMax": 4,
             "title": "Principles of Economics II",
             "cap": 25,
-            "act": 29,
-            "rem": -4,
+            "act": 30,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -8797,8 +8797,8 @@
             "credMax": 4,
             "title": "Environmental Economics and Policy",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

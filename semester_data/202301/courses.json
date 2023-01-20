@@ -2773,8 +2773,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -16394,8 +16394,8 @@
             "credMax": 0,
             "title": "Voice (One Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -24398,8 +24398,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25091,8 +25091,8 @@
             "credMax": 1,
             "title": "Auditioning",
             "cap": 14,
-            "act": 10,
-            "rem": 4,
+            "act": 11,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

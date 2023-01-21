@@ -18189,5 +18189,27 @@
         ]
       }
     }
+  },
+  "3011": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "MATH 212",
+          "type": "course"
+        },
+        {
+          "course": "MATH 214",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

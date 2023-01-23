@@ -16070,13 +16070,13 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 1,
+        "max": 0,
         "open": 0,
         "reservedFor": "Major"
       },
       {
-        "max": 1,
-        "open": -1,
+        "max": 0,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],

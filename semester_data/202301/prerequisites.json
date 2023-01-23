@@ -10318,52 +10318,6 @@
       }
     }
   },
-  "2482": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 109",
-          "type": "course"
-        },
-        {
-          "course": "MATH 110",
-          "type": "course"
-        },
-        {
-          "course": "MATH 114",
-          "type": "course"
-        },
-        {
-          "course": "MATH 128",
-          "type": "course"
-        },
-        {
-          "course": "APAB",
-          "type": "course"
-        },
-        {
-          "course": "APCS",
-          "type": "course"
-        },
-        {
-          "course": "OXMA",
-          "type": "course"
-        },
-        {
-          "course": "OXME",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2483": {
     "prerequisites": {
       "nested": [
@@ -11308,7 +11262,7 @@
     },
     "reserved": [
       {
-        "max": 11,
+        "max": 9,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -12323,7 +12277,7 @@
   "2570": {
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -14820,8 +14774,8 @@
     },
     "reserved": [
       {
-        "max": 6,
-        "open": 1,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15081,7 +15035,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": -2,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -16065,7 +16019,7 @@
   "2844": {
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Frosh"
       },
@@ -16824,8 +16778,8 @@
   "2892": {
     "reserved": [
       {
-        "max": 16,
-        "open": 1,
+        "max": 15,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],

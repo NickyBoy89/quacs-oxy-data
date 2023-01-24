@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Introduction to Cell and Molecular Biology",
+    "title": "Introduction to Cell and Molecular Biology Laboratory",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -82,7 +82,7 @@
     ]
   },
   "BIO 268": {
-    "title": "Biostatistics Laboratory",
+    "title": "Biostatistics",
     "prereqs": [
       "BIO 105",
       "BIO 106",
@@ -968,7 +968,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1",
+    "title": "Calculus 1 Laboratory",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -985,7 +985,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1895,7 +1895,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
+    "title": "Special Topics in Critical Theory and Social Justice: Chattel Slavery and Its Afterlives",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -3581,6 +3581,31 @@
       "ARTS 107"
     ]
   },
+  "ARTS 303": {
+    "title": "Advanced Projects in Sculpture",
+    "prereqs": [
+      "ARTS 203"
+    ]
+  },
+  "BIO 320": {
+    "title": "Developmental Biology",
+    "prereqs": [
+      "BIO 130",
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
+    ]
+  },
+  "BIO 360": {
+    "title": "Avian Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
   "BIO 226": {
     "title": "Cell Biology",
     "prereqs": [
@@ -3620,35 +3645,16 @@
       "BIO 280"
     ]
   },
-  "BIO 320": {
-    "title": "Developmental Biology",
+  "CHEM 201": {
+    "title": "Biochemical and Environmental Analysis",
     "prereqs": [
-      "BIO 130",
-      "BIO 221",
-      "BIO 224",
-      "BIO 226"
-    ]
-  },
-  "BIO 360": {
-    "title": "Avian Biology",
-    "prereqs": [
-      "BIO 105",
-      "BIO 106",
-      "BIO 110",
-      "BIO 115",
-      "BIO 130"
+      "CHEM 240"
     ]
   },
   "CHEM 360": {
     "title": "Physical Organic Chemistry",
     "prereqs": [
       "CHEM 221",
-      "CHEM 240"
-    ]
-  },
-  "CHEM 201": {
-    "title": "Biochemical and Environmental Analysis",
-    "prereqs": [
       "CHEM 240"
     ]
   },
@@ -3674,8 +3680,7 @@
     "prereqs": [
       "COMP 149",
       "COMP 229",
-      "MATH 210",
-      "MATH 211"
+      "MATH 210"
     ]
   },
   "COMP 389": {
@@ -3686,14 +3691,14 @@
       "MATH 214"
     ]
   },
-  "DWA 342": {
-    "title": "Junior Seminar: Transnational Identity and International Relations",
+  "DWA 340": {
+    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
     "prereqs": [
       "DWA 101"
     ]
   },
-  "DWA 340": {
-    "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
+  "DWA 342": {
+    "title": "Junior Seminar: Transnational Identity and International Relations",
     "prereqs": [
       "DWA 101"
     ]
@@ -3704,17 +3709,17 @@
       "ECON 250"
     ]
   },
+  "ECON 312": {
+    "title": "Political Economy of Sustainable Development: Case of Germany",
+    "prereqs": [
+      "ECON 102"
+    ]
+  },
   "ECON 328": {
     "title": "Economics of Race and Gender",
     "prereqs": [
       "APEA",
       "APEI",
-      "ECON 102"
-    ]
-  },
-  "ECON 312": {
-    "title": "Political Economy of Sustainable Development: Case of Germany",
-    "prereqs": [
       "ECON 102"
     ]
   },
@@ -3825,12 +3830,6 @@
       "MATH 108"
     ]
   },
-  "MATH 320": {
-    "title": "Algebra",
-    "prereqs": [
-      "MATH 210"
-    ]
-  },
   "MATH 382": {
     "title": "Graph Theory",
     "prereqs": [
@@ -3844,11 +3843,10 @@
       "MATH 214"
     ]
   },
-  "MATH 372": {
-    "title": "Operations Research",
+  "MATH 320": {
+    "title": "Algebra",
     "prereqs": [
-      "MATH 210",
-      "MATH 214"
+      "MATH 210"
     ]
   },
   "MAC 355": {

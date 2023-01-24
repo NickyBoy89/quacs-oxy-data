@@ -6304,7 +6304,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -2,
+        "open": -3,
         "reservedFor": "Major"
       },
       {
@@ -9064,7 +9064,7 @@
   "2397": {
     "reserved": [
       {
-        "max": 13,
+        "max": 12,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -10469,28 +10469,6 @@
       }
     }
   },
-  "2491": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "MATH 210",
-          "type": "course"
-        },
-        {
-          "course": "MATH 214",
-          "type": "course"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2492": {
     "prerequisites": {
       "course": "MATH 210",
@@ -11262,7 +11240,7 @@
     },
     "reserved": [
       {
-        "max": 6,
+        "max": 5,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -18157,6 +18135,19 @@
         }
       ],
       "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "3015": {
+    "prerequisites": {
+      "course": "ARTS 203",
+      "type": "course"
     },
     "restrictions": {
       "classification": {

@@ -6432,8 +6432,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6486,8 +6486,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -11219,8 +11219,8 @@
             "credMax": 4,
             "title": "Special Topics in Geology: Biogeochemistry of Marine Systems, Past and Present",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24093,8 +24093,8 @@
             "credMax": 1,
             "title": "Advanced Conversation II",
             "cap": 99,
-            "act": 10,
-            "rem": 89,
+            "act": 11,
+            "rem": 88,
             "attribute": "",
             "timeslots": [
               {

@@ -12387,7 +12387,7 @@
   "2580": {
     "reserved": [
       {
-        "max": 9,
+        "max": 8,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -12571,7 +12571,7 @@
     "reserved": [
       {
         "max": 5,
-        "open": -1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],

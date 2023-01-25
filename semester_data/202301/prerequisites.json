@@ -165,7 +165,7 @@
   "2010": {
     "reserved": [
       {
-        "max": 8,
+        "max": 7,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -15370,7 +15370,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": -2,
+        "open": -1,
         "reservedFor": "Major"
       },
       {

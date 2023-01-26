@@ -5134,8 +5134,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -6299,8 +6299,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 16,
-            "rem": 14,
+            "act": 15,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -6327,8 +6327,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6555,8 +6555,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6875,8 +6875,8 @@
             "credMax": 4,
             "title": "Mathematical Foundations of Computer Science",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10741,8 +10741,8 @@
             "credMax": 4,
             "title": "Beginning French II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13367,8 +13367,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 26,
-            "rem": 9,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13393,8 +13393,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 20,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -13419,8 +13419,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 26,
-            "rem": 9,
+            "act": 27,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13447,8 +13447,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 35,
-            "act": 21,
-            "rem": 14,
+            "act": 20,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

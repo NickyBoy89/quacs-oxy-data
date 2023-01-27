@@ -3152,8 +3152,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -10412,8 +10412,8 @@
             "credMax": 4,
             "title": "The American West Reconsidered",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10448,8 +10448,8 @@
             "credMax": 4,
             "title": "How to Understand the World, and Lie, With Maps",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12152,8 +12152,8 @@
             "credMax": 4,
             "title": "Special Topics in History: The Democrats, Jefferson to Biden",
             "cap": 16,
-            "act": 9,
-            "rem": 7,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12363,8 +12363,8 @@
             "credMax": 4,
             "title": "Indians of Mexico",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13168,8 +13168,8 @@
             "credMax": 4,
             "title": "Indians of Mexico",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13804,8 +13804,8 @@
             "credMax": 2,
             "title": "Senior Colloquium: Mathematical and Scientific Computing",
             "cap": 15,
-            "act": 17,
-            "rem": -2,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -13946,8 +13946,8 @@
             "credMax": 4,
             "title": "Graph Theory",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13982,8 +13982,8 @@
             "credMax": 4,
             "title": "Topics in Applied Mathematics: Computational Mathematics",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

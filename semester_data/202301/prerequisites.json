@@ -2644,7 +2644,7 @@
   "2085": {
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -10636,7 +10636,7 @@
   "2503": {
     "reserved": [
       {
-        "max": 4,
+        "max": 3,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -14809,7 +14809,7 @@
   "2773": {
     "reserved": [
       {
-        "max": 5,
+        "max": 4,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -16628,7 +16628,7 @@
   "2883": {
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -18266,6 +18266,29 @@
     }
   },
   "3030": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "3033": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "3034": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MUSC-127"
+      ]
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

@@ -2954,8 +2954,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -3130,8 +3130,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -3284,8 +3284,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -3566,8 +3566,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 37,
-            "rem": -2,
+            "act": 38,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -3848,8 +3848,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3936,8 +3936,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 14,
-            "act": 13,
-            "rem": 1,
+            "act": 12,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -7795,8 +7795,8 @@
             "credMax": 2,
             "title": "Model United Nations",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8673,8 +8673,8 @@
             "credMax": 4,
             "title": "Economics of Race and Gender",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9858,8 +9858,8 @@
             "credMax": 4,
             "title": "The Senses, Sensibility, and Society",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10049,8 +10049,8 @@
             "credMax": 4,
             "title": "Environmental Entanglements",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10876,8 +10876,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation I",
             "cap": 99,
-            "act": 5,
-            "rem": 94,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -12187,8 +12187,8 @@
             "credMax": 4,
             "title": "Humanities from Renaissance to the Present",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12257,8 +12257,8 @@
             "credMax": 4,
             "title": "Modern China: Colonialism, Nationalism, and Revolution",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14156,8 +14156,8 @@
             "credMax": 4,
             "title": "Topics in Animation and Visual Effects: 3D Design & Animation Fundamentals",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14560,8 +14560,8 @@
             "credMax": 4,
             "title": "Topics in Emerging Media: Speculative Design",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14670,8 +14670,8 @@
             "credMax": 4,
             "title": "Topics in Jazz History",
             "cap": 35,
-            "act": 37,
-            "rem": -2,
+            "act": 38,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -14794,11 +14794,85 @@
         ]
       },
       {
+        "title": "Chamber Jazz and Improvisation",
+        "subj": "MUSC",
+        "crse": "128",
+        "id": "MUSC-128",
+        "sections": [
+          {
+            "crn": 3034,
+            "subj": "MUSC",
+            "crse": "128",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Chamber Jazz and Improvisation",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jonathan McLeod Richards",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2468,
+            "subj": "MUSC",
+            "crse": "128",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Chamber Jazz and Improvisation",
+            "cap": 10,
+            "act": 15,
+            "rem": -5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jonathan McLeod Richards",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Chamber Music",
         "subj": "MUSC",
         "crse": "129",
         "id": "MUSC-129",
         "sections": [
+          {
+            "crn": 3030,
+            "subj": "MUSC",
+            "crse": "129",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Chamber Music",
+            "cap": 12,
+            "act": 2,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Y. Kim",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2509,
             "subj": "MUSC",
@@ -14824,62 +14898,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 3030,
-            "subj": "MUSC",
-            "crse": "129",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Chamber Music",
-            "cap": 12,
-            "act": 2,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Y. Kim",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Symphony Orchestra",
-        "subj": "MUSC",
-        "crse": "130",
-        "id": "MUSC-130",
-        "sections": [
-          {
-            "crn": 2510,
-            "subj": "MUSC",
-            "crse": "130",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Symphony Orchestra",
-            "cap": 60,
-            "act": 39,
-            "rem": 21,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Chris Y. Kim",
-                "location": "",
-                "timeStart": 1140,
-                "timeEnd": 1235,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -14889,33 +14907,6 @@
         "crse": "148",
         "id": "MUSC-148",
         "sections": [
-          {
-            "crn": 2512,
-            "subj": "MUSC",
-            "crse": "148",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Digital Audio Workstation (DAW)",
-            "cap": 16,
-            "act": 12,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ramona Maia Gonzalez",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2511,
             "subj": "MUSC",
@@ -14942,6 +14933,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2512,
+            "subj": "MUSC",
+            "crse": "148",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Digital Audio Workstation (DAW)",
+            "cap": 16,
+            "act": 12,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ramona Maia Gonzalez",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -14951,33 +14969,6 @@
         "crse": "151",
         "id": "MUSC-151",
         "sections": [
-          {
-            "crn": 2515,
-            "subj": "MUSC",
-            "crse": "151",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Music Theory II",
-            "cap": 18,
-            "act": 6,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Stephen Cabell",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2514,
             "subj": "MUSC",
@@ -15031,6 +15022,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2515,
+            "subj": "MUSC",
+            "crse": "151",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music Theory II",
+            "cap": 18,
+            "act": 6,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Stephen Cabell",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -15040,6 +15058,33 @@
         "crse": "151A",
         "id": "MUSC-151A",
         "sections": [
+          {
+            "crn": 2518,
+            "subj": "MUSC",
+            "crse": "151A",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Music Theory II Musicianship",
+            "cap": 18,
+            "act": 16,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Alexander Wesley Zhu",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2517,
             "subj": "MUSC",
@@ -15093,33 +15138,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2518,
-            "subj": "MUSC",
-            "crse": "151A",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Music Theory II Musicianship",
-            "cap": 18,
-            "act": 16,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Alexander Wesley Zhu",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -15129,58 +15147,6 @@
         "crse": "231",
         "id": "MUSC-231",
         "sections": [
-          {
-            "crn": 2785,
-            "subj": "MUSC",
-            "crse": "231",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano Proficiency I",
-            "cap": 6,
-            "act": 3,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Dina Asta Ormenyi",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2787,
-            "subj": "MUSC",
-            "crse": "231",
-            "sec": "04",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano Proficiency I",
-            "cap": 6,
-            "act": 3,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Dina Asta Ormenyi",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2784,
             "subj": "MUSC",
@@ -15232,31 +15198,23 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Piano Proficiency II",
-        "subj": "MUSC",
-        "crse": "232",
-        "id": "MUSC-232",
-        "sections": [
+          },
           {
-            "crn": 2789,
+            "crn": 2785,
             "subj": "MUSC",
-            "crse": "232",
+            "crse": "231",
             "sec": "02",
             "credMin": 1,
             "credMax": 1,
-            "title": "Piano Proficiency II",
+            "title": "Piano Proficiency I",
             "cap": 6,
-            "act": 4,
-            "rem": 2,
+            "act": 3,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "F"
+                  "W"
                 ],
                 "instructor": "Dina Asta Ormenyi",
                 "location": "",
@@ -15268,21 +15226,21 @@
             ]
           },
           {
-            "crn": 2791,
+            "crn": 2787,
             "subj": "MUSC",
-            "crse": "232",
+            "crse": "231",
             "sec": "04",
             "credMin": 1,
             "credMax": 1,
-            "title": "Piano Proficiency II",
+            "title": "Piano Proficiency I",
             "cap": 6,
-            "act": 2,
-            "rem": 4,
+            "act": 3,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "F"
+                  "W"
                 ],
                 "instructor": "Dina Asta Ormenyi",
                 "location": "",
@@ -15292,7 +15250,15 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Piano Proficiency II",
+        "subj": "MUSC",
+        "crse": "232",
+        "id": "MUSC-232",
+        "sections": [
           {
             "crn": 2788,
             "subj": "MUSC",
@@ -15344,36 +15310,124 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Songwriting",
-        "subj": "MUSC",
-        "crse": "252",
-        "id": "MUSC-252",
-        "sections": [
+          },
           {
-            "crn": 2538,
+            "crn": 2789,
             "subj": "MUSC",
-            "crse": "252",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Songwriting",
-            "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "crse": "232",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano Proficiency II",
+            "cap": 6,
+            "act": 4,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
+                  "F"
+                ],
+                "instructor": "Dina Asta Ormenyi",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2791,
+            "subj": "MUSC",
+            "crse": "232",
+            "sec": "04",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano Proficiency II",
+            "cap": 6,
+            "act": 2,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Dina Asta Ormenyi",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Music and Artificial Intelligence Laboratory",
+        "subj": "MUSC",
+        "crse": "242",
+        "id": "MUSC-242",
+        "sections": [
+          {
+            "crn": 2522,
+            "subj": "MUSC",
+            "crse": "242",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music and Artificial Intelligence Laboratory",
+            "cap": 16,
+            "act": 6,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
                   "R"
                 ],
-                "instructor": "Mia Doi Todd",
+                "instructor": "Max N. Foreman",
                 "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Composition Seminar",
+        "subj": "MUSC",
+        "crse": "257",
+        "id": "MUSC-257",
+        "sections": [
+          {
+            "crn": 2539,
+            "subj": "MUSC",
+            "crse": "257",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Composition Seminar",
+            "cap": 10,
+            "act": 11,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Celka Ilona Ojakangas",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -15387,33 +15441,6 @@
         "crse": "263",
         "id": "MUSC-263",
         "sections": [
-          {
-            "crn": 2792,
-            "subj": "MUSC",
-            "crse": "263",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Western Music and Culture: 1830 to the Present",
-            "cap": 20,
-            "act": 22,
-            "rem": -2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "David M. Kasunic",
-                "location": "",
-                "timeStart": 1325,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2793,
             "subj": "MUSC",
@@ -15440,6 +15467,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2792,
+            "subj": "MUSC",
+            "crse": "263",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Western Music and Culture: 1830 to the Present",
+            "cap": 20,
+            "act": 22,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "David M. Kasunic",
+                "location": "",
+                "timeStart": 1325,
+                "timeEnd": 1450,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -15449,33 +15503,6 @@
         "crse": "348",
         "id": "MUSC-348",
         "sections": [
-          {
-            "crn": 2542,
-            "subj": "MUSC",
-            "crse": "348",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Mixing and Mastering",
-            "cap": 16,
-            "act": 11,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Daniel Ryan Long",
-                "location": "",
-                "timeStart": 1325,
-                "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2794,
             "subj": "MUSC",
@@ -15502,32 +15529,29 @@
                 "dateEnd": "4/27"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Music Analysis: Form, Genre, Point of View",
-        "subj": "MUSC",
-        "crse": "350",
-        "id": "MUSC-350",
-        "sections": [
+          },
           {
-            "crn": 2954,
+            "crn": 2542,
             "subj": "MUSC",
-            "crse": "350",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Music Analysis: Form, Genre, Point of View",
-            "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "crse": "348",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Mixing and Mastering",
+            "cap": 16,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
-                "instructor": "Laura Desiree LaVertu",
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Daniel Ryan Long",
                 "location": "",
+                "timeStart": 1325,
+                "timeEnd": 1450,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -15541,33 +15565,6 @@
         "crse": "351",
         "id": "MUSC-351",
         "sections": [
-          {
-            "crn": 2795,
-            "subj": "MUSC",
-            "crse": "351",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Theory and Practice of Music IV",
-            "cap": 18,
-            "act": 9,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Stephen Shelley Bates Hudson",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2543,
             "subj": "MUSC",
@@ -15594,6 +15591,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2795,
+            "subj": "MUSC",
+            "crse": "351",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Theory and Practice of Music IV",
+            "cap": 18,
+            "act": 9,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Stephen Shelley Bates Hudson",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -15603,33 +15627,6 @@
         "crse": "351A",
         "id": "MUSC-351A",
         "sections": [
-          {
-            "crn": 2796,
-            "subj": "MUSC",
-            "crse": "351A",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Theory and Practice of Music IV Musicianship",
-            "cap": 18,
-            "act": 15,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Chris Y. Kim",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2544,
             "subj": "MUSC",
@@ -15656,6 +15653,67 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2796,
+            "subj": "MUSC",
+            "crse": "351A",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Theory and Practice of Music IV Musicianship",
+            "cap": 18,
+            "act": 15,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Chris Y. Kim",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Dramatic Scoring Intensive",
+        "subj": "MUSC",
+        "crse": "358",
+        "id": "MUSC-358",
+        "sections": [
+          {
+            "crn": 2545,
+            "subj": "MUSC",
+            "crse": "358",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Dramatic Scoring Intensive",
+            "cap": 10,
+            "act": 5,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Jongnic Bontemps",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -15665,32 +15723,6 @@
         "crse": "474",
         "id": "MUSC-474",
         "sections": [
-          {
-            "crn": 2546,
-            "subj": "MUSC",
-            "crse": "474",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Senior Production Comprehensives Preparation",
-            "cap": 8,
-            "act": 8,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Ramona Maia Gonzalez",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2797,
             "subj": "MUSC",
@@ -15707,6 +15739,32 @@
               {
                 "days": [
                   "R"
+                ],
+                "instructor": "Ramona Maia Gonzalez",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2546,
+            "subj": "MUSC",
+            "crse": "474",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Senior Production Comprehensives Preparation",
+            "cap": 8,
+            "act": 8,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
                 ],
                 "instructor": "Ramona Maia Gonzalez",
                 "location": "",
@@ -15857,132 +15915,96 @@
         ]
       },
       {
-        "title": "Chamber Jazz and Improvisation",
+        "title": "Symphony Orchestra",
         "subj": "MUSC",
-        "crse": "128",
-        "id": "MUSC-128",
+        "crse": "130",
+        "id": "MUSC-130",
         "sections": [
           {
-            "crn": 2468,
+            "crn": 2510,
             "subj": "MUSC",
-            "crse": "128",
+            "crse": "130",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Chamber Jazz and Improvisation",
+            "title": "Symphony Orchestra",
+            "cap": 60,
+            "act": 39,
+            "rem": 21,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Chris Y. Kim",
+                "location": "",
+                "timeStart": 1140,
+                "timeEnd": 1235,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Songwriting",
+        "subj": "MUSC",
+        "crse": "252",
+        "id": "MUSC-252",
+        "sections": [
+          {
+            "crn": 2538,
+            "subj": "MUSC",
+            "crse": "252",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Songwriting",
+            "cap": 12,
+            "act": 11,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Mia Doi Todd",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Music Analysis: Form, Genre, Point of View",
+        "subj": "MUSC",
+        "crse": "350",
+        "id": "MUSC-350",
+        "sections": [
+          {
+            "crn": 2954,
+            "subj": "MUSC",
+            "crse": "350",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Music Analysis: Form, Genre, Point of View",
             "cap": 10,
-            "act": 15,
-            "rem": -5,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Jonathan McLeod Richards",
+                "instructor": "Laura Desiree LaVertu",
                 "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Music and Artificial Intelligence Laboratory",
-        "subj": "MUSC",
-        "crse": "242",
-        "id": "MUSC-242",
-        "sections": [
-          {
-            "crn": 2522,
-            "subj": "MUSC",
-            "crse": "242",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Music and Artificial Intelligence Laboratory",
-            "cap": 16,
-            "act": 6,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Max N. Foreman",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Composition Seminar",
-        "subj": "MUSC",
-        "crse": "257",
-        "id": "MUSC-257",
-        "sections": [
-          {
-            "crn": 2539,
-            "subj": "MUSC",
-            "crse": "257",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Composition Seminar",
-            "cap": 10,
-            "act": 11,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Celka Ilona Ojakangas",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Dramatic Scoring Intensive",
-        "subj": "MUSC",
-        "crse": "358",
-        "id": "MUSC-358",
-        "sections": [
-          {
-            "crn": 2545,
-            "subj": "MUSC",
-            "crse": "358",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Dramatic Scoring Intensive",
-            "cap": 10,
-            "act": 5,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Jongnic Bontemps",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -15997,22 +16019,22 @@
     "code": "MUSA",
     "courses": [
       {
-        "title": "Classical Guitar Class (Beginning)",
+        "title": "Classical Guitar Class (Intermediate)",
         "subj": "MUSA",
-        "crse": "103",
-        "id": "MUSA-103",
+        "crse": "104",
+        "id": "MUSA-104",
         "sections": [
           {
-            "crn": 2604,
+            "crn": 2605,
             "subj": "MUSA",
-            "crse": "103",
+            "crse": "104",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Classical Guitar Class (Beginning)",
+            "title": "Classical Guitar Class (Intermediate)",
             "cap": 10,
-            "act": 6,
-            "rem": 4,
+            "act": 0,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -16027,27 +16049,27 @@
         ]
       },
       {
-        "title": "Alexander Technique Class",
+        "title": "Ukulele Class",
         "subj": "MUSA",
-        "crse": "105",
-        "id": "MUSA-105",
+        "crse": "106",
+        "id": "MUSA-106",
         "sections": [
           {
-            "crn": 2606,
+            "crn": 2607,
             "subj": "MUSA",
-            "crse": "105",
+            "crse": "106",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Alexander Technique Class",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
+            "title": "Ukulele Class",
+            "cap": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Frances P. Marsden",
+                "instructor": "Jason Makoto Arimoto",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -16062,50 +16084,6 @@
         "crse": "201",
         "id": "MUSA-201",
         "sections": [
-          {
-            "crn": 2608,
-            "subj": "MUSA",
-            "crse": "201",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano (Half Hour)",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Galina Barskaya",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2765,
-            "subj": "MUSA",
-            "crse": "201",
-            "sec": "04",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano (Half Hour)",
-            "cap": 20,
-            "act": 5,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Vicki Lyn Ray",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2610,
             "subj": "MUSA",
@@ -16149,6 +16127,50 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2608,
+            "subj": "MUSA",
+            "crse": "201",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (Half Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Galina Barskaya",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2765,
+            "subj": "MUSA",
+            "crse": "201",
+            "sec": "04",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (Half Hour)",
+            "cap": 20,
+            "act": 5,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Vicki Lyn Ray",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -16158,6 +16180,50 @@
         "crse": "202",
         "id": "MUSA-202",
         "sections": [
+          {
+            "crn": 2612,
+            "subj": "MUSA",
+            "crse": "202",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (One Hour)",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Vicki Lyn Ray",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2614,
+            "subj": "MUSA",
+            "crse": "202",
+            "sec": "04",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (One Hour)",
+            "cap": 20,
+            "act": 1,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Vicki Lyn Ray",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 2611,
             "subj": "MUSA",
@@ -16223,50 +16289,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2612,
-            "subj": "MUSA",
-            "crse": "202",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano (One Hour)",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Vicki Lyn Ray",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2614,
-            "subj": "MUSA",
-            "crse": "202",
-            "sec": "04",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Piano (One Hour)",
-            "cap": 20,
-            "act": 1,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Vicki Lyn Ray",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -16276,6 +16298,28 @@
         "crse": "203",
         "id": "MUSA-203",
         "sections": [
+          {
+            "crn": 2615,
+            "subj": "MUSA",
+            "crse": "203",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Jazz & Commercial Piano (Half Hour)",
+            "cap": 20,
+            "act": 1,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Cathlene Jean Pineda",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
           {
             "crn": 3020,
             "subj": "MUSA",
@@ -16297,18 +16341,48 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Jazz & Commercial Piano (One Hour)",
+        "subj": "MUSA",
+        "crse": "204",
+        "id": "MUSA-204",
+        "sections": [
           {
-            "crn": 2615,
+            "crn": 2616,
             "subj": "MUSA",
-            "crse": "203",
+            "crse": "204",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Jazz & Commercial Piano (Half Hour)",
+            "title": "Jazz & Commercial Piano (One Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 7,
+            "rem": 13,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Cathlene Jean Pineda",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 3033,
+            "subj": "MUSA",
+            "crse": "204",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Jazz & Commercial Piano (One Hour)",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -18521,22 +18595,22 @@
         ]
       },
       {
-        "title": "Classical Guitar Class (Intermediate)",
+        "title": "Classical Guitar Class (Beginning)",
         "subj": "MUSA",
-        "crse": "104",
-        "id": "MUSA-104",
+        "crse": "103",
+        "id": "MUSA-103",
         "sections": [
           {
-            "crn": 2605,
+            "crn": 2604,
             "subj": "MUSA",
-            "crse": "104",
+            "crse": "103",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Classical Guitar Class (Intermediate)",
+            "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 0,
-            "rem": 10,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -18551,57 +18625,27 @@
         ]
       },
       {
-        "title": "Ukulele Class",
+        "title": "Alexander Technique Class",
         "subj": "MUSA",
-        "crse": "106",
-        "id": "MUSA-106",
+        "crse": "105",
+        "id": "MUSA-105",
         "sections": [
           {
-            "crn": 2607,
+            "crn": 2606,
             "subj": "MUSA",
-            "crse": "106",
+            "crse": "105",
             "sec": "00",
             "credMin": 1,
             "credMax": 1,
-            "title": "Ukulele Class",
-            "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "title": "Alexander Technique Class",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Jason Makoto Arimoto",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Jazz & Commercial Piano (One Hour)",
-        "subj": "MUSA",
-        "crse": "204",
-        "id": "MUSA-204",
-        "sections": [
-          {
-            "crn": 2616,
-            "subj": "MUSA",
-            "crse": "204",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Jazz & Commercial Piano (One Hour)",
-            "cap": 20,
-            "act": 7,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Cathlene Jean Pineda",
+                "instructor": "Frances P. Marsden",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -19601,8 +19645,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19725,8 +19769,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -19752,8 +19796,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21977,8 +22021,8 @@
             "credMax": 4,
             "title": "Race and American Politics",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24124,8 +24168,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -24459,8 +24503,8 @@
             "credMax": 1,
             "title": "Advanced Conversation II",
             "cap": 99,
-            "act": 10,
-            "rem": 89,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -25262,8 +25306,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -25706,8 +25750,8 @@
             "credMax": 2,
             "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -26051,8 +26095,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

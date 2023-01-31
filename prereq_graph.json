@@ -3879,12 +3879,6 @@
       "MUSC 231"
     ]
   },
-  "MUSC 252": {
-    "title": "Introduction to Songwriting",
-    "prereqs": [
-      "MUSC 151"
-    ]
-  },
   "MUSC 263": {
     "title": "Western Music and Culture: 1830 to the Present",
     "prereqs": [
@@ -3898,12 +3892,6 @@
       "MUSC 247"
     ]
   },
-  "MUSC 350": {
-    "title": "Music Analysis: Form, Genre, Point of View",
-    "prereqs": [
-      "MUSC 251"
-    ]
-  },
   "MUSC 351": {
     "title": "Theory and Practice of Music IV",
     "prereqs": [
@@ -3914,6 +3902,18 @@
     "title": "Dramatic Scoring Intensive",
     "prereqs": [
       "MUSC 258"
+    ]
+  },
+  "MUSC 252": {
+    "title": "Introduction to Songwriting",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "MUSC 350": {
+    "title": "Music Analysis: Form, Genre, Point of View",
+    "prereqs": [
+      "MUSC 251"
     ]
   },
   "PHIL 350": {

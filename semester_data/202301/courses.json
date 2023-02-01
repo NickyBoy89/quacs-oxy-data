@@ -2451,8 +2451,8 @@
             "credMax": 1,
             "title": "Developmental Biology Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2477,8 +2477,8 @@
             "credMax": 1,
             "title": "Developmental Biology Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -4344,8 +4344,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 14,
-            "act": 10,
-            "rem": 4,
+            "act": 9,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -4396,8 +4396,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 14,
-            "act": 8,
-            "rem": 6,
+            "act": 9,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6875,8 +6875,8 @@
             "credMax": 4,
             "title": "Mathematical Foundations of Computer Science",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

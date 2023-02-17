@@ -2997,8 +2997,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -6150,8 +6150,8 @@
             "credMax": 2,
             "title": "Senior Seminar",
             "cap": 15,
-            "act": 17,
-            "rem": -2,
+            "act": 18,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {

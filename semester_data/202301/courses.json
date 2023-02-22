@@ -934,8 +934,8 @@
             "credMax": 1,
             "title": "Practicum in Studio Art",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6502,8 +6502,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6528,8 +6528,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 34,
-            "rem": -4,
+            "act": 33,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {

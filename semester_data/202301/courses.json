@@ -4922,14 +4922,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "W"
-                ],
+                "days": [],
                 "instructor": "Michael G. Hill",
                 "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2055,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -5521,8 +5516,8 @@
             "credMax": 4,
             "title": "Introduction to Cognitive Science",
             "cap": 45,
-            "act": 44,
-            "rem": 1,
+            "act": 43,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5931,8 +5926,8 @@
             "credMax": 4,
             "title": "Mind, Brain, and Behavior",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6221,8 +6216,8 @@
             "credMax": 4,
             "title": "Prometheus: Agonies of the Absolute",
             "cap": 25,
-            "act": 41,
-            "rem": -16,
+            "act": 40,
+            "rem": -15,
             "attribute": "",
             "timeslots": [
               {
@@ -7052,8 +7047,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 39,
-            "rem": 60,
+            "act": 38,
+            "rem": 61,
             "attribute": "",
             "timeslots": [
               {
@@ -14059,8 +14054,8 @@
             "credMax": 4,
             "title": "Introduction to Visual and Critical Studies",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23455,8 +23450,8 @@
             "credMax": 4,
             "title": "\"Good\" Sex: History of Sexual Ethics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -24663,8 +24658,8 @@
             "credMax": 4,
             "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 13,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {

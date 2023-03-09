@@ -4149,8 +4149,8 @@
             "credMax": 1,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -4865,8 +4865,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -15326,8 +15326,8 @@
             "credMax": 1,
             "title": "Piano Proficiency II",
             "cap": 6,
-            "act": 4,
-            "rem": 2,
+            "act": 5,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24694,8 +24694,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

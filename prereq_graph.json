@@ -4056,18 +4056,6 @@
       "SPAN 211"
     ]
   },
-  "THEA 260": {
-    "title": "Children's Theater, 3rd Grade",
-    "prereqs": [
-      "THEA 110"
-    ]
-  },
-  "THEA 310": {
-    "title": "Acting 2: Scene Study",
-    "prereqs": [
-      "THEA 210"
-    ]
-  },
   "THEA 237": {
     "title": "Intermediate Choreography",
     "prereqs": [
@@ -4078,6 +4066,18 @@
     "title": "Producing the Live Event",
     "prereqs": [
       "THEA 120"
+    ]
+  },
+  "THEA 260": {
+    "title": "Children's Theater, 3rd Grade",
+    "prereqs": [
+      "THEA 110"
+    ]
+  },
+  "THEA 310": {
+    "title": "Acting 2: Scene Study",
+    "prereqs": [
+      "THEA 210"
     ]
   },
   "UEP 300": {

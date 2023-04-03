@@ -73,12 +73,12 @@
   "BIO 250": {
     "title": "Plant Form and Function",
     "prereqs": [
-      "BIO  104",
-      "BIO  105",
-      "BIO  106",
-      "BIO  110",
-      "BIO  115",
-      "BIO  130"
+      "BIO 104",
+      "BIO 105",
+      "BIO 106",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
     ]
   },
   "BIO 268": {
@@ -101,9 +101,9 @@
   "BIO 336": {
     "title": "Microbial Pathogenesis",
     "prereqs": [
-      "BIO  221",
-      "BIO  224",
-      "BIO  226"
+      "BIO 221",
+      "BIO 224",
+      "BIO 226"
     ]
   },
   "BIO 370": {
@@ -125,55 +125,6 @@
   "CHEM 120": {
     "title": "Foundations of General Chemistry",
     "prereqs": [
-      "CSP 1",
-      "CSP 10",
-      "CSP 11",
-      "CSP 12",
-      "CSP 13",
-      "CSP 14",
-      "CSP 15",
-      "CSP 16",
-      "CSP 17",
-      "CSP 18",
-      "CSP 19",
-      "CSP 2",
-      "CSP 20",
-      "CSP 21",
-      "CSP 22",
-      "CSP 23",
-      "CSP 24",
-      "CSP 25",
-      "CSP 26",
-      "CSP 27",
-      "CSP 28",
-      "CSP 29",
-      "CSP 3",
-      "CSP 30",
-      "CSP 31",
-      "CSP 32",
-      "CSP 33",
-      "CSP 34",
-      "CSP 35",
-      "CSP 36",
-      "CSP 37",
-      "CSP 38",
-      "CSP 39",
-      "CSP 4",
-      "CSP 40",
-      "CSP 41",
-      "CSP 42",
-      "CSP 43",
-      "CSP 44",
-      "CSP 45",
-      "CSP 46",
-      "CSP 47",
-      "CSP 48",
-      "CSP 49",
-      "CSP 5",
-      "CSP 6",
-      "CSP 7",
-      "CSP 8",
-      "CSP 9",
       "FYS 1",
       "FYS 10",
       "FYS 11",
@@ -203,7 +154,17 @@
       "FYS 33",
       "FYS 34",
       "FYS 35",
+      "FYS 36",
+      "FYS 37",
+      "FYS 38",
+      "FYS 39",
       "FYS 4",
+      "FYS 40",
+      "FYS 41",
+      "FYS 42",
+      "FYS 43",
+      "FYS 44",
+      "FYS 45",
       "FYS 5",
       "FYS 6",
       "FYS 7",
@@ -525,7 +486,7 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Macroeconomic Policy since the Great Depression",
+    "title": "Senior Seminar: Macroeconomic Policy and Financial Markets",
     "prereqs": [
       "ECON 251",
       "ECON 272"
@@ -541,66 +502,6 @@
   "ENGL 280": {
     "title": "Creative Writing: Introduction to Fiction Writing",
     "prereqs": [
-      "CSP 1",
-      "CSP 10",
-      "CSP 11",
-      "CSP 12",
-      "CSP 13",
-      "CSP 14",
-      "CSP 15",
-      "CSP 16",
-      "CSP 17",
-      "CSP 18",
-      "CSP 19",
-      "CSP 2",
-      "CSP 20",
-      "CSP 21",
-      "CSP 22",
-      "CSP 23",
-      "CSP 24",
-      "CSP 25",
-      "CSP 26",
-      "CSP 27",
-      "CSP 28",
-      "CSP 3",
-      "CSP 4",
-      "CSP 5",
-      "CSP 50",
-      "CSP 50S",
-      "CSP 51",
-      "CSP 52",
-      "CSP 53",
-      "CSP 54",
-      "CSP 55",
-      "CSP 56",
-      "CSP 57",
-      "CSP 58",
-      "CSP 59",
-      "CSP 6",
-      "CSP 60",
-      "CSP 61",
-      "CSP 62",
-      "CSP 63",
-      "CSP 64",
-      "CSP 65",
-      "CSP 66",
-      "CSP 67",
-      "CSP 68",
-      "CSP 69",
-      "CSP 7",
-      "CSP 70",
-      "CSP 71",
-      "CSP 72",
-      "CSP 73",
-      "CSP 74",
-      "CSP 75",
-      "CSP 76",
-      "CSP 77",
-      "CSP 78",
-      "CSP 79",
-      "CSP 8",
-      "CSP 80",
-      "CSP 9",
       "FYS 1",
       "FYS 10",
       "FYS 11",
@@ -630,7 +531,17 @@
       "FYS 33",
       "FYS 34",
       "FYS 35",
+      "FYS 36",
+      "FYS 37",
+      "FYS 38",
+      "FYS 39",
       "FYS 4",
+      "FYS 40",
+      "FYS 41",
+      "FYS 42",
+      "FYS 43",
+      "FYS 44",
+      "FYS 45",
       "FYS 5",
       "FYS 6",
       "FYS 7",
@@ -800,7 +711,7 @@
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium: Writing the History of the Middle East",
+    "title": "History Colloquium. Gender and Sexuality in Colonial Latin America",
     "prereqs": [
       "HIST 101",
       "HIST 102",
@@ -985,7 +896,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2 Laboratory",
+    "title": "Calculus 2",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1072,7 +983,7 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar - When Race is \"Other\": In-Between and Outside of U.S. Race Categories",
+    "title": "Philosophy Seminar. Metaphor and Figurative Language",
     "prereqs": [
       "PHIL 101",
       "PHIL 150",
@@ -1213,11 +1124,10 @@
   "PHYS 370": {
     "title": "Energy Physics",
     "prereqs": [
-      "PHYS  110",
-      "PHYS  117",
-      "PHYS  120",
-      "PHYS  230",
-      "PHYS  240"
+      "PHYS 110",
+      "PHYS 117",
+      "PHYS 230",
+      "PHYS 240"
     ]
   },
   "POLS 301": {
@@ -1231,7 +1141,6 @@
     "title": "Black Political Thought",
     "prereqs": [
       "BLST 101",
-      "BLST 110",
       "POLS 101"
     ]
   },
@@ -1354,7 +1263,9 @@
     "title": "Race and Ethnicity in American Society",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 315": {
@@ -1479,8 +1390,8 @@
     "title": "Latin American Women's Voices in Fiction and Film",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "THEA 275": {
@@ -1623,7 +1534,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Performance, Embodiment and the Dematerialization of Contemporary Art",
+    "title": "Seminar in Art History: Approaches to Art History and Visual Culture",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -1912,7 +1823,7 @@
     ]
   },
   "CTSJ 295": {
-    "title": "Topics in Critical Theory - Social Justice: Critical Theory and Psychopathology",
+    "title": "Topics in Critical Theory and Social Justice. Social Movements/Representational Forms",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 105",
@@ -2090,11 +2001,61 @@
       "FYS 3",
       "FYS 30",
       "FYS 31",
+      "FYS 32",
+      "FYS 33",
+      "FYS 34",
+      "FYS 35",
+      "FYS 36",
+      "FYS 37",
+      "FYS 38",
+      "FYS 39",
       "FYS 4",
+      "FYS 40",
+      "FYS 41",
+      "FYS 42",
+      "FYS 43",
+      "FYS 44",
+      "FYS 45",
       "FYS 5",
+      "FYS 50",
+      "FYS 51",
+      "FYS 52",
+      "FYS 53",
+      "FYS 54",
+      "FYS 55",
+      "FYS 56",
+      "FYS 57",
+      "FYS 58",
+      "FYS 59",
       "FYS 6",
+      "FYS 60",
+      "FYS 61",
+      "FYS 62",
+      "FYS 63",
+      "FYS 64",
+      "FYS 65",
+      "FYS 66",
+      "FYS 67",
+      "FYS 68",
+      "FYS 69",
       "FYS 7",
+      "FYS 70",
+      "FYS 71",
+      "FYS 72",
+      "FYS 73",
+      "FYS 74",
+      "FYS 75",
+      "FYS 76",
+      "FYS 77",
+      "FYS 78",
+      "FYS 79",
       "FYS 8",
+      "FYS 80",
+      "FYS 81",
+      "FYS 82",
+      "FYS 83",
+      "FYS 84",
+      "FYS 85",
       "FYS 9",
       "WRD 201"
     ]
@@ -2445,12 +2406,6 @@
       "MATH 212",
       "MATH 214",
       "MATH 340"
-    ]
-  },
-  "MATH 395": {
-    "title": "Special Topics in Advanced Mathematics: Real Analysis II (Metric Spaces & Lebesgue's Measure Theory)",
-    "prereqs": [
-      "MATH 310"
     ]
   },
   "MATH 150": {
@@ -2816,7 +2771,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar in Art History. Introduction to Curatorial Practice",
+    "title": "Curatorial Seminar in Art History. The Los Angeles Photo Archive",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -2892,8 +2847,7 @@
   "BLST 490": {
     "title": "Black Studies Senior Seminar",
     "prereqs": [
-      "BLST 101",
-      "BLST 110"
+      "BLST 101"
     ]
   },
   "CHEM 100": {
@@ -2959,7 +2913,9 @@
   "COMP 239": {
     "title": "Computer Organization",
     "prereqs": [
-      "COMP 131"
+      "COMP 131",
+      "COMP 181",
+      "COMP 229"
     ]
   },
   "COMP 352": {
@@ -3171,7 +3127,8 @@
   "MATH 310": {
     "title": "Real Analysis",
     "prereqs": [
-      "MATH 210"
+      "MATH 210",
+      "OXME"
     ]
   },
   "MAC 490": {
@@ -3187,7 +3144,7 @@
     ]
   },
   "MUSC 231": {
-    "title": "Piano Proficiency I",
+    "title": "Keyboard Musicianship I",
     "prereqs": [
       "MUSC 101"
     ]
@@ -3211,7 +3168,7 @@
     ]
   },
   "MUSC 272": {
-    "title": "Instrumental Conducting",
+    "title": "Conducting",
     "prereqs": [
       "MUSC 151"
     ]
@@ -3875,7 +3832,7 @@
     ]
   },
   "MUSC 232": {
-    "title": "Piano Proficiency II",
+    "title": "Keyboard Musicianship II",
     "prereqs": [
       "MUSC 231"
     ]
@@ -4075,7 +4032,7 @@
     ]
   },
   "THEA 310": {
-    "title": "Acting 2: Scene Study",
+    "title": "Advanced Acting: Explorations in Performance Style and Method",
     "prereqs": [
       "THEA 210"
     ]
@@ -4096,6 +4053,302 @@
       "SOC 101",
       "UEP 101",
       "UEP 106"
+    ]
+  },
+  "ARAB 201": {
+    "title": "Intermediate Arabic I",
+    "prereqs": [
+      "ARAB 102",
+      "OXAR"
+    ]
+  },
+  "ARTH 380": {
+    "title": "Art/Work",
+    "prereqs": [
+      "ARTH 290"
+    ]
+  },
+  "BIO 298": {
+    "title": "Huntington-Occidental Pre-med Program (HOPP)",
+    "prereqs": [
+      "BIO 130"
+    ]
+  },
+  "COGS 298": {
+    "title": "Introduction to Neuroimaging: EEG Research and Methods",
+    "prereqs": [
+      "BIO 130",
+      "COGS 101",
+      "COGS 104",
+      "COMP 113",
+      "PSYC 101"
+    ]
+  },
+  "CSLC 203": {
+    "title": "Being-With: The Politics, and Poetics, of Community",
+    "prereqs": [
+      "CSLC 200"
+    ]
+  },
+  "CSLC 315": {
+    "title": "Nature, Science, and Subjectivity in the Age of Goethe",
+    "prereqs": [
+      "CSLC 107",
+      "CSLC 108",
+      "CSLC 109",
+      "CSLC 112",
+      "CSLC 114",
+      "CSLC 115",
+      "CSLC 116",
+      "CSLC 118",
+      "CSLC 120",
+      "CSLC 122",
+      "CSLC 131",
+      "CSLC 132",
+      "CSLC 134",
+      "CSLC 135",
+      "CSLC 136",
+      "CSLC 138",
+      "CSLC 139",
+      "CSLC 140",
+      "CSLC 142",
+      "CSLC 145",
+      "CSLC 150",
+      "CSLC 161",
+      "CSLC 181",
+      "CSLC 182",
+      "CSLC 186",
+      "CSLC 187",
+      "CSLC 188",
+      "CSLC 190",
+      "CSLC 193",
+      "CSLC 195",
+      "CSLC 197",
+      "CSLC 200",
+      "CSLC 201",
+      "CSLC 202",
+      "CSLC 203",
+      "CSLC 204",
+      "CSLC 205",
+      "CSLC 210",
+      "CSLC 211",
+      "CSLC 222",
+      "CSLC 223",
+      "CSLC 225",
+      "CSLC 226",
+      "CSLC 232",
+      "CSLC 233",
+      "CSLC 236",
+      "CSLC 237",
+      "CSLC 241",
+      "CSLC 246",
+      "CSLC 247",
+      "CSLC 248",
+      "CSLC 249",
+      "CSLC 250",
+      "CSLC 251",
+      "CSLC 252",
+      "CSLC 253",
+      "CSLC 270",
+      "CSLC 280",
+      "CSLC 281",
+      "CSLC 283",
+      "CSLC 284",
+      "CSLC 285",
+      "CSLC 286",
+      "CSLC 288",
+      "CSLC 292",
+      "CSLC 293",
+      "CSLC 295",
+      "CSLC 297",
+      "CSLC 300",
+      "CSLC 303",
+      "CSLC 393",
+      "CSLC 395",
+      "CSLC 397",
+      "PHIL 101",
+      "PHIL 150",
+      "PHIL 197",
+      "PHIL 199",
+      "PHIL 210",
+      "PHIL 211",
+      "PHIL 212",
+      "PHIL 215",
+      "PHIL 220",
+      "PHIL 221",
+      "PHIL 222",
+      "PHIL 223",
+      "PHIL 230",
+      "PHIL 232",
+      "PHIL 233",
+      "PHIL 239",
+      "PHIL 241",
+      "PHIL 242",
+      "PHIL 243",
+      "PHIL 246",
+      "PHIL 251",
+      "PHIL 293",
+      "PHIL 295",
+      "PHIL 297",
+      "PHIL 299",
+      "PHIL 310",
+      "PHIL 311",
+      "PHIL 312",
+      "PHIL 313",
+      "PHIL 320",
+      "PHIL 321",
+      "PHIL 322",
+      "PHIL 323",
+      "PHIL 330",
+      "PHIL 331",
+      "PHIL 332",
+      "PHIL 341",
+      "PHIL 342",
+      "PHIL 344",
+      "PHIL 345",
+      "PHIL 346",
+      "PHIL 347",
+      "PHIL 350",
+      "PHIL 360",
+      "PHIL 361",
+      "PHIL 393",
+      "PHIL 395",
+      "PHIL 397",
+      "PHIL 490",
+      "PHIL 497"
+    ]
+  },
+  "DWA 310": {
+    "title": "Junior Seminar: Religion and Politics",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 270": {
+    "title": "What Do Countries Want and Why?",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101"
+    ]
+  },
+  "DWA 295": {
+    "title": "Topics in Diplomacy and World Affairs",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101"
+    ]
+  },
+  "DWA 335": {
+    "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "ECON 308": {
+    "title": "Public Economics",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "ECON 321": {
+    "title": "Health Economics",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "FREN 355": {
+    "title": "Eighteenth and Nineteenth Century Works",
+    "prereqs": [
+      "FREN 202"
+    ]
+  },
+  "GERM 151": {
+    "title": "Beginning/Intermediate Conversation I",
+    "prereqs": [
+      "APGE",
+      "GERM 102",
+      "GL",
+      "GM",
+      "OXGE"
+    ]
+  },
+  "GRK 303": {
+    "title": "Being-With: The Politics and Poetics of Community in Ancient Greece",
+    "prereqs": [
+      "CSLC 200"
+    ]
+  },
+  "MATH 128": {
+    "title": "Calculus 2 (Advanced Placement)",
+    "prereqs": [
+      "APAB",
+      "APCS",
+      "OXMA"
+    ]
+  },
+  "MATH 380": {
+    "title": "Combinatorics",
+    "prereqs": [
+      "MATH 210",
+      "OXME"
+    ]
+  },
+  "MATH 322": {
+    "title": "Number Theory",
+    "prereqs": [
+      "MATH 210",
+      "OXME"
+    ]
+  },
+  "MUSC 374": {
+    "title": "Analysis for Performance",
+    "prereqs": [
+      "MUSC 151"
+    ]
+  },
+  "POLS 236": {
+    "title": "What Do Countries Want and Why?",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101"
+    ]
+  },
+  "PUBH 303": {
+    "title": "LGBTQ Health",
+    "prereqs": [
+      "PUBH 203"
+    ]
+  },
+  "SOC 200": {
+    "title": "Classical Sociological Theory: Marx, Weber, Durkheim",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 215": {
+    "title": "Self and Society",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 340": {
+    "title": "Spanish Phonology",
+    "prereqs": [
+      "OXSE",
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "THEA 370": {
+    "title": "Costume Design",
+    "prereqs": [
+      "THEA 175"
     ]
   }
 }

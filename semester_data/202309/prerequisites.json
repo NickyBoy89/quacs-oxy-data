@@ -335,7 +335,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -2813,7 +2813,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 10,
+        "open": 11,
         "reservedFor": "Major"
       }
     ],
@@ -9462,7 +9462,7 @@
     "reserved": [
       {
         "max": 13,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -11173,32 +11173,6 @@
       }
     }
   },
-  "1546": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 6,
-        "open": 6,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1547": {
     "restrictions": {
       "classification": {
@@ -11209,32 +11183,6 @@
     }
   },
   "1548": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1549": {
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 6,
-        "open": 6,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15180,7 +15128,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 20,
+        "open": 19,
         "reservedFor": "Major"
       }
     ],
@@ -17478,6 +17426,84 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1856": {
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1857": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1858": {
+    "reserved": [
+      {
+        "max": 6,
+        "open": 6,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

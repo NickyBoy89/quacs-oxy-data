@@ -17286,5 +17286,200 @@
         ]
       }
     }
+  },
+  "1845": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1846": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1847": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1848": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1849": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1850": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1851": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1852": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1853": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1854": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

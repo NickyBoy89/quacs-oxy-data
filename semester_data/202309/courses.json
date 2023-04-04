@@ -659,8 +659,8 @@
             "credMax": 4,
             "title": "Global Modernism",
             "cap": 30,
-            "act": 6,
-            "rem": 24,
+            "act": 5,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -1949,8 +1949,8 @@
             "credMax": 0,
             "title": "Genetic Analysis Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -3605,8 +3605,8 @@
             "credMax": 4,
             "title": "Genetic Analysis",
             "cap": 24,
-            "act": 10,
-            "rem": 14,
+            "act": 11,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -5108,8 +5108,8 @@
             "credMax": 4,
             "title": "Physical Chemistry I",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 6,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -5484,8 +5484,8 @@
             "credMax": 1,
             "title": "Thermodynamics and Kinetics Laboratory",
             "cap": 15,
-            "act": 5,
-            "rem": 10,
+            "act": 6,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -10156,8 +10156,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 5,
-            "rem": 7,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -10262,8 +10262,8 @@
             "credMax": 4,
             "title": "Earth: Our Environment",
             "cap": 24,
-            "act": 10,
-            "rem": 14,
+            "act": 11,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -20622,33 +20622,116 @@
         ]
       },
       {
-        "title": "Perception",
+        "title": "Directed Research",
         "subj": "PSYC",
-        "crse": "302",
-        "id": "PSYC-302",
+        "crse": "295",
+        "id": "PSYC-295",
         "sections": [
           {
-            "crn": 1380,
+            "crn": 1845,
             "subj": "PSYC",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Perception",
-            "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "crse": "295",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Susan Geffen",
+                "days": [],
+                "instructor": "Nicholas Peter Alt",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1847,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1849,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1846,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jamie Amemiya",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1848,
+            "subj": "PSYC",
+            "crse": "295",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew E. Shtulman",
+                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20662,34 +20745,6 @@
         "crse": "306",
         "id": "PSYC-306",
         "sections": [
-          {
-            "crn": 1382,
-            "subj": "PSYC",
-            "crse": "306",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Cognitive Psychology",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Andrew E. Shtulman",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1381,
             "subj": "PSYC",
@@ -20717,26 +20772,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Physiological Psychology",
-        "subj": "PSYC",
-        "crse": "322",
-        "id": "PSYC-322",
-        "sections": [
+          },
           {
-            "crn": 1385,
+            "crn": 1382,
             "subj": "PSYC",
-            "crse": "322",
-            "sec": "00",
+            "crse": "306",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Physiological Psychology",
+            "title": "Cognitive Psychology",
             "cap": 18,
-            "act": 0,
-            "rem": 18,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -20745,151 +20792,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Aviad Nisim Don Ozana",
+                "instructor": "Andrew E. Shtulman",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Abnormal Psychology",
-        "subj": "PSYC",
-        "crse": "330",
-        "id": "PSYC-330",
-        "sections": [
-          {
-            "crn": 1389,
-            "subj": "PSYC",
-            "crse": "330",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Abnormal Psychology",
-            "cap": 18,
-            "act": 3,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Bryon James Cunningham",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Evolutionary Psychology",
-        "subj": "PSYC",
-        "crse": "336",
-        "id": "PSYC-336",
-        "sections": [
-          {
-            "crn": 1390,
-            "subj": "PSYC",
-            "crse": "336",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Evolutionary Psychology",
-            "cap": 18,
-            "act": 6,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Adolescence",
-        "subj": "PSYC",
-        "crse": "428",
-        "id": "PSYC-428",
-        "sections": [
-          {
-            "crn": 1741,
-            "subj": "PSYC",
-            "crse": "428",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Adolescence",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jamie Amemiya",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Statistics in Psychological Science",
-        "subj": "PSYC",
-        "crse": "201",
-        "id": "PSYC-201",
-        "sections": [
-          {
-            "crn": 1377,
-            "subj": "PSYC",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Statistics in Psychological Science",
-            "cap": 25,
-            "act": 9,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Andrew Vann Frane",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -20997,6 +20903,336 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "PSYC",
+        "crse": "395",
+        "id": "PSYC-395",
+        "sections": [
+          {
+            "crn": 1850,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Nicholas Peter Alt",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1852,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Patricia Cabral",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1854,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1851,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jamie Amemiya",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1853,
+            "subj": "PSYC",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew E. Shtulman",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Adolescence",
+        "subj": "PSYC",
+        "crse": "428",
+        "id": "PSYC-428",
+        "sections": [
+          {
+            "crn": 1741,
+            "subj": "PSYC",
+            "crse": "428",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Adolescence",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jamie Amemiya",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Statistics in Psychological Science",
+        "subj": "PSYC",
+        "crse": "201",
+        "id": "PSYC-201",
+        "sections": [
+          {
+            "crn": 1377,
+            "subj": "PSYC",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Statistics in Psychological Science",
+            "cap": 25,
+            "act": 9,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Andrew Vann Frane",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Perception",
+        "subj": "PSYC",
+        "crse": "302",
+        "id": "PSYC-302",
+        "sections": [
+          {
+            "crn": 1380,
+            "subj": "PSYC",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Perception",
+            "cap": 18,
+            "act": 4,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Susan Geffen",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Physiological Psychology",
+        "subj": "PSYC",
+        "crse": "322",
+        "id": "PSYC-322",
+        "sections": [
+          {
+            "crn": 1385,
+            "subj": "PSYC",
+            "crse": "322",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Physiological Psychology",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Aviad Nisim Don Ozana",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Abnormal Psychology",
+        "subj": "PSYC",
+        "crse": "330",
+        "id": "PSYC-330",
+        "sections": [
+          {
+            "crn": 1389,
+            "subj": "PSYC",
+            "crse": "330",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Abnormal Psychology",
+            "cap": 18,
+            "act": 3,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Bryon James Cunningham",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Evolutionary Psychology",
+        "subj": "PSYC",
+        "crse": "336",
+        "id": "PSYC-336",
+        "sections": [
+          {
+            "crn": 1390,
+            "subj": "PSYC",
+            "crse": "336",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Evolutionary Psychology",
+            "cap": 18,
+            "act": 6,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

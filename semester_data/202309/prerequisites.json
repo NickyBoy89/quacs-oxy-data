@@ -8778,7 +8778,7 @@
     "reserved": [
       {
         "max": 9,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8840,7 +8840,7 @@
     "reserved": [
       {
         "max": 9,
-        "open": 4,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],

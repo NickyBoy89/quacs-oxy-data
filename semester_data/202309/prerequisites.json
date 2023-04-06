@@ -445,7 +445,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -502,7 +502,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -1520,7 +1520,7 @@
     "reserved": [
       {
         "max": 20,
-        "open": 18,
+        "open": 17,
         "reservedFor": "Major"
       }
     ],
@@ -2789,7 +2789,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 9,
         "reservedFor": "Major"
       }
     ],
@@ -2813,7 +2813,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -5519,7 +5519,7 @@
       },
       {
         "max": 8,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -8452,7 +8452,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Major"
       }
     ],
@@ -8745,7 +8745,7 @@
     "reserved": [
       {
         "max": 9,
-        "open": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8874,7 +8874,7 @@
       },
       {
         "max": 9,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -9377,7 +9377,7 @@
     "reserved": [
       {
         "max": 13,
-        "open": 11,
+        "open": 10,
         "reservedFor": "Major"
       }
     ],
@@ -9629,7 +9629,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -10814,15 +10814,6 @@
         "reservedFor": "Major"
       }
     ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1507": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -14805,7 +14796,7 @@
     "reserved": [
       {
         "max": 24,
-        "open": 20,
+        "open": 18,
         "reservedFor": "Major"
       }
     ],
@@ -15015,7 +15006,7 @@
     "reserved": [
       {
         "max": 10,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Major"
       }
     ],
@@ -15128,7 +15119,7 @@
     "reserved": [
       {
         "max": 25,
-        "open": 17,
+        "open": 16,
         "reservedFor": "Major"
       }
     ],
@@ -15520,7 +15511,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 5,
+        "open": 4,
         "reservedFor": "Major"
       }
     ],
@@ -15536,7 +15527,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 6,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -15552,7 +15543,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 4,
+        "open": 3,
         "reservedFor": "Major"
       }
     ],
@@ -15595,7 +15586,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 7,
+        "open": 5,
         "reservedFor": "Major"
       }
     ],
@@ -17500,6 +17491,437 @@
         "reservedFor": "Major"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1859": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1860": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1861": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1862": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1863": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1864": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1865": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1866": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1867": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1868": {
+    "reserved": [
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 2,
+        "open": 2,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1869": {
+    "corequisites": {
+      "cross_list_courses": [
+        "MUSC-127"
+      ]
+    },
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1870": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1871": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1872": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1873": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280",
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1874": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280",
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1875": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280",
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1876": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280",
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1877": {
+    "corequisites": {
+      "cross_list_courses": [
+        "POLS-280",
+        "POLS-281"
+      ]
+    },
+    "prerequisites": {
+      "course": "POLS 101",
+      "type": "course"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

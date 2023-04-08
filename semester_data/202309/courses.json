@@ -2495,8 +2495,8 @@
             "credMax": 4,
             "title": "Principles of Biochemistry",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 18,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2531,8 +2531,8 @@
             "credMax": 0,
             "title": "Principles of Biochemistry Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2557,8 +2557,8 @@
             "credMax": 0,
             "title": "Principles of Biochemistry Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5833,8 +5833,8 @@
             "credMax": 0,
             "title": "Computational Approaches to Cognition Laboratory",
             "cap": 12,
-            "act": 6,
-            "rem": 6,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6095,8 +6095,8 @@
             "credMax": 4,
             "title": "Computational Approaches to Cognition",
             "cap": 24,
-            "act": 10,
-            "rem": 14,
+            "act": 11,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -6209,8 +6209,8 @@
             "credMax": 4,
             "title": "Being-With: The Politics, and Poetics, of Community",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -20940,8 +20940,8 @@
             "credMax": 4,
             "title": "Analytical Dynamics",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 6,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -23052,8 +23052,8 @@
             "credMax": 5,
             "title": "Truth, Trust, and Propaganda: Postmodern Theory and the Practice of Dissent",
             "cap": 15,
-            "act": 5,
-            "rem": 10,
+            "act": 6,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

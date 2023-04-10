@@ -3575,8 +3575,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 9,
-            "rem": 0,
+            "act": 10,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3960,8 +3960,8 @@
             "credMax": 4,
             "title": "Black Ecological Thought",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 22,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -8641,8 +8641,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22654,8 +22654,8 @@
             "credMax": 4,
             "title": "LGBTQ Health",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -23526,8 +23526,8 @@
             "credMax": 4,
             "title": "Black Ecological Thought",
             "cap": 20,
-            "act": 21,
-            "rem": -1,
+            "act": 22,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -25872,8 +25872,8 @@
             "credMax": 2,
             "title": "Theory and Pedagogy of Writing",
             "cap": 14,
-            "act": 12,
-            "rem": 2,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

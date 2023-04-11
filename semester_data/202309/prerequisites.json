@@ -334,8 +334,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 5,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -378,8 +378,8 @@
   "1024": {
     "reserved": [
       {
-        "max": 6,
-        "open": 5,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -444,8 +444,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 4,
+        "max": 6,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -501,8 +501,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 4,
+        "max": 6,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -559,8 +559,8 @@
     },
     "reserved": [
       {
-        "max": 12,
-        "open": 5,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1304,8 +1304,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 17,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1396,8 +1396,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 4,
+        "max": 16,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1437,8 +1437,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 15,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1478,8 +1478,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 18,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1519,8 +1519,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 16,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1539,8 +1539,8 @@
     },
     "reserved": [
       {
-        "max": 18,
-        "open": 2,
+        "max": 16,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1559,8 +1559,8 @@
     },
     "reserved": [
       {
-        "max": 18,
-        "open": 12,
+        "max": 6,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -1584,25 +1584,11 @@
   "1090": {
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
-        "reservedFor": "Frosh"
-      },
-      {
         "max": 3,
         "open": 3,
         "reservedFor": "Transfer"
       }
     ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1091": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -1621,13 +1607,6 @@
     }
   },
   "1096": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -2788,8 +2767,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 4,
+        "max": 11,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -2812,8 +2791,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 10,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5518,8 +5497,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 8,
-        "open": 5,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5559,8 +5538,8 @@
   "1226": {
     "reserved": [
       {
-        "max": 8,
-        "open": 7,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5653,13 +5632,13 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
-        "max": 5,
-        "open": 4,
+        "max": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -5679,13 +5658,13 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
-        "max": 5,
-        "open": 3,
+        "max": 0,
+        "open": -2,
         "reservedFor": "Major"
       }
     ],
@@ -5709,8 +5688,8 @@
   "1234": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5725,8 +5704,8 @@
   "1236": {
     "reserved": [
       {
-        "max": 5,
-        "open": 1,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -5741,13 +5720,13 @@
   "1237": {
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
-        "max": 5,
-        "open": 0,
+        "max": 0,
+        "open": -5,
         "reservedFor": "Major"
       }
     ],
@@ -6028,8 +6007,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -6066,8 +6045,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 2,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -6092,8 +6071,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 2,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -6113,8 +6092,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 8,
-        "open": 3,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -6470,8 +6449,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -6644,8 +6623,8 @@
     },
     "reserved": [
       {
-        "max": 3,
-        "open": 3,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8451,8 +8430,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 4,
+        "max": 11,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8480,8 +8459,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 1,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8706,8 +8685,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 15,
-        "open": 2,
+        "max": 13,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8873,8 +8852,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 9,
-        "open": 2,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8889,8 +8868,8 @@
   "1386": {
     "reserved": [
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8939,8 +8918,8 @@
   "1388": {
     "reserved": [
       {
-        "max": 5,
-        "open": 3,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -8967,8 +8946,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 10,
-        "open": 3,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9098,8 +9077,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 6,
-        "open": 6,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9124,8 +9103,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9140,8 +9119,8 @@
   "1395": {
     "reserved": [
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
@@ -9171,8 +9150,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 2,
-        "open": 1,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9196,8 +9175,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 4,
-        "open": 3,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9376,8 +9355,8 @@
     },
     "reserved": [
       {
-        "max": 13,
-        "open": 9,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9461,8 +9440,8 @@
     },
     "reserved": [
       {
-        "max": 13,
-        "open": 3,
+        "max": 10,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9498,8 +9477,8 @@
     },
     "reserved": [
       {
-        "max": 13,
-        "open": 11,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9535,8 +9514,8 @@
     },
     "reserved": [
       {
-        "max": 13,
-        "open": 13,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9628,8 +9607,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 4,
+        "max": 11,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9665,8 +9644,8 @@
     },
     "reserved": [
       {
-        "max": 11,
-        "open": 9,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9700,8 +9679,8 @@
   "1420": {
     "reserved": [
       {
-        "max": 9,
-        "open": 4,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9770,8 +9749,8 @@
     },
     "reserved": [
       {
-        "max": 20,
-        "open": 3,
+        "max": 17,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9812,8 +9791,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 4,
+        "max": 6,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9832,8 +9811,8 @@
     },
     "reserved": [
       {
-        "max": 7,
-        "open": 4,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9876,8 +9855,8 @@
   "1430": {
     "reserved": [
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -9928,8 +9907,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 1,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10357,8 +10336,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10373,8 +10352,8 @@
   "1468": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       },
       {
@@ -10409,8 +10388,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 2,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10783,8 +10762,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -10809,8 +10788,8 @@
         "reservedFor": "Frosh"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -12248,8 +12227,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 15,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -13546,8 +13525,8 @@
     },
     "reserved": [
       {
-        "max": 15,
-        "open": 11,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -13731,8 +13710,8 @@
   "1654": {
     "reserved": [
       {
-        "max": 8,
-        "open": 6,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -13775,8 +13754,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 10,
-        "open": 7,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14272,8 +14251,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14417,8 +14396,8 @@
     },
     "reserved": [
       {
-        "max": 5,
-        "open": 5,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14738,8 +14717,8 @@
   "1691": {
     "reserved": [
       {
-        "max": 5,
-        "open": 4,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14856,8 +14835,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 8,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14944,8 +14923,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 9,
+        "max": 1,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -14973,8 +14952,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 5,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15005,8 +14984,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 3,
+        "max": 7,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15064,8 +15043,8 @@
     },
     "reserved": [
       {
-        "max": 10,
-        "open": 4,
+        "max": 6,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15118,8 +15097,8 @@
     },
     "reserved": [
       {
-        "max": 25,
-        "open": 14,
+        "max": 11,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15160,8 +15139,8 @@
   "1713": {
     "reserved": [
       {
-        "max": 20,
-        "open": 4,
+        "max": 16,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15232,8 +15211,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 10,
-        "open": 1,
+        "max": 9,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15494,8 +15473,8 @@
   "1736": {
     "reserved": [
       {
-        "max": 8,
-        "open": 6,
+        "max": 2,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15510,8 +15489,8 @@
   "1737": {
     "reserved": [
       {
-        "max": 8,
-        "open": 4,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15526,8 +15505,8 @@
   "1738": {
     "reserved": [
       {
-        "max": 8,
-        "open": 5,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15542,8 +15521,8 @@
   "1739": {
     "reserved": [
       {
-        "max": 8,
-        "open": 3,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -15585,8 +15564,8 @@
     },
     "reserved": [
       {
-        "max": 8,
-        "open": 5,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -16579,52 +16558,6 @@
       }
     }
   },
-  "1783": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ 100",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 105",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 106",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 107",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 140",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 160",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 180",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 195",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1784": {
     "reserved": [
       {
@@ -16679,8 +16612,8 @@
     },
     "reserved": [
       {
-        "max": 9,
-        "open": 1,
+        "max": 8,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -16851,8 +16784,8 @@
   "1800": {
     "reserved": [
       {
-        "max": 8,
-        "open": 3,
+        "max": 5,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -16926,8 +16859,8 @@
   "1803": {
     "reserved": [
       {
-        "max": 8,
-        "open": 4,
+        "max": 4,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -16942,8 +16875,8 @@
   "1804": {
     "reserved": [
       {
-        "max": 8,
-        "open": 5,
+        "max": 3,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17623,8 +17556,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17649,8 +17582,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17675,8 +17608,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17710,8 +17643,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17736,8 +17669,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17762,8 +17695,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17788,8 +17721,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17814,8 +17747,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17840,8 +17773,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17866,8 +17799,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17892,8 +17825,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17918,8 +17851,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 2,
-        "open": 2,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17949,8 +17882,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],
@@ -17975,8 +17908,8 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": 4,
-        "open": 4,
+        "max": 0,
+        "open": 0,
         "reservedFor": "Major"
       }
     ],

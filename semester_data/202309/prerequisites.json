@@ -6531,15 +6531,6 @@
       }
     }
   },
-  "1264": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1265": {
     "restrictions": {
       "classification": {
@@ -8572,7 +8563,7 @@
       },
       {
         "max": 13,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],

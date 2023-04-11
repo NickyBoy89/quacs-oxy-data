@@ -6262,19 +6262,6 @@
       }
     }
   },
-  "1249": {
-    "prerequisites": {
-      "course": "ARTH 290",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1250": {
     "prerequisites": {
       "nested": [
@@ -6373,87 +6360,6 @@
       ],
       "type": "or"
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1251": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "ARTH 150",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 160",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 170",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 180",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 257",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 266",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 268",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 275",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 283",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 285",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 287",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 288",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 289",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 290",
-          "type": "course"
-        },
-        {
-          "course": "ARTH 295",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 1,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -6606,26 +6512,6 @@
         "max": 1,
         "open": 1,
         "reservedFor": "Transfer"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1262": {
-    "prerequisites": {
-      "course": "ARTS 103",
-      "type": "course"
-    },
-    "reserved": [
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Major"
       }
     ],
     "restrictions": {
@@ -16613,7 +16499,7 @@
     "reserved": [
       {
         "max": 8,
-        "open": 0,
+        "open": -1,
         "reservedFor": "Major"
       }
     ],
@@ -18044,6 +17930,22 @@
       "course": "POLS 101",
       "type": "course"
     },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1878": {
+    "reserved": [
+      {
+        "max": 4,
+        "open": 4,
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

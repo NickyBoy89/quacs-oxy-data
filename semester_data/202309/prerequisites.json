@@ -6061,8 +6061,8 @@
   "1242": {
     "reserved": [
       {
-        "max": 10,
-        "open": 10,
+        "max": 5,
+        "open": 5,
         "reservedFor": "Frosh"
       },
       {
@@ -17937,6 +17937,31 @@
         "reservedFor": "Frosh"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1879": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1880": {
     "restrictions": {
       "classification": {
         "may_not_be": [

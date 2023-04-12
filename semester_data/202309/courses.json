@@ -3512,8 +3512,8 @@
             "credMax": 4,
             "title": "Senior Seminar",
             "cap": 9,
-            "act": 10,
-            "rem": -1,
+            "act": 11,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -14838,8 +14838,8 @@
             "credMax": 4,
             "title": "Recording Techniques",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

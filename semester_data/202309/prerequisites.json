@@ -17969,5 +17969,44 @@
         ]
       }
     }
+  },
+  "1881": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "PSYC 102",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1882": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
   }
 }

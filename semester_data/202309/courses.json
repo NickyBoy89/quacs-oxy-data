@@ -2148,8 +2148,8 @@
             "credMax": 0,
             "title": "Biostatistics Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2228,8 +2228,8 @@
             "credMax": 4,
             "title": "Biostatistics",
             "cap": 24,
-            "act": 17,
-            "rem": 7,
+            "act": 18,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -2566,8 +2566,8 @@
             "credMax": 4,
             "title": "Neurobiology",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -2628,8 +2628,8 @@
             "credMax": 0,
             "title": "Neurobiology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2662,8 +2662,8 @@
             "credMax": 0,
             "title": "Microbial Pathogenesis Laboratory",
             "cap": 8,
-            "act": 6,
-            "rem": 2,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2722,8 +2722,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -2786,8 +2786,8 @@
             "credMax": 0,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -3692,8 +3692,8 @@
             "credMax": 4,
             "title": "Microbial Pathogenesis",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -5540,8 +5540,8 @@
             "credMax": 5,
             "title": "Elementary Chinese I",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -11097,8 +11097,8 @@
             "credMax": 4,
             "title": "Diversity Before Multiculturalism: The Ottoman World, 1300-1699",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -11133,8 +11133,8 @@
             "credMax": 4,
             "title": "History Colloquium. Gender and Sexuality in Colonial Latin America",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -20445,8 +20445,8 @@
             "credMax": 4,
             "title": "General Physics II",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -20755,8 +20755,8 @@
             "credMax": 0,
             "title": "General Physics II Laboratory",
             "cap": 14,
-            "act": 5,
-            "rem": 9,
+            "act": 4,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -21651,8 +21651,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 30,
-            "act": 12,
-            "rem": 18,
+            "act": 13,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {

@@ -1263,9 +1263,7 @@
     "title": "Race and Ethnicity in American Society",
     "prereqs": [
       "OXSO",
-      "SOC 101",
-      "SOC 102",
-      "SOC 105"
+      "SOC  101"
     ]
   },
   "SOC 315": {
@@ -4212,12 +4210,6 @@
       "PHIL 497"
     ]
   },
-  "DWA 310": {
-    "title": "Junior Seminar: Religion and Politics",
-    "prereqs": [
-      "DWA 101"
-    ]
-  },
   "DWA 270": {
     "title": "What Do Countries Want and Why?",
     "prereqs": [
@@ -4238,14 +4230,20 @@
       "DWA 101"
     ]
   },
-  "ECON 308": {
-    "title": "Public Economics",
+  "DWA 310": {
+    "title": "Junior Seminar: Religion and Politics",
     "prereqs": [
-      "ECON 250"
+      "DWA 101"
     ]
   },
   "ECON 321": {
     "title": "Health Economics",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "ECON 308": {
+    "title": "Public Economics",
     "prereqs": [
       "ECON 250"
     ]

@@ -2672,19 +2672,6 @@
       }
     }
   },
-  "1126": {
-    "prerequisites": {
-      "course": "ECON 250",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1127": {
     "prerequisites": {
       "course": "ECON 250",
@@ -6424,8 +6411,8 @@
   "1256": {
     "reserved": [
       {
-        "max": 4,
-        "open": 4,
+        "max": 3,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -9047,11 +9034,6 @@
     },
     "reserved": [
       {
-        "max": 2,
-        "open": 2,
-        "reservedFor": "Frosh"
-      },
-      {
         "max": 1,
         "open": 0,
         "reservedFor": "Major"
@@ -9355,43 +9337,6 @@
     "reserved": [
       {
         "max": 2,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1414": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SOC 101",
-          "type": "course"
-        },
-        {
-          "course": "SOC 102",
-          "type": "course"
-        },
-        {
-          "course": "SOC 105",
-          "type": "course"
-        },
-        {
-          "course": "OXSO",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 0,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -18005,6 +17950,20 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1883": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CHEM-240"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

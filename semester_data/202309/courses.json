@@ -4765,8 +4765,8 @@
             "credMax": 4,
             "title": "Integrated Concepts in General Chemistry",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -4843,6 +4843,32 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1883,
+            "subj": "CHEM",
+            "crse": "240L",
+            "sec": "03",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Integrated Concepts in General Chemistry Laboratory",
+            "cap": 14,
+            "act": 2,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -4852,72 +4878,6 @@
         "crse": "295",
         "id": "CHEM-295",
         "sections": [
-          {
-            "crn": 1632,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1634,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "04",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 2,
-            "rem": 97,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1636,
-            "subj": "CHEM",
-            "crse": "295",
-            "sec": "06",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1631,
             "subj": "CHEM",
@@ -5001,6 +4961,370 @@
                 "days": [],
                 "instructor": "Andrew K. Udit",
                 "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1632,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1634,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "04",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 2,
+            "rem": 97,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1636,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "06",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Thermodynamics and Kinetics Laboratory",
+        "subj": "CHEM",
+        "crse": "300L",
+        "id": "CHEM-300L",
+        "sections": [
+          {
+            "crn": 1639,
+            "subj": "CHEM",
+            "crse": "300L",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Thermodynamics and Kinetics Laboratory",
+            "cap": 15,
+            "act": 12,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Andrew K. Udit",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Physical Chemistry III",
+        "subj": "CHEM",
+        "crse": "315",
+        "id": "CHEM-315",
+        "sections": [
+          {
+            "crn": 1641,
+            "subj": "CHEM",
+            "crse": "315",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Physical Chemistry III",
+            "cap": 20,
+            "act": 4,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "CHEM",
+        "crse": "395",
+        "id": "CHEM-395",
+        "sections": [
+          {
+            "crn": 1643,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jeff Scott Cannon",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1645,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 20,
+            "act": 0,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1647,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "05",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Raul Navarro",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1649,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "07",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1644,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Chris Craney",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1646,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1648,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "06",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Eileen M. Spain",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Placement General Chemistry",
+        "subj": "CHEM",
+        "crse": "130",
+        "id": "CHEM-130",
+        "sections": [
+          {
+            "crn": 1610,
+            "subj": "CHEM",
+            "crse": "130",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Placement General Chemistry",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Michael G. Hill",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Organic Chemistry II",
+        "subj": "CHEM",
+        "crse": "221",
+        "id": "CHEM-221",
+        "sections": [
+          {
+            "crn": 1625,
+            "subj": "CHEM",
+            "crse": "221",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Organic Chemistry II",
+            "cap": 25,
+            "act": 14,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jeff Scott Cannon",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -5117,168 +5441,6 @@
         ]
       },
       {
-        "title": "Directed Research",
-        "subj": "CHEM",
-        "crse": "395",
-        "id": "CHEM-395",
-        "sections": [
-          {
-            "crn": 1644,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Chris Craney",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1646,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1648,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "06",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Eileen M. Spain",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1643,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jeff Scott Cannon",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1645,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1647,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "05",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Raul Navarro",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1649,
-            "subj": "CHEM",
-            "crse": "395",
-            "sec": "07",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Directed Research",
-            "cap": 99,
-            "act": 0,
-            "rem": 99,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Andrew K. Udit",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Senior Seminar",
         "subj": "CHEM",
         "crse": "490",
@@ -5311,142 +5473,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Advanced Placement General Chemistry",
-        "subj": "CHEM",
-        "crse": "130",
-        "id": "CHEM-130",
-        "sections": [
-          {
-            "crn": 1610,
-            "subj": "CHEM",
-            "crse": "130",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Placement General Chemistry",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Organic Chemistry II",
-        "subj": "CHEM",
-        "crse": "221",
-        "id": "CHEM-221",
-        "sections": [
-          {
-            "crn": 1625,
-            "subj": "CHEM",
-            "crse": "221",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Organic Chemistry II",
-            "cap": 25,
-            "act": 14,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeff Scott Cannon",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Thermodynamics and Kinetics Laboratory",
-        "subj": "CHEM",
-        "crse": "300L",
-        "id": "CHEM-300L",
-        "sections": [
-          {
-            "crn": 1639,
-            "subj": "CHEM",
-            "crse": "300L",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Thermodynamics and Kinetics Laboratory",
-            "cap": 15,
-            "act": 12,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Andrew K. Udit",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Physical Chemistry III",
-        "subj": "CHEM",
-        "crse": "315",
-        "id": "CHEM-315",
-        "sections": [
-          {
-            "crn": 1641,
-            "subj": "CHEM",
-            "crse": "315",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Physical Chemistry III",
-            "cap": 20,
-            "act": 4,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Michael G. Hill",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -5454,77 +5480,6 @@
     "name": "Chinese",
     "code": "CHIN",
     "courses": [
-      {
-        "title": "Intermediate Chinese I",
-        "subj": "CHIN",
-        "crse": "201",
-        "id": "CHIN-201",
-        "sections": [
-          {
-            "crn": 1010,
-            "subj": "CHIN",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 5,
-            "credMax": 5,
-            "title": "Intermediate Chinese I",
-            "cap": 25,
-            "act": 5,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Swee Fong Lee",
-                "location": "",
-                "timeStart": 1325,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Translating Chinese I",
-        "subj": "CHIN",
-        "crse": "460",
-        "id": "CHIN-460",
-        "sections": [
-          {
-            "crn": 1012,
-            "subj": "CHIN",
-            "crse": "460",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Translating Chinese I",
-            "cap": 18,
-            "act": 6,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Meimei Zhang",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Elementary Chinese I",
         "subj": "CHIN",
@@ -5596,6 +5551,77 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Intermediate Chinese I",
+        "subj": "CHIN",
+        "crse": "201",
+        "id": "CHIN-201",
+        "sections": [
+          {
+            "crn": 1010,
+            "subj": "CHIN",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Intermediate Chinese I",
+            "cap": 25,
+            "act": 5,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Swee Fong Lee",
+                "location": "",
+                "timeStart": 1325,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Translating Chinese I",
+        "subj": "CHIN",
+        "crse": "460",
+        "id": "CHIN-460",
+        "sections": [
+          {
+            "crn": 1012,
+            "subj": "CHIN",
+            "crse": "460",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Translating Chinese I",
+            "cap": 18,
+            "act": 6,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Meimei Zhang",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -5603,6 +5629,331 @@
     "name": "Cognitive Science",
     "code": "COGS",
     "courses": [
+      {
+        "title": "Introduction to Cognitive Science",
+        "subj": "COGS",
+        "crse": "101",
+        "id": "COGS-101",
+        "sections": [
+          {
+            "crn": 1019,
+            "subj": "COGS",
+            "crse": "101",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Cognitive Science",
+            "cap": 45,
+            "act": 19,
+            "rem": 26,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "William Dylan Sabo",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Empirical Methods in Cognitive Science",
+        "subj": "COGS",
+        "crse": "201",
+        "id": "COGS-201",
+        "sections": [
+          {
+            "crn": 1021,
+            "subj": "COGS",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Empirical Methods in Cognitive Science",
+            "cap": 18,
+            "act": 19,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Empirical Methods in Cognitive Science Laboratory",
+        "subj": "COGS",
+        "crse": "201L",
+        "id": "COGS-201L",
+        "sections": [
+          {
+            "crn": 1023,
+            "subj": "COGS",
+            "crse": "201L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Empirical Methods in Cognitive Science Laboratory",
+            "cap": 10,
+            "act": 7,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1022,
+            "subj": "COGS",
+            "crse": "201L",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Empirical Methods in Cognitive Science Laboratory",
+            "cap": 10,
+            "act": 11,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Computational Approaches to Cognition",
+        "subj": "COGS",
+        "crse": "242",
+        "id": "COGS-242",
+        "sections": [
+          {
+            "crn": 1025,
+            "subj": "COGS",
+            "crse": "242",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computational Approaches to Cognition",
+            "cap": 24,
+            "act": 10,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alan P. Knoerr",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Computational Approaches to Cognition Laboratory",
+        "subj": "COGS",
+        "crse": "242L",
+        "id": "COGS-242L",
+        "sections": [
+          {
+            "crn": 1027,
+            "subj": "COGS",
+            "crse": "242L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Computational Approaches to Cognition Laboratory",
+            "cap": 12,
+            "act": 4,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Alan P. Knoerr",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1026,
+            "subj": "COGS",
+            "crse": "242L",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Computational Approaches to Cognition Laboratory",
+            "cap": 12,
+            "act": 6,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Alan P. Knoerr",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Linguistics for Cognitive Science",
+        "subj": "COGS",
+        "crse": "330",
+        "id": "COGS-330",
+        "sections": [
+          {
+            "crn": 1029,
+            "subj": "COGS",
+            "crse": "330",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linguistics for Cognitive Science",
+            "cap": 18,
+            "act": 14,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "William Dylan Sabo",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar in Cognitive Science",
+        "subj": "COGS",
+        "crse": "490",
+        "id": "COGS-490",
+        "sections": [
+          {
+            "crn": 1031,
+            "subj": "COGS",
+            "crse": "490",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Cognitive Science",
+            "cap": 12,
+            "act": 7,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Stephanie Marie-Elizabeth Nelli",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1032,
+            "subj": "COGS",
+            "crse": "490",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Cognitive Science",
+            "cap": 12,
+            "act": 7,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Kevin Urstadt",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Introduction to Neuroscience",
         "subj": "COGS",
@@ -5639,66 +5990,6 @@
         ]
       },
       {
-        "title": "Empirical Methods in Cognitive Science Laboratory",
-        "subj": "COGS",
-        "crse": "201L",
-        "id": "COGS-201L",
-        "sections": [
-          {
-            "crn": 1022,
-            "subj": "COGS",
-            "crse": "201L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Empirical Methods in Cognitive Science Laboratory",
-            "cap": 10,
-            "act": 11,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Carmel A Levitan",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1023,
-            "subj": "COGS",
-            "crse": "201L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Empirical Methods in Cognitive Science Laboratory",
-            "cap": 10,
-            "act": 7,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Carmel A Levitan",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Mind, Brain, and Behavior",
         "subj": "COGS",
         "crse": "230",
@@ -5726,66 +6017,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Computational Approaches to Cognition Laboratory",
-        "subj": "COGS",
-        "crse": "242L",
-        "id": "COGS-242L",
-        "sections": [
-          {
-            "crn": 1026,
-            "subj": "COGS",
-            "crse": "242L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Computational Approaches to Cognition Laboratory",
-            "cap": 12,
-            "act": 6,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1027,
-            "subj": "COGS",
-            "crse": "242L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Computational Approaches to Cognition Laboratory",
-            "cap": 12,
-            "act": 4,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -5861,211 +6092,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Senior Seminar in Cognitive Science",
-        "subj": "COGS",
-        "crse": "490",
-        "id": "COGS-490",
-        "sections": [
-          {
-            "crn": 1032,
-            "subj": "COGS",
-            "crse": "490",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Cognitive Science",
-            "cap": 12,
-            "act": 7,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Kevin Urstadt",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1031,
-            "subj": "COGS",
-            "crse": "490",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Cognitive Science",
-            "cap": 12,
-            "act": 7,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Stephanie Marie-Elizabeth Nelli",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Cognitive Science",
-        "subj": "COGS",
-        "crse": "101",
-        "id": "COGS-101",
-        "sections": [
-          {
-            "crn": 1019,
-            "subj": "COGS",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Cognitive Science",
-            "cap": 45,
-            "act": 19,
-            "rem": 26,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "William Dylan Sabo",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Empirical Methods in Cognitive Science",
-        "subj": "COGS",
-        "crse": "201",
-        "id": "COGS-201",
-        "sections": [
-          {
-            "crn": 1021,
-            "subj": "COGS",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Empirical Methods in Cognitive Science",
-            "cap": 18,
-            "act": 19,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Carmel A Levitan",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Computational Approaches to Cognition",
-        "subj": "COGS",
-        "crse": "242",
-        "id": "COGS-242",
-        "sections": [
-          {
-            "crn": 1025,
-            "subj": "COGS",
-            "crse": "242",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computational Approaches to Cognition",
-            "cap": 24,
-            "act": 10,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alan P. Knoerr",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Linguistics for Cognitive Science",
-        "subj": "COGS",
-        "crse": "330",
-        "id": "COGS-330",
-        "sections": [
-          {
-            "crn": 1029,
-            "subj": "COGS",
-            "crse": "330",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Linguistics for Cognitive Science",
-            "cap": 18,
-            "act": 14,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "William Dylan Sabo",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -6073,112 +6099,6 @@
     "name": "Comparative Studies/Lit & Cult",
     "code": "CSLC",
     "courses": [
-      {
-        "title": "The Literary Mind and the Carving of Dragons: Masterpieces of Classical Chinese Literature",
-        "subj": "CSLC",
-        "crse": "150",
-        "id": "CSLC-150",
-        "sections": [
-          {
-            "crn": 1837,
-            "subj": "CSLC",
-            "crse": "150",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Literary Mind and the Carving of Dragons: Masterpieces of Classical Chinese Literature",
-            "cap": 30,
-            "act": 28,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Meimei Zhang",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Being-With: The Politics, and Poetics, of Community",
-        "subj": "CSLC",
-        "crse": "203",
-        "id": "CSLC-203",
-        "sections": [
-          {
-            "crn": 1046,
-            "subj": "CSLC",
-            "crse": "203",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Being-With: The Politics, and Poetics, of Community",
-            "cap": 25,
-            "act": 19,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Damian Alexander Stocking",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Nature, Science, and Subjectivity in the Age of Goethe",
-        "subj": "CSLC",
-        "crse": "315",
-        "id": "CSLC-315",
-        "sections": [
-          {
-            "crn": 1775,
-            "subj": "CSLC",
-            "crse": "315",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Nature, Science, and Subjectivity in the Age of Goethe",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Stephen Klemm",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Truth, Trust, and Propaganda: Postmodern Theory and the Practice of Dissent",
         "subj": "CSLC",
@@ -6317,30 +6237,24 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Computer Science",
-    "code": "COMP",
-    "courses": [
+      },
       {
-        "title": "Justice and Equity in Technology",
-        "subj": "COMP",
-        "crse": "101",
-        "id": "COMP-101",
+        "title": "The Literary Mind and the Carving of Dragons: Masterpieces of Classical Chinese Literature",
+        "subj": "CSLC",
+        "crse": "150",
+        "id": "CSLC-150",
         "sections": [
           {
-            "crn": 1055,
-            "subj": "COMP",
-            "crse": "101",
+            "crn": 1837,
+            "subj": "CSLC",
+            "crse": "150",
             "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Justice and Equity in Technology",
-            "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Literary Mind and the Carving of Dragons: Masterpieces of Classical Chinese Literature",
+            "cap": 30,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6349,10 +6263,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Teddy Pozo",
+                "instructor": "Meimei Zhang",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6361,117 +6275,87 @@
         ]
       },
       {
-        "title": "Fundamentals of Computer Science Laboratory",
-        "subj": "COMP",
-        "crse": "131",
-        "id": "COMP-131",
+        "title": "Being-With: The Politics, and Poetics, of Community",
+        "subj": "CSLC",
+        "crse": "203",
+        "id": "CSLC-203",
         "sections": [
           {
-            "crn": 1059,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Fundamentals of Computer Science Laboratory",
-            "cap": 15,
-            "act": 7,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Hsing-Hau Chen",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1057,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "02",
+            "crn": 1046,
+            "subj": "CSLC",
+            "crse": "203",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Fundamentals of Computer Science",
-            "cap": 30,
-            "act": 14,
-            "rem": 16,
+            "title": "Being-With: The Politics, and Poetics, of Community",
+            "cap": 25,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
-                "instructor": "Justin Li",
+                "instructor": "Damian Alexander Stocking",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 1740,
+                "timeEnd": 1905,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Nature, Science, and Subjectivity in the Age of Goethe",
+        "subj": "CSLC",
+        "crse": "315",
+        "id": "CSLC-315",
+        "sections": [
           {
-            "crn": 1062,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "2-2",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Fundamentals of Computer Science Laboratory",
-            "cap": 15,
-            "act": 7,
-            "rem": 8,
+            "crn": 1775,
+            "subj": "CSLC",
+            "crse": "315",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Nature, Science, and Subjectivity in the Age of Goethe",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
+                  "T",
                   "R"
                 ],
-                "instructor": "Teddy Pozo",
+                "instructor": "Stephen Klemm",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
-          },
-          {
-            "crn": 1063,
-            "subj": "COMP",
-            "crse": "131",
-            "sec": "3-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Fundamentals of Computer Science Laboratory",
-            "cap": 15,
-            "act": 3,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Sheldon Elias Schiffer",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Computer Science",
+    "code": "COMP",
+    "courses": [
+      {
+        "title": "Fundamentals of Computer Science",
+        "subj": "COMP",
+        "crse": "131",
+        "id": "COMP-131",
+        "sections": [
           {
             "crn": 1056,
             "subj": "COMP",
@@ -6605,26 +6489,44 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Statistics",
-        "subj": "COMP",
-        "crse": "146",
-        "id": "COMP-146",
-        "sections": [
+          },
           {
-            "crn": 1065,
+            "crn": 1059,
             "subj": "COMP",
-            "crse": "146",
-            "sec": "01",
+            "crse": "131",
+            "sec": "1-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Fundamentals of Computer Science Laboratory",
+            "cap": 15,
+            "act": 7,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Hsing-Hau Chen",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1057,
+            "subj": "COMP",
+            "crse": "131",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Statistics",
+            "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 24,
-            "rem": 6,
+            "act": 14,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -6633,7 +6535,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Gabriel Freiman",
+                "instructor": "Justin Li",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
@@ -6643,57 +6545,65 @@
             ]
           },
           {
-            "crn": 1068,
+            "crn": 1062,
             "subj": "COMP",
-            "crse": "146",
-            "sec": "1-2",
+            "crse": "131",
+            "sec": "2-2",
             "credMin": 0,
             "credMax": 0,
-            "title": "Statistics Laboratory",
+            "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 7,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "R"
                 ],
-                "instructor": "Gabriel Freiman",
+                "instructor": "Teddy Pozo",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
           },
           {
-            "crn": 1069,
+            "crn": 1063,
             "subj": "COMP",
-            "crse": "146",
-            "sec": "2-1",
+            "crse": "131",
+            "sec": "3-1",
             "credMin": 0,
             "credMax": 0,
-            "title": "Statistics Laboratory",
+            "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 12,
-            "rem": 3,
+            "act": 3,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Sheldon Elias Schiffer",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 830,
+                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Statistics Laboratory",
+        "subj": "COMP",
+        "crse": "146",
+        "id": "COMP-146",
+        "sections": [
           {
             "crn": 1067,
             "subj": "COMP",
@@ -6773,37 +6683,118 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Mathematical Foundations of Computer Science",
-        "subj": "COMP",
-        "crse": "149",
-        "id": "COMP-149",
-        "sections": [
+          },
           {
-            "crn": 1071,
+            "crn": 1065,
             "subj": "COMP",
-            "crse": "149",
-            "sec": "00",
+            "crse": "146",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Mathematical Foundations of Computer Science",
+            "title": "Statistics",
             "cap": 30,
-            "act": 18,
-            "rem": 12,
+            "act": 24,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W"
+                  "W",
+                  "F"
                 ],
-                "instructor": "Hsing-Hau Chen",
+                "instructor": "Gabriel Freiman",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1068,
+            "subj": "COMP",
+            "crse": "146",
+            "sec": "1-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Statistics Laboratory",
+            "cap": 15,
+            "act": 9,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Gabriel Freiman",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1069,
+            "subj": "COMP",
+            "crse": "146",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Statistics Laboratory",
+            "cap": 15,
+            "act": 12,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Programming",
+        "subj": "COMP",
+        "crse": "181",
+        "id": "COMP-181",
+        "sections": [
+          {
+            "crn": 1072,
+            "subj": "COMP",
+            "crse": "181",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Programming",
+            "cap": 30,
+            "act": 1,
+            "rem": 29,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sheldon Elias Schiffer",
                 "location": "",
                 "timeStart": 1605,
-                "timeEnd": 1730,
+                "timeEnd": 1700,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6817,34 +6808,6 @@
         "crse": "229",
         "id": "COMP-229",
         "sections": [
-          {
-            "crn": 1074,
-            "subj": "COMP",
-            "crse": "229",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Data Structures",
-            "cap": 24,
-            "act": 7,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1073,
             "subj": "COMP",
@@ -6872,26 +6835,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Computer Organization",
-        "subj": "COMP",
-        "crse": "239",
-        "id": "COMP-239",
-        "sections": [
+          },
           {
-            "crn": 1075,
+            "crn": 1074,
             "subj": "COMP",
-            "crse": "239",
-            "sec": "00",
+            "crse": "229",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Computer Organization",
+            "title": "Data Structures",
             "cap": 24,
-            "act": 11,
-            "rem": 13,
+            "act": 7,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -6902,8 +6857,8 @@
                 ],
                 "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
+                "timeStart": 1040,
+                "timeEnd": 1135,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6917,32 +6872,6 @@
         "crse": "239L",
         "id": "COMP-239L",
         "sections": [
-          {
-            "crn": 1077,
-            "subj": "COMP",
-            "crse": "239L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Computer Organization Laboratory",
-            "cap": 12,
-            "act": 1,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1076,
             "subj": "COMP",
@@ -6968,37 +6897,64 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Topic: Computing in Real Life",
-        "subj": "COMP",
-        "crse": "295",
-        "id": "COMP-295",
-        "sections": [
+          },
           {
-            "crn": 1079,
+            "crn": 1077,
             "subj": "COMP",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topic: Computing in Real Life",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
+            "crse": "239L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Computer Organization Laboratory",
+            "cap": 12,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M"
                 ],
-                "instructor": "Kathryn Leonard",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1500,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Music and Artificial Intelligence",
+        "subj": "COMP",
+        "crse": "242",
+        "id": "COMP-242",
+        "sections": [
+          {
+            "crn": 1078,
+            "subj": "COMP",
+            "crse": "242",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music and Artificial Intelligence",
+            "cap": 16,
+            "act": 1,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Fabio Paolizzo",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7012,61 +6968,6 @@
         "crse": "395",
         "id": "COMP-395",
         "sections": [
-          {
-            "crn": 1083,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1085,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 25,
-            "act": 7,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1082,
             "subj": "COMP",
@@ -7122,6 +7023,61 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1083,
+            "subj": "COMP",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in Computer Science",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1085,
+            "subj": "COMP",
+            "crse": "395",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in Computer Science",
+            "cap": 25,
+            "act": 7,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -7131,33 +7087,6 @@
         "crse": "490",
         "id": "COMP-490",
         "sections": [
-          {
-            "crn": 1087,
-            "subj": "COMP",
-            "crse": "490",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computer Science Senior Seminar",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Justin Li",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1086,
             "subj": "COMP",
@@ -7184,26 +7113,53 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1087,
+            "subj": "COMP",
+            "crse": "490",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computer Science Senior Seminar",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Justin Li",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Advanced Programming",
+        "title": "Justice and Equity in Technology",
         "subj": "COMP",
-        "crse": "181",
-        "id": "COMP-181",
+        "crse": "101",
+        "id": "COMP-101",
         "sections": [
           {
-            "crn": 1072,
+            "crn": 1055,
             "subj": "COMP",
-            "crse": "181",
+            "crse": "101",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Programming",
-            "cap": 30,
-            "act": 1,
-            "rem": 29,
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Justice and Equity in Technology",
+            "cap": 24,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -7212,7 +7168,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Sheldon Elias Schiffer",
+                "instructor": "Teddy Pozo",
                 "location": "",
                 "timeStart": 1605,
                 "timeEnd": 1700,
@@ -7224,22 +7180,57 @@
         ]
       },
       {
-        "title": "Music and Artificial Intelligence",
+        "title": "Mathematical Foundations of Computer Science",
         "subj": "COMP",
-        "crse": "242",
-        "id": "COMP-242",
+        "crse": "149",
+        "id": "COMP-149",
         "sections": [
           {
-            "crn": 1078,
+            "crn": 1071,
             "subj": "COMP",
-            "crse": "242",
+            "crse": "149",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Music and Artificial Intelligence",
-            "cap": 16,
-            "act": 1,
-            "rem": 15,
+            "title": "Mathematical Foundations of Computer Science",
+            "cap": 30,
+            "act": 18,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Hsing-Hau Chen",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Computer Organization",
+        "subj": "COMP",
+        "crse": "239",
+        "id": "COMP-239",
+        "sections": [
+          {
+            "crn": 1075,
+            "subj": "COMP",
+            "crse": "239",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Computer Organization",
+            "cap": 24,
+            "act": 11,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -7248,10 +7239,45 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Fabio Paolizzo",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topic: Computing in Real Life",
+        "subj": "COMP",
+        "crse": "295",
+        "id": "COMP-295",
+        "sections": [
+          {
+            "crn": 1079,
+            "subj": "COMP",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic: Computing in Real Life",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Kathryn Leonard",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7265,70 +7291,6 @@
     "name": "Core",
     "code": "CORE",
     "courses": [
-      {
-        "title": "Experiencing the Arts",
-        "subj": "CORE",
-        "crse": "99",
-        "id": "CORE-99",
-        "sections": [
-          {
-            "crn": 1724,
-            "subj": "CORE",
-            "crse": "99",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Experiencing the Arts",
-            "cap": 99,
-            "act": 3,
-            "rem": 96,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Edmond T. Johnson",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Letterpress Printing",
-        "subj": "CORE",
-        "crse": "227",
-        "id": "CORE-227",
-        "sections": [
-          {
-            "crn": 1781,
-            "subj": "CORE",
-            "crse": "227",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Introduction to Letterpress Printing",
-            "cap": 14,
-            "act": 14,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Jocelyn Webb Pedersen",
-                "location": "",
-                "timeStart": 900,
-                "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Experiencing Los Angeles Cultures",
         "subj": "CORE",
@@ -7392,6 +7354,70 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Experiencing the Arts",
+        "subj": "CORE",
+        "crse": "99",
+        "id": "CORE-99",
+        "sections": [
+          {
+            "crn": 1724,
+            "subj": "CORE",
+            "crse": "99",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Experiencing the Arts",
+            "cap": 99,
+            "act": 3,
+            "rem": 96,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Edmond T. Johnson",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Letterpress Printing",
+        "subj": "CORE",
+        "crse": "227",
+        "id": "CORE-227",
+        "sections": [
+          {
+            "crn": 1781,
+            "subj": "CORE",
+            "crse": "227",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Introduction to Letterpress Printing",
+            "cap": 14,
+            "act": 14,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Jocelyn Webb Pedersen",
+                "location": "",
+                "timeStart": 900,
+                "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -7405,33 +7431,6 @@
         "crse": "100",
         "id": "CTSJ-100",
         "sections": [
-          {
-            "crn": 1090,
-            "subj": "CTSJ",
-            "crse": "100",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Critical Theory",
-            "cap": 25,
-            "act": 21,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Malek Moazzam-Doulat",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1089,
             "subj": "CTSJ",
@@ -7459,62 +7458,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Critical Theories of Sexuality",
-        "subj": "CTSJ",
-        "crse": "140",
-        "id": "CTSJ-140",
-        "sections": [
+          },
           {
-            "crn": 1093,
+            "crn": 1090,
             "subj": "CTSJ",
-            "crse": "140",
-            "sec": "00",
+            "crse": "100",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Critical Theories of Sexuality",
+            "title": "Introduction to Critical Theory",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Caitlin Joy Dobson",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Environmental Injustice: Race, Poverty, and The Law",
-        "subj": "CTSJ",
-        "crse": "201",
-        "id": "CTSJ-201",
-        "sections": [
-          {
-            "crn": 1776,
-            "subj": "CTSJ",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Environmental Injustice: Race, Poverty, and The Law",
-            "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -7522,113 +7477,10 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Malek Moazzam-Doulat",
                 "location": "",
                 "timeStart": 1740,
                 "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Conquest by Law: US Imperialism and Slavery",
-        "subj": "CTSJ",
-        "crse": "212",
-        "id": "CTSJ-212",
-        "sections": [
-          {
-            "crn": 1726,
-            "subj": "CTSJ",
-            "crse": "212",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Conquest by Law: US Imperialism and Slavery",
-            "cap": 25,
-            "act": 19,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Marisol Leon",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Asian American Radical Movements",
-        "subj": "CTSJ",
-        "crse": "290",
-        "id": "CTSJ-290",
-        "sections": [
-          {
-            "crn": 1727,
-            "subj": "CTSJ",
-            "crse": "290",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Asian American Radical Movements",
-            "cap": 25,
-            "act": 8,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Social Justice Practicum",
-        "subj": "CTSJ",
-        "crse": "398",
-        "id": "CTSJ-398",
-        "sections": [
-          {
-            "crn": 1100,
-            "subj": "CTSJ",
-            "crse": "398",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Social Justice Practicum",
-            "cap": 15,
-            "act": 4,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "G. Elmer Griffin",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7848,6 +7700,180 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Critical Theories of Sexuality",
+        "subj": "CTSJ",
+        "crse": "140",
+        "id": "CTSJ-140",
+        "sections": [
+          {
+            "crn": 1093,
+            "subj": "CTSJ",
+            "crse": "140",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Critical Theories of Sexuality",
+            "cap": 25,
+            "act": 13,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Caitlin Joy Dobson",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Environmental Injustice: Race, Poverty, and The Law",
+        "subj": "CTSJ",
+        "crse": "201",
+        "id": "CTSJ-201",
+        "sections": [
+          {
+            "crn": 1776,
+            "subj": "CTSJ",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Environmental Injustice: Race, Poverty, and The Law",
+            "cap": 25,
+            "act": 15,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conquest by Law: US Imperialism and Slavery",
+        "subj": "CTSJ",
+        "crse": "212",
+        "id": "CTSJ-212",
+        "sections": [
+          {
+            "crn": 1726,
+            "subj": "CTSJ",
+            "crse": "212",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Conquest by Law: US Imperialism and Slavery",
+            "cap": 25,
+            "act": 19,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Marisol Leon",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Asian American Radical Movements",
+        "subj": "CTSJ",
+        "crse": "290",
+        "id": "CTSJ-290",
+        "sections": [
+          {
+            "crn": 1727,
+            "subj": "CTSJ",
+            "crse": "290",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Asian American Radical Movements",
+            "cap": 25,
+            "act": 8,
+            "rem": 17,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Social Justice Practicum",
+        "subj": "CTSJ",
+        "crse": "398",
+        "id": "CTSJ-398",
+        "sections": [
+          {
+            "crn": 1100,
+            "subj": "CTSJ",
+            "crse": "398",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Social Justice Practicum",
+            "cap": 15,
+            "act": 4,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "G. Elmer Griffin",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -7861,33 +7887,6 @@
         "crse": "101",
         "id": "DWA-101",
         "sections": [
-          {
-            "crn": 1113,
-            "subj": "DWA",
-            "crse": "101",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Relations: The Changing Rules of the Game",
-            "cap": 25,
-            "act": 13,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lan Chu",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1115,
             "subj": "DWA",
@@ -7914,6 +7913,33 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1113,
+            "subj": "DWA",
+            "crse": "101",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Relations: The Changing Rules of the Game",
+            "cap": 25,
+            "act": 13,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Lan Chu",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -7923,6 +7949,33 @@
         "crse": "102",
         "id": "DWA-102",
         "sections": [
+          {
+            "crn": 1118,
+            "subj": "DWA",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "International Organizations",
+            "cap": 25,
+            "act": 12,
+            "rem": 13,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Laura Hebert",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1116,
             "subj": "DWA",
@@ -7949,18 +8002,61 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Authoritarianism in the Age of Globalization",
+        "subj": "DWA",
+        "crse": "227",
+        "id": "DWA-227",
+        "sections": [
           {
-            "crn": 1118,
+            "crn": 1813,
             "subj": "DWA",
-            "crse": "102",
-            "sec": "02",
+            "crse": "227",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "International Organizations",
+            "title": "Authoritarianism in the Age of Globalization",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Igor Olegovich Logvinenko",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "A Primer for Revolution",
+        "subj": "DWA",
+        "crse": "232",
+        "id": "DWA-232",
+        "sections": [
+          {
+            "crn": 1137,
+            "subj": "DWA",
+            "crse": "232",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "A Primer for Revolution",
+            "cap": 25,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -7968,10 +8064,144 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Laura Hebert",
+                "instructor": "Movindri Reddy",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Do Countries Want and Why?",
+        "subj": "DWA",
+        "crse": "270",
+        "id": "DWA-270",
+        "sections": [
+          {
+            "crn": 1777,
+            "subj": "DWA",
+            "crse": "270",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "What Do Countries Want and Why?",
+            "cap": 25,
+            "act": 25,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mariano Bertucci",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in Diplomacy and World Affairs",
+        "subj": "DWA",
+        "crse": "295",
+        "id": "DWA-295",
+        "sections": [
+          {
+            "crn": 1819,
+            "subj": "DWA",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Diplomacy and World Affairs",
+            "cap": 25,
+            "act": 2,
+            "rem": 23,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Igor Olegovich Logvinenko",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
+        "subj": "DWA",
+        "crse": "335",
+        "id": "DWA-335",
+        "sections": [
+          {
+            "crn": 1133,
+            "subj": "DWA",
+            "crse": "335",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
+            "cap": 15,
+            "act": 5,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Movindri Reddy",
                 "location": "",
                 "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "United Nations and Conflict Prevention: Actors and Architecture",
+        "subj": "DWA",
+        "crse": "402",
+        "id": "DWA-402",
+        "sections": [
+          {
+            "crn": 1135,
+            "subj": "DWA",
+            "crse": "402",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "United Nations and Conflict Prevention: Actors and Architecture",
+            "cap": 19,
+            "act": 11,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jacques F Fomerand",
+                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8212,210 +8442,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Authoritarianism in the Age of Globalization",
-        "subj": "DWA",
-        "crse": "227",
-        "id": "DWA-227",
-        "sections": [
-          {
-            "crn": 1813,
-            "subj": "DWA",
-            "crse": "227",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Authoritarianism in the Age of Globalization",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Igor Olegovich Logvinenko",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "A Primer for Revolution",
-        "subj": "DWA",
-        "crse": "232",
-        "id": "DWA-232",
-        "sections": [
-          {
-            "crn": 1137,
-            "subj": "DWA",
-            "crse": "232",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "A Primer for Revolution",
-            "cap": 25,
-            "act": 13,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Movindri Reddy",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "What Do Countries Want and Why?",
-        "subj": "DWA",
-        "crse": "270",
-        "id": "DWA-270",
-        "sections": [
-          {
-            "crn": 1777,
-            "subj": "DWA",
-            "crse": "270",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "What Do Countries Want and Why?",
-            "cap": 25,
-            "act": 25,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mariano Bertucci",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Diplomacy and World Affairs",
-        "subj": "DWA",
-        "crse": "295",
-        "id": "DWA-295",
-        "sections": [
-          {
-            "crn": 1819,
-            "subj": "DWA",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Diplomacy and World Affairs",
-            "cap": 25,
-            "act": 2,
-            "rem": 23,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Igor Olegovich Logvinenko",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
-        "subj": "DWA",
-        "crse": "335",
-        "id": "DWA-335",
-        "sections": [
-          {
-            "crn": 1133,
-            "subj": "DWA",
-            "crse": "335",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
-            "cap": 15,
-            "act": 5,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Movindri Reddy",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "United Nations and Conflict Prevention: Actors and Architecture",
-        "subj": "DWA",
-        "crse": "402",
-        "id": "DWA-402",
-        "sections": [
-          {
-            "crn": 1135,
-            "subj": "DWA",
-            "crse": "402",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "United Nations and Conflict Prevention: Actors and Architecture",
-            "cap": 19,
-            "act": 11,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Jacques F Fomerand",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -8429,61 +8455,6 @@
         "crse": "101",
         "id": "ECON-101",
         "sections": [
-          {
-            "crn": 1104,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Victoria I. Umanskaya",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1106,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 25,
-            "act": 8,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Bevin Meredith Ashenmiller",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1102,
             "subj": "ECON",
@@ -8566,6 +8537,61 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1104,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1106,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 25,
+            "act": 8,
+            "rem": 17,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Bevin Meredith Ashenmiller",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -8575,33 +8601,6 @@
         "crse": "102",
         "id": "ECON-102",
         "sections": [
-          {
-            "crn": 1107,
-            "subj": "ECON",
-            "crse": "102",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics II",
-            "cap": 25,
-            "act": 11,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lesley Chiou",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1108,
             "subj": "ECON",
@@ -8628,26 +8627,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Accounting and Financial Analysis",
-        "subj": "ECON",
-        "crse": "233",
-        "id": "ECON-233",
-        "sections": [
+          },
           {
-            "crn": 1109,
+            "crn": 1107,
             "subj": "ECON",
-            "crse": "233",
-            "sec": "00",
+            "crse": "102",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "Accounting and Financial Analysis",
+            "title": "Principles of Economics II",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -8655,7 +8646,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Daryl K. Ono",
+                "instructor": "Lesley Chiou",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 955,
@@ -8672,34 +8663,6 @@
         "crse": "250",
         "id": "ECON-250",
         "sections": [
-          {
-            "crn": 1111,
-            "subj": "ECON",
-            "crse": "250",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Microeconomic Theory",
-            "cap": 20,
-            "act": 21,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Diana K.L. Ngo",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1110,
             "subj": "ECON",
@@ -8727,6 +8690,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1111,
+            "subj": "ECON",
+            "crse": "250",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Microeconomic Theory",
+            "cap": 20,
+            "act": 21,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Diana K.L. Ngo",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -8736,34 +8727,6 @@
         "crse": "251",
         "id": "ECON-251",
         "sections": [
-          {
-            "crn": 1114,
-            "subj": "ECON",
-            "crse": "251",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Macroeconomic Theory",
-            "cap": 20,
-            "act": 19,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Andrew J. Jalil",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1112,
             "subj": "ECON",
@@ -8791,26 +8754,18 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Environmental Economics and Policy",
-        "subj": "ECON",
-        "crse": "301",
-        "id": "ECON-301",
-        "sections": [
+          },
           {
-            "crn": 1729,
+            "crn": 1114,
             "subj": "ECON",
-            "crse": "301",
-            "sec": "00",
+            "crse": "251",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Environmental Economics and Policy",
-            "cap": 15,
-            "act": 17,
-            "rem": -2,
+            "title": "Intermediate Macroeconomic Theory",
+            "cap": 20,
+            "act": 19,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8819,10 +8774,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Victoria I. Umanskaya",
+                "instructor": "Andrew J. Jalil",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8831,49 +8786,58 @@
         ]
       },
       {
-        "title": "Public Economics",
+        "title": "Applied Econometrics",
         "subj": "ECON",
-        "crse": "308",
-        "id": "ECON-308",
+        "crse": "272",
+        "id": "ECON-272",
         "sections": [
           {
-            "crn": 1125,
+            "crn": 1117,
             "subj": "ECON",
-            "crse": "308",
-            "sec": "01",
+            "crse": "272",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Public Economics",
-            "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "title": "Applied Econometrics",
+            "cap": 20,
+            "act": 25,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
-                "instructor": "Brandon Lehr",
+                "instructor": "Daron O. Djerdjian",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Game Theory",
+        "subj": "ECON",
+        "crse": "305",
+        "id": "ECON-305",
+        "sections": [
           {
-            "crn": 1126,
+            "crn": 1123,
             "subj": "ECON",
-            "crse": "308",
-            "sec": "02",
+            "crse": "305",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Public Economics",
+            "title": "Game Theory",
             "cap": 15,
-            "act": 3,
-            "rem": 12,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8883,8 +8847,8 @@
                 ],
                 "instructor": "Brandon Lehr",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8990,34 +8954,33 @@
         ]
       },
       {
-        "title": "Applied Econometrics",
+        "title": "Accounting and Financial Analysis",
         "subj": "ECON",
-        "crse": "272",
-        "id": "ECON-272",
+        "crse": "233",
+        "id": "ECON-233",
         "sections": [
           {
-            "crn": 1117,
+            "crn": 1109,
             "subj": "ECON",
-            "crse": "272",
+            "crse": "233",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Applied Econometrics",
-            "cap": 20,
-            "act": 25,
-            "rem": -5,
+            "title": "Accounting and Financial Analysis",
+            "cap": 25,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Daron O. Djerdjian",
+                "instructor": "Daryl K. Ono",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
+                "timeStart": 830,
+                "timeEnd": 955,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -9026,22 +8989,58 @@
         ]
       },
       {
-        "title": "Game Theory",
+        "title": "Environmental Economics and Policy",
         "subj": "ECON",
-        "crse": "305",
-        "id": "ECON-305",
+        "crse": "301",
+        "id": "ECON-301",
         "sections": [
           {
-            "crn": 1123,
+            "crn": 1729,
             "subj": "ECON",
-            "crse": "305",
+            "crse": "301",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Game Theory",
+            "title": "Environmental Economics and Policy",
             "cap": 15,
-            "act": 16,
-            "rem": -1,
+            "act": 17,
+            "rem": -2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Public Economics",
+        "subj": "ECON",
+        "crse": "308",
+        "id": "ECON-308",
+        "sections": [
+          {
+            "crn": 1125,
+            "subj": "ECON",
+            "crse": "308",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Public Economics",
+            "cap": 15,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -9051,8 +9050,8 @@
                 ],
                 "instructor": "Brandon Lehr",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23234,33 +23233,33 @@
         ]
       },
       {
-        "title": "Deviance",
+        "title": "Criminology",
         "subj": "SOC",
-        "crse": "260",
-        "id": "SOC-260",
+        "crse": "281",
+        "id": "SOC-281",
         "sections": [
           {
-            "crn": 1415,
+            "crn": 1416,
             "subj": "SOC",
-            "crse": "260",
+            "crse": "281",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Deviance",
+            "title": "Criminology",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
-                "instructor": "Min Y. Yoo",
+                "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23269,34 +23268,33 @@
         ]
       },
       {
-        "title": "Sociological Inquiry",
+        "title": "Mass Media and Consumer Society",
         "subj": "SOC",
-        "crse": "304",
-        "id": "SOC-304",
+        "crse": "365",
+        "id": "SOC-365",
         "sections": [
           {
-            "crn": 1417,
+            "crn": 1418,
             "subj": "SOC",
-            "crse": "304",
+            "crse": "365",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Sociological Inquiry",
+            "title": "Mass Media and Consumer Society",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "John T. Lang",
+                "instructor": "Jan Chien-Chen Lin",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23310,6 +23308,33 @@
         "crse": "490",
         "id": "SOC-490",
         "sections": [
+          {
+            "crn": 1420,
+            "subj": "SOC",
+            "crse": "490",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar in Sociology",
+            "cap": 10,
+            "act": 5,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jan Chien-Chen Lin",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1419,
             "subj": "SOC",
@@ -23333,33 +23358,6 @@
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1420,
-            "subj": "SOC",
-            "crse": "490",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar in Sociology",
-            "cap": 10,
-            "act": 5,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jan Chien-Chen Lin",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23474,22 +23472,22 @@
         ]
       },
       {
-        "title": "Race and Ethnicity in American Society",
+        "title": "Deviance",
         "subj": "SOC",
-        "crse": "250",
-        "id": "SOC-250",
+        "crse": "260",
+        "id": "SOC-260",
         "sections": [
           {
-            "crn": 1414,
+            "crn": 1415,
             "subj": "SOC",
-            "crse": "250",
+            "crse": "260",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Race and Ethnicity in American Society",
+            "title": "Deviance",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -23497,10 +23495,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Jan Chien-Chen Lin",
+                "instructor": "Min Y. Yoo",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1700,
+                "timeEnd": 1825,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23509,68 +23507,34 @@
         ]
       },
       {
-        "title": "Criminology",
+        "title": "Sociological Inquiry",
         "subj": "SOC",
-        "crse": "281",
-        "id": "SOC-281",
+        "crse": "304",
+        "id": "SOC-304",
         "sections": [
           {
-            "crn": 1416,
+            "crn": 1417,
             "subj": "SOC",
-            "crse": "281",
+            "crse": "304",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Criminology",
-            "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "title": "Sociological Inquiry",
+            "cap": 18,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W"
+                  "W",
+                  "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "John T. Lang",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Mass Media and Consumer Society",
-        "subj": "SOC",
-        "crse": "365",
-        "id": "SOC-365",
-        "sections": [
-          {
-            "crn": 1418,
-            "subj": "SOC",
-            "crse": "365",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Mass Media and Consumer Society",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jan Chien-Chen Lin",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1145,
+                "timeEnd": 1240,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23590,34 +23554,6 @@
         "crse": "101",
         "id": "SPAN-101",
         "sections": [
-          {
-            "crn": 1681,
-            "subj": "SPAN",
-            "crse": "101",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish I",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Karina Rincon",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1682,
             "subj": "SPAN",
@@ -23645,6 +23581,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1681,
+            "subj": "SPAN",
+            "crse": "101",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish I",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Karina Rincon",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -23654,6 +23618,62 @@
         "crse": "102",
         "id": "SPAN-102",
         "sections": [
+          {
+            "crn": 1684,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Luz Delia Forero",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1686,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Maria Gabriela Venegas",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1683,
             "subj": "SPAN",
@@ -23737,62 +23757,6 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
-          {
-            "crn": 1684,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Luz Delia Forero",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1686,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Maria Gabriela Venegas",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
           }
         ]
       },
@@ -23802,33 +23766,6 @@
         "crse": "151",
         "id": "SPAN-151",
         "sections": [
-          {
-            "crn": 1743,
-            "subj": "SPAN",
-            "crse": "151",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Intermediate Conversation I",
-            "cap": 99,
-            "act": 1,
-            "rem": 98,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Mariska A Bolyanatz Brown",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2010,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1687,
             "subj": "SPAN",
@@ -23855,6 +23792,33 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1743,
+            "subj": "SPAN",
+            "crse": "151",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intermediate Conversation I",
+            "cap": 99,
+            "act": 1,
+            "rem": 98,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Mariska A Bolyanatz Brown",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2010,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -23864,34 +23828,6 @@
         "crse": "201",
         "id": "SPAN-201",
         "sections": [
-          {
-            "crn": 1689,
-            "subj": "SPAN",
-            "crse": "201",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Spanish",
-            "cap": 18,
-            "act": 9,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alicia Gonzalez",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1688,
             "subj": "SPAN",
@@ -23947,6 +23883,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1689,
+            "subj": "SPAN",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Spanish",
+            "cap": 18,
+            "act": 9,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alicia Gonzalez",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -23956,34 +23920,6 @@
         "crse": "202",
         "id": "SPAN-202",
         "sections": [
-          {
-            "crn": 1692,
-            "subj": "SPAN",
-            "crse": "202",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Spanish",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Celia Martinez-Saez",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1694,
             "subj": "SPAN",
@@ -24011,6 +23947,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1692,
+            "subj": "SPAN",
+            "crse": "202",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Advanced Spanish",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Celia Martinez-Saez",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -24020,33 +23984,6 @@
         "crse": "251",
         "id": "SPAN-251",
         "sections": [
-          {
-            "crn": 1696,
-            "subj": "SPAN",
-            "crse": "251",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Advanced Conversation I",
-            "cap": 99,
-            "act": 3,
-            "rem": 96,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Mariska A Bolyanatz Brown",
-                "location": "",
-                "timeStart": 1800,
-                "timeEnd": 1855,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1697,
             "subj": "SPAN",
@@ -24073,74 +24010,29 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
-        "subj": "SPAN",
-        "crse": "301",
-        "id": "SPAN-301",
-        "sections": [
+          },
           {
-            "crn": 1744,
+            "crn": 1696,
             "subj": "SPAN",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "crse": "251",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Advanced Conversation I",
+            "cap": 99,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
-                "instructor": "Maria Gabriela Venegas",
+                "instructor": "Mariska A Bolyanatz Brown",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Spanish Phonology",
-        "subj": "SPAN",
-        "crse": "340",
-        "id": "SPAN-340",
-        "sections": [
-          {
-            "crn": 1746,
-            "subj": "SPAN",
-            "crse": "340",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Spanish Phonology",
-            "cap": 18,
-            "act": 19,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Michael F. Shelton",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
+                "timeStart": 1800,
+                "timeEnd": 1855,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -24219,65 +24111,23 @@
             ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Theater",
-    "code": "THEA",
-    "courses": [
+      },
       {
-        "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
-        "subj": "THEA",
-        "crse": "100",
-        "id": "THEA-100",
+        "title": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
+        "subj": "SPAN",
+        "crse": "301",
+        "id": "SPAN-301",
         "sections": [
           {
-            "crn": 1393,
-            "subj": "THEA",
-            "crse": "100",
+            "crn": 1744,
+            "subj": "SPAN",
+            "crse": "301",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
-            "cap": 25,
-            "act": 8,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Sarah E. Kozinn",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Performance in Action",
-        "subj": "THEA",
-        "crse": "110",
-        "id": "THEA-110",
-        "sections": [
-          {
-            "crn": 1395,
-            "subj": "THEA",
-            "crse": "110",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Performance in Action",
-            "cap": 12,
-            "act": 4,
+            "title": "Introduction to Pre-Columbian and Colonial Latin American Literature and Civilization",
+            "cap": 18,
+            "act": 10,
             "rem": 8,
             "attribute": "",
             "timeslots": [
@@ -24287,7 +24137,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "James K. Angell",
+                "instructor": "Maria Gabriela Venegas",
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1030,
@@ -24295,7 +24145,57 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Spanish Phonology",
+        "subj": "SPAN",
+        "crse": "340",
+        "id": "SPAN-340",
+        "sections": [
+          {
+            "crn": 1746,
+            "subj": "SPAN",
+            "crse": "340",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Spanish Phonology",
+            "cap": 18,
+            "act": 19,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Michael F. Shelton",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Theater",
+    "code": "THEA",
+    "courses": [
+      {
+        "title": "Performance in Action",
+        "subj": "THEA",
+        "crse": "110",
+        "id": "THEA-110",
+        "sections": [
           {
             "crn": 1394,
             "subj": "THEA",
@@ -24323,6 +24223,70 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1395,
+            "subj": "THEA",
+            "crse": "110",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Performance in Action",
+            "cap": 12,
+            "act": 4,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "James K. Angell",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Introduction to Technical Theater",
+        "subj": "THEA",
+        "crse": "120",
+        "id": "THEA-120",
+        "sections": [
+          {
+            "crn": 1396,
+            "subj": "THEA",
+            "crse": "120",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Introduction to Technical Theater",
+            "cap": 18,
+            "act": 7,
+            "rem": 11,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Brian A. Fitzmorris",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -24333,6 +24297,28 @@
         "id": "THEA-121",
         "sections": [
           {
+            "crn": 1398,
+            "subj": "THEA",
+            "crse": "121",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Production Laboratory",
+            "cap": 10,
+            "act": 3,
+            "rem": 7,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Xinyuan Li",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
             "crn": 1397,
             "subj": "THEA",
             "crse": "121",
@@ -24340,9 +24326,9 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Production Laboratory",
-            "cap": 10,
+            "cap": 12,
             "act": 6,
-            "rem": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -24375,24 +24361,417 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Intensive Production Laboratory",
+        "subj": "THEA",
+        "crse": "122",
+        "id": "THEA-122",
+        "sections": [
           {
-            "crn": 1398,
+            "crn": 1400,
             "subj": "THEA",
-            "crse": "121",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Production Laboratory",
-            "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "crse": "122",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intensive Production Laboratory",
+            "cap": 6,
+            "act": 1,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
+                "instructor": "Brian A. Fitzmorris",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tai Chi",
+        "subj": "THEA",
+        "crse": "133",
+        "id": "THEA-133",
+        "sections": [
+          {
+            "crn": 1402,
+            "subj": "THEA",
+            "crse": "133",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Tai Chi",
+            "cap": 25,
+            "act": 17,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ezra Ethan Weisz",
+                "location": "",
+                "timeStart": 1230,
+                "timeEnd": 1325,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Choreography",
+        "subj": "THEA",
+        "crse": "137",
+        "id": "THEA-137",
+        "sections": [
+          {
+            "crn": 1405,
+            "subj": "THEA",
+            "crse": "137",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Choreography",
+            "cap": 18,
+            "act": 5,
+            "rem": 13,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Francisco Martinez",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Comedy and Social Change",
+        "subj": "THEA",
+        "crse": "204",
+        "id": "THEA-204",
+        "sections": [
+          {
+            "crn": 1433,
+            "subj": "THEA",
+            "crse": "204",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Comedy and Social Change",
+            "cap": 14,
+            "act": 11,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "James K. Angell",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Performance Laboratory",
+        "subj": "THEA",
+        "crse": "211",
+        "id": "THEA-211",
+        "sections": [
+          {
+            "crn": 1435,
+            "subj": "THEA",
+            "crse": "211",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Performance Laboratory",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Laural Meade",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1436,
+            "subj": "THEA",
+            "crse": "211",
+            "sec": "02",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Performance Laboratory",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Will Power",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intermediate Ballet",
+        "subj": "THEA",
+        "crse": "234",
+        "id": "THEA-234",
+        "sections": [
+          {
+            "crn": 1437,
+            "subj": "THEA",
+            "crse": "234",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intermediate Ballet",
+            "cap": 18,
+            "act": 2,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Francisco Martinez",
+                "location": "",
+                "timeStart": 1535,
+                "timeEnd": 1700,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Topics in Theater History",
+        "subj": "THEA",
+        "crse": "301",
+        "id": "THEA-301",
+        "sections": [
+          {
+            "crn": 1439,
+            "subj": "THEA",
+            "crse": "301",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Theater History",
+            "cap": 18,
+            "act": 13,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Shivani Thakkar",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intensive Performance Laboratory",
+        "subj": "THEA",
+        "crse": "311",
+        "id": "THEA-311",
+        "sections": [
+          {
+            "crn": 1441,
+            "subj": "THEA",
+            "crse": "311",
+            "sec": "01",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intensive Performance Laboratory",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Laural Meade",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1442,
+            "subj": "THEA",
+            "crse": "311",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Intensive Performance Laboratory",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Will Power",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Lighting Design",
+        "subj": "THEA",
+        "crse": "325",
+        "id": "THEA-325",
+        "sections": [
+          {
+            "crn": 1443,
+            "subj": "THEA",
+            "crse": "325",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Lighting Design",
+            "cap": 12,
+            "act": 2,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
                 "instructor": "Xinyuan Li",
                 "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Playwriting",
+        "subj": "THEA",
+        "crse": "380",
+        "id": "THEA-380",
+        "sections": [
+          {
+            "crn": 1445,
+            "subj": "THEA",
+            "crse": "380",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Playwriting",
+            "cap": 14,
+            "act": 11,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Will Power",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
+        "subj": "THEA",
+        "crse": "100",
+        "id": "THEA-100",
+        "sections": [
+          {
+            "crn": 1393,
+            "subj": "THEA",
+            "crse": "100",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
+            "cap": 25,
+            "act": 8,
+            "rem": 17,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sarah E. Kozinn",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -24539,58 +24918,6 @@
         ]
       },
       {
-        "title": "Performance Laboratory",
-        "subj": "THEA",
-        "crse": "211",
-        "id": "THEA-211",
-        "sections": [
-          {
-            "crn": 1436,
-            "subj": "THEA",
-            "crse": "211",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Performance Laboratory",
-            "cap": 6,
-            "act": 0,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Will Power",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1435,
-            "subj": "THEA",
-            "crse": "211",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Performance Laboratory",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Laural Meade",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Children's Theater, 5th Grade",
         "subj": "THEA",
         "crse": "261",
@@ -24653,58 +24980,6 @@
                 "location": "",
                 "timeStart": 1250,
                 "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intensive Performance Laboratory",
-        "subj": "THEA",
-        "crse": "311",
-        "id": "THEA-311",
-        "sections": [
-          {
-            "crn": 1442,
-            "subj": "THEA",
-            "crse": "311",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Performance Laboratory",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Will Power",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1441,
-            "subj": "THEA",
-            "crse": "311",
-            "sec": "01",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Performance Laboratory",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Laural Meade",
-                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -24781,317 +25056,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Introduction to Technical Theater",
-        "subj": "THEA",
-        "crse": "120",
-        "id": "THEA-120",
-        "sections": [
-          {
-            "crn": 1396,
-            "subj": "THEA",
-            "crse": "120",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Technical Theater",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Brian A. Fitzmorris",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intensive Production Laboratory",
-        "subj": "THEA",
-        "crse": "122",
-        "id": "THEA-122",
-        "sections": [
-          {
-            "crn": 1400,
-            "subj": "THEA",
-            "crse": "122",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Production Laboratory",
-            "cap": 6,
-            "act": 1,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Brian A. Fitzmorris",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Tai Chi",
-        "subj": "THEA",
-        "crse": "133",
-        "id": "THEA-133",
-        "sections": [
-          {
-            "crn": 1402,
-            "subj": "THEA",
-            "crse": "133",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Tai Chi",
-            "cap": 25,
-            "act": 17,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ezra Ethan Weisz",
-                "location": "",
-                "timeStart": 1230,
-                "timeEnd": 1325,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Choreography",
-        "subj": "THEA",
-        "crse": "137",
-        "id": "THEA-137",
-        "sections": [
-          {
-            "crn": 1405,
-            "subj": "THEA",
-            "crse": "137",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Choreography",
-            "cap": 18,
-            "act": 5,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Francisco Martinez",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Comedy and Social Change",
-        "subj": "THEA",
-        "crse": "204",
-        "id": "THEA-204",
-        "sections": [
-          {
-            "crn": 1433,
-            "subj": "THEA",
-            "crse": "204",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Comedy and Social Change",
-            "cap": 14,
-            "act": 11,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "James K. Angell",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intermediate Ballet",
-        "subj": "THEA",
-        "crse": "234",
-        "id": "THEA-234",
-        "sections": [
-          {
-            "crn": 1437,
-            "subj": "THEA",
-            "crse": "234",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Intermediate Ballet",
-            "cap": 18,
-            "act": 2,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Francisco Martinez",
-                "location": "",
-                "timeStart": 1535,
-                "timeEnd": 1700,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Topics in Theater History",
-        "subj": "THEA",
-        "crse": "301",
-        "id": "THEA-301",
-        "sections": [
-          {
-            "crn": 1439,
-            "subj": "THEA",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Theater History",
-            "cap": 18,
-            "act": 13,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Shivani Thakkar",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Lighting Design",
-        "subj": "THEA",
-        "crse": "325",
-        "id": "THEA-325",
-        "sections": [
-          {
-            "crn": 1443,
-            "subj": "THEA",
-            "crse": "325",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Lighting Design",
-            "cap": 12,
-            "act": 2,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Xinyuan Li",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Playwriting",
-        "subj": "THEA",
-        "crse": "380",
-        "id": "THEA-380",
-        "sections": [
-          {
-            "crn": 1445,
-            "subj": "THEA",
-            "crse": "380",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Playwriting",
-            "cap": 14,
-            "act": 11,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Will Power",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -25105,6 +25069,33 @@
         "crse": "101",
         "id": "UEP-101",
         "sections": [
+          {
+            "crn": 1421,
+            "subj": "UEP",
+            "crse": "101",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Environment and Society",
+            "cap": 25,
+            "act": 11,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1422,
             "subj": "UEP",
@@ -25131,18 +25122,155 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Sustainable Oxy",
+        "subj": "UEP",
+        "crse": "246",
+        "id": "UEP-246",
+        "sections": [
           {
-            "crn": 1421,
+            "crn": 1423,
             "subj": "UEP",
-            "crse": "101",
-            "sec": "01",
+            "crse": "246",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Sustainable Oxy",
+            "cap": 18,
+            "act": 18,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Sharon G. Cech",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1655,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Data Analysis",
+        "subj": "UEP",
+        "crse": "305",
+        "id": "UEP-305",
+        "sections": [
+          {
+            "crn": 1424,
+            "subj": "UEP",
+            "crse": "305",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Environment and Society",
-            "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "title": "Urban Data Analysis",
+            "cap": 32,
+            "act": 30,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Data Analysis Laboratory",
+        "subj": "UEP",
+        "crse": "305A",
+        "id": "UEP-305A",
+        "sections": [
+          {
+            "crn": 1426,
+            "subj": "UEP",
+            "crse": "305A",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Urban Data Analysis Laboratory",
+            "cap": 16,
+            "act": 13,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1425,
+            "subj": "UEP",
+            "crse": "305A",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Urban Data Analysis Laboratory",
+            "cap": 16,
+            "act": 17,
+            "rem": -1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Seva Rodnyansky",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Organizing and Leadership",
+        "subj": "UEP",
+        "crse": "310",
+        "id": "UEP-310",
+        "sections": [
+          {
+            "crn": 1428,
+            "subj": "UEP",
+            "crse": "310",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Community Organizing and Leadership",
+            "cap": 30,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -25154,6 +25282,41 @@
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Special Topics in Urban and Environmental Policy",
+        "subj": "UEP",
+        "crse": "395",
+        "id": "UEP-395",
+        "sections": [
+          {
+            "crn": 1430,
+            "subj": "UEP",
+            "crse": "395",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Special Topics in Urban and Environmental Policy",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Rick Charles Cole",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25188,66 +25351,6 @@
                 "location": "",
                 "timeStart": 1605,
                 "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Urban Data Analysis Laboratory",
-        "subj": "UEP",
-        "crse": "305A",
-        "id": "UEP-305A",
-        "sections": [
-          {
-            "crn": 1425,
-            "subj": "UEP",
-            "crse": "305A",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Urban Data Analysis Laboratory",
-            "cap": 16,
-            "act": 17,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1426,
-            "subj": "UEP",
-            "crse": "305A",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Urban Data Analysis Laboratory",
-            "cap": 16,
-            "act": 13,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25353,145 +25456,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Sustainable Oxy",
-        "subj": "UEP",
-        "crse": "246",
-        "id": "UEP-246",
-        "sections": [
-          {
-            "crn": 1423,
-            "subj": "UEP",
-            "crse": "246",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Sustainable Oxy",
-            "cap": 18,
-            "act": 18,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Sharon G. Cech",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1655,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Urban Data Analysis",
-        "subj": "UEP",
-        "crse": "305",
-        "id": "UEP-305",
-        "sections": [
-          {
-            "crn": 1424,
-            "subj": "UEP",
-            "crse": "305",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Urban Data Analysis",
-            "cap": 32,
-            "act": 30,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Seva Rodnyansky",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Community Organizing and Leadership",
-        "subj": "UEP",
-        "crse": "310",
-        "id": "UEP-310",
-        "sections": [
-          {
-            "crn": 1428,
-            "subj": "UEP",
-            "crse": "310",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Community Organizing and Leadership",
-            "cap": 30,
-            "act": 30,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in Urban and Environmental Policy",
-        "subj": "UEP",
-        "crse": "395",
-        "id": "UEP-395",
-        "sections": [
-          {
-            "crn": 1430,
-            "subj": "UEP",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Urban and Environmental Policy",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Rick Charles Cole",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -25500,11 +25464,100 @@
     "code": "WRD",
     "courses": [
       {
-        "title": "The Art of Essay Writing: Writing in Class, Whiteness, and Conflict",
+        "title": "Occidental Weekly Practicum",
+        "subj": "WRD",
+        "crse": "135",
+        "id": "WRD-135",
+        "sections": [
+          {
+            "crn": 1447,
+            "subj": "WRD",
+            "crse": "135",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Occidental Weekly Practicum",
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Barbara A. Thomas",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
         "subj": "WRD",
         "crse": "201",
         "id": "WRD-201",
         "sections": [
+          {
+            "crn": 1449,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
+            "cap": 16,
+            "act": 16,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sarah C. Ostendorf",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1451,
+            "subj": "WRD",
+            "crse": "201",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "The Art of Essay Writing: Art House Cinema",
+            "cap": 16,
+            "act": 14,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ara Corbett",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1448,
             "subj": "WRD",
@@ -25586,57 +25639,71 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Principles of Journalism I: Covering News Across Media",
+        "subj": "WRD",
+        "crse": "285",
+        "id": "WRD-285",
+        "sections": [
           {
-            "crn": 1449,
+            "crn": 1453,
             "subj": "WRD",
-            "crse": "201",
-            "sec": "02",
+            "crse": "285",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "The Art of Essay Writing: Writing, Gender, and Sexuality",
-            "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "title": "Principles of Journalism I: Covering News Across Media",
+            "cap": 12,
+            "act": 6,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Robert J. Sipchen",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Argument and Rhetoric Across the Disciplines",
+        "subj": "WRD",
+        "crse": "295",
+        "id": "WRD-295",
+        "sections": [
+          {
+            "crn": 1455,
+            "subj": "WRD",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Argument and Rhetoric Across the Disciplines",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
                 "instructor": "Sarah C. Ostendorf",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1451,
-            "subj": "WRD",
-            "crse": "201",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The Art of Essay Writing: Art House Cinema",
-            "cap": 16,
-            "act": 14,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ara Corbett",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -25705,109 +25772,6 @@
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1255,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Occidental Weekly Practicum",
-        "subj": "WRD",
-        "crse": "135",
-        "id": "WRD-135",
-        "sections": [
-          {
-            "crn": 1447,
-            "subj": "WRD",
-            "crse": "135",
-            "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Occidental Weekly Practicum",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Barbara A. Thomas",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Principles of Journalism I: Covering News Across Media",
-        "subj": "WRD",
-        "crse": "285",
-        "id": "WRD-285",
-        "sections": [
-          {
-            "crn": 1453,
-            "subj": "WRD",
-            "crse": "285",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Journalism I: Covering News Across Media",
-            "cap": 12,
-            "act": 6,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Robert J. Sipchen",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Argument and Rhetoric Across the Disciplines",
-        "subj": "WRD",
-        "crse": "295",
-        "id": "WRD-295",
-        "sections": [
-          {
-            "crn": 1455,
-            "subj": "WRD",
-            "crse": "295",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Argument and Rhetoric Across the Disciplines",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Sarah C. Ostendorf",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

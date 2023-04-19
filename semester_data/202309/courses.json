@@ -2662,8 +2662,8 @@
             "credMax": 0,
             "title": "Microbial Pathogenesis Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2688,8 +2688,8 @@
             "credMax": 0,
             "title": "Microbial Pathogenesis Laboratory",
             "cap": 8,
-            "act": 1,
-            "rem": 7,
+            "act": 2,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -3626,8 +3626,8 @@
             "credMax": 2,
             "title": "Museum Science",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -7021,8 +7021,8 @@
             "credMax": 4,
             "title": "Special Topics in Computer Science",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

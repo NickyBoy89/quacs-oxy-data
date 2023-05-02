@@ -879,7 +879,7 @@
     ]
   },
   "MATH 110": {
-    "title": "Calculus 1 Laboratory",
+    "title": "Calculus 1",
     "prereqs": [
       "ALEKS",
       "M110",
@@ -888,7 +888,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced)",
+    "title": "Calculus 1 (Advanced) Laboratory",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -896,7 +896,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2",
+    "title": "Calculus 2 Laboratory",
     "prereqs": [
       "APAB",
       "APCS",
@@ -4270,6 +4270,13 @@
       "CSLC 200"
     ]
   },
+  "MATH 322": {
+    "title": "Number Theory",
+    "prereqs": [
+      "MATH 210",
+      "OXME"
+    ]
+  },
   "MATH 128": {
     "title": "Calculus 2 (Advanced Placement)",
     "prereqs": [
@@ -4280,13 +4287,6 @@
   },
   "MATH 380": {
     "title": "Combinatorics",
-    "prereqs": [
-      "MATH 210",
-      "OXME"
-    ]
-  },
-  "MATH 322": {
-    "title": "Number Theory",
     "prereqs": [
       "MATH 210",
       "OXME"

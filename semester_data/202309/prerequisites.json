@@ -18008,5 +18008,110 @@
         ]
       }
     }
+  },
+  "1887": {
+    "reserved": [
+      {
+        "max": 12,
+        "open": 12,
+        "reservedFor": "Frosh"
+      }
+    ]
+  },
+  "1888": {
+    "reserved": [
+      {
+        "max": 12,
+        "open": 12,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1889": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1890": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1891": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1892": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1893": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

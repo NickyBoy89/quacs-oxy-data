@@ -20652,13 +20652,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Sabrina Stierwalt",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1425,
+                "timeStart": 1740,
+                "timeEnd": 1905,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

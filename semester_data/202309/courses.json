@@ -4619,8 +4619,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -4671,8 +4671,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 14,
-            "rem": -2,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -7716,8 +7716,8 @@
             "credMax": 4,
             "title": "Critical Theories of Sexuality",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -9765,6 +9765,212 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "First Year Seminar",
+    "code": "FYS",
+    "courses": [
+      {
+        "title": "Transpacific Movements and Activisms: Asian and Asian American Connections Across the Pacific",
+        "subj": "FYS",
+        "crse": "1",
+        "id": "FYS-1",
+        "sections": [
+          {
+            "crn": 1886,
+            "subj": "FYS",
+            "crse": "1",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Transpacific Movements and Activisms: Asian and Asian American Connections Across the Pacific",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1885,
+            "subj": "FYS",
+            "crse": "1",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Transpacific Movements and Activisms: Asian and Asian American Connections Across the Pacific",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Linguistic Resilience in Los Angeles",
+        "subj": "FYS",
+        "crse": "3",
+        "id": "FYS-3",
+        "sections": [
+          {
+            "crn": 1888,
+            "subj": "FYS",
+            "crse": "3",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Linguistic Resilience in Los Angeles",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Mariska A Bolyanatz Brown",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Techno-Orientalism",
+        "subj": "FYS",
+        "crse": "4",
+        "id": "FYS-4",
+        "sections": [
+          {
+            "crn": 1890,
+            "subj": "FYS",
+            "crse": "4",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Techno-Orientalism",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor-TBD",
+                "location": "",
+                "timeStart": 1250,
+                "timeEnd": 1345,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1889,
+            "subj": "FYS",
+            "crse": "4",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Techno-Orientalism",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Gregory Tadashi Toy",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eating Culture: Food, Race, and Migration",
+        "subj": "FYS",
+        "crse": "2",
+        "id": "FYS-2",
+        "sections": [
+          {
+            "crn": 1887,
+            "subj": "FYS",
+            "crse": "2",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Eating Culture: Food, Race, and Migration",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexandra M. Puerto",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

@@ -17976,5 +17976,37 @@
         ]
       }
     }
+  },
+  "1885": {
+    "reserved": [
+      {
+        "max": 12,
+        "open": 12,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1886": {
+    "reserved": [
+      {
+        "max": 12,
+        "open": 12,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

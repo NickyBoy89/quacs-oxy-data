@@ -2019,8 +2019,8 @@
             "credMax": 0,
             "title": "Plant Form and Function Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2872,8 +2872,8 @@
             "credMax": 0,
             "title": "Oceanography Laboratory",
             "cap": 8,
-            "act": 9,
-            "rem": -1,
+            "act": 10,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2898,8 +2898,8 @@
             "credMax": 0,
             "title": "Oceanography Laboratory",
             "cap": 8,
-            "act": 6,
-            "rem": 2,
+            "act": 5,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3556,8 +3556,8 @@
             "credMax": 4,
             "title": "Plant Form and Function",
             "cap": 24,
-            "act": 27,
-            "rem": -3,
+            "act": 28,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {

@@ -18225,5 +18225,149 @@
         ]
       }
     }
+  },
+  "1901": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1902": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1903": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1904": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1905": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1906": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1907": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1908": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1909": {
+    "reserved": [
+      {
+        "max": 16,
+        "open": 16,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

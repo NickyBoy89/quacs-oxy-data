@@ -1478,7 +1478,7 @@
     },
     "reserved": [
       {
-        "max": 1,
+        "max": 0,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -1539,7 +1539,7 @@
     },
     "reserved": [
       {
-        "max": 16,
+        "max": 15,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -17978,6 +17978,19 @@
     }
   },
   "1885": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "HIST 169",
+          "type": "course"
+        },
+        {
+          "course": "RELS 169",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
     "reserved": [
       {
         "max": 12,
@@ -17994,6 +18007,19 @@
     }
   },
   "1886": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "HIST 169",
+          "type": "course"
+        },
+        {
+          "course": "RELS 169",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
     "reserved": [
       {
         "max": 12,

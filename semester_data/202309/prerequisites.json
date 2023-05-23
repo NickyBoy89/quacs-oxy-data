@@ -16895,28 +16895,6 @@
       }
     }
   },
-  "1819": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "DWA 101",
-          "type": "course"
-        },
-        {
-          "course": "POLS 101",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1820": {
     "restrictions": {
       "classification": {
@@ -18063,8 +18041,8 @@
   "1889": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18095,8 +18073,8 @@
   "1891": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18111,8 +18089,8 @@
   "1892": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18127,8 +18105,8 @@
   "1893": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18143,8 +18121,8 @@
   "1894": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18175,8 +18153,8 @@
   "1896": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18207,8 +18185,8 @@
   "1898": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18223,8 +18201,8 @@
   "1899": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18239,24 +18217,8 @@
   "1900": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1901": {
-    "reserved": [
-      {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18271,8 +18233,8 @@
   "1902": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18287,8 +18249,8 @@
   "1903": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18303,8 +18265,8 @@
   "1904": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18319,8 +18281,8 @@
   "1905": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18335,8 +18297,8 @@
   "1906": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18351,8 +18313,8 @@
   "1907": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18367,8 +18329,8 @@
   "1908": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18399,8 +18361,8 @@
   "1910": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18415,8 +18377,8 @@
   "1911": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18431,8 +18393,8 @@
   "1912": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18447,8 +18409,8 @@
   "1913": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18463,8 +18425,8 @@
   "1914": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18479,8 +18441,8 @@
   "1915": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18495,8 +18457,8 @@
   "1916": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18511,8 +18473,8 @@
   "1917": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18527,8 +18489,8 @@
   "1918": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18543,8 +18505,8 @@
   "1919": {
     "reserved": [
       {
-        "max": 16,
-        "open": 16,
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],
@@ -18557,6 +18519,22 @@
     }
   },
   "1920": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1921": {
     "reserved": [
       {
         "max": 15,

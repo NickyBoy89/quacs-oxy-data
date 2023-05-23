@@ -8111,67 +8111,33 @@
         ]
       },
       {
-        "title": "Topics in Diplomacy and World Affairs",
+        "title": "Junior Seminar: Religion and Politics",
         "subj": "DWA",
-        "crse": "295",
-        "id": "DWA-295",
+        "crse": "310",
+        "id": "DWA-310",
         "sections": [
           {
-            "crn": 1819,
+            "crn": 1132,
             "subj": "DWA",
-            "crse": "295",
+            "crse": "310",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Diplomacy and World Affairs",
-            "cap": 25,
-            "act": 1,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Igor Olegovich Logvinenko",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
-        "subj": "DWA",
-        "crse": "335",
-        "id": "DWA-335",
-        "sections": [
-          {
-            "crn": 1133,
-            "subj": "DWA",
-            "crse": "335",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
+            "title": "Junior Seminar: Religion and Politics",
             "cap": 15,
-            "act": 6,
-            "rem": 9,
+            "act": 13,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
+                  "T",
                   "R"
                 ],
-                "instructor": "Movindri Reddy",
+                "instructor": "Lan Chu",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8180,19 +8146,49 @@
         ]
       },
       {
-        "title": "United Nations and Conflict Prevention: Actors and Architecture",
+        "title": "Special Topics at the United Nations",
         "subj": "DWA",
-        "crse": "402",
-        "id": "DWA-402",
+        "crse": "401",
+        "id": "DWA-401",
         "sections": [
           {
-            "crn": 1135,
+            "crn": 1134,
             "subj": "DWA",
-            "crse": "402",
+            "crse": "401",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "United Nations and Conflict Prevention: Actors and Architecture",
+            "title": "Special Topics at the United Nations",
+            "cap": 19,
+            "act": 13,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Cynthia L. Rothschild",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The United Nations Experience",
+        "subj": "DWA",
+        "crse": "403",
+        "id": "DWA-403",
+        "sections": [
+          {
+            "crn": 1136,
+            "subj": "DWA",
+            "crse": "403",
+            "sec": "00",
+            "credMin": 8,
+            "credMax": 8,
+            "title": "The United Nations Experience",
             "cap": 19,
             "act": 13,
             "rem": 6,
@@ -8349,33 +8345,32 @@
         ]
       },
       {
-        "title": "Junior Seminar: Religion and Politics",
+        "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
         "subj": "DWA",
-        "crse": "310",
-        "id": "DWA-310",
+        "crse": "335",
+        "id": "DWA-335",
         "sections": [
           {
-            "crn": 1132,
+            "crn": 1133,
             "subj": "DWA",
-            "crse": "310",
+            "crse": "335",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Junior Seminar: Religion and Politics",
+            "title": "Junior Seminar: Theories of Revolution from Africa and the African Diaspora",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 6,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
                   "R"
                 ],
-                "instructor": "Lan Chu",
+                "instructor": "Movindri Reddy",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8384,49 +8379,19 @@
         ]
       },
       {
-        "title": "Special Topics at the United Nations",
+        "title": "United Nations and Conflict Prevention: Actors and Architecture",
         "subj": "DWA",
-        "crse": "401",
-        "id": "DWA-401",
+        "crse": "402",
+        "id": "DWA-402",
         "sections": [
           {
-            "crn": 1134,
+            "crn": 1135,
             "subj": "DWA",
-            "crse": "401",
+            "crse": "402",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Special Topics at the United Nations",
-            "cap": 19,
-            "act": 13,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Cynthia L. Rothschild",
-                "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The United Nations Experience",
-        "subj": "DWA",
-        "crse": "403",
-        "id": "DWA-403",
-        "sections": [
-          {
-            "crn": 1136,
-            "subj": "DWA",
-            "crse": "403",
-            "sec": "00",
-            "credMin": 8,
-            "credMax": 8,
-            "title": "The United Nations Experience",
+            "title": "United Nations and Conflict Prevention: Actors and Architecture",
             "cap": 19,
             "act": 13,
             "rem": 6,
@@ -8455,6 +8420,61 @@
         "crse": "101",
         "id": "ECON-101",
         "sections": [
+          {
+            "crn": 1104,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1106,
+            "subj": "ECON",
+            "crse": "101",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics I",
+            "cap": 25,
+            "act": 8,
+            "rem": 17,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Bevin Meredith Ashenmiller",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1102,
             "subj": "ECON",
@@ -8537,61 +8557,6 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
-          {
-            "crn": 1104,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Victoria I. Umanskaya",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1106,
-            "subj": "ECON",
-            "crse": "101",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics I",
-            "cap": 25,
-            "act": 8,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Bevin Meredith Ashenmiller",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
           }
         ]
       },
@@ -8601,33 +8566,6 @@
         "crse": "102",
         "id": "ECON-102",
         "sections": [
-          {
-            "crn": 1108,
-            "subj": "ECON",
-            "crse": "102",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Principles of Economics II",
-            "cap": 25,
-            "act": 13,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lesley Chiou",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1107,
             "subj": "ECON",
@@ -8654,6 +8592,68 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1108,
+            "subj": "ECON",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Principles of Economics II",
+            "cap": 25,
+            "act": 13,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Jorgen Harris",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Accounting and Financial Analysis",
+        "subj": "ECON",
+        "crse": "233",
+        "id": "ECON-233",
+        "sections": [
+          {
+            "crn": 1109,
+            "subj": "ECON",
+            "crse": "233",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Accounting and Financial Analysis",
+            "cap": 25,
+            "act": 19,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Daryl K. Ono",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -8663,34 +8663,6 @@
         "crse": "250",
         "id": "ECON-250",
         "sections": [
-          {
-            "crn": 1110,
-            "subj": "ECON",
-            "crse": "250",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Intermediate Microeconomic Theory",
-            "cap": 20,
-            "act": 18,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Diana K.L. Ngo",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1111,
             "subj": "ECON",
@@ -8718,6 +8690,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1110,
+            "subj": "ECON",
+            "crse": "250",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Microeconomic Theory",
+            "cap": 20,
+            "act": 18,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Diana K.L. Ngo",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -8727,6 +8727,34 @@
         "crse": "251",
         "id": "ECON-251",
         "sections": [
+          {
+            "crn": 1114,
+            "subj": "ECON",
+            "crse": "251",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Intermediate Macroeconomic Theory",
+            "cap": 20,
+            "act": 19,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Andrew J. Jalil",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
           {
             "crn": 1112,
             "subj": "ECON",
@@ -8754,18 +8782,26 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "Environmental Economics and Policy",
+        "subj": "ECON",
+        "crse": "301",
+        "id": "ECON-301",
+        "sections": [
           {
-            "crn": 1114,
+            "crn": 1729,
             "subj": "ECON",
-            "crse": "251",
-            "sec": "02",
+            "crse": "301",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Intermediate Macroeconomic Theory",
-            "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "title": "Environmental Economics and Policy",
+            "cap": 15,
+            "act": 17,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -8774,10 +8810,107 @@
                   "W",
                   "F"
                 ],
+                "instructor": "Victoria I. Umanskaya",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Public Economics",
+        "subj": "ECON",
+        "crse": "308",
+        "id": "ECON-308",
+        "sections": [
+          {
+            "crn": 1125,
+            "subj": "ECON",
+            "crse": "308",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Public Economics",
+            "cap": 15,
+            "act": 11,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Brandon Lehr",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Senior Seminar: Industrial Organization",
+        "subj": "ECON",
+        "crse": "495",
+        "id": "ECON-495",
+        "sections": [
+          {
+            "crn": 1128,
+            "subj": "ECON",
+            "crse": "495",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar: Industrial Organization",
+            "cap": 15,
+            "act": 15,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Lesley Chiou",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1130,
+            "subj": "ECON",
+            "crse": "495",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Senior Seminar: Macroeconomic Policy and Financial Markets",
+            "cap": 15,
+            "act": 14,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
                 "instructor": "Andrew J. Jalil",
                 "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -8890,174 +9023,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Senior Seminar: Macroeconomic Policy and Financial Markets",
-        "subj": "ECON",
-        "crse": "495",
-        "id": "ECON-495",
-        "sections": [
-          {
-            "crn": 1130,
-            "subj": "ECON",
-            "crse": "495",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar: Macroeconomic Policy and Financial Markets",
-            "cap": 15,
-            "act": 14,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Andrew J. Jalil",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1128,
-            "subj": "ECON",
-            "crse": "495",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Senior Seminar: Industrial Organization",
-            "cap": 15,
-            "act": 15,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lesley Chiou",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Accounting and Financial Analysis",
-        "subj": "ECON",
-        "crse": "233",
-        "id": "ECON-233",
-        "sections": [
-          {
-            "crn": 1109,
-            "subj": "ECON",
-            "crse": "233",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Accounting and Financial Analysis",
-            "cap": 25,
-            "act": 19,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Daryl K. Ono",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 955,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Environmental Economics and Policy",
-        "subj": "ECON",
-        "crse": "301",
-        "id": "ECON-301",
-        "sections": [
-          {
-            "crn": 1729,
-            "subj": "ECON",
-            "crse": "301",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Environmental Economics and Policy",
-            "cap": 15,
-            "act": 17,
-            "rem": -2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Victoria I. Umanskaya",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Public Economics",
-        "subj": "ECON",
-        "crse": "308",
-        "id": "ECON-308",
-        "sections": [
-          {
-            "crn": 1125,
-            "subj": "ECON",
-            "crse": "308",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Public Economics",
-            "cap": 15,
-            "act": 11,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Brandon Lehr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -9065,179 +9030,6 @@
     "name": "Education",
     "code": "EDUC",
     "courses": [
-      {
-        "title": "Community Literacy and Middle School Students",
-        "subj": "EDUC",
-        "crse": "141",
-        "id": "EDUC-141",
-        "sections": [
-          {
-            "crn": 1037,
-            "subj": "EDUC",
-            "crse": "141",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Literacy and Middle School Students",
-            "cap": 25,
-            "act": 6,
-            "rem": 19,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "April Michelle Forrest",
-                "location": "",
-                "timeStart": 1430,
-                "timeEnd": 1730,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Art Education Practicum: Community Studio at OXY ARTS",
-        "subj": "EDUC",
-        "crse": "143",
-        "id": "EDUC-143",
-        "sections": [
-          {
-            "crn": 1039,
-            "subj": "EDUC",
-            "crse": "143",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Art Education Practicum: Community Studio at OXY ARTS",
-            "cap": 12,
-            "act": 4,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Patricia Yossen",
-                "location": "",
-                "timeStart": 1600,
-                "timeEnd": 1800,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Sociocultural Foundations of Education",
-        "subj": "EDUC",
-        "crse": "201",
-        "id": "EDUC-201",
-        "sections": [
-          {
-            "crn": 1034,
-            "subj": "EDUC",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Sociocultural Foundations of Education",
-            "cap": 25,
-            "act": 12,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "La Mont Terry",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Conflict in Education",
-        "subj": "EDUC",
-        "crse": "207",
-        "id": "EDUC-207",
-        "sections": [
-          {
-            "crn": 1035,
-            "subj": "EDUC",
-            "crse": "207",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Conflict in Education",
-            "cap": 25,
-            "act": 10,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Ronald Solorzano",
-                "location": "",
-                "timeStart": 1740,
-                "timeEnd": 1905,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Community Engagement in Education",
-        "subj": "EDUC",
-        "crse": "300",
-        "id": "EDUC-300",
-        "sections": [
-          {
-            "crn": 1042,
-            "subj": "EDUC",
-            "crse": "300",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Community Engagement in Education",
-            "cap": 12,
-            "act": 8,
-            "rem": 4,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "La Mont Terry",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1640,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
       {
         "title": "Community Literacy",
         "subj": "EDUC",
@@ -9446,6 +9238,179 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Community Literacy and Middle School Students",
+        "subj": "EDUC",
+        "crse": "141",
+        "id": "EDUC-141",
+        "sections": [
+          {
+            "crn": 1037,
+            "subj": "EDUC",
+            "crse": "141",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Literacy and Middle School Students",
+            "cap": 25,
+            "act": 6,
+            "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "April Michelle Forrest",
+                "location": "",
+                "timeStart": 1430,
+                "timeEnd": 1730,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Art Education Practicum: Community Studio at OXY ARTS",
+        "subj": "EDUC",
+        "crse": "143",
+        "id": "EDUC-143",
+        "sections": [
+          {
+            "crn": 1039,
+            "subj": "EDUC",
+            "crse": "143",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Art Education Practicum: Community Studio at OXY ARTS",
+            "cap": 12,
+            "act": 4,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Patricia Yossen",
+                "location": "",
+                "timeStart": 1600,
+                "timeEnd": 1800,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sociocultural Foundations of Education",
+        "subj": "EDUC",
+        "crse": "201",
+        "id": "EDUC-201",
+        "sections": [
+          {
+            "crn": 1034,
+            "subj": "EDUC",
+            "crse": "201",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Sociocultural Foundations of Education",
+            "cap": 25,
+            "act": 12,
+            "rem": 13,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "La Mont Terry",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conflict in Education",
+        "subj": "EDUC",
+        "crse": "207",
+        "id": "EDUC-207",
+        "sections": [
+          {
+            "crn": 1035,
+            "subj": "EDUC",
+            "crse": "207",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Conflict in Education",
+            "cap": 25,
+            "act": 10,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Ronald Solorzano",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Community Engagement in Education",
+        "subj": "EDUC",
+        "crse": "300",
+        "id": "EDUC-300",
+        "sections": [
+          {
+            "crn": 1042,
+            "subj": "EDUC",
+            "crse": "300",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Community Engagement in Education",
+            "cap": 12,
+            "act": 8,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "La Mont Terry",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1640,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -9453,6 +9418,149 @@
     "name": "English",
     "code": "ENGL",
     "courses": [
+      {
+        "title": "Asian American Literature",
+        "subj": "ENGL",
+        "crse": "270",
+        "id": "ENGL-270",
+        "sections": [
+          {
+            "crn": 1839,
+            "subj": "ENGL",
+            "crse": "270",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Asian American Literature",
+            "cap": 25,
+            "act": 20,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Gregory Tadashi Toy",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Creative Writing: Poetry",
+        "subj": "ENGL",
+        "crse": "281",
+        "id": "ENGL-281",
+        "sections": [
+          {
+            "crn": 1148,
+            "subj": "ENGL",
+            "crse": "281",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Creative Writing: Poetry",
+            "cap": 14,
+            "act": 14,
+            "rem": 0,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Chekwube Olivia Danladi",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eighteenth Century Literature: 1730-1800",
+        "subj": "ENGL",
+        "crse": "332",
+        "id": "ENGL-332",
+        "sections": [
+          {
+            "crn": 1802,
+            "subj": "ENGL",
+            "crse": "332",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Eighteenth Century Literature: 1730-1800",
+            "cap": 18,
+            "act": 10,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Warren Montag",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Junior Seminar in English",
+        "subj": "ENGL",
+        "crse": "390",
+        "id": "ENGL-390",
+        "sections": [
+          {
+            "crn": 1730,
+            "subj": "ENGL",
+            "crse": "390",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Junior Seminar in English",
+            "cap": 25,
+            "act": 13,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Leila B. Neti",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
       {
         "title": "Shakespeare and Film",
         "subj": "ENGL",
@@ -9628,149 +9736,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Asian American Literature",
-        "subj": "ENGL",
-        "crse": "270",
-        "id": "ENGL-270",
-        "sections": [
-          {
-            "crn": 1839,
-            "subj": "ENGL",
-            "crse": "270",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Asian American Literature",
-            "cap": 25,
-            "act": 20,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Gregory Tadashi Toy",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Creative Writing: Poetry",
-        "subj": "ENGL",
-        "crse": "281",
-        "id": "ENGL-281",
-        "sections": [
-          {
-            "crn": 1148,
-            "subj": "ENGL",
-            "crse": "281",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Creative Writing: Poetry",
-            "cap": 14,
-            "act": 14,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Chekwube Olivia Danladi",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Eighteenth Century Literature: 1730-1800",
-        "subj": "ENGL",
-        "crse": "332",
-        "id": "ENGL-332",
-        "sections": [
-          {
-            "crn": 1802,
-            "subj": "ENGL",
-            "crse": "332",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Eighteenth Century Literature: 1730-1800",
-            "cap": 18,
-            "act": 10,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Warren Montag",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Junior Seminar in English",
-        "subj": "ENGL",
-        "crse": "390",
-        "id": "ENGL-390",
-        "sections": [
-          {
-            "crn": 1730,
-            "subj": "ENGL",
-            "crse": "390",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Junior Seminar in English",
-            "cap": 25,
-            "act": 13,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Leila B. Neti",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -9784,34 +9749,6 @@
         "crse": "1",
         "id": "FYS-1",
         "sections": [
-          {
-            "crn": 1886,
-            "subj": "FYS",
-            "crse": "1",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Transpacific Movements and Activisms: Asian and Asian American Connections Across the Pacific",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Alexander F. Day",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1885,
             "subj": "FYS",
@@ -9839,23 +9776,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "Linguistic Resilience in Los Angeles",
-        "subj": "FYS",
-        "crse": "3",
-        "id": "FYS-3",
-        "sections": [
+          },
           {
-            "crn": 1888,
+            "crn": 1886,
             "subj": "FYS",
-            "crse": "3",
-            "sec": "00",
+            "crse": "1",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
-            "title": "Linguistic Resilience in Los Angeles",
+            "title": "Transpacific Movements and Activisms: Asian and Asian American Connections Across the Pacific",
             "cap": 12,
             "act": 0,
             "rem": 12,
@@ -9867,7 +9796,43 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Mariska A Bolyanatz Brown",
+                "instructor": "Alexander F. Day",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eating Culture: Food, Race, and Migration",
+        "subj": "FYS",
+        "crse": "2",
+        "id": "FYS-2",
+        "sections": [
+          {
+            "crn": 1887,
+            "subj": "FYS",
+            "crse": "2",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Eating Culture: Food, Race, and Migration",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexandra M. Puerto",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
@@ -9884,34 +9849,6 @@
         "crse": "4",
         "id": "FYS-4",
         "sections": [
-          {
-            "crn": 1890,
-            "subj": "FYS",
-            "crse": "4",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Techno-Orientalism",
-            "cap": 15,
-            "act": 0,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Gregory Tadashi Toy",
-                "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1345,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1889,
             "subj": "FYS",
@@ -9939,23 +9876,51 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1890,
+            "subj": "FYS",
+            "crse": "4",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Techno-Orientalism",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Gregory Tadashi Toy",
+                "location": "",
+                "timeStart": 1250,
+                "timeEnd": 1345,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Queer 3.0: LGBTQ Rights in the Internet Era",
+        "title": "Romance and Sexuality in Asia",
         "subj": "FYS",
-        "crse": "6",
-        "id": "FYS-6",
+        "crse": "5",
+        "id": "FYS-5",
         "sections": [
           {
-            "crn": 1892,
+            "crn": 1891,
             "subj": "FYS",
-            "crse": "6",
+            "crse": "5",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Queer 3.0: LGBTQ Rights in the Internet Era",
+            "title": "Romance and Sexuality in Asia",
             "cap": 16,
             "act": 0,
             "rem": 16,
@@ -9967,10 +9932,40 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Ron Buckmire",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What's the (Subject) Matter with Musicals?",
+        "subj": "FYS",
+        "crse": "7",
+        "id": "FYS-7",
+        "sections": [
+          {
+            "crn": 1893,
+            "subj": "FYS",
+            "crse": "7",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "What's the (Subject) Matter with Musicals?",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Laural Meade",
+                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -9984,34 +9979,6 @@
         "crse": "8",
         "id": "FYS-8",
         "sections": [
-          {
-            "crn": 1894,
-            "subj": "FYS",
-            "crse": "8",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Myth, Magic, Mystery: On Disenchantment and Its Responses",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Devin Fromm",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1895,
             "subj": "FYS",
@@ -10039,23 +10006,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          }
-        ]
-      },
-      {
-        "title": "All That Glitters: Life and Literature in Los Angeles",
-        "subj": "FYS",
-        "crse": "9",
-        "id": "FYS-9",
-        "sections": [
+          },
           {
-            "crn": 1896,
+            "crn": 1894,
             "subj": "FYS",
-            "crse": "9",
+            "crse": "8",
             "sec": "01",
             "credMin": 4,
             "credMax": 4,
-            "title": "All That Glitters: Life and Literature in Los Angeles",
+            "title": "Myth, Magic, Mystery: On Disenchantment and Its Responses",
             "cap": 16,
             "act": 0,
             "rem": 16,
@@ -10067,7 +10026,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Jackie Kate Elam",
+                "instructor": "Devin Fromm",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
@@ -10075,7 +10034,15 @@
                 "dateEnd": "11/20"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "title": "All That Glitters: Life and Literature in Los Angeles",
+        "subj": "FYS",
+        "crse": "9",
+        "id": "FYS-9",
+        "sections": [
           {
             "crn": 1897,
             "subj": "FYS",
@@ -10103,6 +10070,34 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1896,
+            "subj": "FYS",
+            "crse": "9",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "All That Glitters: Life and Literature in Los Angeles",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Jackie Kate Elam",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -10113,16 +10108,44 @@
         "id": "FYS-10",
         "sections": [
           {
-            "crn": 1898,
+            "crn": 1921,
             "subj": "FYS",
             "crse": "10",
-            "sec": "00",
+            "sec": "02",
             "credMin": 4,
             "credMax": 4,
             "title": "Opening the Aviary: Minds, Ideas, and Matters of Fact",
-            "cap": 16,
+            "cap": 15,
             "act": 0,
-            "rem": 16,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Christopher George Berger",
+                "location": "",
+                "timeStart": 1250,
+                "timeEnd": 1345,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1898,
+            "subj": "FYS",
+            "crse": "10",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Opening the Aviary: Minds, Ideas, and Matters of Fact",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -10594,19 +10617,19 @@
         ]
       },
       {
-        "title": "Eating Culture: Food, Race, and Migration",
+        "title": "Linguistic Resilience in Los Angeles",
         "subj": "FYS",
-        "crse": "2",
-        "id": "FYS-2",
+        "crse": "3",
+        "id": "FYS-3",
         "sections": [
           {
-            "crn": 1887,
+            "crn": 1888,
             "subj": "FYS",
-            "crse": "2",
+            "crse": "3",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Eating Culture: Food, Race, and Migration",
+            "title": "Linguistic Resilience in Los Angeles",
             "cap": 12,
             "act": 0,
             "rem": 12,
@@ -10618,7 +10641,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Alexandra M. Puerto",
+                "instructor": "Mariska A Bolyanatz Brown",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
@@ -10630,19 +10653,19 @@
         ]
       },
       {
-        "title": "Romance and Sexuality in Asia",
+        "title": "Queer 3.0: LGBTQ Rights in the Internet Era",
         "subj": "FYS",
-        "crse": "5",
-        "id": "FYS-5",
+        "crse": "6",
+        "id": "FYS-6",
         "sections": [
           {
-            "crn": 1891,
+            "crn": 1892,
             "subj": "FYS",
-            "crse": "5",
+            "crse": "6",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Romance and Sexuality in Asia",
+            "title": "Queer 3.0: LGBTQ Rights in the Internet Era",
             "cap": 16,
             "act": 0,
             "rem": 16,
@@ -10654,40 +10677,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Ron Buckmire",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "What's the (Subject) Matter with Musicals?",
-        "subj": "FYS",
-        "crse": "7",
-        "id": "FYS-7",
-        "sections": [
-          {
-            "crn": 1893,
-            "subj": "FYS",
-            "crse": "7",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "What's the (Subject) Matter with Musicals?",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Laural Meade",
-                "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

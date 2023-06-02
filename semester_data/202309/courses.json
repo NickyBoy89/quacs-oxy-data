@@ -6613,8 +6613,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6721,8 +6721,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -8637,8 +8637,8 @@
             "credMax": 4,
             "title": "Accounting and Financial Analysis",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8836,8 +8836,8 @@
             "credMax": 4,
             "title": "Public Economics",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

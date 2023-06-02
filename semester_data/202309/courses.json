@@ -1716,8 +1716,8 @@
             "credMax": 0,
             "title": "General Zoology Laboratory",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -4619,8 +4619,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -4671,8 +4671,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

@@ -18392,5 +18392,21 @@
         ]
       }
     }
+  },
+  "1925": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

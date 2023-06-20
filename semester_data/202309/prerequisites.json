@@ -17783,7 +17783,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 7,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -17796,19 +17796,6 @@
     }
   },
   "1886": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "HIST 169",
-          "type": "course"
-        },
-        {
-          "course": "RELS 169",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
     "reserved": [
       {
         "max": 12,
@@ -17837,7 +17824,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17853,7 +17840,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17869,7 +17856,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -17885,7 +17872,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 13,
+        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -17901,7 +17888,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 3,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -17917,7 +17904,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 3,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17933,7 +17920,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -17949,7 +17936,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 15,
+        "open": 13,
         "reservedFor": "Frosh"
       }
     ],
@@ -17981,7 +17968,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 9,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17997,7 +17984,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18013,7 +18000,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -18029,7 +18016,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18045,7 +18032,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18077,7 +18064,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18093,7 +18080,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 6,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18109,7 +18096,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -18125,7 +18112,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -18221,7 +18208,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 15,
+        "open": 2,
         "reservedFor": "Frosh"
       }
     ],
@@ -18237,7 +18224,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18285,7 +18272,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 4,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18301,7 +18288,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 4,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18317,7 +18304,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 8,
         "reservedFor": "Frosh"
       }
     ],
@@ -18333,7 +18320,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18349,7 +18336,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 8,
+        "open": 6,
         "reservedFor": "Frosh"
       }
     ],
@@ -18365,7 +18352,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 3,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18381,7 +18368,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 11,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -18397,7 +18384,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 10,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],

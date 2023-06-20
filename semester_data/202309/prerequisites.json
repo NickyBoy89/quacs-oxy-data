@@ -18057,22 +18057,6 @@
       }
     }
   },
-  "1903": {
-    "reserved": [
-      {
-        "max": 15,
-        "open": 15,
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1904": {
     "reserved": [
       {
@@ -18346,6 +18330,54 @@
     }
   },
   "1921": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1922": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1923": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1924": {
     "reserved": [
       {
         "max": 15,

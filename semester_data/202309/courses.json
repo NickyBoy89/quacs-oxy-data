@@ -10374,7 +10374,7 @@
         ]
       },
       {
-        "title": "First Year Seminar",
+        "title": "Animal Intelligence",
         "subj": "FYS",
         "crse": "23",
         "id": "FYS-23",
@@ -10386,10 +10386,10 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "First Year Seminar",
+            "title": "Animal Intelligence",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -10872,9 +10872,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Isn't It Romantic? Lovers, Knights, Sorcerers and Superheroes Through the Ages",
-            "cap": 16,
+            "cap": 15,
             "act": 16,
-            "rem": 0,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

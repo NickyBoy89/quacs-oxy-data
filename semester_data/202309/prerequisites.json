@@ -8459,7 +8459,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 8,
+        "open": 7,
         "reservedFor": "Frosh"
       }
     ],
@@ -13532,7 +13532,7 @@
   "1654": {
     "reserved": [
       {
-        "max": 2,
+        "max": 1,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -17475,37 +17475,6 @@
       }
     }
   },
-  "1869": {
-    "corequisites": {
-      "cross_list_courses": [
-        "MUSC-127"
-      ]
-    },
-    "reserved": [
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": 4,
-        "open": 4,
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": 0,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1870": {
     "reserved": [
       {
@@ -17783,7 +17752,7 @@
     "reserved": [
       {
         "max": 12,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17840,7 +17809,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -17872,7 +17841,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Frosh"
       }
     ],
@@ -17920,7 +17889,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 7,
+        "open": 6,
         "reservedFor": "Frosh"
       }
     ],
@@ -17936,7 +17905,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 12,
+        "open": 10,
         "reservedFor": "Frosh"
       }
     ],
@@ -18112,7 +18081,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 3,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18144,7 +18113,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 10,
+        "open": 9,
         "reservedFor": "Frosh"
       }
     ],
@@ -18207,8 +18176,8 @@
   "1914": {
     "reserved": [
       {
-        "max": 15,
-        "open": 0,
+        "max": 16,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18336,7 +18305,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],

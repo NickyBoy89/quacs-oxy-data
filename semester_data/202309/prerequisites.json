@@ -9482,7 +9482,7 @@
   "1419": {
     "reserved": [
       {
-        "max": 9,
+        "max": 8,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -17905,7 +17905,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 3,
+        "open": 4,
         "reservedFor": "Frosh"
       }
     ],
@@ -18032,8 +18032,8 @@
   "1905": {
     "reserved": [
       {
-        "max": 15,
-        "open": 0,
+        "max": 14,
+        "open": -1,
         "reservedFor": "Frosh"
       }
     ],
@@ -18273,7 +18273,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 1,
+        "open": 0,
         "reservedFor": "Frosh"
       }
     ],
@@ -18288,7 +18288,7 @@
   "1921": {
     "reserved": [
       {
-        "max": 15,
+        "max": 14,
         "open": 0,
         "reservedFor": "Frosh"
       }
@@ -18305,7 +18305,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 2,
+        "open": 1,
         "reservedFor": "Frosh"
       }
     ],

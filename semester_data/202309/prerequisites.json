@@ -17825,7 +17825,7 @@
     "reserved": [
       {
         "max": 15,
-        "open": 2,
+        "open": 3,
         "reservedFor": "Frosh"
       }
     ],
@@ -18338,6 +18338,22 @@
       {
         "max": 15,
         "open": 1,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1926": {
+    "reserved": [
+      {
+        "max": 15,
+        "open": 15,
         "reservedFor": "Frosh"
       }
     ],

@@ -14961,8 +14961,8 @@
   "1713": {
     "reserved": [
       {
-        "max": 16,
-        "open": 0,
+        "max": 9,
+        "open": -7,
         "reservedFor": "Major"
       }
     ],
@@ -18361,6 +18361,19 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "1927": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior",
+          "Junior"
         ]
       }
     }

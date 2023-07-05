@@ -12806,8 +12806,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12868,8 +12868,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -22614,8 +22614,8 @@
             "credMax": 4,
             "title": "Developmental Psychology",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

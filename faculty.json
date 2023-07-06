@@ -791,14 +791,6 @@
     "education": "",
     "area": "Environmental Science"
   },
-  "Arthur Saint-Aubin": {
-    "url": "/academics/faculty/arthur-saint-aubin",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Professor, Spanish and French Studies",
-    "biography": "",
-    "education": "",
-    "area": "Spanish and French Studies"
-  },
   "Jose Guadalupe Sanchez III": {
     "url": "/academics/faculty/jose-guadalupe-sanchez-iii",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
@@ -834,7 +826,7 @@
   "Alec Schramm": {
     "url": "/academics/faculty/alec-schramm",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Ezra Frederick Scattergood Professor, Physics ",
+    "title": "Professor, Physics ",
     "biography": "",
     "education": "",
     "area": "Physics "
@@ -890,7 +882,7 @@
   "Daniel Snowden-Ifft": {
     "url": "/academics/faculty/daniel-snowden-ifft",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Professor, Physics",
+    "title": "Ezra Frederick Scattergood Professor, Physics",
     "biography": "",
     "education": "",
     "area": "Physics"
@@ -1063,14 +1055,6 @@
     "education": "",
     "area": "Economics"
   },
-  "Jason Wong": {
-    "url": "/academics/faculty/jason-wong",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Assistant Professor, Economics",
-    "biography": "",
-    "education": "",
-    "area": "Economics"
-  },
   "Xiao-huang Yin": {
     "url": "/academics/faculty/xiao-huang-yin",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
@@ -1102,14 +1086,6 @@
     "biography": "",
     "education": "",
     "area": " Visiting Instructor, Music"
-  },
-  "Benyamin Ahmadnia": {
-    "url": "/academics/faculty/benyamin-ahmadnia",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Visiting Assistant Professor, Computer Science",
-    "biography": "",
-    "education": "",
-    "area": "Computer Science"
   },
   "Salam Al-Marayati": {
     "url": "/academics/faculty/salam-al-marayati",
@@ -1143,14 +1119,6 @@
     "education": "",
     "area": "Politics"
   },
-  "Thomas J. Balcerski": {
-    "url": "/academics/faculty/thomas-j-balcerski",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Ray A. Billington Professor of United States History",
-    "biography": "",
-    "education": "",
-    "area": ""
-  },
   "Kirk Bentzen": {
     "url": "/academics/faculty/kirk-bentzen",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
@@ -1158,14 +1126,6 @@
     "biography": "",
     "education": "",
     "area": "Kinesiology"
-  },
-  "Alejandra Berdeja": {
-    "url": "/academics/faculty/alejandra-berdeja",
-    "portrait": "https://www.facebook.com/tr?id=176021459432327&ev=PageView&noscript=1",
-    "title": "Visiting Assistant Professor, Biology",
-    "biography": "",
-    "education": "",
-    "area": "Biology"
   },
   "Alejandra Mart\u00ednez Berdeja": {
     "url": "/academics/faculty/alejandra-martinez-berdeja",
@@ -1231,14 +1191,6 @@
     "education": "",
     "area": "Music Production"
   },
-  "Bernie Boscoe": {
-    "url": "/academics/faculty/bernie-boscoe",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Visiting Assistant Professor, Computer Science",
-    "biography": "",
-    "education": "",
-    "area": "Computer Science"
-  },
   "Janis Breidenbach": {
     "url": "/academics/faculty/janis-breidenbach",
     "portrait": "https://www.facebook.com/tr?id=176021459432327&ev=PageView&noscript=1",
@@ -1298,7 +1250,7 @@
   "Hsing-Hau Chen": {
     "url": "/academics/faculty/hsing-hau-chen",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Visiting Assistant Professor, Computer Science",
+    "title": "Resident Assistant Professor, Computer Science",
     "biography": "",
     "education": "",
     "area": "Computer Science"
@@ -1470,14 +1422,6 @@
     "biography": "",
     "education": "",
     "area": "Education"
-  },
-  "Khanisha Foster": {
-    "url": "/academics/faculty/khanisha-foster",
-    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Wanless Visiting Theater Artist, Theater and Performance Studies",
-    "biography": "",
-    "education": "",
-    "area": "Theater and Performance Studies"
   },
   "Andrew V. Frane": {
     "url": "/academics/faculty/andrew-v-frane",
@@ -2074,7 +2018,7 @@
   "Yuki Taylor": {
     "url": "/academics/faculty/yuki-taylor",
     "portrait": "https://www.facebook.com/tr?id=176021459432327&ev=PageView&noscript=1",
-    "title": "Visiting Associate Professor, Asian Studies",
+    "title": "Resident Associate Professor, Asian Studies",
     "biography": "",
     "education": "",
     "area": "Asian Studies"
@@ -2146,7 +2090,7 @@
   "Kevin Urstadt": {
     "url": "/academics/faculty/kevin-urstadt",
     "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
-    "title": "Visiting Assistant Professor, Cognitive Science",
+    "title": "Resident Assistant Professor, Cognitive Science",
     "biography": "",
     "education": "",
     "area": "Cognitive Science"
@@ -2766,6 +2710,14 @@
     "biography": "",
     "education": "",
     "area": "English, Emerita"
+  },
+  "Arthur Saint-Aubin": {
+    "url": "/academics/faculty/arthur-saint-aubin",
+    "portrait": "/sites/default/files/images/2022-07/logo-footer.png",
+    "title": "Professor, Spanish and French Studies",
+    "biography": "",
+    "education": "",
+    "area": "Spanish and French Studies"
   },
   "Timothy D. Sanders": {
     "url": "/academics/faculty/timothy-d-sanders",

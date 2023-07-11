@@ -336,8 +336,8 @@
   "COMP 379": {
     "title": "Operating Systems",
     "prereqs": [
-      "COMP  229",
-      "COMP  239"
+      "COMP 229",
+      "COMP 239"
     ]
   },
   "COMP 357": {
@@ -1742,7 +1742,6 @@
       "COMP 146",
       "COMP 149",
       "COMP 229",
-      "MATH 146",
       "MATH 150",
       "MATH 210",
       "MATH 214"

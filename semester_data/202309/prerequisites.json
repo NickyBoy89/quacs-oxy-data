@@ -1368,47 +1368,6 @@
       }
     }
   },
-  "1082": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 13,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1083": {
     "prerequisites": {
       "nested": [
@@ -1479,47 +1438,6 @@
     "reserved": [
       {
         "max": 0,
-        "open": 0,
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1085": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": 3,
         "open": 0,
         "reservedFor": "Major"
       }
@@ -18374,6 +18292,97 @@
         "must_be": [
           "Senior",
           "Junior"
+        ]
+      }
+    }
+  },
+  "1928": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 149",
+          "type": "course"
+        },
+        {
+          "course": "MATH 150",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "COMP 229",
+              "type": "course"
+            },
+            {
+              "course": "MATH 210",
+              "type": "course"
+            },
+            {
+              "course": "MATH 214",
+              "type": "course"
+            },
+            {
+              "course": "COMP 146",
+              "type": "course"
+            },
+            {
+              "nested": [
+                {
+                  "course": "COMP 149",
+                  "type": "course"
+                },
+                {
+                  "nested": [
+                    {
+                      "course": "COMP 229",
+                      "type": "course"
+                    },
+                    {
+                      "course": "MATH 210",
+                      "type": "course"
+                    },
+                    {
+                      "course": "MATH 214",
+                      "type": "course"
+                    }
+                  ],
+                  "type": "and"
+                }
+              ],
+              "type": "or"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1929": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 229",
+          "type": "course"
+        },
+        {
+          "course": "COMP 239",
+          "type": "course"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
         ]
       }
     }

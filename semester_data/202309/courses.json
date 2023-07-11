@@ -263,8 +263,8 @@
             "credMax": 4,
             "title": "Asian American Literature",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -840,7 +840,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Susanna Maing",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 900,
                 "timeEnd": 1125,
@@ -867,7 +867,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Susanna Maing",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1555,
@@ -4259,7 +4259,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Emmanuelle Despagnet-Ayoub",
+                "instructor": "Anne Yu",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1650,
@@ -4657,7 +4657,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Sevada Andranik Chamras",
                 "location": "",
                 "timeStart": 1830,
                 "timeEnd": 2130,
@@ -5061,7 +5061,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Andrew K. Udit",
+                "instructor": "Michael G. Hill",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -5435,8 +5435,8 @@
                 ],
                 "instructor": "Michael G. Hill",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -5467,7 +5467,7 @@
                 "days": [
                   "M"
                 ],
-                "instructor": "Andrew K. Udit",
+                "instructor": "Emmanuelle Despagnet-Ayoub",
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
@@ -6369,8 +6369,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 20,
-            "rem": 10,
+            "act": 19,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6503,8 +6503,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6967,67 +6967,47 @@
         ]
       },
       {
+        "title": "Machine Learning",
+        "subj": "COMP",
+        "crse": "347",
+        "id": "COMP-347",
+        "sections": [
+          {
+            "crn": 1928,
+            "subj": "COMP",
+            "crse": "347",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Machine Learning",
+            "cap": 25,
+            "act": 7,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Special Topics in Computer Science",
         "subj": "COMP",
         "crse": "395",
         "id": "COMP-395",
         "sections": [
-          {
-            "crn": 1082,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 25,
-            "act": 22,
-            "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1084,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "03",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1700,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
           {
             "crn": 1083,
             "subj": "COMP",
@@ -7057,27 +7037,28 @@
             ]
           },
           {
-            "crn": 1085,
+            "crn": 1084,
             "subj": "COMP",
             "crse": "395",
-            "sec": "04",
+            "sec": "03",
             "credMin": 4,
             "credMax": 4,
             "title": "Special Topics in Computer Science",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 0,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W",
+                  "F"
                 ],
                 "instructor": "Instructor Unassigned",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1605,
+                "timeEnd": 1700,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -7282,6 +7263,42 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Operating Systems",
+        "subj": "COMP",
+        "crse": "379",
+        "id": "COMP-379",
+        "sections": [
+          {
+            "crn": 1929,
+            "subj": "COMP",
+            "crse": "379",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Operating Systems",
+            "cap": 25,
+            "act": 22,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -9437,8 +9454,8 @@
             "credMax": 4,
             "title": "Asian American Literature",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12373,8 +12390,8 @@
             "credMax": 4,
             "title": "Colonial Latin America",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13298,8 +13315,8 @@
             "credMax": 4,
             "title": "Colonial Latin America",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -20930,7 +20947,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Instructor-TBD",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -20990,7 +21007,7 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Jean-Luc Gauvreau",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
@@ -21290,7 +21307,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Alec J. Schramm",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,

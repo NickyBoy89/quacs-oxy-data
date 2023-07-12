@@ -3284,8 +3284,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -9379,8 +9379,8 @@
             "credMax": 4,
             "title": "Conflict in Education",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -25727,8 +25727,8 @@
             "credMax": 2,
             "title": "Topics in Urban and Environmental Policy",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25920,8 +25920,8 @@
             "credMax": 2,
             "title": "Sustainable Oxy",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

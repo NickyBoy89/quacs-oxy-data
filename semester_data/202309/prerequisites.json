@@ -9267,36 +9267,6 @@
       }
     }
   },
-  "1415": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "SOC 101",
-          "type": "course"
-        },
-        {
-          "course": "SOC 102",
-          "type": "course"
-        },
-        {
-          "course": "SOC 105",
-          "type": "course"
-        },
-        {
-          "course": "OXSO",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "1416": {
     "prerequisites": {
       "nested": [
@@ -18349,6 +18319,91 @@
         }
       ],
       "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1930": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "CHEM 100",
+          "type": "course"
+        },
+        {
+          "course": "CHEM 120",
+          "type": "course"
+        },
+        {
+          "course": "OXCE",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1931": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310L"
+      ]
+    },
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "PSYC 101",
+          "type": "course"
+        },
+        {
+          "course": "APPS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior",
+          "Junior"
+        ]
+      }
+    }
+  },
+  "1932": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310"
+      ]
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1933": {
+    "corequisites": {
+      "cross_list_courses": [
+        "PSYC-310"
+      ]
     },
     "restrictions": {
       "classification": {

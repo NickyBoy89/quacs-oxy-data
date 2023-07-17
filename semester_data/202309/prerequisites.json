@@ -13249,6 +13249,11 @@
     }
   },
   "1642": {
+    "corequisites": {
+      "cross_list_courses": [
+        "CHEM-340L"
+      ]
+    },
     "prerequisites": {
       "nested": [
         {

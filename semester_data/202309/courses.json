@@ -1017,8 +1017,8 @@
             "credMax": 4,
             "title": "Printmaking Fundamentals: Relief and Intaglio",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -4082,9 +4082,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Foundations of General Chemistry",
-            "cap": 45,
+            "cap": 35,
             "act": 3,
-            "rem": 42,
+            "rem": 32,
             "attribute": "",
             "timeslots": [
               {
@@ -11703,8 +11703,8 @@
             "credMax": 0,
             "title": "Geographic Information Science I Laboratory",
             "cap": 12,
-            "act": 7,
-            "rem": 5,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -11921,8 +11921,8 @@
             "credMax": 4,
             "title": "Geographic Information Science I",
             "cap": 24,
-            "act": 11,
-            "rem": 13,
+            "act": 10,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -12067,8 +12067,8 @@
             "credMax": 4,
             "title": "Elementary German I",
             "cap": 35,
-            "act": 13,
-            "rem": 22,
+            "act": 12,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -24352,34 +24352,6 @@
             ]
           },
           {
-            "crn": 1686,
-            "subj": "SPAN",
-            "crse": "102",
-            "sec": "04",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Beginning Spanish II",
-            "cap": 18,
-            "act": 12,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Maria Gabriela Venegas",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
             "crn": 1685,
             "subj": "SPAN",
             "crse": "102",
@@ -24430,6 +24402,90 @@
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1555,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1684,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 8,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1686,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "04",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 12,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Maria Gabriela Venegas",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1934,
+            "subj": "SPAN",
+            "crse": "102",
+            "sec": "06",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Beginning Spanish II",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

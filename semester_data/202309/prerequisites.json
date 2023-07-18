@@ -12579,8 +12579,8 @@
     },
     "reserved": [
       {
-        "max": 14,
-        "open": 14,
+        "max": 16,
+        "open": 16,
         "reservedFor": "Frosh"
       }
     ],
@@ -14157,6 +14157,35 @@
     }
   },
   "1683": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN 101",
+          "type": "course"
+        },
+        {
+          "course": "OXSP",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1684": {
     "prerequisites": {
       "nested": [
         {
@@ -18414,6 +18443,35 @@
       "classification": {
         "may_not_be": [
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1934": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "SPAN 101",
+          "type": "course"
+        },
+        {
+          "course": "OXSP",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "reserved": [
+      {
+        "max": 5,
+        "open": 5,
+        "reservedFor": "Frosh"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

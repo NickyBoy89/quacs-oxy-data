@@ -1750,8 +1750,8 @@
             "credMax": 4,
             "title": "Introduction to Cell and Molecular Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1804,8 +1804,8 @@
             "credMax": 0,
             "title": "Introduction to Cell and Molecular Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2228,8 +2228,8 @@
             "credMax": 4,
             "title": "Biostatistics",
             "cap": 24,
-            "act": 19,
-            "rem": 5,
+            "act": 18,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -2256,8 +2256,8 @@
             "credMax": 0,
             "title": "Biostatistics Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -22358,8 +22358,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

@@ -7081,8 +7081,8 @@
             "credMax": 4,
             "title": "Operating Systems",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7315,8 +7315,8 @@
             "credMax": 4,
             "title": "Machine Learning",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -24626,8 +24626,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

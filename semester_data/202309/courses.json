@@ -2662,8 +2662,8 @@
             "credMax": 0,
             "title": "Microbial Pathogenesis Laboratory",
             "cap": 8,
-            "act": 5,
-            "rem": 3,
+            "act": 4,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -2898,8 +2898,8 @@
             "credMax": 0,
             "title": "Oceanography Laboratory",
             "cap": 8,
-            "act": 5,
-            "rem": 3,
+            "act": 6,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3696,8 +3696,8 @@
             "credMax": 4,
             "title": "Microbial Pathogenesis",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -3732,8 +3732,8 @@
             "credMax": 4,
             "title": "Biological Oceanography",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

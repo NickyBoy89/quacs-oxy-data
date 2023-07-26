@@ -2316,8 +2316,8 @@
             "credMax": 4,
             "title": "Evolutionary Biology",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5393,8 +5393,8 @@
             "credMax": 1,
             "title": "Molecular Symmetry and Structure",
             "cap": 25,
-            "act": 0,
-            "rem": 25,
+            "act": 1,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -6254,8 +6254,8 @@
             "credMax": 4,
             "title": "Truth, Trust, and Propaganda: Postmodern Theory and the Practice of Dissent",
             "cap": 32,
-            "act": 15,
-            "rem": 17,
+            "act": 14,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -8274,8 +8274,8 @@
             "credMax": 4,
             "title": "Authoritarianism in the Age of Globalization",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -14621,8 +14621,8 @@
             "credMax": 4,
             "title": "Multivariable Calculus",
             "cap": 20,
-            "act": 13,
-            "rem": 7,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -24121,8 +24121,8 @@
             "credMax": 4,
             "title": "Self and Society",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

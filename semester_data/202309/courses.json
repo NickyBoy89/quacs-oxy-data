@@ -2722,8 +2722,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 10,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -2838,8 +2838,8 @@
             "credMax": 0,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

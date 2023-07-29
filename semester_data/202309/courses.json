@@ -16660,8 +16660,8 @@
             "credMax": 1,
             "title": "Voice Class II",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 3,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -17344,8 +17344,8 @@
             "credMax": 1,
             "title": "Voice (Half Hour)",
             "cap": 5,
-            "act": 1,
-            "rem": 4,
+            "act": 0,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -17572,8 +17572,8 @@
             "credMax": 1,
             "title": "Voice (One Hour)",
             "cap": 5,
-            "act": 1,
-            "rem": 4,
+            "act": 2,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

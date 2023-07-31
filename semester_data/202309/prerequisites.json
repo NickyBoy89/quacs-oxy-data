@@ -18475,5 +18475,43 @@
         ]
       }
     }
+  },
+  "1935": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 130",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "BIO 105",
+              "type": "course"
+            },
+            {
+              "course": "BIO 110",
+              "type": "course"
+            },
+            {
+              "course": "BIO 115",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Junior"
+        ]
+      }
+    }
   }
 }

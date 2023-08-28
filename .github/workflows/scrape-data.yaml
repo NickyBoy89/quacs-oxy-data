@@ -11,6 +11,9 @@ on:
     # Once every hour
     - cron: "0 * * * *"
 
+env:
+  SCRAPER_DIR: quacs-oxy-scraper
+
 # All jobs are paralleled with the following rules:
 # catalog_scraper depends on semesters.json and creates catalog.json
 # faculty_directory_scraper depends on nothing and create faculty.json
@@ -43,7 +46,7 @@ jobs:
           cp quacs-oxy-scraper/transform.go .
       - name: Scrape
         run: |
-          make semesters.json
+          make -C $SCRAPER_DIR semesters.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -73,7 +76,7 @@ jobs:
           ls
       - name: Scrape
         run: |
-          make faculty.json
+          make -c $SCRAPER_DIR faculty.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -108,7 +111,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          make catalog.json
+          make -C $SCRAPER_DIR catalog.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -141,7 +144,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          make prerequisites.json
+          make -C $SCRAPER_DIR prerequisites.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -173,7 +176,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          make schools.json
+          make -C $SCRAPER_DIR schools.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -212,7 +215,7 @@ jobs:
           name: catalog
       - name: Scrape
         run: |
-          make courses.json
+          make -C $SCRAPER_DIR courses.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:

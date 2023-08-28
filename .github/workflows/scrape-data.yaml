@@ -38,12 +38,13 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR semesters.json
+          cp $SCRAPER_DIR/semesters.json .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: semesters
           path: |
-            ${{ env.SCRAPER_DIR }}/semesters.json
+            semesters.json
             transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
@@ -68,11 +69,12 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR faculty.json
+          cp $SCRAPER_DIR/faculty.json .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: faculty
-          path: ${{ env.SCRAPER_DIR }}/faculty.json
+          path: faculty.json
 
   # These things depend on semesters.json, run them after the [scrape-semesters] job is done
   scrape-catalog:
@@ -103,11 +105,12 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR catalog.json
+          cp $SCRAPER_DIR/catalog.json .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: catalog
-          path: ${{ env.SCRAPER_DIR }}/catalog.json
+          path: catalog.json
   scrape-prerequisites:
     name: "Scrape prerequisites"
     runs-on:
@@ -136,11 +139,12 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR prerequisites.json
+          cp $SCRAPER_DIR/prerequisites.json .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: prerequisites
-          path: ${{ env.SCRAPER_DIR }}/prerequisites.json
+          path: prerequisites.json
   scrape-schools:
     name: "Scrape schools"
     runs-on:
@@ -168,11 +172,12 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR schools.json
+          cp $SCRAPER_DIR/schools.json .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: schools
-          path: ${{ env.SCRAPER_DIR }}/schools.json
+          path: schools.json
 
   # This depends on semesters.json and catalog.json, so wait on [scrape-semesters] and [scrape-catalog]
   scrape-sis:
@@ -207,13 +212,15 @@ jobs:
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR courses.json
+          cp $SCRAPER_DIR/courses.json .
+          cp $SCRAPER_DIR/mod.rs .
       - name: Upload scraped data
         uses: actions/upload-artifact@v3
         with:
           name: courses
           path: |
-            ${{ env.SCRAPER_DIR }}/courses.json
-            ${{ env.SCRAPER_DIR }}/mod.rs
+            courses.json
+            mod.rs
   commit-data:
     name: Commit changes
     continue-on-error: true

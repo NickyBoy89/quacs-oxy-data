@@ -76,7 +76,7 @@ jobs:
           ls
       - name: Scrape
         run: |
-          make -c $SCRAPER_DIR faculty.json
+          make -C $SCRAPER_DIR faculty.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:

@@ -34,7 +34,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -43,7 +43,7 @@ jobs:
           cp quacs-oxy-scraper/transform.go .
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/semesters/main.py
+          make semesters.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -64,7 +64,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -73,7 +73,7 @@ jobs:
           ls
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/faculty_directory_scraper/main.py
+          make faculty.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -95,7 +95,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -108,7 +108,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/catalog_scraper/main.py
+          make catalog.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -128,7 +128,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -141,7 +141,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/prerequisite_scraper/main.py
+          make prerequisites.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -161,7 +161,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -173,7 +173,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/school_scraper/main.py
+          make schools.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -195,7 +195,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -212,7 +212,7 @@ jobs:
           name: catalog
       - name: Scrape
         run: |
-          python3 quacs-oxy-scraper/sis_scraper/main.py
+          make courses.json
       - name: Upload scraped data
         uses: actions/upload-artifact@v2
         with:
@@ -234,7 +234,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.11'
       - name: Setup pip requirements
         run: |
           sudo apt-get install -y libxml2 libxml2-dev libxslt-dev
@@ -273,7 +273,7 @@ jobs:
           cp faculty/faculty.json data
       - name: Generate prerequisites graph on all the data
         run: |
-          python3 quacs-oxy-scraper/prerequisites_graph/main.py data/semester_data prereq_graph.json
+          python3 quacs-oxy-scraper/prerequisites_graph.py data/semester_data prereq_graph.json
           cp prereq_graph.json data
           ls
         continue-on-error: true

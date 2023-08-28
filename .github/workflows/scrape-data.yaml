@@ -14,28 +14,19 @@ on:
 env:
   SCRAPER_DIR: quacs-oxy-scraper
 
-# All jobs are paralleled with the following rules:
-# catalog_scraper depends on semesters.json and creates catalog.json
-# faculty_directory_scraper depends on nothing and create faculty.json
-# prerequisite_scraper depends on semesters.json and generates prerequisites.json
-# rmp_scraper depends on nothing and generates rmp.json
-# school_scraper depends on semesters.json and generates schools.json
-# semesters depends on nothing and generates semesters.json
-# sis_scraper depends on semesters.json and catalog.json and generates courses.json and mod.rs
 jobs:
-  # A lot of things depend on semesters.json, so start this first
   scrape-semesters:
     name: "Scrape semesters"
     runs-on:
       ubuntu-latest
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -48,7 +39,7 @@ jobs:
         run: |
           make -C $SCRAPER_DIR semesters.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: semesters
           path: |
@@ -60,12 +51,12 @@ jobs:
       ubuntu-latest
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -78,7 +69,7 @@ jobs:
         run: |
           make -C $SCRAPER_DIR faculty.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: faculty
           path: faculty.json
@@ -91,12 +82,12 @@ jobs:
     needs: [scrape-semesters]
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -106,14 +97,14 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: semesters
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR catalog.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: catalog
           path: catalog.json
@@ -124,12 +115,12 @@ jobs:
     needs: [scrape-semesters]
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -139,14 +130,14 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: semesters
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR prerequisites.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: prerequisites
           path: prerequisites.json
@@ -157,12 +148,12 @@ jobs:
     needs: [scrape-semesters]
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -171,14 +162,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r quacs-oxy-scraper/requirements.txt
       - name: Get scraped data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: semesters
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR schools.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: schools
           path: schools.json
@@ -191,12 +182,12 @@ jobs:
     needs: [scrape-semesters, scrape-catalog]
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -206,18 +197,18 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: semesters
       - name: Get more data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: catalog
       - name: Scrape
         run: |
           make -C $SCRAPER_DIR courses.json
       - name: Upload scraped data
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: courses
           path: |
@@ -230,12 +221,12 @@ jobs:
     needs: [scrape-semesters, scrape-faculty-directory, scrape-catalog, scrape-prerequisites, scrape-schools, scrape-sis]
     steps:
       - name: Checkout scrapers
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'quacs-oxy-scraper'
           repository: 'NickyBoy89/quacs-oxy-scraper'
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
       - name: Setup pip requirements
@@ -248,13 +239,13 @@ jobs:
         run: |
           sudo apt-get install golang
       - name: Checkout data
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           path: 'data'
           repository: 'NickyBoy89/quacs-oxy-data'
           clean: true
       - name: Get scraped data
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
       - name: Generate meta json file
         run: echo {\"last_updated\":\"$(date --iso-8601=seconds -u)\"} > data/meta.json
       - name: Find whats in the artifact

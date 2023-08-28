@@ -8314,7 +8314,7 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": "7",
+        "max": "6",
         "open": "0",
         "reservedFor": "Major"
       }
@@ -8720,7 +8720,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "3",
+        "open": "4",
         "reservedFor": "Frosh"
       },
       {
@@ -13898,7 +13898,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "1",
+        "open": "2",
         "reservedFor": "Frosh"
       }
     ],

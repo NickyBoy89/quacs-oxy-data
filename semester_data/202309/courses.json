@@ -1838,8 +1838,8 @@
             "credMax": 4,
             "title": "Genetic Analysis",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1900,8 +1900,8 @@
             "credMax": 0,
             "title": "Genetic Analysis Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2300,8 +2300,8 @@
             "credMax": 4,
             "title": "Biostatistics",
             "cap": 24,
-            "act": 11,
-            "rem": 13,
+            "act": 12,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -2328,8 +2328,8 @@
             "credMax": 0,
             "title": "Biostatistics Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3613,8 +3613,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -4029,8 +4029,8 @@
             "credMax": 4,
             "title": "Introduction to Chemistry",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -4057,8 +4057,8 @@
             "credMax": 4,
             "title": "Introduction to Chemistry",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -4349,8 +4349,8 @@
             "credMax": 4,
             "title": "Advanced Placement General Chemistry",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -4385,8 +4385,8 @@
             "credMax": 0,
             "title": "Advanced Placement General Chemistry Laboratory",
             "cap": 8,
-            "act": 10,
-            "rem": -2,
+            "act": 11,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -8138,8 +8138,8 @@
             "credMax": 4,
             "title": "A Primer for Revolution",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -9132,8 +9132,8 @@
             "credMax": 4,
             "title": "Educational Innovations:  Challenges and Effects",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -13665,8 +13665,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-A",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -13701,8 +13701,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-A Laboratory",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -19688,8 +19688,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19780,8 +19780,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 25,
-            "rem": 10,
+            "act": 26,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -21230,8 +21230,8 @@
             "credMax": 2,
             "title": "Senior Physics Seminar I",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -21669,8 +21669,8 @@
             "credMax": 4,
             "title": "Constitutional Law",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -22619,8 +22619,8 @@
             "credMax": 4,
             "title": "Physiological Psychology",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -22655,8 +22655,8 @@
             "credMax": 4,
             "title": "Social Psychology",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23110,8 +23110,8 @@
             "credMax": 4,
             "title": "LGBTQ Health",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -23585,8 +23585,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23814,8 +23814,8 @@
             "credMax": 4,
             "title": "Masculinities",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24455,8 +24455,8 @@
             "credMax": 4,
             "title": "Advanced Spanish",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -24795,8 +24795,8 @@
             "credMax": 2,
             "title": "Performance in Action",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24941,8 +24941,8 @@
             "credMax": 2,
             "title": "Intensive Production Laboratory",
             "cap": 6,
-            "act": 1,
-            "rem": 5,
+            "act": 2,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -26246,8 +26246,8 @@
             "credMax": 4,
             "title": "Argument and Rhetoric Across the Disciplines",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

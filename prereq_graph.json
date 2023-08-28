@@ -82,7 +82,7 @@
     ]
   },
   "BIO 268": {
-    "title": "Biostatistics Laboratory",
+    "title": "Biostatistics",
     "prereqs": [
       "BIO 105",
       "BIO 106",
@@ -888,7 +888,7 @@
     ]
   },
   "MATH 114": {
-    "title": "Calculus 1 (Advanced) Laboratory",
+    "title": "Calculus 1 (Advanced)",
     "prereqs": [
       "ALEKS",
       "M114",
@@ -896,7 +896,7 @@
     ]
   },
   "MATH 120": {
-    "title": "Calculus 2 Laboratory",
+    "title": "Calculus 2",
     "prereqs": [
       "APAB",
       "APCS",
@@ -1678,8 +1678,9 @@
     "title": "Physical Chemistry III",
     "prereqs": [
       "APPE",
+      "CHEM 300",
+      "CHEM 305",
       "MATH 120",
-      "PHYS 120",
       "PHYS 230"
     ]
   },
@@ -1755,12 +1756,8 @@
     ]
   },
   "COMP 395": {
-    "title": "Special Topics in Computer Science",
+    "title": "Special Topics in Computer Science: Data Mining",
     "prereqs": [
-      "APCA",
-      "COMP 127",
-      "COMP 131",
-      "COMP 211",
       "COMP 229"
     ]
   },
@@ -2403,6 +2400,29 @@
       "MATH 212",
       "MATH 214",
       "MATH 340"
+    ]
+  },
+  "MATH 395": {
+    "title": "Special Topics in Advanced Mathematics. History of Mathematics",
+    "prereqs": [
+      "MATH 300",
+      "MATH 310",
+      "MATH 312",
+      "MATH 320",
+      "MATH 322",
+      "MATH 340",
+      "MATH 342",
+      "MATH 350",
+      "MATH 354",
+      "MATH 360",
+      "MATH 362",
+      "MATH 370",
+      "MATH 372",
+      "MATH 380",
+      "MATH 382",
+      "MATH 393",
+      "MATH 396",
+      "MATH 397"
     ]
   },
   "MATH 150": {
@@ -4262,6 +4282,13 @@
       "FREN 202"
     ]
   },
+  "GEO 390": {
+    "title": "Special Topics in Geology. Geologic Resources for the Green Economy",
+    "prereqs": [
+      "GEO 105",
+      "GEO 220"
+    ]
+  },
   "GERM 151": {
     "title": "Beginning/Intermediate Conversation I",
     "prereqs": [
@@ -4272,17 +4299,16 @@
       "OXGE"
     ]
   },
+  "GERM 251": {
+    "title": "Advanced Conversation I",
+    "prereqs": [
+      "GERM 152"
+    ]
+  },
   "GRK 303": {
     "title": "Being-With: The Politics and Poetics of Community in Ancient Greece",
     "prereqs": [
       "CSLC 200"
-    ]
-  },
-  "MATH 322": {
-    "title": "Number Theory",
-    "prereqs": [
-      "MATH 210",
-      "OXME"
     ]
   },
   "MATH 128": {
@@ -4293,6 +4319,13 @@
       "OXMA"
     ]
   },
+  "MATH 322": {
+    "title": "Number Theory",
+    "prereqs": [
+      "MATH 210",
+      "OXME"
+    ]
+  },
   "MATH 380": {
     "title": "Combinatorics",
     "prereqs": [
@@ -4300,10 +4333,18 @@
       "OXME"
     ]
   },
-  "MUSC 374": {
-    "title": "Analysis for Performance",
+  "MUSC 474": {
+    "title": "Senior Production Comprehensives Preparation",
     "prereqs": [
-      "MUSC 151"
+      "MUSC 348"
+    ]
+  },
+  "MUSC 490": {
+    "title": "Senior Seminar",
+    "prereqs": [
+      "MUSC 201",
+      "MUSC 261",
+      "MUSC 263"
     ]
   },
   "POLS 236": {
@@ -4311,6 +4352,12 @@
     "prereqs": [
       "DWA 101",
       "POLS 101"
+    ]
+  },
+  "POLS 246": {
+    "title": "Moot Court I",
+    "prereqs": [
+      "POLS 140"
     ]
   },
   "PUBH 303": {

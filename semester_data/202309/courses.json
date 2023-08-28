@@ -1496,8 +1496,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1523,8 +1523,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2486,8 +2486,8 @@
             "credMax": 1,
             "title": "Current Research in Biology",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -3349,8 +3349,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -4419,8 +4419,8 @@
             "credMax": 1,
             "title": "Molecular Symmetry and Structure",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -6437,8 +6437,8 @@
             "credMax": 2,
             "title": "Justice and Equity in Technology",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7657,8 +7657,8 @@
             "credMax": 4,
             "title": "Mother Goose to Mother F*!@#$: Children's Lit/Popular Texts",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7727,8 +7727,8 @@
             "credMax": 4,
             "title": "Foucault",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -11221,8 +11221,8 @@
             "credMax": 4,
             "title": "Eighteenth and Nineteenth Century Works",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -11901,8 +11901,8 @@
             "credMax": 4,
             "title": "Elementary German I",
             "cap": 35,
-            "act": 18,
-            "rem": 17,
+            "act": 19,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -14600,8 +14600,8 @@
             "credMax": 2,
             "title": "Senior Colloquium",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -19886,8 +19886,8 @@
             "credMax": 4,
             "title": "Happiness, Meaning, and the Good Life",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24237,8 +24237,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -24971,8 +24971,8 @@
             "credMax": 1,
             "title": "Modern Dance",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 6,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {

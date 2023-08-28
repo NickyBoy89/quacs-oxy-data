@@ -43,7 +43,7 @@ jobs:
         with:
           name: semesters
           path: |
-            $SCRAPER_DIR/semesters.json
+            ${{ env.SCRAPER_DIR }}/semesters.json
             transform.go
   scrape-faculty-directory:
     name: "Scrape faculty directory"
@@ -72,7 +72,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: faculty
-          path: $SCRAPER_DIR/faculty.json
+          path: ${{ env.SCRAPER_DIR }}/faculty.json
 
   # These things depend on semesters.json, run them after the [scrape-semesters] job is done
   scrape-catalog:
@@ -107,7 +107,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: catalog
-          path: $SCRAPER_DIR/catalog.json
+          path: ${{ env.SCRAPER_DIR }}/catalog.json
   scrape-prerequisites:
     name: "Scrape prerequisites"
     runs-on:
@@ -140,7 +140,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: prerequisites
-          path: $SCRAPER_DIR/prerequisites.json
+          path: ${{ env.SCRAPER_DIR }}/prerequisites.json
   scrape-schools:
     name: "Scrape schools"
     runs-on:
@@ -172,7 +172,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: schools
-          path: $SCRAPER_DIR/schools.json
+          path: ${{ env.SCRAPER_DIR }}/schools.json
 
   # This depends on semesters.json and catalog.json, so wait on [scrape-semesters] and [scrape-catalog]
   scrape-sis:
@@ -212,8 +212,8 @@ jobs:
         with:
           name: courses
           path: |
-            $SCRAPER_DIR/courses.json
-            $SCRAPER_DIR/mod.rs
+            ${{ env.SCRAPER_DIR }}/courses.json
+            ${{ env.SCRAPER_DIR }}/mod.rs
   commit-data:
     name: Commit changes
     continue-on-error: true

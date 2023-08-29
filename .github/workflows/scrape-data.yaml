@@ -104,6 +104,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
+          cp semesters/semesters.json .
           make -C $SCRAPER_DIR catalog.json
           cp $SCRAPER_DIR/catalog.json .
       - name: Upload scraped data
@@ -138,6 +139,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
+          cp semesters/semesters.json .
           make -C $SCRAPER_DIR prerequisites.json
           cp $SCRAPER_DIR/prerequisites.json .
       - name: Upload scraped data
@@ -171,6 +173,7 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
+          cp semesters/semesters.json .
           make -C $SCRAPER_DIR schools.json
           cp $SCRAPER_DIR/schools.json .
       - name: Upload scraped data
@@ -211,6 +214,8 @@ jobs:
           name: catalog
       - name: Scrape
         run: |
+          cp catalog/catalog.json .
+          cp semesters/semesters.json .
           make -C $SCRAPER_DIR courses.json
           cp $SCRAPER_DIR/courses.json .
           cp $SCRAPER_DIR/mod.rs .

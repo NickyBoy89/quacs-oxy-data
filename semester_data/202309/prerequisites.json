@@ -5698,7 +5698,7 @@
         "reservedFor": "Transfer"
       },
       {
-        "max": "1",
+        "max": "0",
         "open": "0",
         "reservedFor": "Major"
       }
@@ -8119,7 +8119,7 @@
     "reserved": [
       {
         "max": "1",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Transfer"
       }
     ],
@@ -8720,7 +8720,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "4",
+        "open": "5",
         "reservedFor": "Frosh"
       },
       {
@@ -8753,7 +8753,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "0",
+        "open": "-1",
         "reservedFor": "Frosh"
       },
       {
@@ -13597,7 +13597,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "1",
+        "open": "0",
         "reservedFor": "Frosh"
       }
     ],

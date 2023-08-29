@@ -1017,8 +1017,8 @@
             "credMax": 4,
             "title": "Sculpture Fundamentals",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3000,8 +3000,8 @@
             "credMax": 4,
             "title": "Biochemistry I",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -3088,8 +3088,8 @@
             "credMax": 0,
             "title": "Biochemistry I Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4057,8 +4057,8 @@
             "credMax": 4,
             "title": "Introduction to Chemistry",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -5882,8 +5882,8 @@
             "credMax": 4,
             "title": "Mind, Brain, and Behavior",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6084,8 +6084,8 @@
             "credMax": 2,
             "title": "The State of Science: Integrity, Ethics, and Statistics in Research",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -7349,8 +7349,8 @@
             "credMax": 1,
             "title": "Experiencing the Arts",
             "cap": 99,
-            "act": 15,
-            "rem": 84,
+            "act": 16,
+            "rem": 83,
             "attribute": "",
             "timeslots": [
               {
@@ -7587,8 +7587,8 @@
             "credMax": 4,
             "title": "Introduction to Feminist Studies",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7727,8 +7727,8 @@
             "credMax": 4,
             "title": "Foucault",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -8497,8 +8497,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 32,
-            "act": 28,
-            "rem": 4,
+            "act": 30,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -11511,8 +11511,8 @@
             "credMax": 4,
             "title": "Geographic Information Science I",
             "cap": 24,
-            "act": 10,
-            "rem": 14,
+            "act": 11,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -11572,8 +11572,8 @@
             "credMax": 0,
             "title": "Geographic Information Science I Laboratory",
             "cap": 12,
-            "act": 5,
-            "rem": 7,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -11972,8 +11972,8 @@
             "credMax": 4,
             "title": "Intermediate German",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -12426,8 +12426,8 @@
             "credMax": 4,
             "title": "Topics in History. Russian and Soviet History Since the Nineteenth Century",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13384,8 +13384,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14884,8 +14884,8 @@
             "credMax": 4,
             "title": "The Politics and Poetics of Documentary",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -16810,8 +16810,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -17396,8 +17396,8 @@
             "credMax": 0,
             "title": "Voice (One Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -22215,8 +22215,8 @@
             "credMax": 4,
             "title": "Statistics in Psychological Science",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23076,8 +23076,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -23397,8 +23397,8 @@
             "credMax": 4,
             "title": "Religion, Liberation, and Latin American Social Movements",
             "cap": 20,
-            "act": 15,
-            "rem": 5,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -23639,8 +23639,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24363,8 +24363,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -24546,8 +24546,8 @@
             "credMax": 1,
             "title": "Advanced Conversation I",
             "cap": 99,
-            "act": 9,
-            "rem": 90,
+            "act": 11,
+            "rem": 88,
             "attribute": "",
             "timeslots": [
               {
@@ -24731,8 +24731,8 @@
             "credMax": 4,
             "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -25006,8 +25006,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

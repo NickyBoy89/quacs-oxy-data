@@ -343,8 +343,8 @@
   "COMP 357": {
     "title": "Networking",
     "prereqs": [
-      "COMP  229",
-      "COMP  239"
+      "COMP 229",
+      "COMP 239"
     ]
   },
   "CTSJ 300": {
@@ -711,7 +711,7 @@
     ]
   },
   "HIST 300": {
-    "title": "History Colloquium. Gender and Sexuality in Colonial Latin America",
+    "title": "History Colloquium",
     "prereqs": [
       "HIST 101",
       "HIST 102",
@@ -816,7 +816,7 @@
     "title": "Sport and Exercise Psychology",
     "prereqs": [
       "APPS",
-      "PSYC  101"
+      "PSYC 101"
     ]
   },
   "LATN 102": {
@@ -1380,8 +1380,8 @@
     "title": "Spanish Sociolinguistics",
     "prereqs": [
       "OXSE",
-      "SPAN  202",
-      "SPAN  211"
+      "SPAN 202",
+      "SPAN 211"
     ]
   },
   "SPAN 314": {
@@ -1671,7 +1671,8 @@
       "MATH 124",
       "MATH 128",
       "PHYS 120",
-      "PHYS 125"
+      "PHYS 125",
+      "PHYS 230"
     ]
   },
   "CHEM 315": {
@@ -1756,8 +1757,12 @@
     ]
   },
   "COMP 395": {
-    "title": "Special Topics in Computer Science: Data Mining",
+    "title": "Special Topics in Computer Science",
     "prereqs": [
+      "APCA",
+      "COMP 127",
+      "COMP 131",
+      "COMP 211",
       "COMP 229"
     ]
   },
@@ -1800,7 +1805,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
+    "title": "Special Topics in Critical Theory and Social Justice",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -2102,8 +2107,7 @@
     "title": "Remote Exploration of Earth",
     "prereqs": [
       "GEO 105",
-      "GEO 106",
-      "GEO 150"
+      "GEO 106"
     ]
   },
   "GEO 324": {
@@ -2400,29 +2404,6 @@
       "MATH 212",
       "MATH 214",
       "MATH 340"
-    ]
-  },
-  "MATH 395": {
-    "title": "Special Topics in Advanced Mathematics. History of Mathematics",
-    "prereqs": [
-      "MATH 300",
-      "MATH 310",
-      "MATH 312",
-      "MATH 320",
-      "MATH 322",
-      "MATH 340",
-      "MATH 342",
-      "MATH 350",
-      "MATH 354",
-      "MATH 360",
-      "MATH 362",
-      "MATH 370",
-      "MATH 372",
-      "MATH 380",
-      "MATH 382",
-      "MATH 393",
-      "MATH 396",
-      "MATH 397"
     ]
   },
   "MATH 150": {
@@ -2756,8 +2737,9 @@
   "THEA 410": {
     "title": "Directing",
     "prereqs": [
+      "THEA 101",
       "THEA 120",
-      "THEA 310"
+      "THEA 210"
     ]
   },
   "UEP 265": {
@@ -2788,7 +2770,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar in Art History. Introduction to Curatorial Practice",
+    "title": "Curatorial Seminar in Art History",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -3406,14 +3388,6 @@
       "THEA 134"
     ]
   },
-  "THEA 290": {
-    "title": "Topics in Performance: Generating Independent Theater",
-    "prereqs": [
-      "THEA 210",
-      "THEA 330",
-      "THEA 380"
-    ]
-  },
   "THEA 325": {
     "title": "Lighting Design",
     "prereqs": [
@@ -3646,7 +3620,8 @@
   "COGS 243": {
     "title": "Computational Neuroscience: Minds, Math and Machines",
     "prereqs": [
-      "COGS 101"
+      "COGS 101",
+      "COGS 104"
     ]
   },
   "COMP 317": {
@@ -3821,7 +3796,8 @@
   "MATH 320": {
     "title": "Algebra",
     "prereqs": [
-      "MATH 210"
+      "MATH 210",
+      "OXME"
     ]
   },
   "MAC 355": {
@@ -3864,7 +3840,8 @@
   "MUSC 348": {
     "title": "Mixing and Mastering",
     "prereqs": [
-      "MUSC 247"
+      "MUSC 247",
+      "MUSC 249"
     ]
   },
   "MUSC 351": {
@@ -4396,6 +4373,315 @@
     "title": "Costume Design",
     "prereqs": [
       "THEA 175"
+    ]
+  },
+  "ARAB 202": {
+    "title": "Intermediate Arabic II",
+    "prereqs": [
+      "ARAB 201",
+      "OXAR"
+    ]
+  },
+  "ARTS 212": {
+    "title": "Painting and Identity Construction",
+    "prereqs": [
+      "ARTS 102"
+    ]
+  },
+  "ARTS 283": {
+    "title": "The Photograph as Object",
+    "prereqs": [
+      "ARTS 107"
+    ]
+  },
+  "BIO 340": {
+    "title": "Sensory Biology and Neurophysiology",
+    "prereqs": [
+      "BIO 226",
+      "BIO 240",
+      "BIO 333",
+      "CHEM 301",
+      "COGS 250",
+      "PSYC 312",
+      "PSYC 322",
+      "PSYC 403"
+    ]
+  },
+  "CHEM 305L": {
+    "title": "Spectroscopy and Structure Laboratory",
+    "prereqs": [
+      "CHEM 305"
+    ]
+  },
+  "CHEM 370": {
+    "title": "Organometallic Chemistry",
+    "prereqs": [
+      "CHEM 300",
+      "CHEM 340"
+    ]
+  },
+  "COGS 265": {
+    "title": "Art, Creativity, and Cognition",
+    "prereqs": [
+      "COGS 101"
+    ]
+  },
+  "COMP 353": {
+    "title": "Information Theory",
+    "prereqs": [
+      "COMP 149",
+      "MATH 210",
+      "MATH 214"
+    ]
+  },
+  "COMP 371": {
+    "title": "Mobile Apps",
+    "prereqs": [
+      "APCA",
+      "COMP 131",
+      "COMP 229"
+    ]
+  },
+  "DWA 295": {
+    "title": "Topics in Diplomacy and World Affairs",
+    "prereqs": [
+      "DWA 101",
+      "POLS 101"
+    ]
+  },
+  "DWA 298": {
+    "title": "Interdisciplinary Research Design in World Affairs",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "DWA 360": {
+    "title": "Who Develops? Research and Policy Making in International Development",
+    "prereqs": [
+      "DWA 101"
+    ]
+  },
+  "ECON 307": {
+    "title": "Economic Data Analysis",
+    "prereqs": [
+      "ECON 102"
+    ]
+  },
+  "ECON 330": {
+    "title": "Economics of Education",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "ECON 340": {
+    "title": "Behavioral Economics",
+    "prereqs": [
+      "ECON 250"
+    ]
+  },
+  "EDUC 350": {
+    "title": "Freire, Fanon, and Freedom in Education",
+    "prereqs": [
+      "EDUC 201",
+      "EDUC 205",
+      "EDUC 207",
+      "EDUC 213",
+      "EDUC 215",
+      "EDUC 219",
+      "EDUC 283"
+    ]
+  },
+  "ENGL 314": {
+    "title": "Renaissance Poetry",
+    "prereqs": [
+      "ENGL 241",
+      "ENGL 248",
+      "ENGL 273",
+      "ENGL 274",
+      "ENGL 280",
+      "ENGL 281",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
+    ]
+  },
+  "GEO 210": {
+    "title": "Water in a Changing World",
+    "prereqs": [
+      "GEO 105"
+    ]
+  },
+  "GEO 325": {
+    "title": "Structural Geology",
+    "prereqs": [
+      "GEO 225"
+    ]
+  },
+  "GRK 383": {
+    "title": "Style and Substance: Philosophy and the Arts",
+    "prereqs": [
+      "GRK 102"
+    ]
+  },
+  "HIST 357": {
+    "title": "Environmental History of Mesoamerica",
+    "prereqs": [
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "POLS 210",
+      "UEP 101"
+    ]
+  },
+  "JAPN 340": {
+    "title": "Language in News Media and Advertising",
+    "prereqs": [
+      "JAPN 302",
+      "OXJA"
+    ]
+  },
+  "LATN 348": {
+    "title": "Defending the Republic: The Literature of Constitutional Crises, from Cicero to Adams",
+    "prereqs": [
+      "LATN 201"
+    ]
+  },
+  "LLAS 357": {
+    "title": "Environmental History of Mesoamerica",
+    "prereqs": [
+      "HIST 150",
+      "HIST 151",
+      "LLAS 101",
+      "POLS 210",
+      "UEP 101"
+    ]
+  },
+  "LING 351": {
+    "title": "Phonetics",
+    "prereqs": [
+      "LING 301"
+    ]
+  },
+  "MATH 274": {
+    "title": "Computational Mathematics I",
+    "prereqs": [
+      "MATH 214"
+    ]
+  },
+  "MATH 312": {
+    "title": "Complex Analysis",
+    "prereqs": [
+      "MATH 212"
+    ]
+  },
+  "MATH 332": {
+    "title": "Mathematical Statistics",
+    "prereqs": [
+      "MATH 330"
+    ]
+  },
+  "MUSC 246": {
+    "title": "Live Sound Engineering",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 248": {
+    "title": "Advanced Production: Sampling and Synthesis",
+    "prereqs": [
+      "MUSC 148",
+      "MUSC 151"
+    ]
+  },
+  "PHIL 251": {
+    "title": "Logic, Problem Solving, and Education",
+    "prereqs": [
+      "PHIL 150"
+    ]
+  },
+  "POLS 201": {
+    "title": "California State Government and Politics",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 248": {
+    "title": "Moot Court II",
+    "prereqs": [
+      "POLS 246"
+    ]
+  },
+  "POLS 305": {
+    "title": "U.S. Public Policy",
+    "prereqs": [
+      "POLS 101"
+    ]
+  },
+  "POLS 351": {
+    "title": "Democracy and Its Critics: Tocqueville, Mill, and Nietzsche",
+    "prereqs": [
+      "POLS 150"
+    ]
+  },
+  "PSYC 311": {
+    "title": "Sport and Exercise Psychology",
+    "prereqs": [
+      "APPS",
+      "PSYC 101"
+    ]
+  },
+  "PSYC 490": {
+    "title": "Contemporary Topics Seminar: Canine Cognition",
+    "prereqs": [
+      "PSYC 200",
+      "PSYC 321",
+      "PSYC 340"
+    ]
+  },
+  "RUSN 337": {
+    "title": "The Novel as Philosophy: Recollecting Lost Time",
+    "prereqs": [
+      "OXRU",
+      "RUSN 202"
+    ]
+  },
+  "SOC 285": {
+    "title": "Environmental Sociology",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SOC 390": {
+    "title": "Sociology of Religion",
+    "prereqs": [
+      "OXSO",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 372": {
+    "title": "Port Cities: Latin American Narratives, Connections and (Dis)Encounters",
+    "prereqs": [
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "SPAN 380": {
+    "title": "Latinx Storytelling: Identity, Race, and Gender in the Latin American Diaspora",
+    "prereqs": [
+      "SPAN 202",
+      "SPAN 211"
+    ]
+  },
+  "THEA 320": {
+    "title": "Advanced Technical Theater",
+    "prereqs": [
+      "THEA 120"
     ]
   }
 }

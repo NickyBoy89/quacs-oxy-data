@@ -102,6 +102,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: semesters
+          path: "./semesters"
       - name: Scrape
         run: |
           cp semesters/semesters.json .
@@ -137,10 +138,9 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: semesters
+          path: "./semesters"
       - name: Scrape
         run: |
-          pwd
-          ls
           cp semesters/semesters.json .
           make -C $SCRAPER_DIR prerequisites.json
           cp $SCRAPER_DIR/prerequisites.json .
@@ -173,6 +173,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: semesters
+          path: "./semesters"
       - name: Scrape
         run: |
           cp semesters/semesters.json .
@@ -210,10 +211,12 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: semesters
+          path: "./semesters"
       - name: Get more data
         uses: actions/download-artifact@v3
         with:
           name: catalog
+          path: "./catalog"
       - name: Scrape
         run: |
           cp catalog/catalog.json .

@@ -5275,6 +5275,36 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Advanced Research in Cognitive Science",
+        "subj": "COGS",
+        "crse": "495",
+        "id": "COGS-495",
+        "sections": [
+          {
+            "crn": 2877,
+            "subj": "COGS",
+            "crse": "495",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Advanced Research in Cognitive Science",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -7393,7 +7423,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "ShahBano Ijaz",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -9899,8 +9929,8 @@
                 ],
                 "instructor": "ShahBano Ijaz",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22332,7 +22362,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Conrad Jacober",
                 "location": "",
                 "timeStart": 1605,
                 "timeEnd": 1730,
@@ -24297,9 +24327,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
-                "instructor": "Instructor Unassigned",
+                "days": [
+                  "M"
+                ],
+                "instructor": "Michael John Bonin",
                 "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

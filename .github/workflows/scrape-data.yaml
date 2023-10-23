@@ -139,6 +139,8 @@ jobs:
           name: semesters
       - name: Scrape
         run: |
+          pwd
+          ls
           cp semesters/semesters.json .
           make -C $SCRAPER_DIR prerequisites.json
           cp $SCRAPER_DIR/prerequisites.json .

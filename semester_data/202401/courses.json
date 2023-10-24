@@ -4516,12 +4516,12 @@
             "timeslots": [
               {
                 "days": [
-                  "W"
+                  "R"
                 ],
                 "instructor": "Emmanuelle Despagnet-Ayoub",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -4549,9 +4549,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "T"
+                ],
                 "instructor": "Raul Navarro",
                 "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -10868,8 +10872,8 @@
             "subj": "GEO",
             "crse": "325L",
             "sec": "00",
-            "credMin": 1,
-            "credMax": 1,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Structural Geology Laboratory",
             "cap": 16,
             "act": 0,
@@ -24093,8 +24097,8 @@
                 ],
                 "instructor": "Will Power",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1235,
+                "timeStart": 1250,
+                "timeEnd": 1450,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24229,40 +24233,6 @@
                   "W"
                 ],
                 "instructor": "Alicia Ortencia Carranza",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The State of Public Education: The Politics of Access and Equity in Los Angeles",
-        "subj": "UEP",
-        "crse": "214",
-        "id": "UEP-214",
-        "sections": [
-          {
-            "crn": 2360,
-            "subj": "UEP",
-            "crse": "214",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The State of Public Education: The Politics of Access and Equity in Los Angeles",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Steven J. Zimmer",
                 "location": "",
                 "timeStart": 1915,
                 "timeEnd": 2210,

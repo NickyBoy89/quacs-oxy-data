@@ -1762,48 +1762,6 @@
       }
     }
   },
-  "2085": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "COMP 127",
-          "type": "course"
-        },
-        {
-          "course": "COMP 131",
-          "type": "course"
-        },
-        {
-          "course": "COMP 211",
-          "type": "course"
-        },
-        {
-          "course": "COMP 229",
-          "type": "course"
-        },
-        {
-          "course": "APCA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "reserved": [
-      {
-        "max": "20",
-        "open": "20",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2087": {
     "restrictions": {
       "classification": {
@@ -6231,9 +6189,6 @@
     }
   },
   "2271": {
-    "corequisites": [
-      "BIO-345L"
-    ],
     "prerequisites": {
       "nested": [
         {
@@ -6260,32 +6215,6 @@
       ],
       "type": "and"
     },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2272": {
-    "corequisites": [
-      "BIO-345"
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2273": {
-    "corequisites": [
-      "BIO-345"
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16210,6 +16139,15 @@
         "may_not_be": [
           "Graduate",
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2878": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

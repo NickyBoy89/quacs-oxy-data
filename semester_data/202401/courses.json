@@ -6066,7 +6066,7 @@
         ]
       },
       {
-        "title": "Topics in Computer Science",
+        "title": "Topics in Computer Science. Automation: Politics and Aesthetics",
         "subj": "COMP",
         "crse": "295",
         "id": "COMP-295",
@@ -6078,7 +6078,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Computer Science",
+            "title": "Topics in Computer Science. Automation: Politics and Aesthetics",
             "cap": 24,
             "act": 0,
             "rem": 24,
@@ -6089,7 +6089,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Brian Patrick Bartell",
                 "location": "",
                 "timeStart": 1605,
                 "timeEnd": 1730,
@@ -7439,7 +7439,7 @@
                 "instructor": "Madeline Baer",
                 "location": "",
                 "timeStart": 1505,
-                "timeEnd": 1640,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -7465,7 +7465,7 @@
                 "instructor": "Anthony Chase",
                 "location": "",
                 "timeStart": 1505,
-                "timeEnd": 1640,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -7491,7 +7491,7 @@
                 "instructor": "Laura Hebert",
                 "location": "",
                 "timeStart": 1505,
-                "timeEnd": 1640,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12854,7 +12854,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Jeffrey S. Miller",
+                "instructor": "Donald D Lawrence",
                 "location": "",
                 "timeStart": 1250,
                 "timeEnd": 1345,
@@ -12891,7 +12891,7 @@
                 "instructor": "Jeffrey S. Miller",
                 "location": "",
                 "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -12914,10 +12914,10 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Donald D Lawrence",
                 "location": "",
                 "timeStart": 1505,
-                "timeEnd": 1640,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -13180,7 +13180,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Tamas Lengyel",
+                "instructor": "Jeffrey S. Miller",
                 "location": "",
                 "timeStart": 1250,
                 "timeEnd": 1345,
@@ -14707,7 +14707,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Ramona Maia Gonzalez",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -14734,7 +14734,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Ramona Maia Gonzalez",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
@@ -19869,8 +19869,8 @@
                 ],
                 "instructor": "Sabrina Stierwalt",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
+                "timeStart": 1500,
+                "timeEnd": 1625,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

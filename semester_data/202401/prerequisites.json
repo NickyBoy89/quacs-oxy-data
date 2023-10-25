@@ -14200,26 +14200,8 @@
   },
   "2745": {
     "prerequisites": {
-      "nested": [
-        {
-          "course": "PSYC 200",
-          "type": "course"
-        },
-        {
-          "nested": [
-            {
-              "course": "PSYC 321",
-              "type": "course"
-            },
-            {
-              "course": "PSYC 340",
-              "type": "course"
-            }
-          ],
-          "type": "or"
-        }
-      ],
-      "type": "and"
+      "course": "PSYC 200",
+      "type": "course"
     },
     "reserved": [
       {

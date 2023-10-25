@@ -2183,70 +2183,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Karen Marie Molinder",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Virology Laboratory",
-        "subj": "BIO",
-        "crse": "345L",
-        "id": "BIO-345L",
-        "sections": [
-          {
-            "crn": 2272,
-            "subj": "BIO",
-            "crse": "345L",
-            "sec": "01",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Virology Laboratory",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Karen Marie Molinder",
-                "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1650,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2273,
-            "subj": "BIO",
-            "crse": "345L",
-            "sec": "02",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Virology Laboratory",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Karen Marie Molinder",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -6090,6 +6030,42 @@
         ]
       },
       {
+        "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+        "subj": "COMP",
+        "crse": "271",
+        "id": "COMP-271",
+        "sections": [
+          {
+            "crn": 2878,
+            "subj": "COMP",
+            "crse": "271",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Teddy Pozo",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Topics in Computer Science",
         "subj": "COMP",
         "crse": "295",
@@ -6321,42 +6297,6 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Special Topics in Computer Science",
-        "subj": "COMP",
-        "crse": "395",
-        "id": "COMP-395",
-        "sections": [
-          {
-            "crn": 2085,
-            "subj": "COMP",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Computer Science",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Teddy Pozo",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24278,7 +24218,7 @@
         ]
       },
       {
-        "title": "Topics in Urban and Environmental Policy",
+        "title": "Topics in UEP. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
         "subj": "UEP",
         "crse": "295",
         "id": "UEP-295",
@@ -24290,7 +24230,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Urban and Environmental Policy",
+            "title": "Topics in UEP. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
             "cap": 25,
             "act": 0,
             "rem": 25,

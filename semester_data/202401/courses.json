@@ -2290,6 +2290,102 @@
         ]
       },
       {
+        "title": "Global Change Biology",
+        "subj": "BIO",
+        "crse": "372",
+        "id": "BIO-372",
+        "sections": [
+          {
+            "crn": 2879,
+            "subj": "BIO",
+            "crse": "372",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Global Change Biology",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexandria Lynn Pivovaroff",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Global Change Biology Laboratory",
+        "subj": "BIO",
+        "crse": "372L",
+        "id": "BIO-372L",
+        "sections": [
+          {
+            "crn": 2880,
+            "subj": "BIO",
+            "crse": "372L",
+            "sec": "01",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Global Change Biology Laboratory",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "Alexandria Lynn Pivovaroff",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2881,
+            "subj": "BIO",
+            "crse": "372L",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Global Change Biology Laboratory",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Alexandria Lynn Pivovaroff",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Computational Biology",
         "subj": "BIO",
         "crse": "373",
@@ -6974,33 +7070,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2103,
-            "subj": "DWA",
-            "crse": "101",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "International Relations: The Changing Rules of the Game",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Lan Chu",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -11552,7 +11621,7 @@
         ]
       },
       {
-        "title": "Topic: Urban History of Paris",
+        "title": "Topics in History. City of Lights: A Global and Spatial Urban History of Paris",
         "subj": "HIST",
         "crse": "295",
         "id": "HIST-295",
@@ -11564,7 +11633,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic: Urban History of Paris",
+            "title": "Topics in History. City of Lights: A Global and Spatial Urban History of Paris",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -13888,6 +13957,42 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+        "subj": "MAC",
+        "crse": "271",
+        "id": "MAC-271",
+        "sections": [
+          {
+            "crn": 2882,
+            "subj": "MAC",
+            "crse": "271",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Teddy Pozo",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19538,6 +19643,890 @@
                   "F"
                 ],
                 "instructor": "Jack George Stabenfeldt",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Baseball",
+        "subj": "PHAC",
+        "crse": "211",
+        "id": "PHAC-211",
+        "sections": [
+          {
+            "crn": 2883,
+            "subj": "PHAC",
+            "crse": "211",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Baseball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Luker Austin Wetmore",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2884,
+            "subj": "PHAC",
+            "crse": "211",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Baseball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Luker Austin Wetmore",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Women's Basketball",
+        "subj": "PHAC",
+        "crse": "212",
+        "id": "PHAC-212",
+        "sections": [
+          {
+            "crn": 2885,
+            "subj": "PHAC",
+            "crse": "212",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Women's Basketball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Anahit Aladzhanyan",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2886,
+            "subj": "PHAC",
+            "crse": "212",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Women's Basketball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Anahit Aladzhanyan",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Men's Basketball",
+        "subj": "PHAC",
+        "crse": "213",
+        "id": "PHAC-213",
+        "sections": [
+          {
+            "crn": 2887,
+            "subj": "PHAC",
+            "crse": "213",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Men's Basketball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Brian Y. Newhall",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2888,
+            "subj": "PHAC",
+            "crse": "213",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Men's Basketball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Brian Y. Newhall",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Women's Golf",
+        "subj": "PHAC",
+        "crse": "214",
+        "id": "PHAC-214",
+        "sections": [
+          {
+            "crn": 2889,
+            "subj": "PHAC",
+            "crse": "214",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Women's Golf",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2890,
+            "subj": "PHAC",
+            "crse": "214",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Women's Golf",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Men's Golf",
+        "subj": "PHAC",
+        "crse": "215",
+        "id": "PHAC-215",
+        "sections": [
+          {
+            "crn": 2891,
+            "subj": "PHAC",
+            "crse": "215",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Men's Golf",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2892,
+            "subj": "PHAC",
+            "crse": "215",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Men's Golf",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Lacrosse",
+        "subj": "PHAC",
+        "crse": "216",
+        "id": "PHAC-216",
+        "sections": [
+          {
+            "crn": 2893,
+            "subj": "PHAC",
+            "crse": "216",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Lacrosse",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2894,
+            "subj": "PHAC",
+            "crse": "216",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Lacrosse",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Men's Swimming and Diving",
+        "subj": "PHAC",
+        "crse": "217",
+        "id": "PHAC-217",
+        "sections": [
+          {
+            "crn": 2895,
+            "subj": "PHAC",
+            "crse": "217",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Men's Swimming and Diving",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2896,
+            "subj": "PHAC",
+            "crse": "217",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Men's Swimming and Diving",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Softball",
+        "subj": "PHAC",
+        "crse": "218",
+        "id": "PHAC-218",
+        "sections": [
+          {
+            "crn": 2897,
+            "subj": "PHAC",
+            "crse": "218",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Softball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2898,
+            "subj": "PHAC",
+            "crse": "218",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Softball",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Men's Tennis",
+        "subj": "PHAC",
+        "crse": "219",
+        "id": "PHAC-219",
+        "sections": [
+          {
+            "crn": 2899,
+            "subj": "PHAC",
+            "crse": "219",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Men's Tennis",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Stephen Murray Perkins",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2900,
+            "subj": "PHAC",
+            "crse": "219",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Men's Tennis",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Stephen Murray Perkins",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Women's Swimming and Diving",
+        "subj": "PHAC",
+        "crse": "220",
+        "id": "PHAC-220",
+        "sections": [
+          {
+            "crn": 2901,
+            "subj": "PHAC",
+            "crse": "220",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Women's Swimming and Diving",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2902,
+            "subj": "PHAC",
+            "crse": "220",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Women's Swimming and Diving",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Men's Track and Field",
+        "subj": "PHAC",
+        "crse": "221",
+        "id": "PHAC-221",
+        "sections": [
+          {
+            "crn": 2903,
+            "subj": "PHAC",
+            "crse": "221",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Men's Track and Field",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Robert John Bartlett",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2904,
+            "subj": "PHAC",
+            "crse": "221",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Men's Track and Field",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Robert John Bartlett",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Women's Tennis",
+        "subj": "PHAC",
+        "crse": "222",
+        "id": "PHAC-222",
+        "sections": [
+          {
+            "crn": 2905,
+            "subj": "PHAC",
+            "crse": "222",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Women's Tennis",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Stephen Murray Perkins",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2906,
+            "subj": "PHAC",
+            "crse": "222",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Women's Tennis",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Stephen Murray Perkins",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Intercollegiate Women's Track and Field",
+        "subj": "PHAC",
+        "crse": "224",
+        "id": "PHAC-224",
+        "sections": [
+          {
+            "crn": 2907,
+            "subj": "PHAC",
+            "crse": "224",
+            "sec": "01",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intercollegiate Women's Track and Field",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Robert John Bartlett",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2908,
+            "subj": "PHAC",
+            "crse": "224",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Intercollegiate Women's Track and Field",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "T",
+                  "W",
+                  "R",
+                  "F"
+                ],
+                "instructor": "Robert John Bartlett",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,

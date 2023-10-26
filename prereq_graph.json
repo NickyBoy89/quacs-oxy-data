@@ -4403,6 +4403,24 @@
       "PSYC 403"
     ]
   },
+  "BIO 372": {
+    "title": "Global Change Biology",
+    "prereqs": [
+      "BIO 105",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
+  "BIO 372L": {
+    "title": "Global Change Biology Laboratory",
+    "prereqs": [
+      "BIO 105",
+      "BIO 110",
+      "BIO 115",
+      "BIO 130"
+    ]
+  },
   "CHEM 305L": {
     "title": "Spectroscopy and Structure Laboratory",
     "prereqs": [

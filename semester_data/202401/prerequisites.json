@@ -1824,17 +1824,6 @@
       }
     }
   },
-  "2103": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Senior",
-          "Junior"
-        ]
-      }
-    }
-  },
   "2104": {
     "prerequisites": {
       "course": "DWA 101",
@@ -16126,6 +16115,351 @@
     }
   },
   "2878": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2879": {
+    "corequisites": [
+      "BIO-372L"
+    ],
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 105",
+          "type": "course"
+        },
+        {
+          "course": "BIO 110",
+          "type": "course"
+        },
+        {
+          "course": "BIO 115",
+          "type": "course"
+        },
+        {
+          "course": "BIO 130",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2880": {
+    "corequisites": [
+      "BIO-372"
+    ],
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 105",
+          "type": "course"
+        },
+        {
+          "course": "BIO 110",
+          "type": "course"
+        },
+        {
+          "course": "BIO 115",
+          "type": "course"
+        },
+        {
+          "course": "BIO 130",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2881": {
+    "corequisites": [
+      "BIO-372"
+    ],
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "BIO 105",
+          "type": "course"
+        },
+        {
+          "course": "BIO 110",
+          "type": "course"
+        },
+        {
+          "course": "BIO 115",
+          "type": "course"
+        },
+        {
+          "course": "BIO 130",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2882": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2883": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2884": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2885": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2886": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2887": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2888": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2889": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2890": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2891": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2892": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2893": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2894": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2895": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2896": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2897": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2898": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2899": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2900": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2901": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2902": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2903": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2904": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2905": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2906": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2907": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2908": {
     "restrictions": {
       "classification": {
         "may_not_be": [

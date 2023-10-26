@@ -7461,9 +7461,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Task Force in Diplomacy and World Affairs",
-            "cap": 25,
+            "cap": 12,
             "act": 0,
-            "rem": 25,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -8523,7 +8523,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Eun Joo Paik",
                 "location": "",
                 "timeStart": 1700,
                 "timeEnd": 1825,
@@ -8843,7 +8843,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Zachary Michael Mann",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -18824,6 +18824,42 @@
         ]
       },
       {
+        "title": "Medieval Arabic-Islamic Philosophy",
+        "subj": "PHIL",
+        "crse": "213",
+        "id": "PHIL-213",
+        "sections": [
+          {
+            "crn": 2909,
+            "subj": "PHIL",
+            "crse": "213",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Medieval Arabic-Islamic Philosophy",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Milo Jon-Christopher Crimi",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1555,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Knowledge and Power",
         "subj": "PHIL",
         "crse": "222",
@@ -18852,6 +18888,41 @@
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Philosophy and the Black Church",
+        "subj": "PHIL",
+        "crse": "224",
+        "id": "PHIL-224",
+        "sections": [
+          {
+            "crn": 2910,
+            "subj": "PHIL",
+            "crse": "224",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Philosophy and the Black Church",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Ryan Preston-Roedder",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -18895,19 +18966,19 @@
         ]
       },
       {
-        "title": "Logic, Problem Solving, and Education",
+        "title": "Intermediate Formal Logic",
         "subj": "PHIL",
-        "crse": "251",
-        "id": "PHIL-251",
+        "crse": "252",
+        "id": "PHIL-252",
         "sections": [
           {
-            "crn": 2205,
+            "crn": 2911,
             "subj": "PHIL",
-            "crse": "251",
+            "crse": "252",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Logic, Problem Solving, and Education",
+            "title": "Intermediate Formal Logic",
             "cap": 25,
             "act": 0,
             "rem": 25,
@@ -18959,77 +19030,6 @@
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Philosophy of James Baldwin",
-        "subj": "PHIL",
-        "crse": "321",
-        "id": "PHIL-321",
-        "sections": [
-          {
-            "crn": 2208,
-            "subj": "PHIL",
-            "crse": "321",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Philosophy of James Baldwin",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Ryan Preston-Roedder",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Logic, Language, and Knowledge in Medieval Arabic-Islamic Philosophy",
-        "subj": "PHIL",
-        "crse": "323",
-        "id": "PHIL-323",
-        "sections": [
-          {
-            "crn": 2209,
-            "subj": "PHIL",
-            "crse": "323",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Logic, Language, and Knowledge in Medieval Arabic-Islamic Philosophy",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Milo Jon-Christopher Crimi",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -20853,8 +20853,7 @@
               {
                 "days": [
                   "M",
-                  "W",
-                  "F"
+                  "W"
                 ],
                 "instructor": "Sabrina Stierwalt",
                 "location": "",
@@ -21058,15 +21057,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
+                "days": [],
                 "instructor": "Daniel P. Snowden-Ifft",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

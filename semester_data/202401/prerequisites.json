@@ -4895,26 +4895,7 @@
       }
     }
   },
-  "2205": {
-    "prerequisites": {
-      "course": "PHIL 150",
-      "type": "course"
-    },
-    "reserved": [
-      {
-        "max": "5",
-        "open": "5",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
+  "2205": {},
   "2207": {
     "reserved": [
       {
@@ -4932,23 +4913,7 @@
       }
     }
   },
-  "2208": {
-    "reserved": [
-      {
-        "max": "5",
-        "open": "5",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
+  "2208": {},
   "2209": {
     "reserved": [
       {

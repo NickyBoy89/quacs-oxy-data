@@ -4895,26 +4895,7 @@
       }
     }
   },
-  "2205": {},
   "2207": {
-    "reserved": [
-      {
-        "max": "5",
-        "open": "5",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2208": {},
-  "2209": {
     "reserved": [
       {
         "max": "5",
@@ -16425,6 +16406,58 @@
     }
   },
   "2908": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2909": {
+    "reserved": [
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2910": {
+    "reserved": [
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2911": {
+    "prerequisites": {
+      "course": "PHIL 150",
+      "type": "course"
+    },
+    "reserved": [
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [

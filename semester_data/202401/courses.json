@@ -18714,6 +18714,942 @@
     ]
   },
   {
+    "name": "Occidental-in-Argentina",
+    "code": "ABAR",
+    "courses": [
+      {
+        "title": "Occidental-in-Argentina",
+        "subj": "ABAR",
+        "crse": "302",
+        "id": "ABAR-302",
+        "sections": [
+          {
+            "crn": 2912,
+            "subj": "ABAR",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Argentina",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Australia",
+    "code": "ABAU",
+    "courses": [
+      {
+        "title": "Occidental-in-Australia",
+        "subj": "ABAU",
+        "crse": "302",
+        "id": "ABAU-302",
+        "sections": [
+          {
+            "crn": 2914,
+            "subj": "ABAU",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Australia",
+            "cap": 4,
+            "act": 0,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Austria",
+    "code": "ABAS",
+    "courses": [
+      {
+        "title": "Occidental-in-Austria",
+        "subj": "ABAS",
+        "crse": "302",
+        "id": "ABAS-302",
+        "sections": [
+          {
+            "crn": 2913,
+            "subj": "ABAS",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Austria",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Botswana",
+    "code": "ABBW",
+    "courses": [
+      {
+        "title": "Occidental-in-Botswana",
+        "subj": "ABBW",
+        "crse": "302",
+        "id": "ABBW-302",
+        "sections": [
+          {
+            "crn": 2915,
+            "subj": "ABBW",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Botswana",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Chile",
+    "code": "ABCI",
+    "courses": [
+      {
+        "title": "Occidental-in-Chile",
+        "subj": "ABCI",
+        "crse": "302",
+        "id": "ABCI-302",
+        "sections": [
+          {
+            "crn": 2917,
+            "subj": "ABCI",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Chile",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-China",
+    "code": "ABCH",
+    "courses": [
+      {
+        "title": "Occidental-in-China",
+        "subj": "ABCH",
+        "crse": "302",
+        "id": "ABCH-302",
+        "sections": [
+          {
+            "crn": 2916,
+            "subj": "ABCH",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-China",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Ecuador",
+    "code": "ABEC",
+    "courses": [
+      {
+        "title": "Occidental-in-Ecuador",
+        "subj": "ABEC",
+        "crse": "302",
+        "id": "ABEC-302",
+        "sections": [
+          {
+            "crn": 2918,
+            "subj": "ABEC",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Ecuador",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-England",
+    "code": "ABEN",
+    "courses": [
+      {
+        "title": "Occidental-in-England",
+        "subj": "ABEN",
+        "crse": "302",
+        "id": "ABEN-302",
+        "sections": [
+          {
+            "crn": 2919,
+            "subj": "ABEN",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-England",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-France",
+    "code": "ABFR",
+    "courses": [
+      {
+        "title": "Occidental-in-France",
+        "subj": "ABFR",
+        "crse": "302",
+        "id": "ABFR-302",
+        "sections": [
+          {
+            "crn": 2920,
+            "subj": "ABFR",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-France",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Germany",
+    "code": "ABGE",
+    "courses": [
+      {
+        "title": "Occidental-in-Germany",
+        "subj": "ABGE",
+        "crse": "302",
+        "id": "ABGE-302",
+        "sections": [
+          {
+            "crn": 2921,
+            "subj": "ABGE",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Germany",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Hungary",
+    "code": "ABHU",
+    "courses": [
+      {
+        "title": "Occidental-in-Hungary",
+        "subj": "ABHU",
+        "crse": "302",
+        "id": "ABHU-302",
+        "sections": [
+          {
+            "crn": 2922,
+            "subj": "ABHU",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Hungary",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Indonesia",
+    "code": "ABID",
+    "courses": [
+      {
+        "title": "Occidental-in-Indonesia",
+        "subj": "ABID",
+        "crse": "302",
+        "id": "ABID-302",
+        "sections": [
+          {
+            "crn": 2923,
+            "subj": "ABID",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Indonesia",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Italy",
+    "code": "ABIT",
+    "courses": [
+      {
+        "title": "Occidental-in-Italy",
+        "subj": "ABIT",
+        "crse": "302",
+        "id": "ABIT-302",
+        "sections": [
+          {
+            "crn": 2924,
+            "subj": "ABIT",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Italy",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Japan",
+    "code": "ABJA",
+    "courses": [
+      {
+        "title": "Occidental-in-Japan",
+        "subj": "ABJA",
+        "crse": "302",
+        "id": "ABJA-302",
+        "sections": [
+          {
+            "crn": 2925,
+            "subj": "ABJA",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Japan",
+            "cap": 4,
+            "act": 0,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Jordan",
+    "code": "ABJO",
+    "courses": [
+      {
+        "title": "Occidental-in-Jordan",
+        "subj": "ABJO",
+        "crse": "302",
+        "id": "ABJO-302",
+        "sections": [
+          {
+            "crn": 2926,
+            "subj": "ABJO",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Jordan",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Mexico",
+    "code": "ABME",
+    "courses": [
+      {
+        "title": "Occidental-in-Mexico",
+        "subj": "ABME",
+        "crse": "302",
+        "id": "ABME-302",
+        "sections": [
+          {
+            "crn": 2927,
+            "subj": "ABME",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Mexico",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Nepal",
+    "code": "ABNE",
+    "courses": [
+      {
+        "title": "Occidental-in-Nepal",
+        "subj": "ABNE",
+        "crse": "302",
+        "id": "ABNE-302",
+        "sections": [
+          {
+            "crn": 2928,
+            "subj": "ABNE",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Nepal",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-New Zealand",
+    "code": "ABNZ",
+    "courses": [
+      {
+        "title": "Occidental-in-New Zealand",
+        "subj": "ABNZ",
+        "crse": "302",
+        "id": "ABNZ-302",
+        "sections": [
+          {
+            "crn": 2930,
+            "subj": "ABNZ",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-New Zealand",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Rwanda",
+    "code": "ABRW",
+    "courses": [
+      {
+        "title": "Occidental-in-Rwanda",
+        "subj": "ABRW",
+        "crse": "302",
+        "id": "ABRW-302",
+        "sections": [
+          {
+            "crn": 2931,
+            "subj": "ABRW",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Rwanda",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Serbia",
+    "code": "ABSR",
+    "courses": [
+      {
+        "title": "Occidental-in-Serbia",
+        "subj": "ABSR",
+        "crse": "302",
+        "id": "ABSR-302",
+        "sections": [
+          {
+            "crn": 2935,
+            "subj": "ABSR",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Serbia",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-South Africa",
+    "code": "ABSA",
+    "courses": [
+      {
+        "title": "Occidental-in-South Africa",
+        "subj": "ABSA",
+        "crse": "302",
+        "id": "ABSA-302",
+        "sections": [
+          {
+            "crn": 2932,
+            "subj": "ABSA",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-South Africa",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-South Korea",
+    "code": "ABSK",
+    "courses": [
+      {
+        "title": "Occidental-in-South Korea",
+        "subj": "ABSK",
+        "crse": "302",
+        "id": "ABSK-302",
+        "sections": [
+          {
+            "crn": 2933,
+            "subj": "ABSK",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-South Korea",
+            "cap": 3,
+            "act": 0,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Spain",
+    "code": "ABSP",
+    "courses": [
+      {
+        "title": "Occidental-in-Spain",
+        "subj": "ABSP",
+        "crse": "302",
+        "id": "ABSP-302",
+        "sections": [
+          {
+            "crn": 2934,
+            "subj": "ABSP",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Spain",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Tunisia",
+    "code": "ABTS",
+    "courses": [
+      {
+        "title": "Occidental-in-Tunisia",
+        "subj": "ABTS",
+        "crse": "302",
+        "id": "ABTS-302",
+        "sections": [
+          {
+            "crn": 2936,
+            "subj": "ABTS",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Tunisia",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-Viet Nam",
+    "code": "ABVN",
+    "courses": [
+      {
+        "title": "Occidental-in-Vietnam",
+        "subj": "ABVN",
+        "crse": "302",
+        "id": "ABVN-302",
+        "sections": [
+          {
+            "crn": 2937,
+            "subj": "ABVN",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-Vietnam",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Occidental-in-the-Netherlands",
+    "code": "ABNT",
+    "courses": [
+      {
+        "title": "Occidental-in-the-Netherlands",
+        "subj": "ABNT",
+        "crse": "302",
+        "id": "ABNT-302",
+        "sections": [
+          {
+            "crn": 2929,
+            "subj": "ABNT",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-the-Netherlands",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Philosophy",
     "code": "PHIL",
     "courses": [

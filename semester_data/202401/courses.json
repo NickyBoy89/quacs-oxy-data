@@ -88,8 +88,8 @@
             "credMax": 4,
             "title": "The United States and East Asia",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -761,14 +761,9 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [
-                  "T",
-                  "R"
-                ],
+                "days": [],
                 "instructor": "Yurika Wakamatsu",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -902,8 +897,8 @@
             "credMax": 4,
             "title": "Intermediate Painting",
             "cap": 15,
-            "act": 4,
-            "rem": 11,
+            "act": 3,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -1337,8 +1332,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 22,
-            "rem": 10,
+            "act": 23,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -1364,8 +1359,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -2056,6 +2051,40 @@
                 "location": "",
                 "timeStart": 1140,
                 "timeEnd": 1305,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Huntington-Occidental Pre-med Program (HOPP)",
+        "subj": "BIO",
+        "crse": "298",
+        "id": "BIO-298",
+        "sections": [
+          {
+            "crn": 2938,
+            "subj": "BIO",
+            "crse": "298",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Huntington-Occidental Pre-med Program (HOPP)",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Miao Wang",
+                "location": "",
+                "timeStart": 1900,
+                "timeEnd": 2000,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -3142,8 +3171,8 @@
             "credMax": 4,
             "title": "Introduction to Black Studies",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 6,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -3177,8 +3206,8 @@
             "credMax": 4,
             "title": "Black Britain",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -3688,8 +3717,8 @@
             "credMax": 4,
             "title": "Organic Chemistry I",
             "cap": 20,
-            "act": 8,
-            "rem": 12,
+            "act": 9,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -3752,8 +3781,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 14,
-            "act": 5,
-            "rem": 9,
+            "act": 6,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -4460,8 +4489,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -4512,8 +4541,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 0,
-            "rem": 10,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -4929,8 +4958,8 @@
             "credMax": 4,
             "title": "Introduction to Cognitive Science",
             "cap": 45,
-            "act": 8,
-            "rem": 37,
+            "act": 9,
+            "rem": 36,
             "attribute": "",
             "timeslots": [
               {
@@ -5165,8 +5194,8 @@
             "credMax": 4,
             "title": "Brain Plasticity",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -5201,8 +5230,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -5237,8 +5266,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5367,8 +5396,8 @@
             "credMax": 4,
             "title": "Grim Tales: The Fairy Tales of the Brothers Grimm",
             "cap": 32,
-            "act": 10,
-            "rem": 22,
+            "act": 11,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -5535,8 +5564,8 @@
             "credMax": 4,
             "title": "Style and \"Substance\": Philosophy and the Arts",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -5570,8 +5599,8 @@
             "credMax": 4,
             "title": "Contemporary Theory and Literature",
             "cap": 12,
-            "act": 0,
-            "rem": 12,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -6421,8 +6450,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -6515,8 +6544,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -6662,8 +6691,8 @@
             "credMax": 4,
             "title": "Technologies of Resistance in the Middle East and North Africa",
             "cap": 30,
-            "act": 5,
-            "rem": 25,
+            "act": 4,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -6803,8 +6832,8 @@
             "credMax": 4,
             "title": "Somebody?s Watching Me: Everything You Wanted to Know About Conspiracy Theories/Were Afraid to Ask",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -7088,8 +7117,8 @@
             "credMax": 4,
             "title": "International Organizations",
             "cap": 25,
-            "act": 6,
-            "rem": 19,
+            "act": 7,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -7220,8 +7249,8 @@
             "credMax": 4,
             "title": "The United States and East Asia",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -7255,8 +7284,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 1,
-            "rem": 24,
+            "act": 2,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -7589,8 +7618,8 @@
             "credMax": 4,
             "title": "Principles of Economics I",
             "cap": 30,
-            "act": 11,
-            "rem": 19,
+            "act": 12,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -7749,8 +7778,8 @@
             "credMax": 4,
             "title": "Intermediate Microeconomic Theory",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -7900,8 +7929,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -7999,8 +8028,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 0,
-            "rem": 18,
+            "act": 1,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -8026,8 +8055,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 1,
-            "rem": 17,
+            "act": 2,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -8061,8 +8090,8 @@
             "credMax": 4,
             "title": "Free Market Economics: The Austrian Perspective",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -8618,8 +8647,8 @@
             "credMax": 2,
             "title": "Community Engagement in Education",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -8764,8 +8793,8 @@
             "credMax": 4,
             "title": "Creative Writing: Poetry",
             "cap": 14,
-            "act": 7,
-            "rem": 7,
+            "act": 6,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8834,8 +8863,8 @@
             "credMax": 4,
             "title": "Modern British Literary Traditions",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -8869,8 +8898,8 @@
             "credMax": 4,
             "title": "The American Experience in Literature",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -10157,6 +10186,70 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Health, Migration, and Borders",
+        "subj": "FYS",
+        "crse": "76",
+        "id": "FYS-76",
+        "sections": [
+          {
+            "crn": 2939,
+            "subj": "FYS",
+            "crse": "76",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health, Migration, and Borders",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexandra Fine",
+                "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1240,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2940,
+            "subj": "FYS",
+            "crse": "76",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Health, Migration, and Borders",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Alexandra Fine",
+                "location": "",
+                "timeStart": 1250,
+                "timeEnd": 1345,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -10427,8 +10520,8 @@
             "credMax": 4,
             "title": "Earth: Our Environment",
             "cap": 24,
-            "act": 13,
-            "rem": 11,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -10481,8 +10574,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 4,
-            "rem": 8,
+            "act": 5,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -10675,8 +10768,8 @@
             "credMax": 4,
             "title": "Spatial Analysis with Geographic Information Science",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -10710,8 +10803,8 @@
             "credMax": 0,
             "title": "Spatial Analysis with Geographic Information Science Laboratory",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -10780,8 +10873,8 @@
             "credMax": 4,
             "title": "Remote Exploration of Earth",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -10815,8 +10908,8 @@
             "credMax": 0,
             "title": "Remote Exploration of Earth Laboratory",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -10849,8 +10942,8 @@
             "credMax": 4,
             "title": "Structural Geology",
             "cap": 16,
-            "act": 1,
-            "rem": 15,
+            "act": 2,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -10885,8 +10978,8 @@
             "credMax": 0,
             "title": "Structural Geology Laboratory",
             "cap": 16,
-            "act": 1,
-            "rem": 15,
+            "act": 2,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -11325,8 +11418,8 @@
             "credMax": 4,
             "title": "United States Culture and Society II",
             "cap": 30,
-            "act": 3,
-            "rem": 27,
+            "act": 4,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -11994,8 +12087,8 @@
             "credMax": 4,
             "title": "Nutrition and Homeostasis",
             "cap": 24,
-            "act": 9,
-            "rem": 15,
+            "act": 10,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -12030,8 +12123,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 3,
-            "rem": 21,
+            "act": 4,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -12091,8 +12184,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 3,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -12125,8 +12218,8 @@
             "credMax": 4,
             "title": "Human Anatomy II",
             "cap": 24,
-            "act": 6,
-            "rem": 18,
+            "act": 7,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -12187,8 +12280,8 @@
             "credMax": 1,
             "title": "Human Anatomy II Laboratory",
             "cap": 12,
-            "act": 3,
-            "rem": 9,
+            "act": 4,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12317,8 +12410,8 @@
             "credMax": 4,
             "title": "Exercise Physiology",
             "cap": 24,
-            "act": 1,
-            "rem": 23,
+            "act": 3,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -13741,13 +13834,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Michael Luo",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14015,8 +14108,8 @@
             "credMax": 4,
             "title": "Topics in Film and Media Studies",
             "cap": 20,
-            "act": 10,
-            "rem": 10,
+            "act": 11,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -14374,8 +14467,8 @@
             "credMax": 4,
             "title": "Learning to Compose",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -17050,8 +17143,8 @@
             "credMax": 1,
             "title": "Jazz Saxophone (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -19740,8 +19833,8 @@
             "credMax": 2,
             "title": "Practical Ethics: Case-Based Reasoning",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -19810,8 +19903,8 @@
             "credMax": 4,
             "title": "Knowledge and Power",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -19952,8 +20045,8 @@
             "credMax": 4,
             "title": "Wittgenstein",
             "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "act": 3,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -20242,8 +20335,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 0,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -20956,7 +21049,7 @@
                   "R",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,
@@ -20986,7 +21079,7 @@
                   "R",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,
@@ -21092,7 +21185,7 @@
                   "R",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,
@@ -21122,7 +21215,7 @@
                   "R",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "William W. Morris",
                 "location": "",
                 "timeStart": -1,
                 "timeEnd": -1,
@@ -22262,8 +22355,8 @@
             "credMax": 4,
             "title": "Interest Group Politics",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -22368,8 +22461,8 @@
             "credMax": 4,
             "title": "American Political Thought",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -22433,8 +22526,8 @@
             "credMax": 4,
             "title": "Topics in Politics. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -22467,8 +22560,8 @@
             "credMax": 4,
             "title": "Research Methods in Politics and Public Policy",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -22502,8 +22595,8 @@
             "credMax": 4,
             "title": "U.S. Public Policy",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -22606,8 +22699,8 @@
             "credMax": 4,
             "title": "Comprehensive Seminar",
             "cap": 40,
-            "act": 4,
-            "rem": 36,
+            "act": 5,
+            "rem": 35,
             "attribute": "",
             "timeslots": [
               {
@@ -23199,8 +23292,8 @@
             "credMax": 4,
             "title": "Evolutionary Psychology",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -23411,8 +23504,8 @@
             "credMax": 4,
             "title": "Clinical Psychology",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -23928,8 +24021,8 @@
             "credMax": 4,
             "title": "Critical Approaches to the Study of Religion",
             "cap": 25,
-            "act": 2,
-            "rem": 23,
+            "act": 3,
+            "rem": 22,
             "attribute": "",
             "timeslots": [
               {
@@ -24321,8 +24414,8 @@
             "credMax": 4,
             "title": "Environmental Sociology",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -24503,8 +24596,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 5,
-            "rem": 13,
+            "act": 6,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -24539,8 +24632,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 3,
-            "rem": 15,
+            "act": 4,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -24877,8 +24970,8 @@
             "credMax": 4,
             "title": "Spanish for Heritage Speakers",
             "cap": 18,
-            "act": 1,
-            "rem": 17,
+            "act": 2,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -25675,8 +25768,8 @@
             "credMax": 2,
             "title": "Stage Makeup",
             "cap": 14,
-            "act": 3,
-            "rem": 11,
+            "act": 4,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -26047,8 +26140,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 3,
-            "rem": 22,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -26150,8 +26243,8 @@
             "credMax": 4,
             "title": "Topics in UEP. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -26246,8 +26339,8 @@
             "credMax": 4,
             "title": "Urban Policy and Politics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -26515,8 +26608,8 @@
             "credMax": 4,
             "title": "Creative Nonfiction",
             "cap": 14,
-            "act": 10,
-            "rem": 4,
+            "act": 11,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

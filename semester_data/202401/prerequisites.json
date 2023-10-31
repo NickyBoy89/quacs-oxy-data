@@ -694,7 +694,7 @@
       },
       {
         "max": "3",
-        "open": "-2",
+        "open": "-3",
         "reservedFor": "Frosh"
       }
     ],
@@ -715,7 +715,7 @@
       },
       {
         "max": "3",
-        "open": "0",
+        "open": "-1",
         "reservedFor": "Frosh"
       }
     ],
@@ -806,7 +806,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Frosh"
       }
     ],
@@ -1054,7 +1054,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "19",
+        "open": "20",
         "reservedFor": "Major"
       }
     ],
@@ -1517,7 +1517,7 @@
     "reserved": [
       {
         "max": "14",
-        "open": "8",
+        "open": "7",
         "reservedFor": "Major"
       }
     ],
@@ -4857,7 +4857,7 @@
     "reserved": [
       {
         "max": "10",
-        "open": "4",
+        "open": "5",
         "reservedFor": "Frosh"
       },
       {
@@ -6800,7 +6800,7 @@
     "reserved": [
       {
         "max": "18",
-        "open": "4",
+        "open": "3",
         "reservedFor": "Frosh"
       },
       {
@@ -6824,7 +6824,7 @@
     "reserved": [
       {
         "max": "18",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Frosh"
       },
       {
@@ -7645,7 +7645,7 @@
     "reserved": [
       {
         "max": "6",
-        "open": "4",
+        "open": "3",
         "reservedFor": "Frosh"
       }
     ],
@@ -11175,7 +11175,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "5",
+        "open": "4",
         "reservedFor": "Frosh"
       }
     ],
@@ -12746,7 +12746,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Frosh"
       }
     ],
@@ -15108,7 +15108,7 @@
     "reserved": [
       {
         "max": "16",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Frosh"
       }
     ],
@@ -15140,7 +15140,7 @@
     "reserved": [
       {
         "max": "16",
-        "open": "0",
+        "open": "1",
         "reservedFor": "Frosh"
       }
     ],
@@ -15300,7 +15300,7 @@
     "reserved": [
       {
         "max": "16",
-        "open": "3",
+        "open": "2",
         "reservedFor": "Frosh"
       }
     ],

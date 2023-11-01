@@ -1216,7 +1216,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "18",
+        "open": "17",
         "reservedFor": "Major"
       }
     ],
@@ -15365,22 +15365,6 @@
       {
         "max": "16",
         "open": "11",
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2820": {
-    "reserved": [
-      {
-        "max": "16",
-        "open": "15",
         "reservedFor": "Frosh"
       }
     ],

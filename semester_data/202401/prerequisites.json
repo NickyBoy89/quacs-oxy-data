@@ -1177,7 +1177,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "14",
+        "open": "12",
         "reservedFor": "Major"
       }
     ],
@@ -1907,7 +1907,7 @@
     "reserved": [
       {
         "max": "15",
-        "open": "5",
+        "open": "4",
         "reservedFor": "Major"
       }
     ],
@@ -4032,7 +4032,7 @@
     "reserved": [
       {
         "max": "6",
-        "open": "5",
+        "open": "4",
         "reservedFor": "Major"
       }
     ],
@@ -4049,7 +4049,7 @@
     "reserved": [
       {
         "max": "20",
-        "open": "20",
+        "open": "19",
         "reservedFor": "Major"
       }
     ],
@@ -7006,7 +7006,7 @@
     "reserved": [
       {
         "max": "9",
-        "open": "2",
+        "open": "1",
         "reservedFor": "Major"
       },
       {
@@ -12677,7 +12677,7 @@
     "reserved": [
       {
         "max": "8",
-        "open": "6",
+        "open": "5",
         "reservedFor": "Major"
       }
     ],
@@ -14398,7 +14398,7 @@
     "reserved": [
       {
         "max": "10",
-        "open": "1",
+        "open": "0",
         "reservedFor": "Major"
       }
     ],
@@ -16755,6 +16755,53 @@
         "reservedFor": "Frosh"
       }
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2941": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "GERM 102",
+          "type": "course"
+        },
+        {
+          "course": "GM",
+          "type": "course"
+        },
+        {
+          "course": "GL",
+          "type": "course"
+        },
+        {
+          "course": "OXGE",
+          "type": "course"
+        },
+        {
+          "course": "APGE",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2942": {
+    "prerequisites": {
+      "course": "GERM 152",
+      "type": "course"
+    },
     "restrictions": {
       "classification": {
         "may_not_be": [

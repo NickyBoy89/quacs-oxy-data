@@ -1952,6 +1952,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2944,
+            "subj": "BIO",
+            "crse": "226L",
+            "sec": "03",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Cell Biology Laboratory",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Cheryl Yoshi Okumura",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -5736,8 +5762,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 20,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -5764,8 +5790,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 9,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -6195,8 +6221,8 @@
             "credMax": 4,
             "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7707,8 +7733,8 @@
             "credMax": 4,
             "title": "Principles of Economics II",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -9570,8 +9596,8 @@
             "credMax": 4,
             "title": "Rhythm and Rhetoric: New Formal Poetry",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -10932,8 +10958,8 @@
             "credMax": 4,
             "title": "Structural Geology",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -10968,8 +10994,8 @@
             "credMax": 0,
             "title": "Structural Geology Laboratory",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -11002,8 +11028,8 @@
             "credMax": 2,
             "title": "Research Methods",
             "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -12565,8 +12591,8 @@
             "credMax": 2,
             "title": "Internship",
             "cap": 6,
-            "act": 2,
-            "rem": 4,
+            "act": 3,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14127,8 +14153,8 @@
             "credMax": 4,
             "title": "\nHaptic Media: Play, Games, Visuality, and Creative Approaches to Communicating Touch at a Distance",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -15191,8 +15217,8 @@
             "credMax": 4,
             "title": "The Ethics and Aesthetics of Sampling",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15553,8 +15579,8 @@
             "credMax": 4,
             "title": "Composition Seminar",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -20064,8 +20090,8 @@
             "credMax": 4,
             "title": "Intermediate Formal Logic",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -22305,8 +22331,8 @@
             "credMax": 4,
             "title": "Introduction to Comparative Politics",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -22849,8 +22875,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

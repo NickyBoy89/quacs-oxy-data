@@ -1874,8 +1874,8 @@
             "credMax": 4,
             "title": "Cell Biology",
             "cap": 36,
-            "act": 25,
-            "rem": 11,
+            "act": 28,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -1962,8 +1962,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 6,
-            "rem": 6,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -1996,8 +1996,8 @@
             "credMax": 4,
             "title": "Ecology",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -2031,8 +2031,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2057,8 +2057,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2385,8 +2385,8 @@
             "credMax": 4,
             "title": "Global Change Biology",
             "cap": 16,
-            "act": 18,
-            "rem": -2,
+            "act": 19,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -2421,8 +2421,8 @@
             "credMax": 0,
             "title": "Global Change Biology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 9,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -5360,6 +5360,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2945,
+            "subj": "COGS",
+            "crse": "320L",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Cognitive Neuroscience Laboratory",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Kevin Urstadt",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1755,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -5842,8 +5868,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 21,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -5896,8 +5922,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6053,8 +6079,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 12,
-            "rem": 18,
+            "act": 11,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -6596,8 +6622,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9488,8 +9514,8 @@
             "credMax": 4,
             "title": "Social Difference and the Politics of Technology",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -13413,8 +13439,8 @@
             "credMax": 4,
             "title": "Statistical Data Analysis",
             "cap": 24,
-            "act": 26,
-            "rem": -2,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -13534,42 +13560,6 @@
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Computational Mathematics I",
-        "subj": "MATH",
-        "crse": "274",
-        "id": "MATH-274",
-        "sections": [
-          {
-            "crn": 2839,
-            "subj": "MATH",
-            "crse": "274",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Computational Mathematics I",
-            "cap": 20,
-            "act": 5,
-            "rem": 15,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jeffrey S. Miller",
-                "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14857,6 +14847,28 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2946,
+            "subj": "MUSC",
+            "crse": "128",
+            "sec": "03",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Chamber Jazz",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Jonathan McLeod Richards",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -14891,6 +14903,33 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2947,
+            "subj": "MUSC",
+            "crse": "129",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Chamber Music",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Chris Y. Kim",
+                "location": "",
+                "timeStart": -1,
+                "timeEnd": -1,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -14921,6 +14960,32 @@
                 "location": "",
                 "timeStart": 1140,
                 "timeEnd": 1235,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2948,
+            "subj": "MUSC",
+            "crse": "130",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Symphony Orchestra",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Chris Y. Kim",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -18870,157 +18935,13 @@
             "credMax": 1,
             "title": "Rock Guitar (One Hour)",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 4,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
                 "days": [],
                 "instructor": "Steve Gregory",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Argentina",
-    "code": "ABAR",
-    "courses": [
-      {
-        "title": "Occidental-in-Argentina",
-        "subj": "ABAR",
-        "crse": "302",
-        "id": "ABAR-302",
-        "sections": [
-          {
-            "crn": 2912,
-            "subj": "ABAR",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Argentina",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Australia",
-    "code": "ABAU",
-    "courses": [
-      {
-        "title": "Occidental-in-Australia",
-        "subj": "ABAU",
-        "crse": "302",
-        "id": "ABAU-302",
-        "sections": [
-          {
-            "crn": 2914,
-            "subj": "ABAU",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Australia",
-            "cap": 4,
-            "act": 4,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Austria",
-    "code": "ABAS",
-    "courses": [
-      {
-        "title": "Occidental-in-Austria",
-        "subj": "ABAS",
-        "crse": "302",
-        "id": "ABAS-302",
-        "sections": [
-          {
-            "crn": 2913,
-            "subj": "ABAS",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Austria",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Botswana",
-    "code": "ABBW",
-    "courses": [
-      {
-        "title": "Occidental-in-Botswana",
-        "subj": "ABBW",
-        "crse": "302",
-        "id": "ABBW-302",
-        "sections": [
-          {
-            "crn": 2915,
-            "subj": "ABBW",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Botswana",
-            "cap": 1,
-            "act": 2,
-            "rem": -1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -19052,114 +18973,6 @@
             "cap": 2,
             "act": 1,
             "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-China",
-    "code": "ABCH",
-    "courses": [
-      {
-        "title": "Occidental-in-China",
-        "subj": "ABCH",
-        "crse": "302",
-        "id": "ABCH-302",
-        "sections": [
-          {
-            "crn": 2916,
-            "subj": "ABCH",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-China",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Ecuador",
-    "code": "ABEC",
-    "courses": [
-      {
-        "title": "Occidental-in-Ecuador",
-        "subj": "ABEC",
-        "crse": "302",
-        "id": "ABEC-302",
-        "sections": [
-          {
-            "crn": 2918,
-            "subj": "ABEC",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Ecuador",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-England",
-    "code": "ABEN",
-    "courses": [
-      {
-        "title": "Occidental-in-England",
-        "subj": "ABEN",
-        "crse": "302",
-        "id": "ABEN-302",
-        "sections": [
-          {
-            "crn": 2919,
-            "subj": "ABEN",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-England",
-            "cap": 5,
-            "act": 5,
-            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19248,78 +19061,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Hungary",
-    "code": "ABHU",
-    "courses": [
-      {
-        "title": "Occidental-in-Hungary",
-        "subj": "ABHU",
-        "crse": "302",
-        "id": "ABHU-302",
-        "sections": [
-          {
-            "crn": 2922,
-            "subj": "ABHU",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Hungary",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Indonesia",
-    "code": "ABID",
-    "courses": [
-      {
-        "title": "Occidental-in-Indonesia",
-        "subj": "ABID",
-        "crse": "302",
-        "id": "ABID-302",
-        "sections": [
-          {
-            "crn": 2923,
-            "subj": "ABID",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Indonesia",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-Italy",
     "code": "ABIT",
     "courses": [
@@ -19340,114 +19081,6 @@
             "cap": 10,
             "act": 7,
             "rem": 3,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Japan",
-    "code": "ABJA",
-    "courses": [
-      {
-        "title": "Occidental-in-Japan",
-        "subj": "ABJA",
-        "crse": "302",
-        "id": "ABJA-302",
-        "sections": [
-          {
-            "crn": 2925,
-            "subj": "ABJA",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Japan",
-            "cap": 4,
-            "act": 4,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Jordan",
-    "code": "ABJO",
-    "courses": [
-      {
-        "title": "Occidental-in-Jordan",
-        "subj": "ABJO",
-        "crse": "302",
-        "id": "ABJO-302",
-        "sections": [
-          {
-            "crn": 2926,
-            "subj": "ABJO",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Jordan",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Mexico",
-    "code": "ABME",
-    "courses": [
-      {
-        "title": "Occidental-in-Mexico",
-        "subj": "ABME",
-        "crse": "302",
-        "id": "ABME-302",
-        "sections": [
-          {
-            "crn": 2927,
-            "subj": "ABME",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Mexico",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -19500,42 +19133,6 @@
     ]
   },
   {
-    "name": "Occidental-in-New Zealand",
-    "code": "ABNZ",
-    "courses": [
-      {
-        "title": "Occidental-in-New Zealand",
-        "subj": "ABNZ",
-        "crse": "302",
-        "id": "ABNZ-302",
-        "sections": [
-          {
-            "crn": 2930,
-            "subj": "ABNZ",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-New Zealand",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-Rwanda",
     "code": "ABRW",
     "courses": [
@@ -19572,114 +19169,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Serbia",
-    "code": "ABSR",
-    "courses": [
-      {
-        "title": "Occidental-in-Serbia",
-        "subj": "ABSR",
-        "crse": "302",
-        "id": "ABSR-302",
-        "sections": [
-          {
-            "crn": 2935,
-            "subj": "ABSR",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Serbia",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-South Africa",
-    "code": "ABSA",
-    "courses": [
-      {
-        "title": "Occidental-in-South Africa",
-        "subj": "ABSA",
-        "crse": "302",
-        "id": "ABSA-302",
-        "sections": [
-          {
-            "crn": 2932,
-            "subj": "ABSA",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-South Africa",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-South Korea",
-    "code": "ABSK",
-    "courses": [
-      {
-        "title": "Occidental-in-South Korea",
-        "subj": "ABSK",
-        "crse": "302",
-        "id": "ABSK-302",
-        "sections": [
-          {
-            "crn": 2933,
-            "subj": "ABSK",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-South Korea",
-            "cap": 3,
-            "act": 3,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-Spain",
     "code": "ABSP",
     "courses": [
@@ -19700,114 +19189,6 @@
             "cap": 25,
             "act": 23,
             "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Tunisia",
-    "code": "ABTS",
-    "courses": [
-      {
-        "title": "Occidental-in-Tunisia",
-        "subj": "ABTS",
-        "crse": "302",
-        "id": "ABTS-302",
-        "sections": [
-          {
-            "crn": 2936,
-            "subj": "ABTS",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Tunisia",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Viet Nam",
-    "code": "ABVN",
-    "courses": [
-      {
-        "title": "Occidental-in-Vietnam",
-        "subj": "ABVN",
-        "crse": "302",
-        "id": "ABVN-302",
-        "sections": [
-          {
-            "crn": 2937,
-            "subj": "ABVN",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Vietnam",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-the-Netherlands",
-    "code": "ABNT",
-    "courses": [
-      {
-        "title": "Occidental-in-the-Netherlands",
-        "subj": "ABNT",
-        "crse": "302",
-        "id": "ABNT-302",
-        "sections": [
-          {
-            "crn": 2929,
-            "subj": "ABNT",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-the-Netherlands",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22910,8 +22291,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -23232,8 +22613,8 @@
             "credMax": 4,
             "title": "Physiological Psychology",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -24677,8 +24058,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -25537,8 +24918,8 @@
             "credMax": 1,
             "title": "Modern Dance",
             "cap": 25,
-            "act": 5,
-            "rem": 20,
+            "act": 4,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -25607,8 +24988,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

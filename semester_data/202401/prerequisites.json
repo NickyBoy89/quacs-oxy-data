@@ -16611,5 +16611,35 @@
         ]
       }
     }
+  },
+  "2946": {
+    "corequisites": [
+      "MUSC-127"
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2947": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2948": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

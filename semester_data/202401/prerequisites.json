@@ -430,7 +430,7 @@
     "reserved": [
       {
         "max": "16",
-        "open": "-3",
+        "open": "-4",
         "reservedFor": "Major"
       }
     ],
@@ -3471,7 +3471,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "0",
+        "open": "-1",
         "reservedFor": "Frosh"
       }
     ],
@@ -6612,7 +6612,7 @@
   "2309": {
     "reserved": [
       {
-        "max": "8",
+        "max": "7",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -6717,7 +6717,7 @@
   "2320": {
     "reserved": [
       {
-        "max": "4",
+        "max": "3",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -13348,7 +13348,7 @@
   "2709": {
     "reserved": [
       {
-        "max": "3",
+        "max": "2",
         "open": "0",
         "reservedFor": "Major"
       }

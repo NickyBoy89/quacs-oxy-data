@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 8,
-            "rem": 24,
+            "act": 12,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -1552,8 +1552,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 7,
-            "rem": 9,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -3337,8 +3337,8 @@
             "credMax": 4,
             "title": "Introduction to Black Studies",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 17,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -5458,8 +5458,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 10,
-            "act": 11,
-            "rem": -1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5484,8 +5484,8 @@
             "credMax": 1,
             "title": "Cognitive Neuroscience Laboratory",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -9057,8 +9057,8 @@
             "credMax": 4,
             "title": "Race, Law, and Literature",
             "cap": 15,
-            "act": 7,
-            "rem": 8,
+            "act": 8,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -11635,8 +11635,8 @@
             "credMax": 4,
             "title": "Imperialism",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -12241,8 +12241,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 14,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -12276,8 +12276,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -25414,7 +25414,7 @@
         ]
       },
       {
-        "title": "Topics in Performance",
+        "title": "Topics in Performance. Extended Reality",
         "subj": "THEA",
         "crse": "290",
         "id": "THEA-290",
@@ -25426,7 +25426,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Performance",
+            "title": "Topics in Performance. Extended Reality",
             "cap": 16,
             "act": 8,
             "rem": 8,

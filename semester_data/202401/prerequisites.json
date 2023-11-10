@@ -524,22 +524,6 @@
       }
     }
   },
-  "2034": {
-    "reserved": [
-      {
-        "max": "0",
-        "open": "0",
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2035": {
     "restrictions": {
       "classification": {
@@ -559,15 +543,6 @@
     }
   },
   "2037": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2038": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -7661,7 +7636,7 @@
   "2377": {
     "reserved": [
       {
-        "max": "6",
+        "max": "5",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -16627,6 +16602,33 @@
     "corequisites": [
       "BIO-105"
     ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2954": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2955": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2956": {
     "restrictions": {
       "classification": {
         "may_not_be": [

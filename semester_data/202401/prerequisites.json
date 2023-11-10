@@ -11882,7 +11882,7 @@
       },
       {
         "max": "10",
-        "open": "-1",
+        "open": "0",
         "reservedFor": "Frosh"
       }
     ],
@@ -14705,69 +14705,6 @@
       }
     }
   },
-  "2781": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CTSJ 100",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 102",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 104",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 105",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 107",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 108",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 115",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 120",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 140",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 160",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 180",
-          "type": "course"
-        },
-        {
-          "course": "CTSJ 195",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2782": {
     "prerequisites": {
       "nested": [
@@ -16634,6 +16571,15 @@
     }
   },
   "2948": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2949": {
     "restrictions": {
       "classification": {
         "may_not_be": [

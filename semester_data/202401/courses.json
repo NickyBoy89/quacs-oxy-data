@@ -481,8 +481,8 @@
             "credMax": 4,
             "title": "Ways of Looking and Making",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -643,7 +643,7 @@
         ]
       },
       {
-        "title": "Topic: Politics and Aesthetics",
+        "title": "Topics in Art History. Automation: Politics and Aesthetics",
         "subj": "ARTH",
         "crse": "295",
         "id": "ARTH-295",
@@ -655,7 +655,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topic: Politics and Aesthetics",
+            "title": "Topics in Art History. Automation: Politics and Aesthetics",
             "cap": 24,
             "act": 4,
             "rem": 20,
@@ -6657,8 +6657,8 @@
             "credMax": 2,
             "title": "Introduction to Letterpress Printing",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -7107,40 +7107,6 @@
         ]
       },
       {
-        "title": "Special Topics in Critical Theory and Social Justice. Whiteness",
-        "subj": "CTSJ",
-        "crse": "395",
-        "id": "CTSJ-395",
-        "sections": [
-          {
-            "crn": 2781,
-            "subj": "CTSJ",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Critical Theory and Social Justice. Whiteness",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor-TBD",
-                "location": "",
-                "timeStart": 1915,
-                "timeEnd": 2210,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Social Justice Practicum",
         "subj": "CTSJ",
         "crse": "398",
@@ -7511,8 +7477,8 @@
                 ],
                 "instructor": "Igor Olegovich Logvinenko",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1700,
+                "timeEnd": 1825,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -20091,8 +20057,8 @@
             "credMax": 0,
             "title": "Zumba",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {

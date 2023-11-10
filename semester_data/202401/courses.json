@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 4,
-            "rem": 28,
+            "act": 8,
+            "rem": 24,
             "attribute": "",
             "timeslots": [
               {
@@ -1552,8 +1552,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -1578,8 +1578,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 0,
-            "rem": 16,
+            "act": 1,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -1612,8 +1612,8 @@
             "credMax": 4,
             "title": "Organisms on Earth",
             "cap": 48,
-            "act": 42,
-            "rem": 6,
+            "act": 41,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -1638,8 +1638,8 @@
             "credMax": 0,
             "title": "Organisms on Earth Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3087,8 +3087,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -7310,8 +7310,8 @@
             "credMax": 4,
             "title": "Introduction to Global Political Economy",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -7901,8 +7901,8 @@
             "credMax": 4,
             "title": "Accounting and Financial Analysis",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -11536,8 +11536,8 @@
             "credMax": 4,
             "title": "United States Culture and Society II",
             "cap": 30,
-            "act": 22,
-            "rem": 8,
+            "act": 21,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -12241,8 +12241,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 17,
-            "rem": 7,
+            "act": 16,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12276,8 +12276,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 8,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -13096,8 +13096,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-B",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13160,8 +13160,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-B Laboratory",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15080,8 +15080,8 @@
             "credMax": 4,
             "title": "Introduction to Digital Audio Workstation (DAW)",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 10,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -21777,8 +21777,8 @@
             "credMax": 4,
             "title": "American Politics and Public Policy",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -24370,8 +24370,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 9,
-            "rem": 90,
+            "act": 8,
+            "rem": 91,
             "attribute": "",
             "timeslots": [
               {

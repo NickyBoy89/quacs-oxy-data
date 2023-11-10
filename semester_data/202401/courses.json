@@ -481,8 +481,8 @@
             "credMax": 4,
             "title": "Ways of Looking and Making",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1481,7 +1481,7 @@
                 "days": [
                   "T"
                 ],
-                "instructor": "Babak Hassanzadeh",
+                "instructor": "Sigfrido Alexander Zimmermann",
                 "location": "",
                 "timeStart": 1640,
                 "timeEnd": 1935,
@@ -1507,10 +1507,89 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Babak Hassanzadeh",
+                "instructor": "Sigfrido Alexander Zimmermann",
                 "location": "",
                 "timeStart": 1640,
                 "timeEnd": 1935,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2951,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "03",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Marine Biology",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Babak Hassanzadeh",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2952,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "3-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Marine Biology Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Babak Hassanzadeh",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2953,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "3-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Marine Biology Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Babak Hassanzadeh",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -4796,8 +4875,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -7466,8 +7545,8 @@
             "credMax": 4,
             "title": "Interdisciplinary Research Design in World Affairs",
             "cap": 25,
-            "act": 4,
-            "rem": 21,
+            "act": 5,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -8469,40 +8548,6 @@
         ]
       },
       {
-        "title": "Spanish/Mandarin Language Community Literacy",
-        "subj": "EDUC",
-        "crse": "142",
-        "id": "EDUC-142",
-        "sections": [
-          {
-            "crn": 2034,
-            "subj": "EDUC",
-            "crse": "142",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Spanish/Mandarin Language Community Literacy",
-            "cap": 25,
-            "act": 1,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M"
-                ],
-                "instructor": "Benjamin Qing Wang",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1655,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Art Education Practicum: Community Studio at OXY ARTS",
         "subj": "EDUC",
         "crse": "143",
@@ -8600,41 +8645,6 @@
                 "location": "",
                 "timeStart": 1740,
                 "timeEnd": 1905,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Asian American Education in K-16 Contexts",
-        "subj": "EDUC",
-        "crse": "211",
-        "id": "EDUC-211",
-        "sections": [
-          {
-            "crn": 2038,
-            "subj": "EDUC",
-            "crse": "211",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Asian American Education in K-16 Contexts",
-            "cap": 25,
-            "act": 2,
-            "rem": 23,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Eun Joo Paik",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14338,8 +14348,8 @@
             "credMax": 4,
             "title": "Junior Seminar in Media Theory and Criticism",
             "cap": 14,
-            "act": 15,
-            "rem": -1,
+            "act": 16,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -19062,6 +19072,42 @@
     ]
   },
   {
+    "name": "Occidental-in-India",
+    "code": "ABIN",
+    "courses": [
+      {
+        "title": "Occidental-in-India",
+        "subj": "ABIN",
+        "crse": "302",
+        "id": "ABIN-302",
+        "sections": [
+          {
+            "crn": 2950,
+            "subj": "ABIN",
+            "crse": "302",
+            "sec": "00",
+            "credMin": 16,
+            "credMax": 16,
+            "title": "Occidental-in-India",
+            "cap": 1,
+            "act": 0,
+            "rem": 1,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Robin A Craggs",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Occidental-in-Italy",
     "code": "ABIT",
     "courses": [
@@ -19718,6 +19764,60 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2954,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "05",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Spin Class I",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2025,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2955,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "06",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Spin Class I",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2025,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19776,6 +19876,33 @@
                 "location": "",
                 "timeStart": 1000,
                 "timeEnd": 1055,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2956,
+            "subj": "PHAC",
+            "crse": "130",
+            "sec": "06",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Tigers Live Fitness",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Instructor-TBD",
+                "location": "",
+                "timeStart": 1930,
+                "timeEnd": 2025,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -23141,8 +23268,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

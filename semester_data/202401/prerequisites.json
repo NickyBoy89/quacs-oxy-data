@@ -16587,5 +16587,52 @@
         ]
       }
     }
+  },
+  "2950": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2951": {
+    "corequisites": [
+      "BIO-105",
+      "BIO-105"
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2952": {
+    "corequisites": [
+      "BIO-105"
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2953": {
+    "corequisites": [
+      "BIO-105"
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
   }
 }

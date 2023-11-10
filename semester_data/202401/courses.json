@@ -643,6 +643,41 @@
         ]
       },
       {
+        "title": "Topic: Politics and Aesthetics",
+        "subj": "ARTH",
+        "crse": "295",
+        "id": "ARTH-295",
+        "sections": [
+          {
+            "crn": 2949,
+            "subj": "ARTH",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topic: Politics and Aesthetics",
+            "cap": 24,
+            "act": 4,
+            "rem": 20,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Brian Patrick Bartell",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Practicum in Art History",
         "subj": "ARTH",
         "crse": "298",
@@ -5046,8 +5081,8 @@
             "credMax": 4,
             "title": "Introduction to Neuroscience",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21782,8 +21817,8 @@
             "credMax": 4,
             "title": "California State Government and Politics",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -25400,8 +25435,8 @@
             "credMax": 4,
             "title": "Musical Theater Performance",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 3,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {

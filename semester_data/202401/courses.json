@@ -4655,8 +4655,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 9,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4707,8 +4707,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -12276,8 +12276,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 6,
-            "rem": 6,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -12302,8 +12302,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -14348,8 +14348,8 @@
             "credMax": 4,
             "title": "Junior Seminar in Media Theory and Criticism",
             "cap": 14,
-            "act": 16,
-            "rem": -2,
+            "act": 17,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -14898,8 +14898,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 32,
-            "act": 4,
-            "rem": 28,
+            "act": 5,
+            "rem": 27,
             "attribute": "",
             "timeslots": [
               {

@@ -4681,8 +4681,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 2,
-            "rem": 8,
+            "act": 1,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -5396,8 +5396,8 @@
             "credMax": 4,
             "title": "Cognitive Neuroscience",
             "cap": 18,
-            "act": 29,
-            "rem": -11,
+            "act": 30,
+            "rem": -12,
             "attribute": "",
             "timeslots": [
               {
@@ -14846,8 +14846,8 @@
             "credMax": 1,
             "title": "Chamber Jazz",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {

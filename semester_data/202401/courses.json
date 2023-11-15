@@ -5538,6 +5538,58 @@
         ]
       },
       {
+        "title": "Directed Research",
+        "subj": "COGS",
+        "crse": "395",
+        "id": "COGS-395",
+        "sections": [
+          {
+            "crn": 2957,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "01",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2958,
+            "subj": "COGS",
+            "crse": "395",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Carmel A Levitan",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Advanced Research in Cognitive Science",
         "subj": "COGS",
         "crse": "495",
@@ -7839,8 +7891,8 @@
             "credMax": 4,
             "title": "Principles of Economics II",
             "cap": 25,
-            "act": 29,
-            "rem": -4,
+            "act": 30,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -9525,8 +9577,8 @@
             "credMax": 4,
             "title": "Social Difference and the Politics of Technology",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 4,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -11571,8 +11623,8 @@
             "credMax": 4,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11680,41 +11732,6 @@
                   "R"
                 ],
                 "instructor": "Michael E. Gasper",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "The United States in the World Since 1900",
-        "subj": "HIST",
-        "crse": "209",
-        "id": "HIST-209",
-        "sections": [
-          {
-            "crn": 2149,
-            "subj": "HIST",
-            "crse": "209",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "The United States in the World Since 1900",
-            "cap": 25,
-            "act": 1,
-            "rem": 24,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Jane H. Hong",
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
@@ -13686,42 +13703,6 @@
         ]
       },
       {
-        "title": "Partial Differential Equations",
-        "subj": "MATH",
-        "crse": "342",
-        "id": "MATH-342",
-        "sections": [
-          {
-            "crn": 2197,
-            "subj": "MATH",
-            "crse": "342",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Partial Differential Equations",
-            "cap": 20,
-            "act": 3,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Ron Buckmire",
-                "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1345,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Numerical Analysis",
         "subj": "MATH",
         "crse": "370",
@@ -14846,8 +14827,8 @@
             "credMax": 1,
             "title": "Chamber Jazz",
             "cap": 10,
-            "act": 5,
-            "rem": 5,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -14898,8 +14879,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 32,
-            "act": 5,
-            "rem": 27,
+            "act": 6,
+            "rem": 26,
             "attribute": "",
             "timeslots": [
               {
@@ -15586,8 +15567,8 @@
             "credMax": 4,
             "title": "Advanced Production: Sampling and Synthesis",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -19677,8 +19658,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1200,
+                "timeEnd": 1255,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19704,8 +19685,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": -1,
-                "timeEnd": -1,
+                "timeStart": 1200,
+                "timeEnd": 1255,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

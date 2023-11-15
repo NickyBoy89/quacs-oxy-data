@@ -1724,8 +1724,8 @@
             "credMax": 4,
             "title": "Introduction to Cell and Molecular Biology",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1752,8 +1752,8 @@
             "credMax": 0,
             "title": "Introduction to Cell and Molecular Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 17,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

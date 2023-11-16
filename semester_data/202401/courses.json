@@ -4655,8 +4655,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 10,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14879,8 +14879,8 @@
             "credMax": 1,
             "title": "Chamber Music",
             "cap": 32,
-            "act": 6,
-            "rem": 26,
+            "act": 7,
+            "rem": 25,
             "attribute": "",
             "timeslots": [
               {
@@ -18421,8 +18421,8 @@
             "credMax": 1,
             "title": "Jazz and Commercial Bass (One Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {

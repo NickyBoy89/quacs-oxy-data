@@ -5360,8 +5360,8 @@
             "credMax": 4,
             "title": "Brain Plasticity",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -9385,8 +9385,8 @@
             "credMax": 4,
             "title": "Detective Fiction",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -9449,8 +9449,8 @@
             "credMax": 4,
             "title": "The Senses, Sensibility, and Society",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -15034,8 +15034,8 @@
             "credMax": 4,
             "title": "Introduction to Digital Audio Workstation (DAW)",
             "cap": 16,
-            "act": 4,
-            "rem": 12,
+            "act": 5,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -15061,8 +15061,8 @@
             "credMax": 4,
             "title": "Introduction to Digital Audio Workstation (DAW)",
             "cap": 16,
-            "act": 9,
-            "rem": 7,
+            "act": 8,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -15096,8 +15096,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -15123,8 +15123,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -15150,8 +15150,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 5,
-            "rem": 13,
+            "act": 6,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {

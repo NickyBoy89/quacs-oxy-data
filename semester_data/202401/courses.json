@@ -22361,7 +22361,7 @@
             "crn": 2333,
             "subj": "PSYC",
             "crse": "201",
-            "sec": "00",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
             "title": "Statistics in Psychological Science",
@@ -22372,14 +22372,40 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
                 "instructor": "Andrew Vann Frane",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2965,
+            "subj": "PSYC",
+            "crse": "201",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Statistics in Psychological Science",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Andrew Vann Frane",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

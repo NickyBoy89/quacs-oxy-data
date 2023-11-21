@@ -13746,26 +13746,6 @@
       }
     }
   },
-  "2730": {
-    "prerequisites": {
-      "course": "MUSC 148",
-      "type": "course"
-    },
-    "reserved": [
-      {
-        "max": "2",
-        "open": "0",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2731": {
     "prerequisites": {
       "course": "MUSC 348",
@@ -13967,19 +13947,6 @@
     }
   },
   "2740": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2741": {
-    "prerequisites": {
-      "course": "DWA 101",
-      "type": "course"
-    },
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -15100,22 +15067,6 @@
     "reserved": [
       {
         "max": "16",
-        "open": "0",
-        "reservedFor": "Frosh"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2812": {
-    "reserved": [
-      {
-        "max": "2",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -16614,6 +16565,19 @@
         "may_not_be": [
           "Graduate",
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2965": {
+    "prerequisites": {
+      "course": "PSYC 200",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

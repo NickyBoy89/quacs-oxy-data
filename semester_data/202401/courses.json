@@ -5290,8 +5290,8 @@
             "credMax": 4,
             "title": "Data Analysis and Visualization",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -6122,8 +6122,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6176,8 +6176,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 16,
-            "rem": -1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7583,41 +7583,6 @@
         ]
       },
       {
-        "title": "Interdisciplinary Research Design in World Affairs",
-        "subj": "DWA",
-        "crse": "298",
-        "id": "DWA-298",
-        "sections": [
-          {
-            "crn": 2741,
-            "subj": "DWA",
-            "crse": "298",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Interdisciplinary Research Design in World Affairs",
-            "cap": 25,
-            "act": 4,
-            "rem": 21,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Igor Olegovich Logvinenko",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Junior Seminar: Contemporary Issues in International and Human Rights Law",
         "subj": "DWA",
         "crse": "340",
@@ -7918,8 +7883,8 @@
             "credMax": 4,
             "title": "Principles of Economics II",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 28,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -9563,34 +9528,6 @@
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2812,
-            "subj": "FYS",
-            "crse": "57",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Social Difference and the Politics of Technology",
-            "cap": 16,
-            "act": 4,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Brian Patrick Bartell",
-                "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1345,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -15519,40 +15456,6 @@
         ]
       },
       {
-        "title": "Live Sound Engineering",
-        "subj": "MUSC",
-        "crse": "246",
-        "id": "MUSC-246",
-        "sections": [
-          {
-            "crn": 2730,
-            "subj": "MUSC",
-            "crse": "246",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Live Sound Engineering",
-            "cap": 16,
-            "act": 4,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "F"
-                ],
-                "instructor": "Max N. Foreman",
-                "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1545,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Advanced Production: Sampling and Synthesis",
         "subj": "MUSC",
         "crse": "248",
@@ -20103,8 +20006,8 @@
             "credMax": 0,
             "title": "Karate",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {

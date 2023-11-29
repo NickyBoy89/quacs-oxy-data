@@ -4655,8 +4655,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 10,
-            "rem": 0,
+            "act": 9,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4707,8 +4707,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 6,
-            "rem": 4,
+            "act": 7,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -21289,8 +21289,8 @@
             "credMax": 0,
             "title": "General Physics II Laboratory",
             "cap": 14,
-            "act": 13,
-            "rem": 1,
+            "act": 14,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21315,8 +21315,8 @@
             "credMax": 0,
             "title": "General Physics II Laboratory",
             "cap": 14,
-            "act": 15,
-            "rem": -1,
+            "act": 14,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

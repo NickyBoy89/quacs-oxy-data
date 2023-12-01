@@ -1367,8 +1367,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1420,8 +1420,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3519,8 +3519,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -3609,8 +3609,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 14,
-            "act": 12,
-            "rem": 2,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -5360,8 +5360,8 @@
             "credMax": 4,
             "title": "Brain Plasticity",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6034,8 +6034,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 24,
-            "act": 20,
-            "rem": 4,
+            "act": 19,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -6088,8 +6088,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 8,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -15900,8 +15900,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -22472,8 +22472,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 6,
-            "rem": -1,
+            "act": 7,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

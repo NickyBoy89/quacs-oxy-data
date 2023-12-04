@@ -16228,16 +16228,6 @@
       }
     }
   },
-  "2917": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2920": {
     "restrictions": {
       "classification": {
@@ -16248,37 +16238,7 @@
       }
     }
   },
-  "2921": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2924": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2928": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2931": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16463,16 +16423,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2950": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
         ]
       }
     }

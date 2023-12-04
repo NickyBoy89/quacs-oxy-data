@@ -6034,8 +6034,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 24,
-            "act": 18,
-            "rem": 6,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -6088,8 +6088,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 8,
-            "rem": 7,
+            "act": 7,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8230,8 +8230,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -8336,8 +8336,8 @@
             "credMax": 4,
             "title": "Economic Development",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13654,8 +13654,8 @@
             "credMax": 4,
             "title": "Numerical Analysis",
             "cap": 20,
-            "act": 5,
-            "rem": 15,
+            "act": 6,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -13717,8 +13717,8 @@
             "credMax": 4,
             "title": "Special Topics in Advanced Mathematics",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -18726,8 +18726,8 @@
             "credMax": 1,
             "title": "Drum Set (One Hour)",
             "cap": 20,
-            "act": 4,
-            "rem": 16,
+            "act": 5,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -18848,42 +18848,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Chile",
-    "code": "ABCI",
-    "courses": [
-      {
-        "title": "Occidental-in-Chile",
-        "subj": "ABCI",
-        "crse": "302",
-        "id": "ABCI-302",
-        "sections": [
-          {
-            "crn": 2917,
-            "subj": "ABCI",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Chile",
-            "cap": 2,
-            "act": 2,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-France",
     "code": "ABFR",
     "courses": [
@@ -18920,114 +18884,6 @@
     ]
   },
   {
-    "name": "Occidental-in-Germany",
-    "code": "ABGE",
-    "courses": [
-      {
-        "title": "Occidental-in-Germany",
-        "subj": "ABGE",
-        "crse": "302",
-        "id": "ABGE-302",
-        "sections": [
-          {
-            "crn": 2921,
-            "subj": "ABGE",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Germany",
-            "cap": 6,
-            "act": 6,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-India",
-    "code": "ABIN",
-    "courses": [
-      {
-        "title": "Occidental-in-India",
-        "subj": "ABIN",
-        "crse": "302",
-        "id": "ABIN-302",
-        "sections": [
-          {
-            "crn": 2950,
-            "subj": "ABIN",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-India",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Italy",
-    "code": "ABIT",
-    "courses": [
-      {
-        "title": "Occidental-in-Italy",
-        "subj": "ABIT",
-        "crse": "302",
-        "id": "ABIT-302",
-        "sections": [
-          {
-            "crn": 2924,
-            "subj": "ABIT",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Italy",
-            "cap": 10,
-            "act": 10,
-            "rem": 0,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Occidental-in-Nepal",
     "code": "ABNE",
     "courses": [
@@ -19048,42 +18904,6 @@
             "cap": 1,
             "act": 0,
             "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Rwanda",
-    "code": "ABRW",
-    "courses": [
-      {
-        "title": "Occidental-in-Rwanda",
-        "subj": "ABRW",
-        "crse": "302",
-        "id": "ABRW-302",
-        "sections": [
-          {
-            "crn": 2931,
-            "subj": "ABRW",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Rwanda",
-            "cap": 1,
-            "act": 1,
-            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21865,8 +21685,8 @@
             "credMax": 4,
             "title": "Moot Court II",
             "cap": 9,
-            "act": 1,
-            "rem": 8,
+            "act": 0,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -25675,8 +25495,8 @@
             "credMax": 2,
             "title": "Sustainable Oxy: Urban Agriculture and Sustainable Landscape Practicum",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

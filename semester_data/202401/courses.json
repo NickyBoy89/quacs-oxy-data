@@ -7980,8 +7980,8 @@
             "credMax": 4,
             "title": "Intermediate Microeconomic Theory",
             "cap": 20,
-            "act": 19,
-            "rem": 1,
+            "act": 20,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13369,8 +13369,8 @@
             "credMax": 4,
             "title": "Statistical Data Analysis",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -15435,8 +15435,8 @@
             "credMax": 4,
             "title": "Advanced Production: Sampling and Synthesis",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

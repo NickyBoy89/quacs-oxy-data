@@ -3804,15 +3804,6 @@
       }
     }
   },
-  "2154": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2155": {
     "restrictions": {
       "classification": {
@@ -14534,15 +14525,6 @@
       }
     }
   },
-  "2775": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2777": {
     "restrictions": {
       "classification": {
@@ -16464,24 +16446,6 @@
       }
     }
   },
-  "2954": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2955": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2956": {
     "restrictions": {
       "classification": {
@@ -16528,6 +16492,16 @@
       "classification": {
         "may_not_be": [
           "Graduate"
+        ]
+      }
+    }
+  },
+  "2966": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
         ]
       }
     }

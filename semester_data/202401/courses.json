@@ -12748,41 +12748,6 @@
     "code": "LLAS",
     "courses": [
       {
-        "title": "Introduction to Latina/o and Latin American Studies",
-        "subj": "LLAS",
-        "crse": "101",
-        "id": "LLAS-101",
-        "sections": [
-          {
-            "crn": 2154,
-            "subj": "LLAS",
-            "crse": "101",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Introduction to Latina/o and Latin American Studies",
-            "cap": 25,
-            "act": 2,
-            "rem": 23,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Raul Villa",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "?Indecent? Liberation in Latin America",
         "subj": "LLAS",
         "crse": "221",
@@ -14433,8 +14398,8 @@
             "credMax": 1,
             "title": "Voice Class II",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -19423,9 +19388,9 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Spin Class I",
-            "cap": 12,
+            "cap": 13,
             "act": 11,
-            "rem": 1,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19435,8 +19400,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": 1830,
-                "timeEnd": 1925,
+                "timeStart": 1815,
+                "timeEnd": 1910,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -19462,62 +19427,8 @@
                 ],
                 "instructor": "William W. Morris",
                 "location": "",
-                "timeStart": 1830,
-                "timeEnd": 1925,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2954,
-            "subj": "PHAC",
-            "crse": "128",
-            "sec": "05",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Spin Class I",
-            "cap": 12,
-            "act": 1,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2025,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2955,
-            "subj": "PHAC",
-            "crse": "128",
-            "sec": "06",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Spin Class I",
-            "cap": 2,
-            "act": 0,
-            "rem": 2,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2025,
+                "timeStart": 1815,
+                "timeEnd": 1910,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21427,6 +21338,36 @@
         ]
       },
       {
+        "title": "Research",
+        "subj": "PHYS",
+        "crse": "395",
+        "id": "PHYS-395",
+        "sections": [
+          {
+            "crn": 2966,
+            "subj": "PHYS",
+            "crse": "395",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Research",
+            "cap": 5,
+            "act": 0,
+            "rem": 5,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Janet D Scheel",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Senior Physics Seminar II",
         "subj": "PHYS",
         "crse": "491",
@@ -21663,41 +21604,6 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Moot Court II",
-        "subj": "POLS",
-        "crse": "248",
-        "id": "POLS-248",
-        "sections": [
-          {
-            "crn": 2775,
-            "subj": "POLS",
-            "crse": "248",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Moot Court II",
-            "cap": 9,
-            "act": 0,
-            "rem": 9,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Kyle Ning Shen",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

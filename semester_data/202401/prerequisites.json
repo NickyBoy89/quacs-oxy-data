@@ -1723,7 +1723,7 @@
     },
     "reserved": [
       {
-        "max": "13",
+        "max": "12",
         "open": "0",
         "reservedFor": "Major"
       }
@@ -13620,7 +13620,7 @@
   "2721": {
     "reserved": [
       {
-        "max": "23",
+        "max": "22",
         "open": "0",
         "reservedFor": "Major"
       }

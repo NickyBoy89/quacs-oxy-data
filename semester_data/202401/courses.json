@@ -1446,8 +1446,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1499,8 +1499,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14002,8 +14002,8 @@
             "credMax": 4,
             "title": "Topics in Emerging Media. Speculative Design",
             "cap": 16,
-            "act": 11,
-            "rem": 5,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

@@ -5624,7 +5624,7 @@
     "reserved": [
       {
         "max": "4",
-        "open": "0",
+        "open": "-1",
         "reservedFor": "Frosh"
       }
     ],
@@ -5660,7 +5660,7 @@
     },
     "reserved": [
       {
-        "max": "3",
+        "max": "2",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -5804,7 +5804,7 @@
     },
     "reserved": [
       {
-        "max": "2",
+        "max": "1",
         "open": "0",
         "reservedFor": "Frosh"
       }

@@ -1187,6 +1187,12 @@
     "name": "Field Ecology",
     "subj": "BIO"
   },
+  "BIO-372": {
+    "crse": 372,
+    "description": "This course explores the causes of global change and the consequences for organisms, ecosystems, and the Earth. We will examine past, present, and projected future trends and give special attention to the role of human activity in global change. Topics will include land use, energy use, climate change, biodiversity loss, biotic interchange, and pollution, as well as responses, hurdles, and solutions. Includes one three-hour laboratory per week.",
+    "name": "Global Change Biology",
+    "subj": "BIO"
+  },
   "BIO-373": {
     "crse": 373,
     "description": "This course is an opportunity for students to learn more advanced methodologies in computational biology. By examining a variety of biological questions that are often addressed with computational pipelines, modeling, or simulation, students will get in-depth experience with important computational concepts (including: abstraction, algorithms, automation, logic, and problem solving). This includes the study of complex biological systems, such as projecting biological responses to climate or ecosystem change, quantifying spatial biodiversity hotspots, evaluating time series data for populations, and computing evolutionary parameters from genomic datasets. Students will also get experience with computer programming in the R statistical language and Python. Additional biological topics may include: spatial ecology, including species distribution modeling, community assemblage and dissimilarity matrices, population simulations, classification with machine learning, and bioinformatics with genomic data. Course includes laboratory workshops sessions.",

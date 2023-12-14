@@ -1455,7 +1455,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Babak Hassanzadeh",
+                "instructor": "Sigfrido Alexander Zimmermann",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,
@@ -14283,6 +14283,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2967,
+            "subj": "MAC",
+            "crse": "492",
+            "sec": "02",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Advanced Editing",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1900,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19433,6 +19459,60 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2954,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "05",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Spin Class I",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1200,
+                "timeEnd": 1255,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2955,
+            "subj": "PHAC",
+            "crse": "128",
+            "sec": "06",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Spin Class I",
+            "cap": 2,
+            "act": 0,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "William W. Morris",
+                "location": "",
+                "timeStart": 1200,
+                "timeEnd": 1255,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -19491,33 +19571,6 @@
                 "location": "",
                 "timeStart": 1000,
                 "timeEnd": 1055,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2956,
-            "subj": "PHAC",
-            "crse": "130",
-            "sec": "06",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Tigers Live Fitness",
-            "cap": 2,
-            "act": 1,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "William W. Morris",
-                "location": "",
-                "timeStart": 1930,
-                "timeEnd": 2025,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -16446,7 +16446,16 @@
       }
     }
   },
-  "2956": {
+  "2954": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2955": {
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16502,6 +16511,22 @@
         "may_not_be": [
           "Graduate",
           "Frosh"
+        ]
+      }
+    }
+  },
+  "2967": {
+    "prerequisites": {
+      "course": "MAC 491",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ],
+        "must_be": [
+          "Senior"
         ]
       }
     }

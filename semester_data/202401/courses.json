@@ -2239,8 +2239,8 @@
             "credMax": 2,
             "title": "Huntington-Occidental Pre-med Program (HOPP)",
             "cap": 10,
-            "act": 1,
-            "rem": 9,
+            "act": 2,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -5325,8 +5325,8 @@
             "credMax": 4,
             "title": "Art, Creativity, and Cognition",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14563,8 +14563,8 @@
             "credMax": 2,
             "title": "Glee Club (Sopranos/Altos)",
             "cap": 32,
-            "act": 2,
-            "rem": 30,
+            "act": 5,
+            "rem": 27,
             "attribute": "",
             "timeslots": [
               {
@@ -14597,8 +14597,8 @@
             "credMax": 2,
             "title": "Glee Club (Tenors/Basses)",
             "cap": 32,
-            "act": 0,
-            "rem": 32,
+            "act": 4,
+            "rem": 28,
             "attribute": "",
             "timeslots": [
               {

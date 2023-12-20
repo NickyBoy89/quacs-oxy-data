@@ -7730,33 +7730,6 @@
       }
     }
   },
-  "2390": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 101",
-          "type": "course"
-        },
-        {
-          "course": "THEA 120",
-          "type": "course"
-        },
-        {
-          "course": "THEA 210",
-          "type": "course"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2391": {
     "restrictions": {
       "classification": {
@@ -14275,20 +14248,6 @@
       }
     }
   },
-  "2766": {
-    "prerequisites": {
-      "course": "THEA 120",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2768": {
     "prerequisites": {
       "nested": [
@@ -16499,6 +16458,20 @@
   "2970": {
     "prerequisites": {
       "course": "THEA 210",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2971": {
+    "prerequisites": {
+      "course": "THEA 120",
       "type": "course"
     },
     "restrictions": {

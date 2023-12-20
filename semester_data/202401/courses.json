@@ -21643,8 +21643,8 @@
             "credMax": 4,
             "title": "Interest Group Politics",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -24494,9 +24494,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "From Page to Stage: Introduction to Reading and Writing for Performance",
-            "cap": 35,
+            "cap": 25,
             "act": 11,
-            "rem": 24,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -24507,8 +24507,8 @@
                 ],
                 "instructor": "Will Power",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25158,9 +25158,14 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "M",
+                  "W"
+                ],
                 "instructor": "Will Power",
                 "location": "",
+                "timeStart": 1145,
+                "timeEnd": 1345,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25205,22 +25210,27 @@
         "id": "THEA-320",
         "sections": [
           {
-            "crn": 2766,
+            "crn": 2971,
             "subj": "THEA",
             "crse": "320",
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Advanced Technical Theater",
-            "cap": 4,
-            "act": 3,
-            "rem": 1,
+            "cap": 14,
+            "act": 0,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "M",
+                  "W"
+                ],
                 "instructor": "Brian A. Fitzmorris",
                 "location": "",
+                "timeStart": 935,
+                "timeEnd": 1100,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

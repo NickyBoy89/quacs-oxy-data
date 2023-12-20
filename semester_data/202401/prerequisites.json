@@ -7656,16 +7656,6 @@
       }
     }
   },
-  "2381": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2382": {
     "prerequisites": {
       "course": "THEA 134",
@@ -7689,19 +7679,6 @@
   "2383": {
     "prerequisites": {
       "course": "THEA 137",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2384": {
-    "prerequisites": {
-      "course": "THEA 110",
       "type": "course"
     },
     "restrictions": {
@@ -7743,38 +7720,7 @@
       }
     }
   },
-  "2387": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2388": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2389": {
-    "reserved": [
-      {
-        "max": "0",
-        "open": "0",
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": "0",
-        "open": "0",
-        "reservedFor": "Major"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -16527,6 +16473,39 @@
         ],
         "must_be": [
           "Senior"
+        ]
+      }
+    }
+  },
+  "2968": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2969": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "2970": {
+    "prerequisites": {
+      "course": "THEA 210",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
         ]
       }
     }

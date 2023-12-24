@@ -1724,8 +1724,8 @@
             "credMax": 4,
             "title": "Introduction to Cell and Molecular Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1752,8 +1752,8 @@
             "credMax": 0,
             "title": "Introduction to Cell and Molecular Biology Laboratory",
             "cap": 16,
-            "act": 17,
-            "rem": -1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2110,8 +2110,8 @@
             "credMax": 4,
             "title": "Ecology",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2145,8 +2145,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3911,8 +3911,8 @@
             "credMax": 4,
             "title": "Organic Chemistry I",
             "cap": 20,
-            "act": 17,
-            "rem": 3,
+            "act": 16,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -3999,8 +3999,8 @@
             "credMax": 0,
             "title": "Organic Chemistry I Laboratory",
             "cap": 14,
-            "act": 10,
-            "rem": 4,
+            "act": 9,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8139,8 +8139,8 @@
             "credMax": 4,
             "title": "Environmental Economics and Policy",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21813,8 +21813,8 @@
             "credMax": 4,
             "title": "Research Methods in Politics and Public Policy",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

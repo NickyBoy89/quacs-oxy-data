@@ -4619,8 +4619,8 @@
             "credMax": 4,
             "title": "Biochemistry",
             "cap": 24,
-            "act": 7,
-            "rem": 17,
+            "act": 6,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -4707,8 +4707,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 7,
-            "rem": 3,
+            "act": 6,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -6122,8 +6122,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6150,8 +6150,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7258,8 +7258,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -13078,8 +13078,8 @@
             "credMax": 4,
             "title": "Calculus 1",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -13105,8 +13105,8 @@
             "credMax": 0,
             "title": "Calculus 1 Laboratory",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -22930,8 +22930,8 @@
             "credMax": 4,
             "title": "Health Policy",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25299,8 +25299,8 @@
             "credMax": 4,
             "title": "Health Policy",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

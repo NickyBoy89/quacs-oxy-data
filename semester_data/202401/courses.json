@@ -410,8 +410,8 @@
             "credMax": 4,
             "title": "Introduction to the Arts of the Early Mediterranean World",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 20,
-            "rem": 12,
+            "act": 21,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -1578,8 +1578,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 5,
-            "rem": 11,
+            "act": 6,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -1892,8 +1892,8 @@
             "credMax": 4,
             "title": "Molecular Biology",
             "cap": 24,
-            "act": 30,
-            "rem": -6,
+            "act": 29,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -1928,8 +1928,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 15,
-            "rem": -3,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -5954,8 +5954,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 30,
-            "act": 24,
-            "rem": 6,
+            "act": 23,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -6008,8 +6008,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14536,8 +14536,8 @@
             "credMax": 2,
             "title": "Glee Club (Tenors/Basses)",
             "cap": 32,
-            "act": 8,
-            "rem": 24,
+            "act": 9,
+            "rem": 23,
             "attribute": "",
             "timeslots": [
               {
@@ -24409,7 +24409,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Will Power",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
@@ -25056,8 +25056,8 @@
             "credMax": 4,
             "title": "Topics in Theater and Performance Studies. Hip Hop Performance",
             "cap": 12,
-            "act": 2,
-            "rem": 10,
+            "act": 6,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -25069,6 +25069,41 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Musical Theater Performance",
+        "subj": "THEA",
+        "crse": "315",
+        "id": "THEA-315",
+        "sections": [
+          {
+            "crn": 2389,
+            "subj": "THEA",
+            "crse": "315",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Musical Theater Performance",
+            "cap": 12,
+            "act": 3,
+            "rem": 9,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Laural Meade",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25090,9 +25125,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Advanced Technical Theater",
-            "cap": 14,
+            "cap": 4,
             "act": 3,
-            "rem": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25104,6 +25139,41 @@
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1100,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Directing",
+        "subj": "THEA",
+        "crse": "410",
+        "id": "THEA-410",
+        "sections": [
+          {
+            "crn": 2390,
+            "subj": "THEA",
+            "crse": "410",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directing",
+            "cap": 12,
+            "act": 10,
+            "rem": 2,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Will Power",
+                "location": "",
+                "timeStart": 1250,
+                "timeEnd": 1450,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

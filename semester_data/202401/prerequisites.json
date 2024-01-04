@@ -7642,6 +7642,16 @@
       }
     }
   },
+  "2381": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
   "2382": {
     "prerequisites": {
       "course": "THEA 134",
@@ -14215,6 +14225,20 @@
       }
     }
   },
+  "2766": {
+    "prerequisites": {
+      "course": "THEA 120",
+      "type": "course"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
   "2768": {
     "prerequisites": {
       "nested": [
@@ -16389,20 +16413,6 @@
         ],
         "must_be": [
           "Senior"
-        ]
-      }
-    }
-  },
-  "2971": {
-    "prerequisites": {
-      "course": "THEA 120",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
         ]
       }
     }

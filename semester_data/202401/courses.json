@@ -24833,6 +24833,40 @@
         ]
       },
       {
+        "title": "Auditioning",
+        "subj": "THEA",
+        "crse": "212",
+        "id": "THEA-212",
+        "sections": [
+          {
+            "crn": 2381,
+            "subj": "THEA",
+            "crse": "212",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Auditioning",
+            "cap": 10,
+            "act": 6,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M"
+                ],
+                "instructor": "James K. Angell",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Intermediate Ballet",
         "subj": "THEA",
         "crse": "234",
@@ -24895,6 +24929,41 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Children's Theater, 3rd Grade",
+        "subj": "THEA",
+        "crse": "260",
+        "id": "THEA-260",
+        "sections": [
+          {
+            "crn": 2384,
+            "subj": "THEA",
+            "crse": "260",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Children's Theater, 3rd Grade",
+            "cap": 4,
+            "act": 1,
+            "rem": 3,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "James K. Angell",
+                "location": "",
+                "timeStart": 830,
+                "timeEnd": 955,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -24973,6 +25042,41 @@
         ]
       },
       {
+        "title": "Topics in Theater and Performance Studies. Hip Hop Performance",
+        "subj": "THEA",
+        "crse": "295",
+        "id": "THEA-295",
+        "sections": [
+          {
+            "crn": 2387,
+            "subj": "THEA",
+            "crse": "295",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Topics in Theater and Performance Studies. Hip Hop Performance",
+            "cap": 12,
+            "act": 2,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Will Power",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Advanced Technical Theater",
         "subj": "THEA",
         "crse": "320",
@@ -24987,8 +25091,8 @@
             "credMax": 4,
             "title": "Advanced Technical Theater",
             "cap": 14,
-            "act": 2,
-            "rem": 12,
+            "act": 3,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {

@@ -6740,40 +6740,6 @@
         ]
       },
       {
-        "title": "Representing Science: The Art of Science Communication",
-        "subj": "CORE",
-        "crse": "120",
-        "id": "CORE-120",
-        "sections": [
-          {
-            "crn": 2746,
-            "subj": "CORE",
-            "crse": "120",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Representing Science: The Art of Science Communication",
-            "cap": 25,
-            "act": 5,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Ron Buckmire",
-                "location": "",
-                "timeStart": 1635,
-                "timeEnd": 1800,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Introduction to Letterpress Printing",
         "subj": "CORE",
         "crse": "227",
@@ -8398,33 +8364,6 @@
         "crse": "340",
         "id": "ECON-340",
         "sections": [
-          {
-            "crn": 2132,
-            "subj": "ECON",
-            "crse": "340",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Behavioral Economics",
-            "cap": 18,
-            "act": 4,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Brandon Lehr",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2133,
             "subj": "ECON",
@@ -23390,41 +23329,6 @@
             ]
           }
         ]
-      },
-      {
-        "title": "\"Good\" Sex: History of Sexual Ethics",
-        "subj": "RELS",
-        "crse": "351",
-        "id": "RELS-351",
-        "sections": [
-          {
-            "crn": 2844,
-            "subj": "RELS",
-            "crse": "351",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "\"Good\" Sex: History of Sexual Ethics",
-            "cap": 18,
-            "act": 7,
-            "rem": 11,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Kristi J. Upson-Saia",
-                "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -24541,7 +24445,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Laural Meade",
+                "instructor": "James K. Angell",
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1030,
@@ -24569,7 +24473,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Laural Meade",
+                "instructor": "James K. Angell",
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1030,
@@ -24999,41 +24903,6 @@
         ]
       },
       {
-        "title": "Period Styles for Stage and Screen",
-        "subj": "THEA",
-        "crse": "250",
-        "id": "THEA-250",
-        "sections": [
-          {
-            "crn": 2968,
-            "subj": "THEA",
-            "crse": "250",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Period Styles for Stage and Screen",
-            "cap": 18,
-            "act": 0,
-            "rem": 18,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Aed McMillian",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Scenic Design",
         "subj": "THEA",
         "crse": "275",
@@ -25059,8 +24928,8 @@
                 ],
                 "instructor": "Xinyuan Li",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25092,110 +24961,10 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Dawn Monique Williams",
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Twentieth Century Playwrights",
-        "subj": "THEA",
-        "crse": "302",
-        "id": "THEA-302",
-        "sections": [
-          {
-            "crn": 2969,
-            "subj": "THEA",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Twentieth Century Playwrights",
-            "cap": 14,
-            "act": 0,
-            "rem": 14,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Laural Meade",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Advanced Acting: Explorations in Performance Style and Method",
-        "subj": "THEA",
-        "crse": "310",
-        "id": "THEA-310",
-        "sections": [
-          {
-            "crn": 2970,
-            "subj": "THEA",
-            "crse": "310",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Advanced Acting: Explorations in Performance Style and Method",
-            "cap": 14,
-            "act": 1,
-            "rem": 13,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W"
-                ],
-                "instructor": "Will Power",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1345,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Intensive Performance Laboratory",
-        "subj": "THEA",
-        "crse": "311",
-        "id": "THEA-311",
-        "sections": [
-          {
-            "crn": 2388,
-            "subj": "THEA",
-            "crse": "311",
-            "sec": "00",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Intensive Performance Laboratory",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Sarah E. Kozinn",
-                "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -25210,7 +24979,7 @@
         "id": "THEA-320",
         "sections": [
           {
-            "crn": 2971,
+            "crn": 2766,
             "subj": "THEA",
             "crse": "320",
             "sec": "00",
@@ -25218,8 +24987,8 @@
             "credMax": 4,
             "title": "Advanced Technical Theater",
             "cap": 14,
-            "act": 0,
-            "rem": 14,
+            "act": 2,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -25264,8 +25033,8 @@
                 ],
                 "instructor": "Sarah E. Kozinn",
                 "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1345,
+                "timeStart": 1145,
+                "timeEnd": 1240,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

@@ -3055,20 +3055,6 @@
       }
     }
   },
-  "2132": {
-    "prerequisites": {
-      "course": "ECON 250",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2133": {
     "prerequisites": {
       "course": "ECON 250",
@@ -7716,16 +7702,6 @@
       "classification": {
         "may_not_be": [
           "Graduate"
-        ]
-      }
-    }
-  },
-  "2388": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
         ]
       }
     }
@@ -13946,15 +13922,6 @@
       }
     }
   },
-  "2746": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2747": {
     "prerequisites": {
       "nested": [
@@ -15392,16 +15359,6 @@
       }
     }
   },
-  "2844": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2846": {
     "restrictions": {
       "classification": {
@@ -16432,39 +16389,6 @@
         ],
         "must_be": [
           "Senior"
-        ]
-      }
-    }
-  },
-  "2968": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "2969": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2970": {
-    "prerequisites": {
-      "course": "THEA 210",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
         ]
       }
     }

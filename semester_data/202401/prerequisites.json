@@ -1151,7 +1151,7 @@
     },
     "reserved": [
       {
-        "max": "12",
+        "max": "11",
         "open": "0",
         "reservedFor": "Major"
       }
@@ -6710,7 +6710,7 @@
     "reserved": [
       {
         "max": "18",
-        "open": "-1",
+        "open": "0",
         "reservedFor": "Frosh"
       },
       {

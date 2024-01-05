@@ -16175,16 +16175,6 @@
       }
     }
   },
-  "2934": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2938": {
     "prerequisites": {
       "course": "BIO 130",

@@ -2595,8 +2595,8 @@
             "credMax": 4,
             "title": "Computational Biology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2657,8 +2657,8 @@
             "credMax": 0,
             "title": "Computational Biology Laboratory",
             "cap": 8,
-            "act": 8,
-            "rem": 0,
+            "act": 7,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

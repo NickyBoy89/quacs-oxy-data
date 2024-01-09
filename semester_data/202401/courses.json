@@ -375,8 +375,8 @@
             "credMax": 4,
             "title": "Introduction to East Asian Art",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 28,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -587,8 +587,8 @@
             "credMax": 4,
             "title": "Modern and Contemporary Art",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -1305,8 +1305,8 @@
             "credMax": 4,
             "title": "Topics in Biology",
             "cap": 32,
-            "act": 18,
-            "rem": 14,
+            "act": 17,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -1367,8 +1367,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 30,
-            "rem": 2,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1420,8 +1420,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -5160,8 +5160,8 @@
             "credMax": 4,
             "title": "Introduction to Neuroscience",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -6830,8 +6830,8 @@
             "credMax": 4,
             "title": "Justice",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7460,8 +7460,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -11001,7 +11001,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Nikki Marie Seymour",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1520,
@@ -12876,8 +12876,8 @@
             "credMax": 4,
             "title": "Phonetics",
             "cap": 18,
-            "act": 21,
-            "rem": -3,
+            "act": 20,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -18778,78 +18778,6 @@
     ]
   },
   {
-    "name": "Occidental-in-France",
-    "code": "ABFR",
-    "courses": [
-      {
-        "title": "Occidental-in-France",
-        "subj": "ABFR",
-        "crse": "302",
-        "id": "ABFR-302",
-        "sections": [
-          {
-            "crn": 2920,
-            "subj": "ABFR",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-France",
-            "cap": 6,
-            "act": 5,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Occidental-in-Nepal",
-    "code": "ABNE",
-    "courses": [
-      {
-        "title": "Occidental-in-Nepal",
-        "subj": "ABNE",
-        "crse": "302",
-        "id": "ABNE-302",
-        "sections": [
-          {
-            "crn": 2928,
-            "subj": "ABNE",
-            "crse": "302",
-            "sec": "00",
-            "credMin": 16,
-            "credMax": 16,
-            "title": "Occidental-in-Nepal",
-            "cap": 1,
-            "act": 0,
-            "rem": 1,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [],
-                "instructor": "Robin A Craggs",
-                "location": "",
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Philosophy",
     "code": "PHIL",
     "courses": [
@@ -19046,8 +18974,8 @@
             "credMax": 4,
             "title": "Philosophy and the Black Church",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -23238,8 +23166,8 @@
             "credMax": 4,
             "title": "Islam and Capitalism",
             "cap": 20,
-            "act": 7,
-            "rem": 13,
+            "act": 8,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -25055,8 +24983,8 @@
             "credMax": 4,
             "title": "Musical Theater Performance",
             "cap": 12,
-            "act": 3,
-            "rem": 9,
+            "act": 2,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

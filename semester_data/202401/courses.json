@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 22,
-            "rem": 10,
+            "act": 21,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -1552,8 +1552,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4853,8 +4853,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -20676,8 +20676,8 @@
             "credMax": 4,
             "title": "General Physics I",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -20738,8 +20738,8 @@
             "credMax": 0,
             "title": "General Physics I Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

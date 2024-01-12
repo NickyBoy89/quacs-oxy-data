@@ -4619,8 +4619,8 @@
             "credMax": 4,
             "title": "Biochemistry",
             "cap": 24,
-            "act": 4,
-            "rem": 20,
+            "act": 3,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -4655,8 +4655,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 6,
-            "rem": 4,
+            "act": 5,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -11499,8 +11499,8 @@
             "credMax": 4,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -20676,8 +20676,8 @@
             "credMax": 4,
             "title": "General Physics I",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -20712,8 +20712,8 @@
             "credMax": 0,
             "title": "General Physics I Laboratory",
             "cap": 14,
-            "act": 5,
-            "rem": 9,
+            "act": 6,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -21510,8 +21510,8 @@
             "credMax": 4,
             "title": "American Intelligence and National Security",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -21679,8 +21679,8 @@
             "credMax": 4,
             "title": "U.S. Public Policy",
             "cap": 18,
-            "act": 21,
-            "rem": -3,
+            "act": 22,
+            "rem": -4,
             "attribute": "",
             "timeslots": [
               {

@@ -6122,8 +6122,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 30,
-            "rem": 0,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6176,8 +6176,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7293,8 +7293,8 @@
             "credMax": 4,
             "title": "International Organizations",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -7460,8 +7460,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -12063,8 +12063,8 @@
             "credMax": 4,
             "title": "Introduction to Kinesiology",
             "cap": 26,
-            "act": 25,
-            "rem": 1,
+            "act": 26,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12134,8 +12134,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 15,
-            "rem": 9,
+            "act": 16,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12169,8 +12169,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -19532,8 +19532,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -22788,8 +22788,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "act": 20,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

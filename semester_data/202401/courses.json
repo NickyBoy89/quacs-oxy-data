@@ -5360,8 +5360,8 @@
             "credMax": 4,
             "title": "Brain Plasticity",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8553,8 +8553,8 @@
             "credMax": 4,
             "title": "Sociocultural Foundations of Education",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -8943,8 +8943,8 @@
             "credMax": 4,
             "title": "The American Experience in Literature",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -21913,8 +21913,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

@@ -6122,8 +6122,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6176,8 +6176,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -7078,8 +7078,8 @@
             "credMax": 4,
             "title": "Intersectionality: Theory and Practice",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -24291,8 +24291,8 @@
             "credMax": 4,
             "title": "From Page to Stage: Introduction to Reading and Writing for Performance",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 11,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {

@@ -3519,8 +3519,8 @@
             "credMax": 4,
             "title": "Foundations of General Chemistry",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 30,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -3687,8 +3687,8 @@
             "credMax": 0,
             "title": "Foundations of General Chemistry Laboratory",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 13,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -4557,8 +4557,8 @@
             "credMax": 1,
             "title": "Spectroscopy and Structure Laboratory",
             "cap": 8,
-            "act": 12,
-            "rem": -4,
+            "act": 13,
+            "rem": -5,
             "attribute": "",
             "timeslots": [
               {
@@ -6245,8 +6245,8 @@
             "credMax": 4,
             "title": "Advanced Programming",
             "cap": 30,
-            "act": 12,
-            "rem": 18,
+            "act": 11,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -6281,8 +6281,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {

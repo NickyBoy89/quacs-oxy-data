@@ -3175,8 +3175,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -4619,8 +4619,8 @@
             "credMax": 4,
             "title": "Biochemistry",
             "cap": 24,
-            "act": 4,
-            "rem": 20,
+            "act": 3,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -4707,8 +4707,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 4,
-            "rem": 6,
+            "act": 3,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -6122,8 +6122,8 @@
             "credMax": 4,
             "title": "Statistics",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6150,8 +6150,8 @@
             "credMax": 0,
             "title": "Statistics Laboratory",
             "cap": 15,
-            "act": 15,
-            "rem": 0,
+            "act": 16,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -24634,8 +24634,8 @@
             "credMax": 1,
             "title": "Folk and Historical Dance",
             "cap": 25,
-            "act": 8,
-            "rem": 17,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

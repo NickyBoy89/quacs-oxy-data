@@ -10749,110 +10749,6 @@
       }
     }
   },
-  "2597": {
-    "corequisites": [
-      "CHEM-350L"
-    ],
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 221",
-          "type": "course"
-        },
-        {
-          "course": "CHEM 240",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2598": {
-    "corequisites": [
-      "CHEM-350L"
-    ],
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 221",
-          "type": "course"
-        },
-        {
-          "course": "CHEM 240",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2599": {
-    "corequisites": [
-      "CHEM-350"
-    ],
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 221",
-          "type": "course"
-        },
-        {
-          "course": "CHEM 240",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "2600": {
-    "corequisites": [
-      "CHEM-350"
-    ],
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 221",
-          "type": "course"
-        },
-        {
-          "course": "CHEM 240",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2601": {
     "corequisites": [
       "CHEM-350"
@@ -16426,6 +16322,15 @@
     }
   },
   "2974": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2975": {
     "restrictions": {
       "classification": {
         "may_not_be": [

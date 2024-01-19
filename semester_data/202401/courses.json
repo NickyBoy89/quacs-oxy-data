@@ -2595,8 +2595,8 @@
             "credMax": 4,
             "title": "Computational Biology",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2631,8 +2631,8 @@
             "credMax": 0,
             "title": "Computational Biology Laboratory",
             "cap": 8,
-            "act": 9,
-            "rem": -1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -4577,127 +4577,11 @@
         ]
       },
       {
-        "title": "Biochemistry",
-        "subj": "CHEM",
-        "crse": "350",
-        "id": "CHEM-350",
-        "sections": [
-          {
-            "crn": 2597,
-            "subj": "CHEM",
-            "crse": "350",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biochemistry",
-            "cap": 24,
-            "act": 7,
-            "rem": 17,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2598,
-            "subj": "CHEM",
-            "crse": "350",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biochemistry",
-            "cap": 24,
-            "act": 3,
-            "rem": 21,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Biochemistry Laboratory",
         "subj": "CHEM",
         "crse": "350L",
         "id": "CHEM-350L",
         "sections": [
-          {
-            "crn": 2599,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 5,
-            "rem": 5,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
-          {
-            "crn": 2600,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "02",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 2,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Natalie B. Muren",
-                "location": "",
-                "timeStart": 830,
-                "timeEnd": 1125,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2601,
             "subj": "CHEM",
@@ -4707,8 +4591,8 @@
             "credMax": 1,
             "title": "Biochemistry Laboratory",
             "cap": 10,
-            "act": 3,
-            "rem": 7,
+            "act": 0,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -8105,8 +7989,8 @@
             "credMax": 4,
             "title": "Environmental Economics and Policy",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13605,8 +13489,8 @@
                 ],
                 "instructor": "Timothy Rainone",
                 "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14348,6 +14232,40 @@
                 "location": "",
                 "timeStart": 1700,
                 "timeEnd": 1825,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Piano Class",
+        "subj": "MUSC",
+        "crse": "109",
+        "id": "MUSC-109",
+        "sections": [
+          {
+            "crn": 2975,
+            "subj": "MUSC",
+            "crse": "109",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano Class",
+            "cap": 6,
+            "act": 0,
+            "rem": 6,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Tony Cardella",
+                "location": "",
+                "timeStart": 935,
+                "timeEnd": 1030,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -22735,8 +22653,8 @@
             "credMax": 4,
             "title": "Introduction to Public Health",
             "cap": 24,
-            "act": 22,
-            "rem": 2,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -25470,8 +25388,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing. The Body Politic: Writing in the Politics of Pleasure",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {

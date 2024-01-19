@@ -7738,16 +7738,6 @@
       }
     }
   },
-  "2389": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "2390": {
     "prerequisites": {
       "nested": [
@@ -13597,19 +13587,6 @@
       }
     }
   },
-  "2722": {
-    "prerequisites": {
-      "course": "MUSC 101",
-      "type": "course"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2723": {
     "prerequisites": {
       "course": "MUSC 101",
@@ -16430,18 +16407,29 @@
       }
     }
   },
-  "2967": {
-    "prerequisites": {
-      "course": "MAC 491",
-      "type": "course"
-    },
+  "2972": {
     "restrictions": {
       "classification": {
         "may_not_be": [
           "Graduate"
-        ],
-        "must_be": [
-          "Senior"
+        ]
+      }
+    }
+  },
+  "2973": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "2974": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

@@ -123,8 +123,8 @@
             "credMax": 4,
             "title": "Topics in American Studies: Transpacific Empire and Anticolonial Solidarities",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3197,8 +3197,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -5570,8 +5570,8 @@
             "subj": "COGS",
             "crse": "395",
             "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 2,
+            "credMax": 2,
             "title": "Directed Research",
             "cap": 10,
             "act": 1,
@@ -14221,32 +14221,6 @@
                 "dateEnd": "4/27"
               }
             ]
-          },
-          {
-            "crn": 2967,
-            "subj": "MAC",
-            "crse": "492",
-            "sec": "02",
-            "credMin": 2,
-            "credMax": 2,
-            "title": "Advanced Editing",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1900,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
           }
         ]
       },
@@ -15166,32 +15140,6 @@
         "crse": "231",
         "id": "MUSC-231",
         "sections": [
-          {
-            "crn": 2722,
-            "subj": "MUSC",
-            "crse": "231",
-            "sec": "01",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Keyboard Musicianship I",
-            "cap": 6,
-            "act": 0,
-            "rem": 6,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "W"
-                ],
-                "instructor": "Tony Cardella",
-                "location": "",
-                "timeStart": 935,
-                "timeEnd": 1030,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          },
           {
             "crn": 2723,
             "subj": "MUSC",
@@ -18937,8 +18885,8 @@
             "credMax": 4,
             "title": "Knowledge and Power",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -21473,8 +21421,8 @@
             "credMax": 4,
             "title": "Interest Group Politics",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -21617,7 +21565,7 @@
                 "days": [
                   "M"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Michael John Bonin",
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1755,
@@ -24724,6 +24672,36 @@
         ]
       },
       {
+        "title": "Performance Laboratory",
+        "subj": "THEA",
+        "crse": "211",
+        "id": "THEA-211",
+        "sections": [
+          {
+            "crn": 2972,
+            "subj": "THEA",
+            "crse": "211",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Performance Laboratory",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Laural Meade",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Auditioning",
         "subj": "THEA",
         "crse": "212",
@@ -24968,41 +24946,6 @@
         ]
       },
       {
-        "title": "Musical Theater Performance",
-        "subj": "THEA",
-        "crse": "315",
-        "id": "THEA-315",
-        "sections": [
-          {
-            "crn": 2389,
-            "subj": "THEA",
-            "crse": "315",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Musical Theater Performance",
-            "cap": 12,
-            "act": 2,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Laural Meade",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1455,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Advanced Technical Theater",
         "subj": "THEA",
         "crse": "320",
@@ -25176,6 +25119,36 @@
         ]
       },
       {
+        "title": "Food, Energy, and Sustainability Team",
+        "subj": "UEP",
+        "crse": "120",
+        "id": "UEP-120",
+        "sections": [
+          {
+            "crn": 2973,
+            "subj": "UEP",
+            "crse": "120",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Food, Energy, and Sustainability Team",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Rosa Romero",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Health Policy",
         "subj": "UEP",
         "crse": "209",
@@ -25202,6 +25175,40 @@
                 "location": "",
                 "timeStart": 1915,
                 "timeEnd": 2210,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Urban Sustainability: Raising Animals as a Part of Regenerative Agriculture",
+        "subj": "UEP",
+        "crse": "240",
+        "id": "UEP-240",
+        "sections": [
+          {
+            "crn": 2974,
+            "subj": "UEP",
+            "crse": "240",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Urban Sustainability: Raising Animals as a Part of Regenerative Agriculture",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "W"
+                ],
+                "instructor": "Jordanne Marie Dervaes",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }

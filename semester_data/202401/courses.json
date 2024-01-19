@@ -123,8 +123,8 @@
             "credMax": 4,
             "title": "Topics in American Studies: Transpacific Empire and Anticolonial Solidarities",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -151,8 +151,8 @@
             "credMax": 4,
             "title": "Topics in American Studies: Origins of the New Right",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -446,8 +446,8 @@
             "credMax": 4,
             "title": "Global Modernism",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -552,8 +552,8 @@
             "credMax": 4,
             "title": "Photography, History and Power",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 20,
-            "rem": 12,
+            "act": 22,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -1552,8 +1552,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1578,8 +1578,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 6,
-            "rem": 10,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -1612,8 +1612,8 @@
             "credMax": 4,
             "title": "Organisms on Earth",
             "cap": 48,
-            "act": 44,
-            "rem": 4,
+            "act": 45,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -1690,8 +1690,8 @@
             "credMax": 0,
             "title": "Organisms on Earth Lab",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -3337,8 +3337,8 @@
             "credMax": 4,
             "title": "Introduction to Black Studies",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 17,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -4566,40 +4566,6 @@
                   "T"
                 ],
                 "instructor": "Anne Yu",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Biochemistry Laboratory",
-        "subj": "CHEM",
-        "crse": "350L",
-        "id": "CHEM-350L",
-        "sections": [
-          {
-            "crn": 2601,
-            "subj": "CHEM",
-            "crse": "350L",
-            "sec": "03",
-            "credMin": 1,
-            "credMax": 1,
-            "title": "Biochemistry Laboratory",
-            "cap": 10,
-            "act": 0,
-            "rem": 10,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Natalie B. Muren",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1625,
@@ -6714,8 +6680,8 @@
             "credMax": 4,
             "title": "Justice",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6891,8 +6857,8 @@
             "credMax": 4,
             "title": "How to Build the Revolution: Marxist Theories of Organization",
             "cap": 25,
-            "act": 14,
-            "rem": 11,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -8080,8 +8046,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8862,8 +8828,8 @@
             "credMax": 4,
             "title": "Renaissance Poetry",
             "cap": 15,
-            "act": 10,
-            "rem": 5,
+            "act": 11,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -10385,8 +10351,8 @@
             "credMax": 4,
             "title": "Earth: Our Environment",
             "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10413,8 +10379,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10439,8 +10405,8 @@
             "credMax": 0,
             "title": "Earth: Our Environment Laboratory",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11194,8 +11160,8 @@
             "credMax": 5,
             "title": "Grim Tales: The Fairy Tales of the Brothers Grimm",
             "cap": 20,
-            "act": 6,
-            "rem": 14,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -11447,8 +11413,8 @@
             "credMax": 4,
             "title": "Imperialism",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 29,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -11588,8 +11554,8 @@
             "credMax": 4,
             "title": "Mexico-United States Relations",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -11693,8 +11659,8 @@
             "credMax": 4,
             "title": "Contemporary China: Reform, Rise, and Crisis",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -12018,8 +11984,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 16,
-            "rem": 8,
+            "act": 17,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12053,8 +12019,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12620,8 +12586,8 @@
             "credMax": 4,
             "title": "Mexico-United States Relations",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -12802,8 +12768,8 @@
             "credMax": 4,
             "title": "Mathematics as a Liberal Art",
             "cap": 35,
-            "act": 13,
-            "rem": 22,
+            "act": 14,
+            "rem": 21,
             "attribute": "",
             "timeslots": [
               {
@@ -13505,8 +13471,8 @@
             "credMax": 4,
             "title": "Special Topics in Advanced Mathematics",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -15404,8 +15370,8 @@
             "credMax": 4,
             "title": "Music and Social Protest",
             "cap": 25,
-            "act": 7,
-            "rem": 18,
+            "act": 8,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -18803,8 +18769,8 @@
             "credMax": 4,
             "title": "Knowledge and Power",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -20910,8 +20876,8 @@
                 ],
                 "instructor": "Janet D Scheel",
                 "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
+                "timeStart": 830,
+                "timeEnd": 1125,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -21778,8 +21744,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22926,8 +22892,8 @@
             "credMax": 4,
             "title": "Queering Religion",
             "cap": 20,
-            "act": 13,
-            "rem": 7,
+            "act": 14,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -23213,8 +23179,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 21,
-            "rem": 9,
+            "act": 22,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -23600,8 +23566,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 21,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -25279,8 +25245,8 @@
             "credMax": 4,
             "title": "Urban Policy and Politics",
             "cap": 18,
-            "act": 22,
-            "rem": -4,
+            "act": 21,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -25479,8 +25445,8 @@
             "credMax": 4,
             "title": "Visual Rhetoric: The Power of Images",
             "cap": 18,
-            "act": 2,
-            "rem": 16,
+            "act": 3,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {

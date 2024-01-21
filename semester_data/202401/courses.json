@@ -5525,8 +5525,8 @@
             "credMax": 4,
             "title": "Literature, Culture, Self: Being in the Wor(l)d",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -9339,8 +9339,8 @@
             "credMax": 4,
             "title": "History Wars: The Politics of Public Memory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -9655,8 +9655,8 @@
             "credMax": 4,
             "title": "Religion and Violence",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {

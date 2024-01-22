@@ -6643,7 +6643,7 @@
     "reserved": [
       {
         "max": "5",
-        "open": "-1",
+        "open": "0",
         "reservedFor": "Frosh"
       },
       {
@@ -6733,7 +6733,7 @@
   "2329": {
     "reserved": [
       {
-        "max": "16",
+        "max": "15",
         "open": "0",
         "reservedFor": "Frosh"
       },
@@ -7607,7 +7607,7 @@
         "reservedFor": "Major"
       },
       {
-        "max": "5",
+        "max": "4",
         "open": "0",
         "reservedFor": "Frosh"
       }
@@ -14771,7 +14771,7 @@
     "reserved": [
       {
         "max": "15",
-        "open": "-1",
+        "open": "0",
         "reservedFor": "Frosh"
       }
     ],

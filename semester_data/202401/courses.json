@@ -11413,8 +11413,8 @@
             "credMax": 4,
             "title": "Imperialism",
             "cap": 30,
-            "act": 31,
-            "rem": -1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -14152,8 +14152,8 @@
             "credMax": 1,
             "title": "Voice Class I",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 11,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15432,8 +15432,8 @@
             "credMax": 4,
             "title": "Mixing and Mastering",
             "cap": 16,
-            "act": 10,
-            "rem": 6,
+            "act": 11,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -21688,8 +21688,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23719,8 +23719,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 14,
-            "rem": 85,
+            "act": 15,
+            "rem": 84,
             "attribute": "",
             "timeslots": [
               {

@@ -88,8 +88,8 @@
             "credMax": 4,
             "title": "The United States and East Asia",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -446,8 +446,8 @@
             "credMax": 4,
             "title": "Global Modernism",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1446,8 +1446,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1473,8 +1473,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2110,8 +2110,8 @@
             "credMax": 4,
             "title": "Ecology",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2145,8 +2145,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -4359,8 +4359,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -4659,8 +4659,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 4,
-            "rem": 95,
+            "act": 5,
+            "rem": 94,
             "attribute": "",
             "timeslots": [
               {
@@ -6370,8 +6370,8 @@
             "credMax": 4,
             "title": "Information Theory",
             "cap": 25,
-            "act": 12,
-            "rem": 13,
+            "act": 13,
+            "rem": 12,
             "attribute": "",
             "timeslots": [
               {
@@ -7275,8 +7275,8 @@
             "credMax": 4,
             "title": "The United States and East Asia",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -7482,8 +7482,8 @@
             "credMax": 4,
             "title": "Task Force in Diplomacy and World Affairs",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -7920,8 +7920,8 @@
             "credMax": 4,
             "title": "Applied Econometrics",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -8117,8 +8117,8 @@
             "credMax": 4,
             "title": "International Economics",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8188,8 +8188,8 @@
             "credMax": 4,
             "title": "Economics of Education",
             "cap": 18,
-            "act": 9,
-            "rem": 9,
+            "act": 10,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -8223,8 +8223,8 @@
             "credMax": 4,
             "title": "Behavioral Economics",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -10203,8 +10203,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -11448,8 +11448,8 @@
             "credMax": 4,
             "title": "A History of the Palestine-Israel Question",
             "cap": 30,
-            "act": 34,
-            "rem": -4,
+            "act": 33,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -12079,8 +12079,8 @@
             "credMax": 4,
             "title": "Human Anatomy II",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -12115,8 +12115,8 @@
             "credMax": 1,
             "title": "Human Anatomy II Laboratory",
             "cap": 12,
-            "act": 8,
-            "rem": 4,
+            "act": 7,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13052,7 +13052,7 @@
                   "T",
                   "R"
                 ],
-                "instructor": "Nishu Lal",
+                "instructor": "Ron Buckmire",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 955,
@@ -13078,7 +13078,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Nishu Lal",
+                "instructor": "Ron Buckmire",
                 "location": "",
                 "timeStart": 905,
                 "timeEnd": 1030,
@@ -13337,8 +13337,8 @@
             "credMax": 4,
             "title": "Algebra",
             "cap": 20,
-            "act": 14,
-            "rem": 6,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -13547,8 +13547,8 @@
             "credMax": 4,
             "title": "Introduction to Visual and Critical Studies",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -13791,8 +13791,8 @@
             "credMax": 4,
             "title": "Topics in Emerging Media. Speculative Design",
             "cap": 16,
-            "act": 12,
-            "rem": 4,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -14152,8 +14152,8 @@
             "credMax": 1,
             "title": "Voice Class I",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -15921,8 +15921,8 @@
             "credMax": 1,
             "title": "Piano (One Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -16023,7 +16023,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Cathlene Jean Pineda",
+                "instructor": "Miro Sprague",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -16045,7 +16045,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Cathlene Jean Pineda",
+                "instructor": "Miro Sprague",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
@@ -16269,8 +16269,8 @@
             "credMax": 1,
             "title": "Voice (One Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -16409,8 +16409,8 @@
             "credMax": 0,
             "title": "Jazz and Commercial Voice (Half Hour)",
             "cap": 20,
-            "act": 3,
-            "rem": 17,
+            "act": 4,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -18137,8 +18137,8 @@
             "credMax": 1,
             "title": "Classical Guitar (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -18699,8 +18699,8 @@
             "credMax": 2,
             "title": "Practical Ethics: Case-Based Reasoning",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 14,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -18840,8 +18840,8 @@
             "credMax": 4,
             "title": "Bioethics",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 14,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -21382,8 +21382,8 @@
             "credMax": 4,
             "title": "American Political Thought",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 25,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23818,8 +23818,8 @@
             "credMax": 4,
             "title": "Advanced Spanish",
             "cap": 18,
-            "act": 6,
-            "rem": 12,
+            "act": 7,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -24988,8 +24988,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

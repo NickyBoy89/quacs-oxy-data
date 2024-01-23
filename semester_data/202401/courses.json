@@ -446,8 +446,8 @@
             "credMax": 4,
             "title": "Global Modernism",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1367,8 +1367,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1420,8 +1420,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6131,8 +6131,8 @@
             "credMax": 4,
             "title": "Data Structures",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 25,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -10203,8 +10203,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 18,
-            "act": 9,
-            "rem": 9,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -10310,8 +10310,8 @@
             "credMax": 1,
             "title": "Advanced Conversation II",
             "cap": 18,
-            "act": 7,
-            "rem": 11,
+            "act": 8,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -14690,8 +14690,8 @@
             "credMax": 0,
             "title": "Symphony Orchestra",
             "cap": 12,
-            "act": 5,
-            "rem": 7,
+            "act": 4,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -21241,8 +21241,8 @@
             "credMax": 4,
             "title": "Law and Society",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23157,8 +23157,8 @@
             "credMax": 4,
             "title": "Introduction to Sociology",
             "cap": 30,
-            "act": 28,
-            "rem": 2,
+            "act": 27,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23600,8 +23600,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 17,
-            "rem": 1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -23692,8 +23692,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {

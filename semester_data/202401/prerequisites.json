@@ -927,8 +927,8 @@
     ],
     "reserved": [
       {
-        "max": "1",
-        "open": "1",
+        "max": "0",
+        "open": "0",
         "reservedFor": "Transfer"
       }
     ],
@@ -15482,7 +15482,7 @@
   "2868": {
     "reserved": [
       {
-        "max": "15",
+        "max": "14",
         "open": "0",
         "reservedFor": "Frosh"
       }

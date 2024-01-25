@@ -1367,8 +1367,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1420,8 +1420,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1612,8 +1612,8 @@
             "credMax": 4,
             "title": "Introductory Biology: Ecology, Evolution, and the Environment",
             "cap": 48,
-            "act": 45,
-            "rem": 3,
+            "act": 46,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -1690,8 +1690,8 @@
             "credMax": 0,
             "title": "Organisms on Earth Lab",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8081,8 +8081,8 @@
             "credMax": 4,
             "title": "Free Market Economics: The Austrian Perspective",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -9339,8 +9339,8 @@
             "credMax": 4,
             "title": "History Wars: The Politics of Public Memory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 14,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -9961,8 +9961,8 @@
             "credMax": 4,
             "title": "Democracy, Liberty, and Equality in the American Experience",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -10103,8 +10103,8 @@
             "credMax": 4,
             "title": "Beginning French I",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -10987,8 +10987,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 0,
-            "rem": 5,
+            "act": 1,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -21241,8 +21241,8 @@
             "credMax": 4,
             "title": "Law and Society",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -21516,8 +21516,8 @@
             "credMax": 4,
             "title": "U.S. Public Policy",
             "cap": 18,
-            "act": 20,
-            "rem": -2,
+            "act": 21,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -23508,8 +23508,8 @@
             "credMax": 4,
             "title": "Beginning Spanish I",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -23628,8 +23628,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

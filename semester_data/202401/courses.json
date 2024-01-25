@@ -1928,8 +1928,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -1954,8 +1954,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 16,
-            "rem": -4,
+            "act": 15,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -4359,8 +4359,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 5,
-            "rem": 94,
+            "act": 6,
+            "rem": 93,
             "attribute": "",
             "timeslots": [
               {
@@ -5560,8 +5560,8 @@
             "credMax": 4,
             "title": "The Novel as Philosophy: Recollecting Lost Time",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -6544,8 +6544,8 @@
             "credMax": 1,
             "title": "Experiencing Los Angeles Cultures",
             "cap": 99,
-            "act": 42,
-            "rem": 57,
+            "act": 43,
+            "rem": 56,
             "attribute": "",
             "timeslots": [
               {
@@ -7108,8 +7108,8 @@
             "credMax": 4,
             "title": "International Relations: The Changing Rules of the Game",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -7345,8 +7345,8 @@
             "credMax": 2,
             "title": "Model United Nations",
             "cap": 15,
-            "act": 11,
-            "rem": 4,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -7734,8 +7734,8 @@
             "credMax": 4,
             "title": "Accounting and Financial Analysis",
             "cap": 25,
-            "act": 15,
-            "rem": 10,
+            "act": 16,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -8046,8 +8046,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 14,
-            "rem": 4,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -11023,8 +11023,8 @@
             "credMax": 4,
             "title": "Elementary German II",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -11314,8 +11314,8 @@
             "credMax": 4,
             "title": "United States Culture and Society II",
             "cap": 30,
-            "act": 18,
-            "rem": 12,
+            "act": 17,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -11984,8 +11984,8 @@
             "credMax": 4,
             "title": "Human Anatomy I",
             "cap": 24,
-            "act": 17,
-            "rem": 7,
+            "act": 16,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12019,8 +12019,8 @@
             "credMax": 1,
             "title": "Human Anatomy I Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -12551,8 +12551,8 @@
             "credMax": 4,
             "title": "?Indecent? Liberation in Latin America",
             "cap": 20,
-            "act": 12,
-            "rem": 8,
+            "act": 13,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12768,8 +12768,8 @@
             "credMax": 4,
             "title": "Mathematics as a Liberal Art",
             "cap": 35,
-            "act": 17,
-            "rem": 18,
+            "act": 18,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -13301,8 +13301,8 @@
             "credMax": 4,
             "title": "Complex Analysis",
             "cap": 20,
-            "act": 8,
-            "rem": 12,
+            "act": 7,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -13512,8 +13512,8 @@
             "credMax": 4,
             "title": "Introduction to Digital Design",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -15661,8 +15661,8 @@
             "credMax": 1,
             "title": "Classical Guitar Class (Beginning)",
             "cap": 10,
-            "act": 6,
-            "rem": 4,
+            "act": 7,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -16039,8 +16039,8 @@
             "credMax": 0,
             "title": "Jazz & Commercial Piano (Half Hour)",
             "cap": 4,
-            "act": 0,
-            "rem": 4,
+            "act": 1,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -17847,8 +17847,8 @@
             "credMax": 1,
             "title": "Cello (Half Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {
@@ -17973,8 +17973,8 @@
             "credMax": 0,
             "title": "Classical Double Bass (Half Hour)",
             "cap": 20,
-            "act": 0,
-            "rem": 20,
+            "act": 1,
+            "rem": 19,
             "attribute": "",
             "timeslots": [
               {
@@ -18055,8 +18055,8 @@
             "credMax": 0,
             "title": "Jazz and Commercial Bass (Half Hour)",
             "cap": 12,
-            "act": 0,
-            "rem": 12,
+            "act": 1,
+            "rem": 11,
             "attribute": "",
             "timeslots": [
               {
@@ -19255,8 +19255,8 @@
             "credMax": 1,
             "title": "Beginning Yoga",
             "cap": 25,
-            "act": 19,
-            "rem": 6,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -22204,8 +22204,8 @@
             "credMax": 4,
             "title": "Health Psychology",
             "cap": 18,
-            "act": 12,
-            "rem": 6,
+            "act": 13,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -22275,8 +22275,8 @@
             "credMax": 4,
             "title": "Psycholinguistics",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 19,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -22828,8 +22828,8 @@
             "credMax": 4,
             "title": "How to Live in the Midst of Dying: Religion and Climate Change",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -22863,8 +22863,8 @@
             "credMax": 4,
             "title": "How to Live and Die Well in Buddhist Traditions",
             "cap": 30,
-            "act": 29,
-            "rem": 1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22933,8 +22933,8 @@
             "credMax": 4,
             "title": "?Indecent? Liberation in Latin America",
             "cap": 20,
-            "act": 12,
-            "rem": 8,
+            "act": 13,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -25388,8 +25388,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing. The Body Politic: Writing in the Politics of Pleasure",
             "cap": 16,
-            "act": 9,
-            "rem": 7,
+            "act": 10,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {

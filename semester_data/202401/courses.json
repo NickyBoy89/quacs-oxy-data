@@ -2050,8 +2050,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2076,8 +2076,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 12,
-            "rem": 0,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -4747,8 +4747,8 @@
             "credMax": 4,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -5884,8 +5884,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 24,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5912,8 +5912,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 14,
-            "rem": 1,
+            "act": 15,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6964,8 +6964,8 @@
             "credMax": 4,
             "title": "Inequity and the Law",
             "cap": 35,
-            "act": 14,
-            "rem": 21,
+            "act": 15,
+            "rem": 20,
             "attribute": "",
             "timeslots": [
               {
@@ -7310,8 +7310,8 @@
             "credMax": 4,
             "title": "International Security",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -9040,8 +9040,8 @@
             "credMax": 4,
             "title": "What is Going On in the World and Why Should You Care",
             "cap": 16,
-            "act": 13,
-            "rem": 3,
+            "act": 12,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -9791,8 +9791,8 @@
             "credMax": 4,
             "title": "Is the World Flat? Understanding Globalization and Development",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 9,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12832,8 +12832,8 @@
             "credMax": 4,
             "title": "Unified Precalculus and Calculus 1-B",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -12894,8 +12894,8 @@
             "credMax": 0,
             "title": "Unified Precalculus and Calculus 1-B Laboratory",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 17,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -18733,8 +18733,8 @@
             "credMax": 4,
             "title": "Medieval Arabic-Islamic Philosophy",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -18769,8 +18769,8 @@
             "credMax": 4,
             "title": "Knowledge and Power",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -19023,8 +19023,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19050,8 +19050,8 @@
             "credMax": 0,
             "title": "Spin Class I",
             "cap": 2,
-            "act": 1,
-            "rem": 1,
+            "act": 2,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -21963,8 +21963,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 0,
-            "rem": 5,
+            "act": 1,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -22063,8 +22063,8 @@
             "credMax": 4,
             "title": "Developmental Psychology",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -22399,8 +22399,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 0,
-            "rem": 5,
+            "act": 2,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23326,8 +23326,8 @@
             "credMax": 4,
             "title": "Environmental Sociology",
             "cap": 25,
-            "act": 9,
-            "rem": 16,
+            "act": 10,
+            "rem": 15,
             "attribute": "",
             "timeslots": [
               {
@@ -24961,8 +24961,8 @@
             "credMax": 4,
             "title": "Environment and Society",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {

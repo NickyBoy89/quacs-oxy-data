@@ -2933,8 +2933,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -4491,8 +4491,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -21660,8 +21660,8 @@
             "credMax": 4,
             "title": "Introduction to Psychology",
             "cap": 30,
-            "act": 31,
-            "rem": -1,
+            "act": 30,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22311,8 +22311,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 6,
-            "rem": -1,
+            "act": 7,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {

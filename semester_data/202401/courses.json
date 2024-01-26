@@ -2911,8 +2911,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -17551,8 +17551,8 @@
             "credMax": 1,
             "title": "Violin (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {

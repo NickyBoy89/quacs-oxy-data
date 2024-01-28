@@ -2889,8 +2889,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -3219,8 +3219,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 0,
+            "rem": 99,
             "attribute": "",
             "timeslots": [
               {
@@ -3241,8 +3241,8 @@
             "credMax": 4,
             "title": "Research",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -8438,8 +8438,8 @@
             "credMax": 4,
             "title": "Conflict in Education",
             "cap": 25,
-            "act": 11,
-            "rem": 14,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -15145,8 +15145,8 @@
             "credMax": 1,
             "title": "Keyboard Musicianship II",
             "cap": 6,
-            "act": 3,
-            "rem": 3,
+            "act": 2,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -19023,8 +19023,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 12,
-            "act": 10,
-            "rem": 2,
+            "act": 9,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -19131,8 +19131,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 12,
-            "act": 9,
-            "rem": 3,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -21447,8 +21447,8 @@
             "credMax": 4,
             "title": "Topics in Politics. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -22828,8 +22828,8 @@
             "credMax": 4,
             "title": "How to Live in the Midst of Dying: Religion and Climate Change",
             "cap": 25,
-            "act": 21,
-            "rem": 4,
+            "act": 20,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25155,8 +25155,8 @@
             "credMax": 4,
             "title": "Topics in UEP. Reimagining Public Safety: Debates Over Policing and Criminal Justice",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

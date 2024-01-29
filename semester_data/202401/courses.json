@@ -1988,8 +1988,8 @@
             "credMax": 4,
             "title": "Cell Biology",
             "cap": 36,
-            "act": 37,
-            "rem": -1,
+            "act": 36,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2024,8 +2024,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 14,
-            "rem": -2,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -4591,8 +4591,8 @@
             "credMax": 2,
             "title": "Organometallic Chemistry",
             "cap": 25,
-            "act": 10,
-            "rem": 15,
+            "act": 9,
+            "rem": 16,
             "attribute": "",
             "timeslots": [
               {
@@ -4974,8 +4974,8 @@
             "credMax": 4,
             "title": "Introduction to Cognitive Science",
             "cap": 45,
-            "act": 44,
-            "rem": 1,
+            "act": 43,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {

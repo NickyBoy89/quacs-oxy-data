@@ -1140,8 +1140,8 @@
             "credMax": 4,
             "title": "Advanced Projects/Printmaking",
             "cap": 15,
-            "act": 12,
-            "rem": 3,
+            "act": 13,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -1446,8 +1446,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 31,
-            "rem": 1,
+            "act": 32,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -1499,8 +1499,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -8688,8 +8688,8 @@
             "credMax": 4,
             "title": "Creative Writing: Poetry",
             "cap": 14,
-            "act": 14,
-            "rem": 0,
+            "act": 15,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -11589,8 +11589,8 @@
             "credMax": 4,
             "title": "Topics in History. City of Lights: A Global and Spatial Urban History of Paris",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

@@ -622,8 +622,8 @@
             "credMax": 4,
             "title": "Site-Specific Art",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -2024,8 +2024,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 14,
+            "rem": -2,
             "attribute": "",
             "timeslots": [
               {
@@ -2076,8 +2076,8 @@
             "credMax": 0,
             "title": "Cell Biology Laboratory",
             "cap": 12,
-            "act": 13,
-            "rem": -1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -6436,8 +6436,8 @@
             "subj": "COMP",
             "crse": "371",
             "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Mobile Apps",
             "cap": 25,
             "act": 20,
@@ -11345,8 +11345,8 @@
             "subj": "HIST",
             "crse": "122",
             "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
             "act": 28,
@@ -11373,8 +11373,8 @@
             "subj": "HIST",
             "crse": "122",
             "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
+            "credMin": 0,
+            "credMax": 0,
             "title": "Rise, Fall, and Rebirth: Europe Since the Enlightenment",
             "cap": 30,
             "act": 24,
@@ -11589,8 +11589,8 @@
             "credMax": 4,
             "title": "Topics in History. City of Lights: A Global and Spatial Urban History of Paris",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14325,8 +14325,8 @@
             "credMax": 0,
             "title": "College Chorus",
             "cap": 60,
-            "act": 28,
-            "rem": 32,
+            "act": 27,
+            "rem": 33,
             "attribute": "",
             "timeslots": [
               {
@@ -18663,8 +18663,8 @@
             "credMax": 4,
             "title": "Formal Logic",
             "cap": 35,
-            "act": 34,
-            "rem": 1,
+            "act": 35,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22204,8 +22204,8 @@
             "credMax": 4,
             "title": "Health Psychology",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -23656,8 +23656,8 @@
             "credMax": 4,
             "title": "Beginning Spanish II",
             "cap": 18,
-            "act": 18,
-            "rem": 0,
+            "act": 17,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -23782,8 +23782,8 @@
             "credMax": 4,
             "title": "Intermediate Spanish",
             "cap": 18,
-            "act": 10,
-            "rem": 8,
+            "act": 11,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -24438,8 +24438,8 @@
             "credMax": 1,
             "title": "Beginning Ballet",
             "cap": 25,
-            "act": 22,
-            "rem": 3,
+            "act": 21,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {

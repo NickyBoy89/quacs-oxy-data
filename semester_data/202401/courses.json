@@ -1446,8 +1446,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1499,8 +1499,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6892,8 +6892,8 @@
             "credMax": 4,
             "title": "Somebody?s Watching Me: Everything You Wanted to Know About Conspiracy Theories/Were Afraid to Ask",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -14461,8 +14461,8 @@
             "credMax": 1,
             "title": "Son Jarocho Ensemble",
             "cap": 15,
-            "act": 9,
-            "rem": 6,
+            "act": 10,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -19131,8 +19131,8 @@
             "credMax": 1,
             "title": "Spin Class I",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19821,8 +19821,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Golf",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {

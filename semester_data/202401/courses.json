@@ -3087,8 +3087,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -3883,8 +3883,8 @@
             "credMax": 4,
             "title": "Organic Chemistry I",
             "cap": 20,
-            "act": 20,
-            "rem": 0,
+            "act": 21,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -3911,8 +3911,8 @@
             "credMax": 4,
             "title": "Organic Chemistry I",
             "cap": 20,
-            "act": 16,
-            "rem": 4,
+            "act": 15,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -25388,8 +25388,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing. The Body Politic: Writing in the Politics of Pleasure",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -25451,8 +25451,8 @@
             "credMax": 4,
             "title": "Visual Rhetoric: The Power of Images",
             "cap": 18,
-            "act": 0,
-            "rem": 18,
+            "act": 1,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {

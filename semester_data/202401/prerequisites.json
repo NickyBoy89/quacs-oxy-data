@@ -822,32 +822,6 @@
       }
     }
   },
-  "2053": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "LATN 102",
-          "type": "course"
-        },
-        {
-          "course": "APLV",
-          "type": "course"
-        },
-        {
-          "course": "APLA",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
   "2054": {
     "prerequisites": {
       "course": "LATN 201",

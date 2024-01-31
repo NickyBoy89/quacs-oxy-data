@@ -1525,8 +1525,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 24,
-            "rem": 8,
+            "act": 25,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -1552,8 +1552,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5560,8 +5560,8 @@
             "credMax": 4,
             "title": "The Novel as Philosophy: Recollecting Lost Time",
             "cap": 25,
-            "act": 17,
-            "rem": 8,
+            "act": 18,
+            "rem": 7,
             "attribute": "",
             "timeslots": [
               {
@@ -12459,42 +12459,6 @@
         ]
       },
       {
-        "title": "Topics in Classical Philology (Latin)",
-        "subj": "LATN",
-        "crse": "201",
-        "id": "LATN-201",
-        "sections": [
-          {
-            "crn": 2053,
-            "subj": "LATN",
-            "crse": "201",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Topics in Classical Philology (Latin)",
-            "cap": 15,
-            "act": 3,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Jacob L. Mackey",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "1/19",
-                "dateEnd": "4/27"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Defending the Republic: The Literature of Constitutional Crises, from Cicero to Adams",
         "subj": "LATN",
         "crse": "348",
@@ -14847,8 +14811,8 @@
             "credMax": 4,
             "title": "Music Theory II",
             "cap": 18,
-            "act": 11,
-            "rem": 7,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -14936,8 +14900,8 @@
             "credMax": 0,
             "title": "Music Theory II Musicianship",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -18627,8 +18591,8 @@
             "credMax": 4,
             "title": "Introduction to Philosophy",
             "cap": 25,
-            "act": 24,
-            "rem": 1,
+            "act": 23,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19685,8 +19649,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Basketball",
             "cap": 99,
-            "act": 0,
-            "rem": 99,
+            "act": 1,
+            "rem": 98,
             "attribute": "",
             "timeslots": [
               {
@@ -21750,8 +21714,8 @@
             "credMax": 4,
             "title": "Methods in Psychological Science",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23719,8 +23683,8 @@
             "credMax": 1,
             "title": "Intermediate Conversation II",
             "cap": 99,
-            "act": 11,
-            "rem": 88,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {

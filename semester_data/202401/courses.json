@@ -796,9 +796,13 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "F"
+                ],
                 "instructor": "Yurika Wakamatsu",
                 "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "1/19",
                 "dateEnd": "4/27"
               }
@@ -14323,8 +14327,8 @@
             "credMax": 0,
             "title": "Glee Club (Sopranos/Altos)",
             "cap": 32,
-            "act": 19,
-            "rem": 13,
+            "act": 18,
+            "rem": 14,
             "attribute": "",
             "timeslots": [
               {
@@ -16203,8 +16207,8 @@
             "credMax": 0,
             "title": "Voice (Half Hour)",
             "cap": 20,
-            "act": 2,
-            "rem": 18,
+            "act": 3,
+            "rem": 17,
             "attribute": "",
             "timeslots": [
               {

@@ -1932,8 +1932,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 14,
-            "rem": -2,
+            "act": 13,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -1958,8 +1958,8 @@
             "credMax": 0,
             "title": "Molecular Biology Laboratory",
             "cap": 12,
-            "act": 14,
-            "rem": -2,
+            "act": 15,
+            "rem": -3,
             "attribute": "",
             "timeslots": [
               {
@@ -4451,8 +4451,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -5772,8 +5772,8 @@
             "credMax": 2,
             "title": "Justice and Equity in Technology",
             "cap": 24,
-            "act": 21,
-            "rem": 3,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5888,8 +5888,8 @@
             "credMax": 4,
             "title": "Fundamentals of Computer Science",
             "cap": 24,
-            "act": 23,
-            "rem": 1,
+            "act": 22,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -5916,8 +5916,8 @@
             "credMax": 0,
             "title": "Fundamentals of Computer Science Laboratory",
             "cap": 15,
-            "act": 13,
-            "rem": 2,
+            "act": 12,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -6896,8 +6896,8 @@
             "credMax": 4,
             "title": "Somebody?s Watching Me: Everything You Wanted to Know About Conspiracy Theories/Were Afraid to Ask",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -8303,8 +8303,8 @@
             "credMax": 2,
             "title": "Community Literacy",
             "cap": 25,
-            "act": 20,
-            "rem": 5,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -12630,8 +12630,8 @@
             "credMax": 4,
             "title": "Introduction to Linguistics",
             "cap": 18,
-            "act": 19,
-            "rem": -1,
+            "act": 18,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -13011,8 +13011,8 @@
             "credMax": 4,
             "title": "Calculus 2",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -13038,8 +13038,8 @@
             "credMax": 0,
             "title": "Calculus 2 Laboratory",
             "cap": 25,
-            "act": 18,
-            "rem": 7,
+            "act": 19,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -16071,6 +16071,50 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2987,
+            "subj": "MUSA",
+            "crse": "204",
+            "sec": "03",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Jazz & Commercial Piano (One Hour)",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Miro Sprague",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2986,
+            "subj": "MUSA",
+            "crse": "204",
+            "sec": "04",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Jazz & Commercial Piano (One Hour)",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Miro Sprague",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },
@@ -17221,6 +17265,28 @@
             "cap": 20,
             "act": 1,
             "rem": 19,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Ermuelito Navarro",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2988,
+            "subj": "MUSA",
+            "crse": "245",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Trombone (Half Hour)",
+            "cap": 8,
+            "act": 0,
+            "rem": 8,
             "attribute": "",
             "timeslots": [
               {
@@ -19000,7 +19066,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Delaney Maren Nolin",
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1255,
@@ -19027,7 +19093,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "William W. Morris",
+                "instructor": "Delaney Maren Nolin",
                 "location": "",
                 "timeStart": 1200,
                 "timeEnd": 1255,
@@ -19857,8 +19923,8 @@
             "credMax": 1,
             "title": "Intercollegiate Men's Golf",
             "cap": 99,
-            "act": 8,
-            "rem": 91,
+            "act": 9,
+            "rem": 90,
             "attribute": "",
             "timeslots": [
               {
@@ -20061,8 +20127,8 @@
             "credMax": 1,
             "title": "Intercollegiate Softball",
             "cap": 99,
-            "act": 10,
-            "rem": 89,
+            "act": 12,
+            "rem": 87,
             "attribute": "",
             "timeslots": [
               {
@@ -20197,8 +20263,8 @@
             "credMax": 1,
             "title": "Intercollegiate Women's Swimming and Diving",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 4,
+            "rem": 95,
             "attribute": "",
             "timeslots": [
               {
@@ -24019,8 +24085,8 @@
             "credMax": 4,
             "title": "Port Cities: Latin American Narratives, Connections and (Dis)Encounters",
             "cap": 18,
-            "act": 16,
-            "rem": 2,
+            "act": 15,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -24371,8 +24437,8 @@
             "credMax": 1,
             "title": "Tai Chi",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 22,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -25384,8 +25450,8 @@
             "credMax": 4,
             "title": "The Art of Essay Writing: Writing and the Rhetoric of Independent Film",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {

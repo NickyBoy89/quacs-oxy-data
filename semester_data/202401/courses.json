@@ -2149,8 +2149,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 12,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2175,8 +2175,8 @@
             "credMax": 0,
             "title": "Ecology Laboratory",
             "cap": 12,
-            "act": 11,
-            "rem": 1,
+            "act": 10,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -2599,8 +2599,8 @@
             "credMax": 4,
             "title": "Computational Biology",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -2635,8 +2635,8 @@
             "credMax": 0,
             "title": "Computational Biology Laboratory",
             "cap": 8,
-            "act": 7,
-            "rem": 1,
+            "act": 8,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -5014,8 +5014,8 @@
             "credMax": 4,
             "title": "Introduction to Neuroscience",
             "cap": 24,
-            "act": 24,
-            "rem": 0,
+            "act": 23,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -6896,8 +6896,8 @@
             "credMax": 4,
             "title": "Somebody?s Watching Me: Everything You Wanted to Know About Conspiracy Theories/Were Afraid to Ask",
             "cap": 25,
-            "act": 25,
-            "rem": 0,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -8023,8 +8023,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 13,
-            "rem": 5,
+            "act": 12,
+            "rem": 6,
             "attribute": "",
             "timeslots": [
               {
@@ -8050,8 +8050,8 @@
             "credMax": 4,
             "title": "Economic Data Analysis",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -8192,8 +8192,8 @@
             "credMax": 4,
             "title": "Economics of Education",
             "cap": 18,
-            "act": 8,
-            "rem": 10,
+            "act": 9,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -13724,8 +13724,8 @@
             "credMax": 4,
             "title": "Topics in Media Theory and Practice. Experimental Gamemaking",
             "cap": 16,
-            "act": 14,
-            "rem": 2,
+            "act": 13,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -18803,8 +18803,8 @@
             "credMax": 4,
             "title": "Knowledge and Power",
             "cap": 25,
-            "act": 16,
-            "rem": 9,
+            "act": 15,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {

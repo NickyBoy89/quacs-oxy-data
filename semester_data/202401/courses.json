@@ -1371,8 +1371,8 @@
             "credMax": 4,
             "title": "Marine Biology",
             "cap": 32,
-            "act": 32,
-            "rem": 0,
+            "act": 31,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -1398,8 +1398,8 @@
             "credMax": 0,
             "title": "Marine Biology Laboratory",
             "cap": 16,
-            "act": 16,
-            "rem": 0,
+            "act": 15,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -2408,8 +2408,8 @@
             "credMax": 4,
             "title": "The Biology of Marine Fishes",
             "cap": 16,
-            "act": 15,
-            "rem": 1,
+            "act": 16,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -3135,8 +3135,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 1,
-            "rem": 98,
+            "act": 2,
+            "rem": 97,
             "attribute": "",
             "timeslots": [
               {
@@ -14519,8 +14519,8 @@
             "credMax": 1,
             "title": "Chamber Jazz",
             "cap": 10,
-            "act": 9,
-            "rem": 1,
+            "act": 8,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -16081,8 +16081,8 @@
             "credMax": 1,
             "title": "Jazz & Commercial Piano (One Hour)",
             "cap": 8,
-            "act": 4,
-            "rem": 4,
+            "act": 3,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -16103,8 +16103,8 @@
             "credMax": 0,
             "title": "Jazz & Commercial Piano (One Hour)",
             "cap": 8,
-            "act": 1,
-            "rem": 7,
+            "act": 3,
+            "rem": 5,
             "attribute": "",
             "timeslots": [
               {
@@ -17465,8 +17465,8 @@
             "credMax": 1,
             "title": "Percussion (Half Hour)",
             "cap": 20,
-            "act": 1,
-            "rem": 19,
+            "act": 2,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -18089,8 +18089,8 @@
             "credMax": 0,
             "title": "Jazz and Commercial Bass (Half Hour)",
             "cap": 12,
-            "act": 1,
-            "rem": 11,
+            "act": 2,
+            "rem": 10,
             "attribute": "",
             "timeslots": [
               {
@@ -18595,8 +18595,8 @@
             "credMax": 1,
             "title": "Rock Guitar (Half Hour)",
             "cap": 5,
-            "act": 4,
-            "rem": 1,
+            "act": 3,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -19016,8 +19016,8 @@
             "credMax": 4,
             "title": "Philosophy and Children",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 16,
+            "rem": 2,
             "attribute": "",
             "timeslots": [
               {
@@ -21332,8 +21332,8 @@
             "credMax": 4,
             "title": "California State Government and Politics",
             "cap": 25,
-            "act": 23,
-            "rem": 2,
+            "act": 24,
+            "rem": 1,
             "attribute": "",
             "timeslots": [
               {
@@ -21403,8 +21403,8 @@
             "credMax": 4,
             "title": "American Intelligence and National Security",
             "cap": 25,
-            "act": 13,
-            "rem": 12,
+            "act": 12,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {
@@ -22455,8 +22455,8 @@
             "credMax": 2,
             "title": "Directed Research",
             "cap": 5,
-            "act": 4,
-            "rem": 1,
+            "act": 5,
+            "rem": 0,
             "attribute": "",
             "timeslots": [
               {
@@ -22542,8 +22542,8 @@
             "credMax": 4,
             "title": "Thinking and Reasoning",
             "cap": 16,
-            "act": 8,
-            "rem": 8,
+            "act": 7,
+            "rem": 9,
             "attribute": "",
             "timeslots": [
               {
@@ -23488,8 +23488,8 @@
             "credMax": 4,
             "title": "Punishment",
             "cap": 18,
-            "act": 15,
-            "rem": 3,
+            "act": 14,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -25073,8 +25073,8 @@
             "credMax": 1,
             "title": "Food, Energy, and Sustainability Team",
             "cap": 18,
-            "act": 4,
-            "rem": 14,
+            "act": 5,
+            "rem": 13,
             "attribute": "",
             "timeslots": [
               {

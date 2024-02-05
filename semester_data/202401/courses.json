@@ -3135,8 +3135,8 @@
             "credMax": 2,
             "title": "Research",
             "cap": 99,
-            "act": 2,
-            "rem": 97,
+            "act": 3,
+            "rem": 96,
             "attribute": "",
             "timeslots": [
               {
@@ -15962,6 +15962,28 @@
               {
                 "days": [],
                 "instructor": "Vicki Lyn Ray",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          },
+          {
+            "crn": 2995,
+            "subj": "MUSA",
+            "crse": "202",
+            "sec": "06",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Piano (One Hour)",
+            "cap": 4,
+            "act": 0,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Junko Ueno Garrett",
                 "location": "",
                 "dateStart": "1/19",
                 "dateEnd": "4/27"

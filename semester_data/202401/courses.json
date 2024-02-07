@@ -14343,6 +14343,32 @@
                 "dateEnd": "4/27"
               }
             ]
+          },
+          {
+            "crn": 2996,
+            "subj": "MUSC",
+            "crse": "121",
+            "sec": "02",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Glee Club (Sopranos/Altos)",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Laura Desiree LaVertu",
+                "location": "",
+                "timeStart": 1140,
+                "timeEnd": 1245,
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
           }
         ]
       },

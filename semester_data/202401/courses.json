@@ -11522,8 +11522,8 @@
             "credMax": 4,
             "title": "Imperial China",
             "cap": 25,
-            "act": 27,
-            "rem": -2,
+            "act": 26,
+            "rem": -1,
             "attribute": "",
             "timeslots": [
               {
@@ -24861,7 +24861,7 @@
         ]
       },
       {
-        "title": "Scenic Design",
+        "title": "Scenic Design Studio",
         "subj": "THEA",
         "crse": "275",
         "id": "THEA-275",
@@ -24873,7 +24873,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Scenic Design",
+            "title": "Scenic Design Studio",
             "cap": 14,
             "act": 3,
             "rem": 11,

@@ -6526,6 +6526,36 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Directed Research",
+        "subj": "COMP",
+        "crse": "393",
+        "id": "COMP-393",
+        "sections": [
+          {
+            "crn": 3038,
+            "subj": "COMP",
+            "crse": "393",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 4,
+            "act": 0,
+            "rem": 4,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Anh Thuong Vo",
+                "location": "",
+                "dateStart": "1/19",
+                "dateEnd": "4/27"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

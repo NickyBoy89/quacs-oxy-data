@@ -12,7 +12,7 @@
     ]
   },
   "BIO 130": {
-    "title": "Introduction to Cell and Molecular Biology",
+    "title": "Introductory Biology: Cellular and Molecular Biology",
     "prereqs": [
       "CHEM 120",
       "CHEM 130",
@@ -197,16 +197,16 @@
     ]
   },
   "CHEM 300": {
-    "title": "Physical Chemistry I",
+    "title": "Physical Chemistry: Thermodynamics - Kinetics",
     "prereqs": [
       "APBC",
       "APPE",
+      "CHEM 240",
       "MATH 120",
-      "MATH 124",
       "MATH 128",
       "OXMA",
-      "PHYS 120",
-      "PHYS 125"
+      "PHYS 125",
+      "PHYS 230"
     ]
   },
   "CHEM 301": {
@@ -224,9 +224,14 @@
   "CHEM 340": {
     "title": "Inorganic Chemistry",
     "prereqs": [
+      "CHEM 120",
       "CHEM 130",
       "CHEM 150",
-      "CHEM 240"
+      "CHEM 220",
+      "CHEM 221",
+      "CHEM 240",
+      "CHEM 300",
+      "CHEM 305"
     ]
   },
   "CHIN 301": {
@@ -357,8 +362,7 @@
   "DWA 103": {
     "title": "Introduction to Global Political Economy",
     "prereqs": [
-      "DWA 101",
-      "ECON 101"
+      "DWA 101"
     ]
   },
   "ECON 102": {
@@ -486,9 +490,9 @@
     ]
   },
   "ECON 495": {
-    "title": "Senior Seminar: Industrial Organization",
+    "title": "Senior Seminar: Macroeconomic Policy and Financial Markets",
     "prereqs": [
-      "ECON 250",
+      "ECON 251",
       "ECON 272"
     ]
   },
@@ -983,7 +987,7 @@
     ]
   },
   "PHIL 395": {
-    "title": "Philosophy Seminar. Metaphor and Figurative Language",
+    "title": "Philosophy Seminar",
     "prereqs": [
       "PHIL 101",
       "PHIL 150",
@@ -1185,8 +1189,8 @@
   "PSYC 322L": {
     "title": "Physiological Psychology Laboratory",
     "prereqs": [
-      "PSYC  200",
-      "PSYC  322"
+      "PSYC 200",
+      "PSYC 322"
     ]
   },
   "PSYC 323": {
@@ -1270,7 +1274,9 @@
     "title": "Sociology of Education",
     "prereqs": [
       "OXSO",
-      "SOC  101"
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
     ]
   },
   "SOC 325": {
@@ -1532,7 +1538,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History: Approaches to Art History and Visual Culture",
+    "title": "Seminar in Art History",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -1676,12 +1682,11 @@
     ]
   },
   "CHEM 315": {
-    "title": "Physical Chemistry III",
+    "title": "Physical Chemistry: Spectroscopy, Photochemistry, and Electron Transfer",
     "prereqs": [
       "APPE",
       "CHEM 300",
       "CHEM 305",
-      "MATH 120",
       "PHYS 230"
     ]
   },
@@ -1757,16 +1762,23 @@
     ]
   },
   "COMP 395": {
-    "title": "Special Topics in Computer Science: Data Mining",
+    "title": "Special Topics in Computer Science",
     "prereqs": [
-      "COMP 229"
+      "APCA",
+      "COMP 127",
+      "COMP 131",
+      "COMP 211",
+      "COMP 229",
+      "OXCS"
     ]
   },
   "COMP 277": {
     "title": "Game Design",
     "prereqs": [
-      "APCA",
-      "COMP 131"
+      "COMP 131",
+      "COMP 181",
+      "COMP 229",
+      "OXCS"
     ]
   },
   "COMP 390": {
@@ -1801,7 +1813,7 @@
     ]
   },
   "CTSJ 395": {
-    "title": "Special Topics in Critical Theory and Social Justice: White Queer Theory",
+    "title": "Special Topics in Critical Theory and Social Justice",
     "prereqs": [
       "CTSJ 100",
       "CTSJ 102",
@@ -2890,7 +2902,8 @@
   "COMP 181": {
     "title": "Advanced Programming",
     "prereqs": [
-      "COMP 131"
+      "COMP 131",
+      "OXCS"
     ]
   },
   "COMP 313": {
@@ -2910,7 +2923,8 @@
     "prereqs": [
       "COMP 131",
       "COMP 181",
-      "COMP 229"
+      "COMP 229",
+      "OXCS"
     ]
   },
   "COMP 352": {
@@ -3041,9 +3055,9 @@
     ]
   },
   "GEO 345": {
-    "title": "Petrology",
+    "title": "Mineralogy and Petrology",
     "prereqs": [
-      "GEO 305"
+      "GEO 225"
     ]
   },
   "GERM 301": {
@@ -3148,13 +3162,16 @@
   "MUSC 247": {
     "title": "Pro Tools Fundamentals",
     "prereqs": [
-      "MUSC 148"
+      "MUSC 148",
+      "MUSC 251",
+      "MUSC 251A"
     ]
   },
   "MUSC 251": {
     "title": "Music Theory III",
     "prereqs": [
-      "MUSC 151"
+      "MUSC 151",
+      "OXUE"
     ]
   },
   "MUSC 258": {
@@ -4457,7 +4474,7 @@
     ]
   },
   "DWA 295": {
-    "title": "Topics in Diplomacy and World Affairs. Biden Foreign Policy",
+    "title": "Topics in Diplomacy and World Affairs",
     "prereqs": [
       "DWA 101",
       "POLS 101"
@@ -4670,6 +4687,318 @@
     "title": "Advanced Technical Theater",
     "prereqs": [
       "THEA 120"
+    ]
+  },
+  "AMST 376": {
+    "title": "Slavery, Freedom, and American Memory",
+    "prereqs": [
+      "AMST 101",
+      "AMST 110",
+      "AMST 111",
+      "AMST 215",
+      "AMST 240",
+      "AMST 242",
+      "AMST 246",
+      "AMST 252",
+      "AMST 256",
+      "AMST 260",
+      "AMST 268",
+      "AMST 270",
+      "AMST 272",
+      "AMST 280",
+      "AMST 290",
+      "AMST 295",
+      "AMST 296",
+      "AMST 310",
+      "AMST 320",
+      "AMST 325",
+      "AMST 346",
+      "AMST 375",
+      "AMST 390",
+      "BLST 101",
+      "BLST 240",
+      "BLST 242",
+      "BLST 252",
+      "BLST 256",
+      "BLST 258",
+      "BLST 268",
+      "BLST 325",
+      "BLST 352"
+    ]
+  },
+  "BLST 376": {
+    "title": "Slavery, Freedom, and American Memory",
+    "prereqs": [
+      "AMST 101",
+      "AMST 111",
+      "AMST 215",
+      "AMST 240",
+      "AMST 242",
+      "AMST 246",
+      "AMST 256",
+      "AMST 260",
+      "AMST 268",
+      "AMST 269",
+      "AMST 270",
+      "AMST 272",
+      "AMST 280",
+      "AMST 290",
+      "AMST 295",
+      "AMST 310",
+      "AMST 320",
+      "AMST 325",
+      "AMST 346",
+      "AMST 375",
+      "BLST 101",
+      "BLST 240",
+      "BLST 242",
+      "BLST 256",
+      "BLST 258",
+      "BLST 268",
+      "BLST 325",
+      "BLST 352",
+      "BLST 375"
+    ]
+  },
+  "COGS 295": {
+    "title": "Topics in Cognitive Science",
+    "prereqs": [
+      "COGS 101",
+      "COGS 104",
+      "COGS 210",
+      "COGS 230",
+      "COGS 242",
+      "COGS 301",
+      "COGS 310",
+      "COGS 320",
+      "COGS 330",
+      "COGS 343",
+      "COGS 395",
+      "COGS 490"
+    ]
+  },
+  "COMP 340": {
+    "title": "Human Computer Interaction",
+    "prereqs": [
+      "APCA",
+      "COGS 101",
+      "COMP 131",
+      "COMP 181",
+      "COMP 229",
+      "OXCS"
+    ]
+  },
+  "ENGL 330": {
+    "title": "Colonialism and the Definition of the Human in 18th-Century British Literature",
+    "prereqs": [
+      "ENGL 106",
+      "ENGL 189",
+      "ENGL 220",
+      "ENGL 267",
+      "ENGL 280",
+      "ENGL 287",
+      "ENGL 288",
+      "ENGL 289",
+      "ENGL 290"
+    ]
+  },
+  "FREN 363": {
+    "title": "Representations of French Colonial History",
+    "prereqs": [
+      "FREN 202",
+      "OLFR"
+    ]
+  },
+  "GEO 380": {
+    "title": "Integrative Topics in Geology",
+    "prereqs": [
+      "GEO 105",
+      "GEO 210",
+      "GEO 215",
+      "GEO 220",
+      "GEO 225",
+      "GEO 235",
+      "GEO 245",
+      "GEO 255",
+      "GEO 295"
+    ]
+  },
+  "HIST 312": {
+    "title": "Race, Rights, and Revolution in the Atlantic World",
+    "prereqs": [
+      "HIST 101",
+      "HIST 102",
+      "HIST 121",
+      "HIST 122",
+      "HIST 141",
+      "HIST 150",
+      "HIST 151",
+      "HIST 182",
+      "HIST 183",
+      "HIST 206",
+      "HIST 208",
+      "HIST 209",
+      "HIST 210",
+      "HIST 213",
+      "HIST 216",
+      "HIST 220",
+      "HIST 223",
+      "HIST 224",
+      "HIST 226",
+      "HIST 230",
+      "HIST 234",
+      "HIST 235",
+      "HIST 236",
+      "HIST 237",
+      "HIST 242",
+      "HIST 243",
+      "HIST 245",
+      "HIST 246",
+      "HIST 247",
+      "HIST 248",
+      "HIST 249",
+      "HIST 252",
+      "HIST 253",
+      "HIST 258",
+      "HIST 271",
+      "HIST 274",
+      "HIST 277",
+      "HIST 278",
+      "HIST 282",
+      "HIST 283",
+      "HIST 295",
+      "HIST 300",
+      "HIST 304",
+      "HIST 306",
+      "HIST 307",
+      "HIST 309",
+      "HIST 328",
+      "HIST 330",
+      "HIST 336",
+      "HIST 337",
+      "HIST 344",
+      "HIST 345",
+      "HIST 353",
+      "HIST 354",
+      "HIST 355",
+      "HIST 357",
+      "HIST 359",
+      "HIST 376",
+      "HIST 385",
+      "HIST 390",
+      "HIST 395",
+      "HIST 490",
+      "HIST 495"
+    ]
+  },
+  "KINE 308": {
+    "title": "Diet, Disease, and Exercise",
+    "prereqs": [
+      "CHEM 120",
+      "KINE 307"
+    ]
+  },
+  "MATH 354": {
+    "title": "Set Theory and Foundations of Mathematics",
+    "prereqs": [
+      "COGS 110",
+      "MATH 210",
+      "MATH 214",
+      "PHIL 225"
+    ]
+  },
+  "MATH 395": {
+    "title": "Special Topics in Advanced Mathematics",
+    "prereqs": [
+      "MATH 300",
+      "MATH 310",
+      "MATH 312",
+      "MATH 320",
+      "MATH 322",
+      "MATH 330",
+      "MATH 332",
+      "MATH 340",
+      "MATH 342",
+      "MATH 350",
+      "MATH 354",
+      "MATH 360",
+      "MATH 362",
+      "MATH 370",
+      "MATH 372",
+      "MATH 380",
+      "MATH 382",
+      "MATH 393",
+      "MATH 397"
+    ]
+  },
+  "MUSC 246": {
+    "title": "Live Sound Engineering",
+    "prereqs": [
+      "MUSC 148"
+    ]
+  },
+  "MUSC 270": {
+    "title": "Music Podcasting",
+    "prereqs": [
+      "MUSC 151",
+      "MUSC 260",
+      "OXUE"
+    ]
+  },
+  "PHYS 261": {
+    "title": "Simulations in Physics",
+    "prereqs": [
+      "APPE",
+      "APPM",
+      "COMP 131",
+      "OXCS",
+      "OXPE",
+      "PHYS 110",
+      "PHYS 115",
+      "PHYS 120",
+      "PHYS 125",
+      "PHYS 230"
+    ]
+  },
+  "PUBH 220": {
+    "title": "Public Health Nutrition",
+    "prereqs": [
+      "PUBH 203"
+    ]
+  },
+  "SOC 350": {
+    "title": "Social Movements and Revolutions",
+    "prereqs": [
+      "OXSO",
+      "POLS 101",
+      "SOC 101",
+      "SOC 102",
+      "SOC 105"
+    ]
+  },
+  "SPAN 382": {
+    "title": "Contemporary Mexican Novel",
+    "prereqs": [
+      "SPAN 300",
+      "SPAN 301",
+      "SPAN 302",
+      "SPAN 303",
+      "SPAN 304",
+      "SPAN 312",
+      "SPAN 313",
+      "SPAN 314",
+      "SPAN 316",
+      "SPAN 320",
+      "SPAN 340",
+      "SPAN 341",
+      "SPAN 351",
+      "SPAN 353",
+      "SPAN 362",
+      "SPAN 363",
+      "SPAN 377",
+      "SPAN 378",
+      "SPAN 379",
+      "SPAN 383"
     ]
   }
 }

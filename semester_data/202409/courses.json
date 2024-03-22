@@ -424,14 +424,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Samuel Frederic Luterbacher",
                 "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -460,14 +459,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Samuel Frederic Luterbacher",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1450,
+                "timeStart": 1505,
+                "timeEnd": 1630,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -566,13 +564,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Sami Siegelbaum",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -650,7 +648,7 @@
         ]
       },
       {
-        "title": "Seminar in Art History",
+        "title": "Seminar in Art History. Thinking about Art",
         "subj": "ARTH",
         "crse": "390",
         "id": "ARTH-390",
@@ -662,7 +660,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Seminar in Art History",
+            "title": "Seminar in Art History. Thinking about Art",
             "cap": 15,
             "act": 0,
             "rem": 15,
@@ -677,6 +675,40 @@
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Curatorial Seminar in Art History",
+        "subj": "ARTH",
+        "crse": "391",
+        "id": "ARTH-391",
+        "sections": [
+          {
+            "crn": 1797,
+            "subj": "ARTH",
+            "crse": "391",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Curatorial Seminar in Art History",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "F"
+                ],
+                "instructor": "Instructor-TBD",
+                "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1800,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

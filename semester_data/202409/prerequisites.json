@@ -10243,14 +10243,19 @@
         "reservedFor": "Major"
       },
       {
-        "max": "5",
-        "open": "5",
+        "max": "8",
+        "open": "8",
         "reservedFor": "Major"
       },
       {
-        "max": "10",
-        "open": "10",
+        "max": "9",
+        "open": "9",
         "reservedFor": "Frosh"
+      },
+      {
+        "max": "3",
+        "open": "3",
+        "reservedFor": "Transfer"
       }
     ],
     "restrictions": {
@@ -11888,58 +11893,6 @@
         "max": "4",
         "open": "4",
         "reservedFor": "Transfer"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1549": {
-    "reserved": [
-      {
-        "max": "5",
-        "open": "5",
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": "3",
-        "open": "3",
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": "1",
-        "open": "1",
-        "reservedFor": "Major"
-      }
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate"
-        ]
-      }
-    }
-  },
-  "1550": {
-    "reserved": [
-      {
-        "max": "5",
-        "open": "5",
-        "reservedFor": "Frosh"
-      },
-      {
-        "max": "3",
-        "open": "3",
-        "reservedFor": "Transfer"
-      },
-      {
-        "max": "2",
-        "open": "2",
-        "reservedFor": "Major"
       }
     ],
     "restrictions": {
@@ -17781,5 +17734,65 @@
       }
     }
   },
-  "1806": {}
+  "1806": {},
+  "1807": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "MUSC 151",
+          "type": "course"
+        },
+        {
+          "course": "OXUE",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1808": {
+    "reserved": [
+      {
+        "max": "4",
+        "open": "4",
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": "10",
+        "open": "10",
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": "2",
+        "open": "2",
+        "reservedFor": "Major"
+      }
+    ]
+  },
+  "1809": {
+    "reserved": [
+      {
+        "max": "3",
+        "open": "3",
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": "2",
+        "open": "2",
+        "reservedFor": "Major"
+      }
+    ]
+  }
 }

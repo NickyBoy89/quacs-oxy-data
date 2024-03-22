@@ -18242,8 +18242,8 @@
                 ],
                 "instructor": "Susan Marie Blake",
                 "location": "",
-                "timeStart": 1500,
-                "timeEnd": 1555,
+                "timeStart": 1355,
+                "timeEnd": 1450,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -21483,6 +21483,42 @@
     "code": "RELS",
     "courses": [
       {
+        "title": "Religion and Horror: Gods, Ghosts, Demons, and Monsters",
+        "subj": "RELS",
+        "crse": "113",
+        "id": "RELS-113",
+        "sections": [
+          {
+            "crn": 1808,
+            "subj": "RELS",
+            "crse": "113",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Religion and Horror: Gods, Ghosts, Demons, and Monsters",
+            "cap": 30,
+            "act": 0,
+            "rem": 30,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Kirsten Erin Boles",
+                "location": "",
+                "timeStart": 1040,
+                "timeEnd": 1135,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Judaism from the Middle Ages to Modernity",
         "subj": "RELS",
         "crse": "130",
@@ -21507,80 +21543,10 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Chelsie May",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Holy Sh*t!: Engaging the Materiality of Religion",
-        "subj": "RELS",
-        "crse": "205",
-        "id": "RELS-205",
-        "sections": [
-          {
-            "crn": 1549,
-            "subj": "RELS",
-            "crse": "205",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Holy Sh*t!: Engaging the Materiality of Religion",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Kabbalah & Jewish Mysticism",
-        "subj": "RELS",
-        "crse": "207",
-        "id": "RELS-207",
-        "sections": [
-          {
-            "crn": 1550,
-            "subj": "RELS",
-            "crse": "207",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Kabbalah & Jewish Mysticism",
-            "cap": 25,
-            "act": 0,
-            "rem": 25,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Instructor Unassigned",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -21613,6 +21579,41 @@
                   "R"
                 ],
                 "instructor": "Sohaib Ibrahim Khan",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Jerusalem: A Holy City",
+        "subj": "RELS",
+        "crse": "212",
+        "id": "RELS-212",
+        "sections": [
+          {
+            "crn": 1809,
+            "subj": "RELS",
+            "crse": "212",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Jerusalem: A Holy City",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Chelsie May",
                 "location": "",
                 "timeStart": 1005,
                 "timeEnd": 1130,
@@ -21763,6 +21764,41 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eastern European Myth and Folklore",
+        "subj": "RUSN",
+        "crse": "333",
+        "id": "RUSN-333",
+        "sections": [
+          {
+            "crn": 1810,
+            "subj": "RUSN",
+            "crse": "333",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "Eastern European Myth and Folklore",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Julia Yuliya Sushytska",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

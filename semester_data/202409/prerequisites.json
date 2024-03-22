@@ -17690,5 +17690,96 @@
         ]
       }
     }
-  }
+  },
+  "1803": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "FREN 102",
+          "type": "course"
+        },
+        {
+          "course": "FR",
+          "type": "course"
+        },
+        {
+          "course": "FL",
+          "type": "course"
+        },
+        {
+          "course": "OXFR",
+          "type": "course"
+        },
+        {
+          "course": "APFR",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1804": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "FREN 102",
+          "type": "course"
+        },
+        {
+          "course": "FR",
+          "type": "course"
+        },
+        {
+          "course": "FL",
+          "type": "course"
+        },
+        {
+          "course": "OXFR",
+          "type": "course"
+        },
+        {
+          "course": "APFR",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1805": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "LATN 101",
+          "type": "course"
+        },
+        {
+          "course": "OXLA",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1806": {}
 }

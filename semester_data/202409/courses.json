@@ -9415,6 +9415,41 @@
         ]
       },
       {
+        "title": "Intermediate Conversation I",
+        "subj": "FREN",
+        "crse": "151",
+        "id": "FREN-151",
+        "sections": [
+          {
+            "crn": 1803,
+            "subj": "FREN",
+            "crse": "151",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Intermediate Conversation I",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Susan Grayson",
+                "location": "",
+                "timeStart": 1800,
+                "timeEnd": 1855,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Intermediate French",
         "subj": "FREN",
         "crse": "201",
@@ -9443,6 +9478,41 @@
                 "location": "",
                 "timeStart": 1250,
                 "timeEnd": 1345,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Advanced Conversation I",
+        "subj": "FREN",
+        "crse": "251",
+        "id": "FREN-251",
+        "sections": [
+          {
+            "crn": 1804,
+            "subj": "FREN",
+            "crse": "251",
+            "sec": "00",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Advanced Conversation I",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Susan Grayson",
+                "location": "",
+                "timeStart": 1605,
+                "timeEnd": 1700,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -11513,6 +11583,83 @@
     ]
   },
   {
+    "name": "Latin",
+    "code": "LATN",
+    "courses": [
+      {
+        "title": "Elementary and Intermediate Latin",
+        "subj": "LATN",
+        "crse": "102",
+        "id": "LATN-102",
+        "sections": [
+          {
+            "crn": 1805,
+            "subj": "LATN",
+            "crse": "102",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Elementary and Intermediate Latin",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Madeline Thayer",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Hero vs Death and God (The Early Years)",
+        "subj": "LATN",
+        "crse": "390",
+        "id": "LATN-390",
+        "sections": [
+          {
+            "crn": 1806,
+            "subj": "LATN",
+            "crse": "390",
+            "sec": "00",
+            "credMin": 5,
+            "credMax": 5,
+            "title": "The Hero vs Death and God (The Early Years)",
+            "cap": 15,
+            "act": 0,
+            "rem": 15,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W"
+                ],
+                "instructor": "Damian Alexander Stocking",
+                "location": "",
+                "timeStart": 1740,
+                "timeEnd": 1905,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Latino/a and Latin Amer Stud",
     "code": "LLAS",
     "courses": [
@@ -13390,7 +13537,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Alexander Wesley Zhu",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 935,
                 "timeEnd": 1030,
@@ -13417,7 +13564,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Angela Jee Park",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
@@ -13444,7 +13591,7 @@
                   "M",
                   "W"
                 ],
-                "instructor": "Alexander Wesley Zhu",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
@@ -13763,7 +13910,7 @@
                 ],
                 "instructor": "Laura Desiree LaVertu",
                 "location": "",
-                "timeStart": 1145,
+                "timeStart": 1140,
                 "timeEnd": 1245,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -14655,6 +14802,41 @@
                   "T"
                 ],
                 "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conducting",
+        "subj": "MUSC",
+        "crse": "272",
+        "id": "MUSC-272",
+        "sections": [
+          {
+            "crn": 1807,
+            "subj": "MUSC",
+            "crse": "272",
+            "sec": "00",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Conducting",
+            "cap": 12,
+            "act": 0,
+            "rem": 12,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Chris Y. Kim",
                 "location": "",
                 "timeStart": 1330,
                 "timeEnd": 1455,

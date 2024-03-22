@@ -1445,16 +1445,6 @@
       }
     }
   },
-  "1057": {
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1058": {
     "prerequisites": {
       "course": "BLST 101",
@@ -3004,32 +2994,6 @@
       }
     }
   },
-  "1144": {
-    "corequisites": [
-      "BIO-349L"
-    ],
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "CHEM 220",
-          "type": "course"
-        },
-        {
-          "course": "BIO 130",
-          "type": "course"
-        }
-      ],
-      "type": "and"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1145": {
     "corequisites": [
       "BIO-349"
@@ -3044,19 +3008,6 @@
     }
   },
   "1146": {
-    "corequisites": [
-      "BIO-349"
-    ],
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
-  "1147": {
     "corequisites": [
       "BIO-349"
     ],
@@ -5354,6 +5305,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": "10",
+        "open": "10",
+        "reservedFor": "Frosh"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -5455,6 +5413,13 @@
       ],
       "type": "or"
     },
+    "reserved": [
+      {
+        "max": "8",
+        "open": "8",
+        "reservedFor": "Major"
+      }
+    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -17550,6 +17515,180 @@
     "prerequisites": {
       "course": "PUBH 203",
       "type": "course"
+    }
+  },
+  "1797": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "ARTH 150",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 160",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 170",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 180",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 257",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 266",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 268",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 275",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 283",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 285",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 287",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 288",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 289",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 290",
+          "type": "course"
+        },
+        {
+          "course": "ARTH 295",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1798": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1799": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1800": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1801": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 131",
+          "type": "course"
+        },
+        {
+          "course": "COMP 181",
+          "type": "course"
+        },
+        {
+          "course": "COMP 229",
+          "type": "course"
+        },
+        {
+          "course": "APCA",
+          "type": "course"
+        },
+        {
+          "course": "OXCS",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1802": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "COMP 229",
+          "type": "course"
+        },
+        {
+          "nested": [
+            {
+              "course": "COMP 131",
+              "type": "course"
+            },
+            {
+              "course": "APCA",
+              "type": "course"
+            },
+            {
+              "course": "OXCS",
+              "type": "course"
+            }
+          ],
+          "type": "or"
+        }
+      ],
+      "type": "and"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
     }
   }
 }

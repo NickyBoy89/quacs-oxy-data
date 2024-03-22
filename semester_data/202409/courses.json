@@ -705,7 +705,7 @@
                 "days": [
                   "F"
                 ],
-                "instructor": "Instructor-TBD",
+                "instructor": "Dhyandra Lawson",
                 "location": "",
                 "timeStart": 1500,
                 "timeEnd": 1800,
@@ -2328,7 +2328,7 @@
             "crn": 1143,
             "subj": "BIO",
             "crse": "349",
-            "sec": "01",
+            "sec": "00",
             "credMin": 4,
             "credMax": 4,
             "title": "Biochemistry I",
@@ -2343,35 +2343,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Karen Marie Molinder",
-                "location": "",
-                "timeStart": 1040,
-                "timeEnd": 1135,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1144,
-            "subj": "BIO",
-            "crse": "349",
-            "sec": "02",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Biochemistry I",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "M",
-                  "W",
-                  "F"
-                ],
-                "instructor": "Karen Marie Molinder",
+                "instructor": "Gary Craig Schindelman",
                 "location": "",
                 "timeStart": 1145,
                 "timeEnd": 1240,
@@ -2405,7 +2377,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Karen Marie Molinder",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1650,
@@ -2431,36 +2403,10 @@
                 "days": [
                   "R"
                 ],
-                "instructor": "Karen Marie Molinder",
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1147,
-            "subj": "BIO",
-            "crse": "349L",
-            "sec": "03",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Biochemistry I Laboratory",
-            "cap": 8,
-            "act": 0,
-            "rem": 8,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Karen Marie Molinder",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -3413,41 +3359,6 @@
         ]
       },
       {
-        "title": "Special Topics in Black Studies",
-        "subj": "BLST",
-        "crse": "395",
-        "id": "BLST-395",
-        "sections": [
-          {
-            "crn": 1057,
-            "subj": "BLST",
-            "crse": "395",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Special Topics in Black Studies",
-            "cap": 20,
-            "act": 0,
-            "rem": 20,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Erica Louise Ball",
-                "location": "",
-                "timeStart": 1700,
-                "timeEnd": 1825,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "title": "Black Studies Senior Seminar",
         "subj": "BLST",
         "crse": "490",
@@ -3989,6 +3900,28 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1798,
+            "subj": "CHEM",
+            "crse": "195",
+            "sec": "07",
+            "credMin": 1,
+            "credMax": 1,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -4497,6 +4430,28 @@
                 "dateEnd": "11/20"
               }
             ]
+          },
+          {
+            "crn": 1799,
+            "subj": "CHEM",
+            "crse": "295",
+            "sec": "07",
+            "credMin": 2,
+            "credMax": 2,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
           }
         ]
       },
@@ -4804,6 +4759,28 @@
               {
                 "days": [],
                 "instructor": "Andrew K. Udit",
+                "location": "",
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1800,
+            "subj": "CHEM",
+            "crse": "395",
+            "sec": "07",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Directed Research",
+            "cap": 99,
+            "act": 0,
+            "rem": 99,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [],
+                "instructor": "Instructor Unassigned",
                 "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -5308,7 +5285,7 @@
             "timeslots": [
               {
                 "days": [],
-                "instructor": "Jan Chien-Chen Lin",
+                "instructor": "Carmel A Levitan",
                 "location": "",
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
@@ -5899,9 +5876,14 @@
             "attribute": "",
             "timeslots": [
               {
-                "days": [],
+                "days": [
+                  "M",
+                  "W"
+                ],
                 "instructor": "Meimei Zhang",
                 "location": "",
+                "timeStart": 1500,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6484,14 +6466,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W",
-                  "F"
+                  "T",
+                  "R"
                 ],
                 "instructor": "Eugenio Grippo",
                 "location": "",
-                "timeStart": 1145,
-                "timeEnd": 1240,
+                "timeStart": 1330,
+                "timeEnd": 1455,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6524,8 +6505,8 @@
                 ],
                 "instructor": "Eugenio Grippo",
                 "location": "",
-                "timeStart": 1250,
-                "timeEnd": 1415,
+                "timeStart": 1355,
+                "timeEnd": 1520,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6550,8 +6531,8 @@
                 ],
                 "instructor": "Eugenio Grippo",
                 "location": "",
-                "timeStart": 1425,
-                "timeEnd": 1550,
+                "timeStart": 1530,
+                "timeEnd": 1655,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6658,6 +6639,76 @@
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Practicum in Computer Science",
+        "subj": "COMP",
+        "crse": "367",
+        "id": "COMP-367",
+        "sections": [
+          {
+            "crn": 1801,
+            "subj": "COMP",
+            "crse": "367",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Practicum in Computer Science",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mobile Apps",
+        "subj": "COMP",
+        "crse": "371",
+        "id": "COMP-371",
+        "sections": [
+          {
+            "crn": 1802,
+            "subj": "COMP",
+            "crse": "371",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Mobile Apps",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Sheldon Elias Schiffer",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

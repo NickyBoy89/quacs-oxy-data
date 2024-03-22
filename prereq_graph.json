@@ -1538,7 +1538,7 @@
     ]
   },
   "ARTH 390": {
-    "title": "Seminar in Art History",
+    "title": "Seminar in Art History. Thinking about Art",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -2778,7 +2778,7 @@
     ]
   },
   "ARTH 391": {
-    "title": "Curatorial Seminar. Drawing from Life and the Imagination: 17th-century Dutch Drawings",
+    "title": "Curatorial Seminar in Art History",
     "prereqs": [
       "ARTH 150",
       "ARTH 160",
@@ -4470,7 +4470,8 @@
     "prereqs": [
       "APCA",
       "COMP 131",
-      "COMP 229"
+      "COMP 229",
+      "OXCS"
     ]
   },
   "DWA 295": {
@@ -4782,6 +4783,16 @@
     "prereqs": [
       "APCA",
       "COGS 101",
+      "COMP 131",
+      "COMP 181",
+      "COMP 229",
+      "OXCS"
+    ]
+  },
+  "COMP 367": {
+    "title": "Practicum in Computer Science",
+    "prereqs": [
+      "APCA",
       "COMP 131",
       "COMP 181",
       "COMP 229",

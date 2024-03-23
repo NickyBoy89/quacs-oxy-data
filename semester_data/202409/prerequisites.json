@@ -17021,6 +17021,9 @@
   },
   "1790": {},
   "1791": {
+    "corequisites": [
+      "GEO-380L"
+    ],
     "prerequisites": {
       "nested": [
         {
@@ -17849,5 +17852,123 @@
       "type": "or"
     }
   },
-  "1815": {}
+  "1815": {},
+  "1816": {
+    "corequisites": [
+      "GEO-380"
+    ],
+    "prerequisites": {
+      "nested": [
+        {
+          "nested": [
+            {
+              "course": "GEO 105",
+              "type": "course"
+            },
+            {
+              "nested": [
+                {
+                  "course": "GEO 210",
+                  "type": "course"
+                },
+                {
+                  "course": "GEO 215",
+                  "type": "course"
+                }
+              ],
+              "type": "and"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 220",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 225",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 235",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 245",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 255",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        },
+        {
+          "nested": [
+            {
+              "course": "GEO 210",
+              "type": "course"
+            },
+            {
+              "course": "GEO 295",
+              "type": "course"
+            }
+          ],
+          "type": "and"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  }
 }

@@ -10066,6 +10066,40 @@
         ]
       },
       {
+        "title": "Integrative Topics in Geology Laboratory",
+        "subj": "GEO",
+        "crse": "380L",
+        "id": "GEO-380L",
+        "sections": [
+          {
+            "crn": 1816,
+            "subj": "GEO",
+            "crse": "380L",
+            "sec": "00",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Integrative Topics in Geology Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Natasha Sekhon",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Directed Research",
         "subj": "GEO",
         "crse": "395",

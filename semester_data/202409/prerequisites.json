@@ -14849,29 +14849,6 @@
       }
     }
   },
-  "1688": {
-    "prerequisites": {
-      "nested": [
-        {
-          "course": "THEA 120",
-          "type": "course"
-        },
-        {
-          "course": "THEA 175",
-          "type": "course"
-        }
-      ],
-      "type": "or"
-    },
-    "restrictions": {
-      "classification": {
-        "may_not_be": [
-          "Graduate",
-          "Frosh"
-        ]
-      }
-    }
-  },
   "1689": {
     "prerequisites": {
       "course": "THEA 175",
@@ -17794,5 +17771,83 @@
         "reservedFor": "Major"
       }
     ]
-  }
+  },
+  "1810": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "RUSN 202",
+          "type": "course"
+        },
+        {
+          "course": "OXRU",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    },
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate",
+          "Frosh"
+        ]
+      }
+    }
+  },
+  "1812": {
+    "reserved": [
+      {
+        "max": "3",
+        "open": "3",
+        "reservedFor": "Transfer"
+      },
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Frosh"
+      },
+      {
+        "max": "3",
+        "open": "3",
+        "reservedFor": "Major"
+      }
+    ]
+  },
+  "1813": {
+    "reserved": [
+      {
+        "max": "5",
+        "open": "5",
+        "reservedFor": "Major"
+      }
+    ],
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
+        ]
+      }
+    }
+  },
+  "1814": {
+    "prerequisites": {
+      "nested": [
+        {
+          "course": "UEP 101",
+          "type": "course"
+        },
+        {
+          "course": "POLS 101",
+          "type": "course"
+        },
+        {
+          "course": "ECON 101",
+          "type": "course"
+        }
+      ],
+      "type": "or"
+    }
+  },
+  "1815": {}
 }

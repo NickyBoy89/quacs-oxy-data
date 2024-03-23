@@ -439,6 +439,42 @@
         ]
       },
       {
+        "title": "Global Modernism",
+        "subj": "ARTH",
+        "crse": "180",
+        "id": "ARTH-180",
+        "sections": [
+          {
+            "crn": 1813,
+            "subj": "ARTH",
+            "crse": "180",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Global Modernism",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "M",
+                  "W",
+                  "F"
+                ],
+                "instructor": "Sami Siegelbaum",
+                "location": "",
+                "timeStart": 1355,
+                "timeEnd": 1450,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Ways of Looking and Making",
         "subj": "ARTH",
         "crse": "201",
@@ -529,13 +565,13 @@
             "timeslots": [
               {
                 "days": [
-                  "T",
-                  "R"
+                  "M",
+                  "W"
                 ],
                 "instructor": "Sami Siegelbaum",
                 "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
+                "timeStart": 1605,
+                "timeEnd": 1730,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -569,8 +605,8 @@
                 ],
                 "instructor": "Sami Siegelbaum",
                 "location": "",
-                "timeStart": 1605,
-                "timeEnd": 1730,
+                "timeStart": 1740,
+                "timeEnd": 1905,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -21555,6 +21591,41 @@
         ]
       },
       {
+        "title": "Black Power and Jews, Black Power and Palestine",
+        "subj": "RELS",
+        "crse": "208",
+        "id": "RELS-208",
+        "sections": [
+          {
+            "crn": 1812,
+            "subj": "RELS",
+            "crse": "208",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Black Power and Jews, Black Power and Palestine",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Chelsie May",
+                "location": "",
+                "timeStart": 1505,
+                "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "God and Money: Religion in the Marketplace",
         "subj": "RELS",
         "crse": "210",
@@ -22093,9 +22164,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "Sociology of Education",
-            "cap": 28,
+            "cap": 18,
             "act": 0,
-            "rem": 28,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -22928,9 +22999,9 @@
             "credMin": 4,
             "credMax": 4,
             "title": "On and Beyond the Stage: Introduction to Theater and Performance Studies",
-            "cap": 20,
+            "cap": 18,
             "act": 0,
-            "rem": 20,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -23086,9 +23157,9 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Production Laboratory",
-            "cap": 10,
+            "cap": 4,
             "act": 0,
-            "rem": 10,
+            "rem": 4,
             "attribute": "",
             "timeslots": [
               {
@@ -23108,9 +23179,9 @@
             "credMin": 1,
             "credMax": 1,
             "title": "Production Laboratory",
-            "cap": 6,
+            "cap": 3,
             "act": 0,
-            "rem": 6,
+            "rem": 3,
             "attribute": "",
             "timeslots": [
               {
@@ -23328,7 +23399,7 @@
         ]
       },
       {
-        "title": "Voices in American Theater",
+        "title": "Voices/Amer Theater. Looking for August: Critical Exploration/Art, Life, and Legacy of August Wilson",
         "subj": "THEA",
         "crse": "201",
         "id": "THEA-201",
@@ -23338,12 +23409,12 @@
             "subj": "THEA",
             "crse": "201",
             "sec": "00",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Voices in American Theater",
-            "cap": 14,
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Voices/Amer Theater. Looking for August: Critical Exploration/Art, Life, and Legacy of August Wilson",
+            "cap": 18,
             "act": 0,
-            "rem": 14,
+            "rem": 18,
             "attribute": "",
             "timeslots": [
               {
@@ -23612,7 +23683,7 @@
                   "W",
                   "F"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Xinyuan Li",
                 "location": "",
                 "timeStart": 1040,
                 "timeEnd": 1135,
@@ -23668,41 +23739,6 @@
                 "days": [],
                 "instructor": "Will Power",
                 "location": "",
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Lighting Design",
-        "subj": "THEA",
-        "crse": "325",
-        "id": "THEA-325",
-        "sections": [
-          {
-            "crn": 1688,
-            "subj": "THEA",
-            "crse": "325",
-            "sec": "00",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Lighting Design",
-            "cap": 12,
-            "act": 0,
-            "rem": 12,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Xinyuan Li",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -23982,6 +24018,41 @@
         ]
       },
       {
+        "title": "Unions and the City",
+        "subj": "UEP",
+        "crse": "270",
+        "id": "UEP-270",
+        "sections": [
+          {
+            "crn": 1814,
+            "subj": "UEP",
+            "crse": "270",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Unions and the City",
+            "cap": 25,
+            "act": 0,
+            "rem": 25,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Claire Elisabeth Cahen",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1455,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Urban Data Analysis",
         "subj": "UEP",
         "crse": "305",
@@ -24177,6 +24248,40 @@
         ]
       },
       {
+        "title": "Los Angeles and the Global Food Economy",
+        "subj": "UEP",
+        "crse": "390",
+        "id": "UEP-390",
+        "sections": [
+          {
+            "crn": 1815,
+            "subj": "UEP",
+            "crse": "390",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Los Angeles and the Global Food Economy",
+            "cap": 18,
+            "act": 0,
+            "rem": 18,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Karla Pena",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Special Topics in Urban and Environmental Policy",
         "subj": "UEP",
         "crse": "395",
@@ -24235,7 +24340,7 @@
                 "days": [
                   "W"
                 ],
-                "instructor": "Instructor Unassigned",
+                "instructor": "Bhavna Shamasunder",
                 "location": "",
                 "timeStart": 1355,
                 "timeEnd": 1650,

@@ -3183,7 +3183,8 @@
   "MUSC 272": {
     "title": "Conducting",
     "prereqs": [
-      "MUSC 151"
+      "MUSC 151",
+      "OXUE"
     ]
   },
   "MUSC 257": {
@@ -4977,6 +4978,13 @@
       "PUBH 203"
     ]
   },
+  "RUSN 333": {
+    "title": "Eastern European Myth and Folklore",
+    "prereqs": [
+      "OXRU",
+      "RUSN 202"
+    ]
+  },
   "SOC 350": {
     "title": "Social Movements and Revolutions",
     "prereqs": [
@@ -5010,6 +5018,14 @@
       "SPAN 378",
       "SPAN 379",
       "SPAN 383"
+    ]
+  },
+  "UEP 270": {
+    "title": "Unions and the City",
+    "prereqs": [
+      "ECON 101",
+      "POLS 101",
+      "UEP 101"
     ]
   }
 }

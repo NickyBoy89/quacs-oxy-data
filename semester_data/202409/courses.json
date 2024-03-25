@@ -615,7 +615,7 @@
         ]
       },
       {
-        "title": "Topics in Visual Art and Media",
+        "title": "Topics in Visual Art and Media. Subversive Art and Media",
         "subj": "ARTH",
         "crse": "296",
         "id": "ARTH-296",
@@ -627,7 +627,7 @@
             "sec": "00",
             "credMin": 4,
             "credMax": 4,
-            "title": "Topics in Visual Art and Media",
+            "title": "Topics in Visual Art and Media. Subversive Art and Media",
             "cap": 12,
             "act": 0,
             "rem": 12,
@@ -1115,13 +1115,13 @@
             "timeslots": [
               {
                 "days": [
-                  "M",
-                  "W"
+                  "T",
+                  "R"
                 ],
                 "instructor": "Camilla Taylor",
                 "location": "",
-                "timeStart": 1355,
-                "timeEnd": 1620,
+                "timeStart": 900,
+                "timeEnd": 1125,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -1301,89 +1301,10 @@
         "id": "BIO-105",
         "sections": [
           {
-            "crn": 1082,
-            "subj": "BIO",
-            "crse": "105",
-            "sec": "01",
-            "credMin": 4,
-            "credMax": 4,
-            "title": "Marine Biology",
-            "cap": 32,
-            "act": 0,
-            "rem": 32,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T",
-                  "R"
-                ],
-                "instructor": "Sigfrido Alexander Zimmermann",
-                "location": "",
-                "timeStart": 1005,
-                "timeEnd": 1130,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1088,
-            "subj": "BIO",
-            "crse": "105",
-            "sec": "1-1",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Marine Biology Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "T"
-                ],
-                "instructor": "Sigfrido Alexander Zimmermann",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
-            "crn": 1089,
-            "subj": "BIO",
-            "crse": "105",
-            "sec": "1-2",
-            "credMin": 0,
-            "credMax": 0,
-            "title": "Marine Biology Laboratory",
-            "cap": 16,
-            "act": 0,
-            "rem": 16,
-            "attribute": "",
-            "timeslots": [
-              {
-                "days": [
-                  "R"
-                ],
-                "instructor": "Sigfrido Alexander Zimmermann",
-                "location": "",
-                "timeStart": 1330,
-                "timeEnd": 1625,
-                "dateStart": "8/24",
-                "dateEnd": "11/20"
-              }
-            ]
-          },
-          {
             "crn": 1087,
             "subj": "BIO",
             "crse": "105",
-            "sec": "02",
+            "sec": "01",
             "credMin": 4,
             "credMax": 4,
             "title": "Marine Biology",
@@ -1410,7 +1331,7 @@
             "crn": 1091,
             "subj": "BIO",
             "crse": "105",
-            "sec": "2-1",
+            "sec": "1-1",
             "credMin": 0,
             "credMax": 0,
             "title": "Marine Biology Laboratory",
@@ -1436,7 +1357,7 @@
             "crn": 1095,
             "subj": "BIO",
             "crse": "105",
-            "sec": "2-2",
+            "sec": "1-2",
             "credMin": 0,
             "credMax": 0,
             "title": "Marine Biology Laboratory",
@@ -1453,6 +1374,85 @@
                 "location": "",
                 "timeStart": 830,
                 "timeEnd": 1125,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1082,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "02",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Marine Biology",
+            "cap": 32,
+            "act": 0,
+            "rem": 32,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Sigfrido Alexander Zimmermann",
+                "location": "",
+                "timeStart": 1700,
+                "timeEnd": 1825,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1088,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "2-1",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Marine Biology Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T"
+                ],
+                "instructor": "Sigfrido Alexander Zimmermann",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          },
+          {
+            "crn": 1089,
+            "subj": "BIO",
+            "crse": "105",
+            "sec": "2-2",
+            "credMin": 0,
+            "credMax": 0,
+            "title": "Marine Biology Laboratory",
+            "cap": 16,
+            "act": 0,
+            "rem": 16,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Sigfrido Alexander Zimmermann",
+                "location": "",
+                "timeStart": 1330,
+                "timeEnd": 1625,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }
@@ -6870,6 +6870,47 @@
                 "location": "",
                 "timeStart": 1505,
                 "timeEnd": 1630,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Core",
+    "code": "CORE",
+    "courses": [
+      {
+        "title": "Entrepreneurial Citizenship in the 21st Century City",
+        "subj": "CORE",
+        "crse": "117",
+        "id": "CORE-117",
+        "sections": [
+          {
+            "crn": 1817,
+            "subj": "CORE",
+            "crse": "117",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Entrepreneurial Citizenship in the 21st Century City",
+            "cap": 24,
+            "act": 0,
+            "rem": 24,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "T",
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1005,
+                "timeEnd": 1130,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

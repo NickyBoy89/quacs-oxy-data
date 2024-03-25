@@ -14557,6 +14557,40 @@
         ]
       },
       {
+        "title": "Music and Artificial Intelligence",
+        "subj": "MUSC",
+        "crse": "242",
+        "id": "MUSC-242",
+        "sections": [
+          {
+            "crn": 1818,
+            "subj": "MUSC",
+            "crse": "242",
+            "sec": "00",
+            "credMin": 4,
+            "credMax": 4,
+            "title": "Music and Artificial Intelligence",
+            "cap": 10,
+            "act": 0,
+            "rem": 10,
+            "attribute": "",
+            "timeslots": [
+              {
+                "days": [
+                  "R"
+                ],
+                "instructor": "Instructor Unassigned",
+                "location": "",
+                "timeStart": 1915,
+                "timeEnd": 2210,
+                "dateStart": "8/24",
+                "dateEnd": "11/20"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "title": "Live Sound Engineering",
         "subj": "MUSC",
         "crse": "246",
@@ -15009,12 +15043,12 @@
             "timeslots": [
               {
                 "days": [
-                  "R"
+                  "W"
                 ],
                 "instructor": "Ramona Maia Gonzalez",
                 "location": "",
-                "timeStart": 1505,
-                "timeEnd": 1630,
+                "timeStart": 1355,
+                "timeEnd": 1520,
                 "dateStart": "8/24",
                 "dateEnd": "11/20"
               }

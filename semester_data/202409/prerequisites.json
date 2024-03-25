@@ -4249,13 +4249,6 @@
     }
   },
   "1243": {
-    "reserved": [
-      {
-        "max": "10",
-        "open": "10",
-        "reservedFor": "Frosh"
-      }
-    ],
     "restrictions": {
       "classification": {
         "may_not_be": [
@@ -17967,6 +17960,24 @@
         "may_not_be": [
           "Graduate",
           "Frosh"
+        ]
+      }
+    }
+  },
+  "1817": {
+    "reserved": [
+      {
+        "max": "2",
+        "open": "2",
+        "reservedFor": "Transfer"
+      }
+    ]
+  },
+  "1818": {
+    "restrictions": {
+      "classification": {
+        "may_not_be": [
+          "Graduate"
         ]
       }
     }

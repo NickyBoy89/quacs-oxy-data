@@ -40,7 +40,7 @@ jobs:
           make -C $SCRAPER_DIR semesters.json
           cp $SCRAPER_DIR/semesters.json .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: semesters
           path: |
@@ -71,7 +71,7 @@ jobs:
           make -C $SCRAPER_DIR faculty.json
           cp $SCRAPER_DIR/faculty.json .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: faculty
           path: faculty.json
@@ -99,7 +99,7 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: semesters
           path: "./semesters"
@@ -109,7 +109,7 @@ jobs:
           make -C $SCRAPER_DIR catalog.json
           cp $SCRAPER_DIR/catalog.json .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: catalog
           path: catalog.json
@@ -135,7 +135,7 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: semesters
           path: "./semesters"
@@ -145,7 +145,7 @@ jobs:
           make -C $SCRAPER_DIR prerequisites.json
           cp $SCRAPER_DIR/prerequisites.json .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: prerequisites
           path: prerequisites.json
@@ -170,7 +170,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r quacs-oxy-scraper/requirements.txt
       - name: Get scraped data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: semesters
           path: "./semesters"
@@ -180,7 +180,7 @@ jobs:
           make -C $SCRAPER_DIR schools.json
           cp $SCRAPER_DIR/schools.json .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: schools
           path: schools.json
@@ -208,12 +208,12 @@ jobs:
           pip install -r quacs-oxy-scraper/requirements.txt
           ls
       - name: Get scraped data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: semesters
           path: "./semesters"
       - name: Get more data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: catalog
           path: "./catalog"
@@ -225,7 +225,7 @@ jobs:
           cp $SCRAPER_DIR/courses.json .
           cp $SCRAPER_DIR/mod.rs .
       - name: Upload scraped data
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: courses
           path: |
@@ -262,7 +262,7 @@ jobs:
           repository: 'NickyBoy89/quacs-oxy-data'
           clean: true
       - name: Get scraped data
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
       - name: Generate meta json file
         run: echo {\"last_updated\":\"$(date --iso-8601=seconds -u)\"} > data/meta.json
       - name: Find whats in the artifact
